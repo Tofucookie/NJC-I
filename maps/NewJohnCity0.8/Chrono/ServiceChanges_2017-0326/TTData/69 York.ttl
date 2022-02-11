@@ -1,0 +1,1340 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Quail Valley Garage
+799
+
+------------------------------------
+
+  Dep.: 5:20:0
+[addtrip]
+Quail-YorkTerm69B
+0
+320.000
+
+  Dep.: 5:36:0
+[addtrip]
+69B York
+0
+336.000
+
+  Dep.: 5:50:0
+[addtrip]
+69B York
+0
+350.000
+
+  Dep.: 6:4:0
+[addtrip]
+69B York
+0
+364.000
+
+  Dep.: 6:18:0
+[addtrip]
+69B York
+0
+378.000
+
+  Dep.: 6:30:0
+[addtrip]
+69B York
+0
+390.000
+
+  Dep.: 6:41:0
+[addtrip]
+69B York
+0
+401.000
+
+  Dep.: 6:52:0
+[addtrip]
+69B York
+0
+412.000
+
+  Dep.: 7:3:0
+[addtrip]
+69B York
+0
+423.000
+
+  Dep.: 7:14:0
+[addtrip]
+69B York
+0
+434.000
+
+  Dep.: 7:25:0
+[addtrip]
+69B York
+0
+445.000
+
+  Dep.: 7:36:0
+[addtrip]
+69B York
+0
+456.000
+
+  Dep.: 7:47:0
+[addtrip]
+69B York
+0
+467.000
+
+  Dep.: 7:58:0
+[addtrip]
+69B York
+0
+478.000
+
+  Dep.: 8:9:0
+[addtrip]
+69B York
+0
+489.000
+
+  Dep.: 8:20:0
+[addtrip]
+69B York
+0
+500.000
+
+  Dep.: 8:31:0
+[addtrip]
+69B York
+0
+511.000
+
+  Dep.: 8:42:0
+[addtrip]
+69B York
+0
+522.000
+
+  Dep.: 8:53:0
+[addtrip]
+69B York
+0
+533.000
+
+  Dep.: 9:4:0
+[addtrip]
+69B York
+0
+544.000
+
+  Dep.: 9:15:0
+[addtrip]
+69B York
+0
+555.000
+
+  Dep.: 9:30:0
+[addtrip]
+69B York
+0
+570.000
+
+  Dep.: 9:45:0
+[addtrip]
+69B York
+0
+585.000
+
+  Dep.: 10:0:0
+[addtrip]
+69B York
+0
+600.000
+
+  Dep.: 10:15:0
+[addtrip]
+69B York
+0
+615.000
+
+  Dep.: 10:30:0
+[addtrip]
+69B York
+0
+630.000
+
+  Dep.: 10:45:0
+[addtrip]
+69B York
+0
+645.000
+
+  Dep.: 11:0:0
+[addtrip]
+69B York
+0
+660.000
+
+  Dep.: 11:15:0
+[addtrip]
+69B York
+0
+675.000
+
+  Dep.: 11:30:0
+[addtrip]
+69B York
+0
+690.000
+
+  Dep.: 11:45:0
+[addtrip]
+69B York
+0
+705.000
+
+  Dep.: 12:0:0
+[addtrip]
+69B York
+0
+720.000
+
+  Dep.: 12:15:0
+[addtrip]
+69B York
+0
+735.000
+
+  Dep.: 12:30:0
+[addtrip]
+69B York
+0
+750.000
+
+  Dep.: 12:45:0
+[addtrip]
+69B York
+0
+765.000
+
+  Dep.: 13:0:0
+[addtrip]
+69B York
+0
+780.000
+
+  Dep.: 13:15:0
+[addtrip]
+69B York
+0
+795.000
+
+  Dep.: 13:30:0
+[addtrip]
+69B York
+0
+810.000
+
+  Dep.: 13:45:0
+[addtrip]
+69B York
+0
+825.000
+
+  Dep.: 14:0:0
+[addtrip]
+69B York
+0
+840.000
+
+  Dep.: 14:15:0
+[addtrip]
+69B York
+0
+855.000
+
+  Dep.: 14:30:0
+[addtrip]
+69B York
+0
+870.000
+
+  Dep.: 14:45:0
+[addtrip]
+69B York
+0
+885.000
+
+  Dep.: 15:0:0
+[addtrip]
+69B York
+0
+900.000
+
+  Dep.: 15:12:0
+[addtrip]
+69B York
+0
+912.000
+
+  Dep.: 15:24:0
+[addtrip]
+69B York
+0
+924.000
+
+  Dep.: 15:36:0
+[addtrip]
+69B York
+0
+936.000
+
+  Dep.: 15:48:0
+[addtrip]
+69B York
+0
+948.000
+
+  Dep.: 16:0:0
+[addtrip]
+69B York
+0
+960.000
+
+  Dep.: 16:12:0
+[addtrip]
+69B York
+0
+972.000
+
+  Dep.: 16:24:0
+[addtrip]
+69B York
+0
+984.000
+
+  Dep.: 16:36:0
+[addtrip]
+69B York
+0
+996.000
+
+  Dep.: 16:48:0
+[addtrip]
+69B York
+0
+1008.000
+
+  Dep.: 17:0:0
+[addtrip]
+69B York
+0
+1020.000
+
+  Dep.: 17:12:0
+[addtrip]
+69B York
+0
+1032.000
+
+  Dep.: 17:24:0
+[addtrip]
+69B York
+0
+1044.000
+
+  Dep.: 17:36:0
+[addtrip]
+69B York
+0
+1056.000
+
+  Dep.: 17:48:0
+[addtrip]
+69B York
+0
+1068.000
+
+  Dep.: 18:0:0
+[addtrip]
+69B York
+0
+1080.000
+
+  Dep.: 18:16:0
+[addtrip]
+69B York
+0
+1096.000
+
+  Dep.: 18:32:0
+[addtrip]
+69B York
+0
+1112.000
+
+  Dep.: 18:48:0
+[addtrip]
+69B York
+0
+1128.000
+
+  Dep.: 19:4:0
+[addtrip]
+69B York
+0
+1144.000
+
+  Dep.: 19:20:0
+[addtrip]
+69B York
+0
+1160.000
+
+  Dep.: 19:36:0
+[addtrip]
+69B York
+0
+1176.000
+
+  Dep.: 19:52:0
+[addtrip]
+69B York
+0
+1192.000
+
+  Dep.: 20:8:0
+[addtrip]
+69B York
+0
+1208.000
+
+  Dep.: 20:24:0
+[addtrip]
+69B York
+0
+1224.000
+
+  Dep.: 20:40:0
+[addtrip]
+69B York
+0
+1240.000
+
+  Dep.: 20:56:0
+[addtrip]
+69B York
+0
+1256.000
+
+  Dep.: 21:12:0
+[addtrip]
+69B York
+0
+1272.000
+
+  Dep.: 21:28:0
+[addtrip]
+69B York
+0
+1288.000
+
+  Dep.: 21:44:0
+[addtrip]
+69B York
+0
+1304.000
+
+  Dep.: 22:0:0
+[addtrip]
+69B York
+0
+1320.000
+
+  Dep.: 22:11:0
+[addtrip]
+69B-Quail
+0
+1331.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Quail Valley Garage
+799
+
+------------------------------------
+
+  Dep.: 5:28:0
+[addtrip]
+Quail-YorkTerm
+0
+328.000
+
+  Dep.: 5:43:0
+[addtrip]
+69A York
+0
+343.000
+
+  Dep.: 5:57:0
+[addtrip]
+69A York
+0
+357.000
+
+  Dep.: 6:11:0
+[addtrip]
+69A York
+0
+371.000
+
+  Dep.: 6:25:0
+[addtrip]
+69A York
+0
+385.000
+
+  Dep.: 6:36:0
+[addtrip]
+69A York
+0
+396.000
+
+  Dep.: 6:47:0
+[addtrip]
+69A York
+0
+407.000
+
+  Dep.: 6:58:0
+[addtrip]
+69A York
+0
+418.000
+
+  Dep.: 7:9:0
+[addtrip]
+69A York
+0
+429.000
+
+  Dep.: 7:20:0
+[addtrip]
+69A York
+0
+440.000
+
+  Dep.: 7:31:0
+[addtrip]
+69A York
+0
+451.000
+
+  Dep.: 7:42:0
+[addtrip]
+69A York
+0
+462.000
+
+  Dep.: 7:53:0
+[addtrip]
+69A York
+0
+473.000
+
+  Dep.: 8:4:0
+[addtrip]
+69A York
+0
+484.000
+
+  Dep.: 8:15:0
+[addtrip]
+69A York
+0
+495.000
+
+  Dep.: 8:26:0
+[addtrip]
+69A York
+0
+506.000
+
+  Dep.: 8:37:0
+[addtrip]
+69A York
+0
+517.000
+
+  Dep.: 8:48:0
+[addtrip]
+69A York
+0
+528.000
+
+  Dep.: 8:59:0
+[addtrip]
+69A York
+0
+539.000
+
+  Dep.: 9:10:0
+[addtrip]
+69A York
+0
+550.000
+
+  Dep.: 9:22:30
+[addtrip]
+69A York
+0
+562.500
+
+  Dep.: 9:37:30
+[addtrip]
+69A York
+0
+577.500
+
+  Dep.: 9:52:30
+[addtrip]
+69A York
+0
+592.500
+
+  Dep.: 10:7:30
+[addtrip]
+69A York
+0
+607.500
+
+  Dep.: 10:22:30
+[addtrip]
+69A York
+0
+622.500
+
+  Dep.: 10:37:30
+[addtrip]
+69A York
+0
+637.500
+
+  Dep.: 10:52:30
+[addtrip]
+69A York
+0
+652.500
+
+  Dep.: 11:7:30
+[addtrip]
+69A York
+0
+667.500
+
+  Dep.: 11:22:30
+[addtrip]
+69A York
+0
+682.500
+
+  Dep.: 11:37:30
+[addtrip]
+69A York
+0
+697.500
+
+  Dep.: 11:52:30
+[addtrip]
+69A York
+0
+712.500
+
+  Dep.: 12:7:30
+[addtrip]
+69A York
+0
+727.500
+
+  Dep.: 12:22:30
+[addtrip]
+69A York
+0
+742.500
+
+  Dep.: 12:37:30
+[addtrip]
+69A York
+0
+757.500
+
+  Dep.: 12:52:30
+[addtrip]
+69A York
+0
+772.500
+
+  Dep.: 13:7:30
+[addtrip]
+69A York
+0
+787.500
+
+  Dep.: 13:22:30
+[addtrip]
+69A York
+0
+802.500
+
+  Dep.: 13:37:30
+[addtrip]
+69A York
+0
+817.500
+
+  Dep.: 13:52:30
+[addtrip]
+69A York
+0
+832.500
+
+  Dep.: 14:7:30
+[addtrip]
+69A York
+0
+847.500
+
+  Dep.: 14:22:30
+[addtrip]
+69A York
+0
+862.500
+
+  Dep.: 14:37:30
+[addtrip]
+69A York
+0
+877.500
+
+  Dep.: 14:52:30
+[addtrip]
+69A York
+0
+892.500
+
+  Dep.: 15:6:0
+[addtrip]
+69A York
+0
+906.000
+
+  Dep.: 15:18:0
+[addtrip]
+69A York
+0
+918.000
+
+  Dep.: 15:30:0
+[addtrip]
+69A York
+0
+930.000
+
+  Dep.: 15:42:0
+[addtrip]
+69A York
+0
+942.000
+
+  Dep.: 15:54:0
+[addtrip]
+69A York
+0
+954.000
+
+  Dep.: 16:6:0
+[addtrip]
+69A York
+0
+966.000
+
+  Dep.: 16:18:0
+[addtrip]
+69A York
+0
+978.000
+
+  Dep.: 16:30:0
+[addtrip]
+69A York
+0
+990.000
+
+  Dep.: 16:42:0
+[addtrip]
+69A York
+0
+1002.000
+
+  Dep.: 16:54:0
+[addtrip]
+69A York
+0
+1014.000
+
+  Dep.: 17:6:0
+[addtrip]
+69A York
+0
+1026.000
+
+  Dep.: 17:18:0
+[addtrip]
+69A York
+0
+1038.000
+
+  Dep.: 17:30:0
+[addtrip]
+69A York
+0
+1050.000
+
+  Dep.: 17:42:0
+[addtrip]
+69A York
+0
+1062.000
+
+  Dep.: 17:54:0
+[addtrip]
+69A York
+0
+1074.000
+
+  Dep.: 18:8:0
+[addtrip]
+69A York
+0
+1088.000
+
+  Dep.: 18:24:0
+[addtrip]
+69A York
+0
+1104.000
+
+  Dep.: 18:40:0
+[addtrip]
+69A York
+0
+1120.000
+
+  Dep.: 18:56:0
+[addtrip]
+69A York
+0
+1136.000
+
+  Dep.: 19:12:0
+[addtrip]
+69A York
+0
+1152.000
+
+  Dep.: 19:28:0
+[addtrip]
+69A York
+0
+1168.000
+
+  Dep.: 19:44:0
+[addtrip]
+69A York
+0
+1184.000
+
+  Dep.: 20:0:0
+[addtrip]
+69A York
+0
+1200.000
+
+  Dep.: 20:16:0
+[addtrip]
+69A York
+0
+1216.000
+
+  Dep.: 20:32:0
+[addtrip]
+69A York
+0
+1232.000
+
+  Dep.: 20:48:0
+[addtrip]
+69A York
+0
+1248.000
+
+  Dep.: 21:4:0
+[addtrip]
+69A York
+0
+1264.000
+
+  Dep.: 21:20:0
+[addtrip]
+69A York
+0
+1280.000
+
+  Dep.: 21:36:0
+[addtrip]
+69A York
+0
+1296.000
+
+  Dep.: 21:52:0
+[addtrip]
+69A York
+0
+1312.000
+
+  Dep.: 22:3:0
+[addtrip]
+69A-Quail
+0
+1323.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 5:53:0
+[addtrip]
+Quail-YorkTerm
+0
+353.000
+
+  Dep.: 6:7:0
+[addtrip]
+69A York (Weekend)
+0
+367.000
+
+  Dep.: 6:19:0
+[addtrip]
+69B York (Weekend)
+0
+379.000
+
+  Dep.: 6:31:0
+[addtrip]
+69A York (Weekend)
+0
+391.000
+
+  Dep.: 6:43:0
+[addtrip]
+69B York (Weekend)
+0
+403.000
+
+  Dep.: 6:55:0
+[addtrip]
+69A York (Weekend)
+0
+415.000
+
+  Dep.: 7:7:0
+[addtrip]
+69B York (Weekend)
+0
+427.000
+
+  Dep.: 7:19:0
+[addtrip]
+69A York (Weekend)
+0
+439.000
+
+  Dep.: 7:31:0
+[addtrip]
+69B York (Weekend)
+0
+451.000
+
+  Dep.: 7:43:0
+[addtrip]
+69A York (Weekend)
+0
+463.000
+
+  Dep.: 7:55:0
+[addtrip]
+69B York (Weekend)
+0
+475.000
+
+  Dep.: 8:7:0
+[addtrip]
+69A York (Weekend)
+0
+487.000
+
+  Dep.: 8:19:0
+[addtrip]
+69B York (Weekend)
+0
+499.000
+
+  Dep.: 8:31:0
+[addtrip]
+69A York (Weekend)
+0
+511.000
+
+  Dep.: 8:43:0
+[addtrip]
+69B York (Weekend)
+0
+523.000
+
+  Dep.: 8:55:0
+[addtrip]
+69A York (Weekend)
+0
+535.000
+
+  Dep.: 9:7:0
+[addtrip]
+69B York (Weekend)
+0
+547.000
+
+  Dep.: 9:19:0
+[addtrip]
+69A York (Weekend)
+0
+559.000
+
+  Dep.: 9:31:0
+[addtrip]
+69B York (Weekend)
+0
+571.000
+
+  Dep.: 9:43:0
+[addtrip]
+69A York (Weekend)
+0
+583.000
+
+  Dep.: 9:54:0
+[addtrip]
+69B York (Weekend)
+0
+594.000
+
+  Dep.: 10:5:0
+[addtrip]
+69A York (Weekend)
+0
+605.000
+
+  Dep.: 10:16:0
+[addtrip]
+69B York (Weekend)
+0
+616.000
+
+  Dep.: 10:27:0
+[addtrip]
+69A York (Weekend)
+0
+627.000
+
+  Dep.: 10:38:0
+[addtrip]
+69B York (Weekend)
+0
+638.000
+
+  Dep.: 10:49:0
+[addtrip]
+69A York (Weekend)
+0
+649.000
+
+  Dep.: 11:0:0
+[addtrip]
+69B York (Weekend)
+0
+660.000
+
+  Dep.: 11:11:0
+[addtrip]
+69A York (Weekend)
+0
+671.000
+
+  Dep.: 11:22:0
+[addtrip]
+69B York (Weekend)
+0
+682.000
+
+  Dep.: 11:33:0
+[addtrip]
+69A York (Weekend)
+0
+693.000
+
+  Dep.: 11:44:0
+[addtrip]
+69B York (Weekend)
+0
+704.000
+
+  Dep.: 11:55:0
+[addtrip]
+69A York (Weekend)
+0
+715.000
+
+  Dep.: 12:6:0
+[addtrip]
+69B York (Weekend)
+0
+726.000
+
+  Dep.: 12:17:0
+[addtrip]
+69A York (Weekend)
+0
+737.000
+
+  Dep.: 12:28:0
+[addtrip]
+69B York (Weekend)
+0
+748.000
+
+  Dep.: 12:39:0
+[addtrip]
+69A York (Weekend)
+0
+759.000
+
+  Dep.: 12:50:0
+[addtrip]
+69B York (Weekend)
+0
+770.000
+
+  Dep.: 13:1:0
+[addtrip]
+69A York (Weekend)
+0
+781.000
+
+  Dep.: 13:12:0
+[addtrip]
+69B York (Weekend)
+0
+792.000
+
+  Dep.: 13:23:0
+[addtrip]
+69A York (Weekend)
+0
+803.000
+
+  Dep.: 13:34:0
+[addtrip]
+69B York (Weekend)
+0
+814.000
+
+  Dep.: 13:45:0
+[addtrip]
+69A York (Weekend)
+0
+825.000
+
+  Dep.: 13:56:0
+[addtrip]
+69B York (Weekend)
+0
+836.000
+
+  Dep.: 14:7:0
+[addtrip]
+69A York (Weekend)
+0
+847.000
+
+  Dep.: 14:18:0
+[addtrip]
+69B York (Weekend)
+0
+858.000
+
+  Dep.: 14:29:0
+[addtrip]
+69A York (Weekend)
+0
+869.000
+
+  Dep.: 14:40:0
+[addtrip]
+69B York (Weekend)
+0
+880.000
+
+  Dep.: 14:51:0
+[addtrip]
+69A York (Weekend)
+0
+891.000
+
+  Dep.: 15:2:0
+[addtrip]
+69B York (Weekend)
+0
+902.000
+
+  Dep.: 15:13:0
+[addtrip]
+69A York (Weekend)
+0
+913.000
+
+  Dep.: 15:24:0
+[addtrip]
+69B York (Weekend)
+0
+924.000
+
+  Dep.: 15:35:0
+[addtrip]
+69A York (Weekend)
+0
+935.000
+
+  Dep.: 15:46:0
+[addtrip]
+69B York (Weekend)
+0
+946.000
+
+  Dep.: 15:57:0
+[addtrip]
+69A York (Weekend)
+0
+957.000
+
+  Dep.: 16:8:0
+[addtrip]
+69B York (Weekend)
+0
+968.000
+
+  Dep.: 16:19:0
+[addtrip]
+69A York (Weekend)
+0
+979.000
+
+  Dep.: 16:30:0
+[addtrip]
+69B York (Weekend)
+0
+990.000
+
+  Dep.: 16:45:0
+[addtrip]
+69A York (Weekend)
+0
+1005.000
+
+  Dep.: 17:0:0
+[addtrip]
+69B York (Weekend)
+0
+1020.000
+
+  Dep.: 17:15:0
+[addtrip]
+69A York (Weekend)
+0
+1035.000
+
+  Dep.: 17:30:0
+[addtrip]
+69B York (Weekend)
+0
+1050.000
+
+  Dep.: 17:45:0
+[addtrip]
+69A York (Weekend)
+0
+1065.000
+
+  Dep.: 18:0:0
+[addtrip]
+69B York (Weekend)
+0
+1080.000
+
+  Dep.: 18:15:0
+[addtrip]
+69A York (Weekend)
+0
+1095.000
+
+  Dep.: 18:30:0
+[addtrip]
+69B York (Weekend)
+0
+1110.000
+
+  Dep.: 18:45:0
+[addtrip]
+69A York (Weekend)
+0
+1125.000
+
+  Dep.: 18:56:0
+[addtrip]
+69B York (Weekend)
+0
+1136.000
+
+  Dep.: 19:7:0
+[addtrip]
+69A-Quail
+0
+1147.000
+

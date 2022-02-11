@@ -1,0 +1,2036 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 05/10/2018
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 5:52:30
+[addtrip]
+199B From Garage
+0
+352.500
+
+  Dep.: 6:7:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+367.500
+
+  Dep.: 6:24:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+384.000
+
+  Dep.: 6:43:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+403.500
+
+  Dep.: 7:0:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+420.000
+
+  Dep.: 7:19:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+439.500
+
+  Dep.: 7:36:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+456.000
+
+  Dep.: 7:55:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+475.500
+
+  Dep.: 8:12:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+492.000
+
+  Dep.: 8:31:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+511.500
+
+  Dep.: 8:48:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+528.000
+
+  Dep.: 9:13:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+553.000
+
+  Dep.: 9:30:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+570.000
+
+  Dep.: 9:57:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+597.000
+
+  Dep.: 10:14:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+614.000
+
+  Dep.: 10:41:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+641.000
+
+  Dep.: 10:58:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+658.000
+
+  Dep.: 11:25:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+685.000
+
+  Dep.: 11:42:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+702.000
+
+  Dep.: 12:9:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+729.000
+
+  Dep.: 12:26:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+746.000
+
+  Dep.: 12:53:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+773.000
+
+  Dep.: 13:10:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+790.000
+
+  Dep.: 13:37:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+817.000
+
+  Dep.: 13:54:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+834.000
+
+  Dep.: 14:21:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+861.000
+
+  Dep.: 14:38:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+878.000
+
+  Dep.: 15:1:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+901.000
+
+  Dep.: 15:18:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+918.000
+
+  Dep.: 15:37:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+937.000
+
+  Dep.: 15:54:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+954.000
+
+  Dep.: 16:13:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+973.000
+
+  Dep.: 16:30:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+990.000
+
+  Dep.: 16:49:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1009.000
+
+  Dep.: 17:6:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1026.000
+
+  Dep.: 17:25:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1045.000
+
+  Dep.: 17:42:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1062.000
+
+  Dep.: 18:1:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1081.000
+
+  Dep.: 18:18:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1098.000
+
+  Dep.: 18:37:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1117.000
+
+  Dep.: 18:54:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1134.000
+
+  Dep.: 19:13:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1153.000
+
+  Dep.: 19:30:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1170.000
+
+  Dep.: 19:49:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1189.000
+
+  Dep.: 20:5:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1205.000
+
+  Dep.: 20:28:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1228.000
+
+  Dep.: 20:45:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1245.000
+
+  Dep.: 21:7:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1267.000
+
+  Dep.: 21:24:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1284.000
+
+  Dep.: 21:46:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1306.000
+
+  Dep.: 22:3:0
+[addtrip]
+199 to Garage 1
+0
+1323.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 6:1:30
+[addtrip]
+199B From Garage
+0
+361.500
+
+  Dep.: 6:16:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+376.500
+
+  Dep.: 6:33:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+393.000
+
+  Dep.: 6:52:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+412.500
+
+  Dep.: 7:9:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+429.000
+
+  Dep.: 7:28:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+448.500
+
+  Dep.: 7:45:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+465.000
+
+  Dep.: 8:4:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+484.500
+
+  Dep.: 8:21:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+501.000
+
+  Dep.: 8:40:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+520.000
+
+  Dep.: 8:57:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+537.000
+
+  Dep.: 9:24:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+564.000
+
+  Dep.: 9:41:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+581.000
+
+  Dep.: 10:8:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+608.000
+
+  Dep.: 10:25:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+625.000
+
+  Dep.: 10:52:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+652.000
+
+  Dep.: 11:9:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+669.000
+
+  Dep.: 11:36:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+696.000
+
+  Dep.: 11:53:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+713.000
+
+  Dep.: 12:20:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+740.000
+
+  Dep.: 12:37:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+757.000
+
+  Dep.: 13:4:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+784.000
+
+  Dep.: 13:21:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+801.000
+
+  Dep.: 13:48:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+828.000
+
+  Dep.: 14:5:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+845.000
+
+  Dep.: 14:32:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+872.000
+
+  Dep.: 14:49:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+889.000
+
+  Dep.: 15:10:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+910.000
+
+  Dep.: 15:27:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+927.000
+
+  Dep.: 15:46:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+946.000
+
+  Dep.: 16:3:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+963.000
+
+  Dep.: 16:22:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+982.000
+
+  Dep.: 16:39:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+999.000
+
+  Dep.: 16:58:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1018.000
+
+  Dep.: 17:15:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1035.000
+
+  Dep.: 17:34:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1054.000
+
+  Dep.: 17:51:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1071.000
+
+  Dep.: 18:10:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1090.000
+
+  Dep.: 18:27:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1107.000
+
+  Dep.: 18:46:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1126.000
+
+  Dep.: 19:3:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1143.000
+
+  Dep.: 19:22:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1162.000
+
+  Dep.: 19:39:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1179.000
+
+  Dep.: 20:2:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1202.000
+
+  Dep.: 20:18:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1218.000
+
+  Dep.: 20:41:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1241.000
+
+  Dep.: 20:57:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1257.000
+
+  Dep.: 21:20:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1280.000
+
+  Dep.: 21:36:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1296.000
+
+  Dep.: 21:59:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1319.000
+
+  Dep.: 22:16:0
+[addtrip]
+199 to Garage 1
+0
+1336.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 6:10:30
+[addtrip]
+199B From Garage
+0
+370.500
+
+  Dep.: 6:25:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+385.500
+
+  Dep.: 6:42:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+402.000
+
+  Dep.: 7:1:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+421.500
+
+  Dep.: 7:18:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+438.000
+
+  Dep.: 7:37:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+457.500
+
+  Dep.: 7:54:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+474.000
+
+  Dep.: 8:13:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+493.500
+
+  Dep.: 8:30:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+510.000
+
+  Dep.: 8:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+531.000
+
+  Dep.: 9:8:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+548.000
+
+  Dep.: 9:35:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+575.000
+
+  Dep.: 9:52:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+592.000
+
+  Dep.: 10:19:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+619.000
+
+  Dep.: 10:36:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+636.000
+
+  Dep.: 11:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+663.000
+
+  Dep.: 11:20:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+680.000
+
+  Dep.: 11:47:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+707.000
+
+  Dep.: 12:4:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+724.000
+
+  Dep.: 12:31:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+751.000
+
+  Dep.: 12:48:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+768.000
+
+  Dep.: 13:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+795.000
+
+  Dep.: 13:32:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+812.000
+
+  Dep.: 13:59:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+839.000
+
+  Dep.: 14:16:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+856.000
+
+  Dep.: 14:43:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+883.000
+
+  Dep.: 15:0:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+900.000
+
+  Dep.: 15:19:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+919.000
+
+  Dep.: 15:36:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+936.000
+
+  Dep.: 15:55:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+955.000
+
+  Dep.: 16:12:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+972.000
+
+  Dep.: 16:31:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+991.000
+
+  Dep.: 16:48:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1008.000
+
+  Dep.: 17:7:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1027.000
+
+  Dep.: 17:24:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1044.000
+
+  Dep.: 17:43:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1063.000
+
+  Dep.: 18:0:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1080.000
+
+  Dep.: 18:19:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1099.000
+
+  Dep.: 18:36:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1116.000
+
+  Dep.: 18:55:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1135.000
+
+  Dep.: 19:12:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1152.000
+
+  Dep.: 19:31:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1171.000
+
+  Dep.: 19:49:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1189.000
+
+  Dep.: 20:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1215.000
+
+  Dep.: 20:32:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1232.000
+
+  Dep.: 20:54:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1254.000
+
+  Dep.: 21:11:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1271.000
+
+  Dep.: 21:33:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1293.000
+
+  Dep.: 21:50:0
+[addtrip]
+199 to Garage 1
+0
+1310.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 6:19:0
+[addtrip]
+199B From Garage
+0
+379.000
+
+  Dep.: 6:34:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+394.500
+
+  Dep.: 6:51:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+411.000
+
+  Dep.: 7:10:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+430.500
+
+  Dep.: 7:27:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+447.000
+
+  Dep.: 7:46:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+466.500
+
+  Dep.: 8:3:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+483.000
+
+  Dep.: 8:22:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+502.500
+
+  Dep.: 8:39:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+519.000
+
+  Dep.: 9:2:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+542.000
+
+  Dep.: 9:19:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+559.000
+
+  Dep.: 9:46:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+586.000
+
+  Dep.: 10:3:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+603.000
+
+  Dep.: 10:30:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+630.000
+
+  Dep.: 10:47:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+647.000
+
+  Dep.: 11:14:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+674.000
+
+  Dep.: 11:31:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+691.000
+
+  Dep.: 11:58:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+718.000
+
+  Dep.: 12:15:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+735.000
+
+  Dep.: 12:42:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+762.000
+
+  Dep.: 12:59:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+779.000
+
+  Dep.: 13:26:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+806.000
+
+  Dep.: 13:43:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+823.000
+
+  Dep.: 14:10:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+850.000
+
+  Dep.: 14:27:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+867.000
+
+  Dep.: 14:52:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+892.000
+
+  Dep.: 15:9:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+909.000
+
+  Dep.: 15:28:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+928.000
+
+  Dep.: 15:45:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+945.000
+
+  Dep.: 16:4:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+964.000
+
+  Dep.: 16:21:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+981.000
+
+  Dep.: 16:40:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1000.000
+
+  Dep.: 16:57:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1017.000
+
+  Dep.: 17:16:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1036.000
+
+  Dep.: 17:33:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1053.000
+
+  Dep.: 17:52:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1072.000
+
+  Dep.: 18:9:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1089.000
+
+  Dep.: 18:28:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1108.000
+
+  Dep.: 18:45:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1125.000
+
+  Dep.: 19:4:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1144.000
+
+  Dep.: 19:21:0
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1161.000
+
+  Dep.: 19:40:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1180.000
+
+  Dep.: 19:57:0
+[addtrip]
+199 to Garage 1
+0
+1197.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Weekend
+Finch Garage
+288
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+199B From Garage
+0
+360.000
+
+  Dep.: 6:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+375.000
+
+  Dep.: 6:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+392.500
+
+  Dep.: 6:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+411.000
+
+  Dep.: 7:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+428.500
+
+  Dep.: 7:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+447.000
+
+  Dep.: 7:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+464.500
+
+  Dep.: 8:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+483.000
+
+  Dep.: 8:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+500.500
+
+  Dep.: 8:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+519.000
+
+  Dep.: 8:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+536.500
+
+  Dep.: 9:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+555.000
+
+  Dep.: 9:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+572.500
+
+  Dep.: 9:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+591.000
+
+  Dep.: 10:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+608.500
+
+  Dep.: 10:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+627.000
+
+  Dep.: 10:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+644.500
+
+  Dep.: 11:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+663.000
+
+  Dep.: 11:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+680.500
+
+  Dep.: 11:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+699.000
+
+  Dep.: 11:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+716.500
+
+  Dep.: 12:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+735.000
+
+  Dep.: 12:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+752.500
+
+  Dep.: 12:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+771.000
+
+  Dep.: 13:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+788.500
+
+  Dep.: 13:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+807.000
+
+  Dep.: 13:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+824.500
+
+  Dep.: 14:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+843.000
+
+  Dep.: 14:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+860.500
+
+  Dep.: 14:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+879.000
+
+  Dep.: 14:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+896.500
+
+  Dep.: 15:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+915.000
+
+  Dep.: 15:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+932.500
+
+  Dep.: 15:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+951.000
+
+  Dep.: 16:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+968.500
+
+  Dep.: 16:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+987.000
+
+  Dep.: 16:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1004.500
+
+  Dep.: 17:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1023.000
+
+  Dep.: 17:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1040.500
+
+  Dep.: 17:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1059.000
+
+  Dep.: 17:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1076.500
+
+  Dep.: 18:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1095.000
+
+  Dep.: 18:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1112.500
+
+  Dep.: 18:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1131.000
+
+  Dep.: 19:8:0
+[addtrip]
+199 to Garage 1
+0
+1148.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Finch Garage
+288
+
+------------------------------------
+
+  Dep.: 6:12:0
+[addtrip]
+199B From Garage
+0
+372.000
+
+  Dep.: 6:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+387.000
+
+  Dep.: 6:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+404.500
+
+  Dep.: 7:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+423.000
+
+  Dep.: 7:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+440.500
+
+  Dep.: 7:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+459.000
+
+  Dep.: 7:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+476.500
+
+  Dep.: 8:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+495.000
+
+  Dep.: 8:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+512.500
+
+  Dep.: 8:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+531.000
+
+  Dep.: 9:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+548.500
+
+  Dep.: 9:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+567.000
+
+  Dep.: 9:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+584.500
+
+  Dep.: 10:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+603.000
+
+  Dep.: 10:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+620.500
+
+  Dep.: 10:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+639.000
+
+  Dep.: 10:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+656.500
+
+  Dep.: 11:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+675.000
+
+  Dep.: 11:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+692.500
+
+  Dep.: 11:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+711.000
+
+  Dep.: 12:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+728.500
+
+  Dep.: 12:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+747.000
+
+  Dep.: 12:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+764.500
+
+  Dep.: 13:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+783.000
+
+  Dep.: 13:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+800.500
+
+  Dep.: 13:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+819.000
+
+  Dep.: 13:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+836.500
+
+  Dep.: 14:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+855.000
+
+  Dep.: 14:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+872.500
+
+  Dep.: 14:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+891.000
+
+  Dep.: 15:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+908.500
+
+  Dep.: 15:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+927.000
+
+  Dep.: 15:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+944.500
+
+  Dep.: 16:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+963.000
+
+  Dep.: 16:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+980.500
+
+  Dep.: 16:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+999.000
+
+  Dep.: 16:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1016.500
+
+  Dep.: 17:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1035.000
+
+  Dep.: 17:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1052.500
+
+  Dep.: 17:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1071.000
+
+  Dep.: 18:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1088.500
+
+  Dep.: 18:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1107.000
+
+  Dep.: 18:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1124.500
+
+  Dep.: 19:1:30
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1141.500
+
+  Dep.: 19:18:30
+[addtrip]
+199 to Garage 1
+0
+1158.500
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Finch Garage
+288
+
+------------------------------------
+
+  Dep.: 6:24:0
+[addtrip]
+199B From Garage
+0
+384.000
+
+  Dep.: 6:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+399.000
+
+  Dep.: 6:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+416.500
+
+  Dep.: 7:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+435.000
+
+  Dep.: 7:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+452.500
+
+  Dep.: 7:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+471.000
+
+  Dep.: 8:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+488.500
+
+  Dep.: 8:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+507.000
+
+  Dep.: 8:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+524.500
+
+  Dep.: 9:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+543.000
+
+  Dep.: 9:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+560.500
+
+  Dep.: 9:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+579.000
+
+  Dep.: 9:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+596.500
+
+  Dep.: 10:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+615.000
+
+  Dep.: 10:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+632.500
+
+  Dep.: 10:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+651.000
+
+  Dep.: 11:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+668.500
+
+  Dep.: 11:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+687.000
+
+  Dep.: 11:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+704.500
+
+  Dep.: 12:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+723.000
+
+  Dep.: 12:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+740.500
+
+  Dep.: 12:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+759.000
+
+  Dep.: 12:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+776.500
+
+  Dep.: 13:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+795.000
+
+  Dep.: 13:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+812.500
+
+  Dep.: 13:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+831.000
+
+  Dep.: 14:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+848.500
+
+  Dep.: 14:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+867.000
+
+  Dep.: 14:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+884.500
+
+  Dep.: 15:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+903.000
+
+  Dep.: 15:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+920.500
+
+  Dep.: 15:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+939.000
+
+  Dep.: 15:56:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+956.500
+
+  Dep.: 16:15:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+975.000
+
+  Dep.: 16:32:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+992.500
+
+  Dep.: 16:51:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1011.000
+
+  Dep.: 17:8:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1028.500
+
+  Dep.: 17:27:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1047.000
+
+  Dep.: 17:44:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1064.500
+
+  Dep.: 18:3:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1083.000
+
+  Dep.: 18:20:30
+[addtrip]
+199B Finch Rocket - Talwood Dr
+0
+1100.500
+
+  Dep.: 18:39:0
+[addtrip]
+199B Finch Rocket - Yonge St
+0
+1119.000
+
+  Dep.: 18:56:0
+[addtrip]
+199 to Garage 1
+0
+1136.000
+

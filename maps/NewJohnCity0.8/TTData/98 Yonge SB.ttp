@@ -1,0 +1,206 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+YRT Yonge SB
+98 Yonge - Bessarion Terminal
+98
+
+.........................
+        Stations
+.........................
+
+[station]
+26889
+2
+Chetta Place
+490
+1.275
+45.000
+20.000
+1.000
+
+[station]
+26894
+9
+Northland YRT
+489
+1.275
+311.000
+46.000
+2.000
+
+[station]
+26901
+23
+Yonge YRT
+225
+1.772
+701.877
+21.657
+5.000
+
+[station]
+26902
+26
+The Bridle Path YRT
+227
+1.250
+845.972
+42.352
+0.000
+
+[station]
+26905
+44
+Edgemore Drive YRT
+229
+1.000
+1295.943
+34.000
+4.000
+
+[station]
+26906
+60
+Brenham YRT
+230
+1.500
+1505.973
+44.000
+4.000
+
+[station]
+26907
+86
+Bessarion Terminal YRT
+461
+1.400
+1874.663
+19.000
+15.000
+
+[station]
+26910
+91
+Bessarion Terminal
+230
+1.500
+1948.163
+11.000
+15.000
+
+[station]
+26911
+104
+Brenham YRT
+230
+1.500
+2114.563
+44.000
+15.000
+
+[station]
+26904
+129
+#3627 on Steeles
+227
+0.875
+2399.093
+28.000
+0.000
+
+[station]
+26903
+133
+The Bridle Path YRT
+227
+1.000
+2591.593
+70.000
+0.000
+
+[station]
+26899
+148
+Yonge YRT
+225
+6.827
+2982.465
+47.342
+1.000
+
+[station]
+26896
+154
+Northland YRT
+489
+4.870
+3195.726
+9.422
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+11.000
+
+[profile_man_arr_time]
+0
+0.125
+[profile_man_arr_time]
+1
+0.750
+[profile_man_arr_time]
+2
+1.750
+[profile_man_arr_time]
+3
+2.500
+[profile_man_arr_time]
+4
+3.500
+[profile_man_arr_time]
+5
+4.000
+[profile_man_arr_time]
+6
+5.000
+[profile_man_dep_time]
+6
+5.000
+[profile_otherstopping]
+6
+1
+[profile_man_arr_time]
+7
+5.500
+[profile_man_dep_time]
+7
+7.000
+[profile_otherstopping]
+7
+4
+[profile_man_arr_time]
+8
+7.500
+[profile_man_arr_time]
+9
+8.000
+[profile_man_arr_time]
+10
+8.500
+[profile_man_arr_time]
+11
+10.000
+[profile_man_arr_time]
+12
+10.500

@@ -1,0 +1,46 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+320S Yonge - Bloor
+320S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+3685
+
+[station_typ2]
+27559
+
+[station_typ2]
+13337
+
+[station_typ2]
+27612
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+3.500
+
+[profile_man_arr_time]
+1
+2.000
+[profile_man_arr_time]
+2
+2.750
+[profile_man_arr_time]
+3
+3.500

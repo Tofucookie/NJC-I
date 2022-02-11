@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+32 Eglinton West - Yonge
+32
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2662
+
+[station_typ2]
+18343
+
+[station_typ2]
+27695
+
+[station_typ2]
+27183
+
+[station_typ2]
+27699
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+
+[profile_otherstopping]
+0
+1
+[profile_man_arr_time]
+1
+2.063
+[profile_otherstopping]
+4
+1

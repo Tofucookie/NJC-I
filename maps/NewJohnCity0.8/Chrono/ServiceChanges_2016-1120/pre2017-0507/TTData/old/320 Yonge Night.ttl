@@ -1,0 +1,596 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 03/25/2017
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 0:55:0
+[addtrip]
+320 - From Garage
+0
+55.000
+
+  Dep.: 1:0:0
+[addtrip]
+320 Yonge
+0
+60.000
+
+  Dep.: 1:30:0
+[addtrip]
+320 Yonge 7am
+0
+90.000
+
+  Dep.: 2:0:0
+[addtrip]
+320 Yonge
+0
+120.000
+
+  Dep.: 2:30:0
+[addtrip]
+320 Yonge 7am
+0
+150.000
+
+  Dep.: 3:0:0
+[addtrip]
+320 Yonge
+0
+180.000
+
+  Dep.: 3:30:0
+[addtrip]
+320 Yonge 7am
+0
+210.000
+
+  Dep.: 4:0:0
+[addtrip]
+320 Yonge
+0
+240.000
+
+  Dep.: 4:30:0
+[addtrip]
+320 Yonge 7am
+0
+270.000
+
+  Dep.: 5:0:0
+[addtrip]
+320 Yonge
+0
+300.000
+
+  Dep.: 5:30:0
+[addtrip]
+320 Yonge 7am
+0
+330.000
+
+  Dep.: 6:1:0
+[addtrip]
+320 - To Garage
+0
+361.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 1:25:0
+[addtrip]
+320 - From Garage
+0
+85.000
+
+  Dep.: 1:30:0
+[addtrip]
+320 Yonge
+0
+90.000
+
+  Dep.: 2:0:0
+[addtrip]
+320 Yonge 7am
+0
+120.000
+
+  Dep.: 2:30:0
+[addtrip]
+320 Yonge
+0
+150.000
+
+  Dep.: 3:0:0
+[addtrip]
+320 Yonge 7am
+0
+180.000
+
+  Dep.: 3:30:0
+[addtrip]
+320 Yonge
+0
+210.000
+
+  Dep.: 4:0:0
+[addtrip]
+320 Yonge 7am
+0
+240.000
+
+  Dep.: 4:30:0
+[addtrip]
+320 Yonge
+0
+270.000
+
+  Dep.: 5:0:0
+[addtrip]
+320 Yonge 7am
+0
+300.000
+
+  Dep.: 5:30:0
+[addtrip]
+320 Yonge
+0
+330.000
+
+  Dep.: 6:0:0
+[addtrip]
+320 Yonge 7am
+0
+360.000
+
+  Dep.: 6:30:0
+[addtrip]
+320 - To Garage
+0
+390.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 0:55:0
+[addtrip]
+320 - From Garage
+0
+55.000
+
+  Dep.: 1:0:0
+[addtrip]
+320 Yonge
+0
+60.000
+
+  Dep.: 1:30:0
+[addtrip]
+320 Yonge 7am
+0
+90.000
+
+  Dep.: 2:0:0
+[addtrip]
+320 Yonge
+0
+120.000
+
+  Dep.: 2:30:0
+[addtrip]
+320 Yonge 7am
+0
+150.000
+
+  Dep.: 3:0:0
+[addtrip]
+320 Yonge
+0
+180.000
+
+  Dep.: 3:30:0
+[addtrip]
+320 Yonge 7am
+0
+210.000
+
+  Dep.: 4:0:0
+[addtrip]
+320 Yonge
+0
+240.000
+
+  Dep.: 4:30:0
+[addtrip]
+320 Yonge 7am
+0
+270.000
+
+  Dep.: 5:0:0
+[addtrip]
+320 Yonge
+0
+300.000
+
+  Dep.: 5:35:0
+[addtrip]
+320 Yonge 7am
+0
+335.000
+
+  Dep.: 6:5:0
+[addtrip]
+320 - To Garage
+0
+365.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 1:25:0
+[addtrip]
+320 - From Garage
+0
+85.000
+
+  Dep.: 1:30:0
+[addtrip]
+320 Yonge
+0
+90.000
+
+  Dep.: 2:0:0
+[addtrip]
+320 Yonge 7am
+0
+120.000
+
+  Dep.: 2:30:0
+[addtrip]
+320 Yonge
+0
+150.000
+
+  Dep.: 3:0:0
+[addtrip]
+320 Yonge 7am
+0
+180.000
+
+  Dep.: 3:30:0
+[addtrip]
+320 Yonge
+0
+210.000
+
+  Dep.: 4:0:0
+[addtrip]
+320 Yonge 7am
+0
+240.000
+
+  Dep.: 4:30:0
+[addtrip]
+320 Yonge
+0
+270.000
+
+  Dep.: 5:5:0
+[addtrip]
+320 Yonge 7am
+0
+305.000
+
+  Dep.: 5:35:0
+[addtrip]
+320 Yonge
+0
+335.000
+
+  Dep.: 6:5:0
+[addtrip]
+320 Yonge 7am
+0
+365.000
+
+  Dep.: 6:35:0
+[addtrip]
+320 - To Garage
+0
+395.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 0:55:0
+[addtrip]
+320 - From Garage
+0
+55.000
+
+  Dep.: 1:0:0
+[addtrip]
+320 Yonge
+0
+60.000
+
+  Dep.: 1:30:0
+[addtrip]
+320 Yonge 7am
+0
+90.000
+
+  Dep.: 2:0:0
+[addtrip]
+320 Yonge
+0
+120.000
+
+  Dep.: 2:30:0
+[addtrip]
+320 Yonge 7am
+0
+150.000
+
+  Dep.: 3:0:0
+[addtrip]
+320 Yonge
+0
+180.000
+
+  Dep.: 3:30:0
+[addtrip]
+320 Yonge 7am
+0
+210.000
+
+  Dep.: 4:0:0
+[addtrip]
+320 Yonge
+0
+240.000
+
+  Dep.: 4:30:0
+[addtrip]
+320 Yonge 7am
+0
+270.000
+
+  Dep.: 5:0:0
+[addtrip]
+320 Yonge
+0
+300.000
+
+  Dep.: 5:30:0
+[addtrip]
+320 Yonge 7am
+0
+330.000
+
+  Dep.: 6:0:0
+[addtrip]
+320 Yonge
+0
+360.000
+
+  Dep.: 6:30:0
+[addtrip]
+320 Yonge 7am
+1
+390.000
+
+  Dep.: 7:20:0
+[addtrip]
+320 Yonge
+1
+440.000
+
+  Dep.: 8:10:0
+[addtrip]
+320 Yonge 7am
+1
+490.000
+
+  Dep.: 9:0:0
+[addtrip]
+320 Yonge
+1
+540.000
+
+  Dep.: 9:48:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+588.000
+
+  Dep.: 10:13:0
+[addtrip]
+191 Garage End - Sheppard
+0
+613.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 1:25:0
+[addtrip]
+320 - From Garage
+0
+85.000
+
+  Dep.: 1:30:0
+[addtrip]
+320 Yonge
+0
+90.000
+
+  Dep.: 2:0:0
+[addtrip]
+320 Yonge 7am
+0
+120.000
+
+  Dep.: 2:30:0
+[addtrip]
+320 Yonge
+0
+150.000
+
+  Dep.: 3:0:0
+[addtrip]
+320 Yonge 7am
+0
+180.000
+
+  Dep.: 3:30:0
+[addtrip]
+320 Yonge
+0
+210.000
+
+  Dep.: 4:0:0
+[addtrip]
+320 Yonge 7am
+0
+240.000
+
+  Dep.: 4:30:0
+[addtrip]
+320 Yonge
+0
+270.000
+
+  Dep.: 5:0:0
+[addtrip]
+320 Yonge 7am
+0
+300.000
+
+  Dep.: 5:30:0
+[addtrip]
+320 Yonge
+0
+330.000
+
+  Dep.: 6:0:0
+[addtrip]
+320 Yonge 7am
+0
+360.000
+
+  Dep.: 6:30:0
+[addtrip]
+320 Yonge
+1
+390.000
+
+  Dep.: 7:20:0
+[addtrip]
+320 Yonge 7am
+1
+440.000
+
+  Dep.: 8:10:0
+[addtrip]
+320 Yonge
+1
+490.000
+
+  Dep.: 9:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+540.000
+
+  Dep.: 9:25:0
+[addtrip]
+191 Garage End - Sheppard
+0
+565.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Quail Valley Garage ARTICS
+960
+
+------------------------------------
+
+  Dep.: 6:55:0
+[addtrip]
+Finch-Bessarion
+0
+415.000
+
+  Dep.: 7:10:0
+[addtrip]
+320 Yonge 7am
+1
+430.000
+
+  Dep.: 8:0:0
+[addtrip]
+320 Yonge
+1
+480.000
+
+  Dep.: 8:50:0
+[addtrip]
+320 Yonge 7am
+1
+530.000
+
+  Dep.: 9:38:0
+[addtrip]
+320 - To Garage
+0
+578.000
+

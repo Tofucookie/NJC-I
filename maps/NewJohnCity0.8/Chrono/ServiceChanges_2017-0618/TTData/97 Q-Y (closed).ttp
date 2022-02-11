@@ -1,0 +1,40 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+Not In Service
+
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2662
+
+[station_typ2]
+1089
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+
+[profile_man_arr_time]
+1
+7.750
+[profile_man_dep_time]
+1
+8.000
+[profile_otherstopping]
+1
+3

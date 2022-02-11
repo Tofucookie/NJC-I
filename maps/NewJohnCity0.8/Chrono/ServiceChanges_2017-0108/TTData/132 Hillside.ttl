@@ -1,0 +1,1451 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:24:0
+[addtrip]
+FInch-132
+0
+384.000
+
+  Dep.: 6:30:0
+[addtrip]
+132E Hillside AM
+0
+390.000
+
+  Dep.: 6:55:0
+[addtrip]
+132E Hillside AM - R
+0
+415.000
+
+  Dep.: 7:10:0
+[addtrip]
+132E Hillside AM
+0
+430.000
+
+  Dep.: 7:35:0
+[addtrip]
+132E Hillside AM - R
+0
+455.000
+
+  Dep.: 7:50:0
+[addtrip]
+132E Hillside AM
+0
+470.000
+
+  Dep.: 8:15:0
+[addtrip]
+132E Hillside AM - R
+0
+495.000
+
+  Dep.: 8:30:0
+[addtrip]
+132E Hillside AM
+0
+510.000
+
+  Dep.: 8:55:0
+[addtrip]
+132E Hillside AM - R
+0
+535.000
+
+  Dep.: 9:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+555.000
+
+  Dep.: 9:35:0
+[addtrip]
+132 Hillside-Stn
+0
+575.000
+
+  Dep.: 9:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+595.000
+
+  Dep.: 10:15:0
+[addtrip]
+132 Hillside-Stn
+0
+615.000
+
+  Dep.: 10:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+635.000
+
+  Dep.: 10:55:0
+[addtrip]
+132 Hillside-Stn
+0
+655.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 11:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+675.000
+
+  Dep.: 11:35:0
+[addtrip]
+132 Hillside-Stn
+0
+695.000
+
+  Dep.: 11:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+715.000
+
+  Dep.: 12:15:0
+[addtrip]
+132 Hillside-Stn
+0
+735.000
+
+  Dep.: 12:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+755.000
+
+  Dep.: 12:55:0
+[addtrip]
+132 Hillside-Stn
+0
+775.000
+
+  Dep.: 13:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+795.000
+
+  Dep.: 13:35:0
+[addtrip]
+132 Hillside-Stn
+0
+815.000
+
+  Dep.: 13:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+835.000
+
+  Dep.: 14:15:0
+[addtrip]
+132 Hillside-Stn
+0
+855.000
+
+  Dep.: 14:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+875.000
+
+  Dep.: 14:55:0
+[addtrip]
+132 Hillside-Stn
+0
+895.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 15:15:0
+[addtrip]
+132E Hillside AM
+0
+915.000
+
+  Dep.: 15:35:0
+[addtrip]
+132E Hillside AM - R
+0
+935.000
+
+  Dep.: 15:54:0
+[addtrip]
+132E Hillside AM
+0
+954.000
+
+  Dep.: 16:15:0
+[addtrip]
+132E Hillside AM - R
+0
+975.000
+
+  Dep.: 16:30:0
+[addtrip]
+132E Hillside AM
+0
+990.000
+
+  Dep.: 16:55:0
+[addtrip]
+132E Hillside AM - R
+0
+1015.000
+
+  Dep.: 17:10:0
+[addtrip]
+132E Hillside AM
+0
+1030.000
+
+  Dep.: 17:35:0
+[addtrip]
+132E Hillside AM - R
+0
+1055.000
+
+  Dep.: 17:50:0
+[addtrip]
+132E Hillside AM
+0
+1070.000
+
+  Dep.: 18:15:0
+[addtrip]
+132E Hillside AM - R
+0
+1095.000
+
+  Dep.: 18:30:0
+[addtrip]
+132 Hillside - Hillside
+0
+1110.000
+
+  Dep.: 18:50:0
+[addtrip]
+132 Hillside-Stn
+0
+1130.000
+
+  Dep.: 19:10:0
+[addtrip]
+132 Hillside - Hillside
+0
+1150.000
+
+  Dep.: 19:30:0
+[addtrip]
+132 Hillside-Stn
+0
+1170.000
+
+  Dep.: 19:50:0
+[addtrip]
+132 Hillside - Hillside
+0
+1190.000
+
+  Dep.: 20:10:0
+[addtrip]
+132 Hillside-Stn
+0
+1210.000
+
+  Dep.: 20:30:0
+[addtrip]
+132 Hillside - Hillside
+0
+1230.000
+
+  Dep.: 20:50:0
+[addtrip]
+132 Hillside-Stn
+0
+1250.000
+
+  Dep.: 21:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+1275.000
+
+  Dep.: 21:37:30
+[addtrip]
+132 Hillside-Stn
+0
+1297.500
+
+  Dep.: 22:7:0
+[addtrip]
+132B To Hillside
+0
+1327.000
+
+  Dep.: 22:33:0
+[addtrip]
+132B Sheppard Stn
+0
+1353.000
+
+  Dep.: 23:7:0
+[addtrip]
+132B To Hillside
+0
+1387.000
+
+  Dep.: 23:33:0
+[addtrip]
+132B Sheppard Stn
+1
+1413.000
+
+  Dep.: 24:4:0
+[addtrip]
+132B To Hillside
+1
+1444.000
+
+  Dep.: 24:22:30
+[addtrip]
+132B Sheppard Stn
+1
+1462.500
+
+  Dep.: 24:56:0
+[addtrip]
+132B To Hillside
+1
+1496.000
+
+  Dep.: 25:14:30
+[addtrip]
+132B Sheppard Stn
+0
+1514.500
+
+  Dep.: 25:40:30
+[addtrip]
+132-Finch
+0
+1540.500
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:43:0
+[addtrip]
+FInch-132
+0
+403.000
+
+  Dep.: 6:50:0
+[addtrip]
+132E Hillside AM
+0
+410.000
+
+  Dep.: 7:15:0
+[addtrip]
+132E Hillside AM - R
+0
+435.000
+
+  Dep.: 7:30:0
+[addtrip]
+132E Hillside AM
+0
+450.000
+
+  Dep.: 7:55:0
+[addtrip]
+132E Hillside AM - R
+0
+475.000
+
+  Dep.: 8:10:0
+[addtrip]
+132E Hillside AM
+0
+490.000
+
+  Dep.: 8:35:0
+[addtrip]
+132E Hillside AM - R
+0
+515.000
+
+  Dep.: 8:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+535.000
+
+  Dep.: 9:15:0
+[addtrip]
+132 Hillside-Stn
+0
+555.000
+
+  Dep.: 9:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+575.000
+
+  Dep.: 9:55:0
+[addtrip]
+132 Hillside-Stn
+0
+595.000
+
+  Dep.: 10:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+615.000
+
+  Dep.: 10:35:0
+[addtrip]
+132 Hillside-Stn
+0
+635.000
+
+  Dep.: 10:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+655.000
+
+  Dep.: 11:15:0
+[addtrip]
+132 Hillside-Stn
+0
+675.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 11:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+695.000
+
+  Dep.: 11:55:0
+[addtrip]
+132 Hillside-Stn
+0
+715.000
+
+  Dep.: 12:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+735.000
+
+  Dep.: 12:35:0
+[addtrip]
+132 Hillside-Stn
+0
+755.000
+
+  Dep.: 12:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+775.000
+
+  Dep.: 13:15:0
+[addtrip]
+132 Hillside-Stn
+0
+795.000
+
+  Dep.: 13:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+815.000
+
+  Dep.: 13:55:0
+[addtrip]
+132 Hillside-Stn
+0
+835.000
+
+  Dep.: 14:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+855.000
+
+  Dep.: 14:35:0
+[addtrip]
+132 Hillside-Stn
+0
+875.000
+
+  Dep.: 14:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+895.000
+
+  Dep.: 15:15:0
+[addtrip]
+132E Hillside AM - R
+0
+915.000
+
+  Dep.: 15:30:0
+[addtrip]
+132E Hillside AM
+0
+930.000
+
+  Dep.: 15:50:0
+[addtrip]
+132E Hillside AM - R
+0
+950.000
+
+  Dep.: 16:6:0
+[addtrip]
+132-Finch
+0
+966.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 16:10:0
+[addtrip]
+132E Hillside AM
+0
+970.000
+
+  Dep.: 16:35:0
+[addtrip]
+132E Hillside AM - R
+0
+995.000
+
+  Dep.: 16:50:0
+[addtrip]
+132E Hillside AM
+0
+1010.000
+
+  Dep.: 17:15:0
+[addtrip]
+132E Hillside AM - R
+0
+1035.000
+
+  Dep.: 17:30:0
+[addtrip]
+132E Hillside AM
+0
+1050.000
+
+  Dep.: 17:55:0
+[addtrip]
+132E Hillside AM - R
+0
+1075.000
+
+  Dep.: 18:10:0
+[addtrip]
+132E Hillside AM
+0
+1090.000
+
+  Dep.: 18:35:0
+[addtrip]
+132E Hillside AM - R
+0
+1115.000
+
+  Dep.: 18:50:0
+[addtrip]
+132 Hillside - Hillside
+0
+1130.000
+
+  Dep.: 19:10:0
+[addtrip]
+132 Hillside-Stn
+0
+1150.000
+
+  Dep.: 19:30:0
+[addtrip]
+132 Hillside - Hillside
+0
+1170.000
+
+  Dep.: 19:50:0
+[addtrip]
+132 Hillside-Stn
+0
+1190.000
+
+  Dep.: 20:10:0
+[addtrip]
+132 Hillside - Hillside
+0
+1210.000
+
+  Dep.: 20:30:0
+[addtrip]
+132 Hillside-Stn
+0
+1230.000
+
+  Dep.: 20:50:0
+[addtrip]
+132 Hillside - Hillside
+0
+1250.000
+
+  Dep.: 21:10:0
+[addtrip]
+132 Hillside-Stn
+0
+1270.000
+
+  Dep.: 21:37:30
+[addtrip]
+132 Hillside - Hillside
+0
+1297.500
+
+  Dep.: 22:0:0
+[addtrip]
+132 Hillside-Stn
+0
+1320.000
+
+  Dep.: 22:37:0
+[addtrip]
+132B To Hillside
+0
+1357.000
+
+  Dep.: 23:3:0
+[addtrip]
+132B Sheppard Stn
+1
+1383.000
+
+  Dep.: 23:35:0
+[addtrip]
+132B To Hillside
+1
+1415.000
+
+  Dep.: 23:53:30
+[addtrip]
+132B Sheppard Stn
+1
+1433.500
+
+  Dep.: 24:30:0
+[addtrip]
+132B To Hillside
+1
+1470.000
+
+  Dep.: 24:48:30
+[addtrip]
+132B Sheppard Stn
+1
+1488.500
+
+  Dep.: 25:27:0
+[addtrip]
+132B To Hillside
+1
+1527.000
+
+  Dep.: 25:45:30
+[addtrip]
+132B Sheppard Stn
+1
+1545.500
+
+  Dep.: 26:5:0
+[addtrip]
+132-Finch
+0
+1565.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Weekday
+Quail Valley Garage
+991
+
+------------------------------------
+
+  Dep.: 14:54:30
+[addtrip]
+Quail-KingscourtPM
+0
+894.500
+
+  Dep.: 15:5:40
+[addtrip]
+132 Kingscourt
+0
+905.667
+
+  Dep.: 15:21:45
+[addtrip]
+132E Hillside AM - R
+0
+921.750
+
+  Dep.: 15:42:0
+[addtrip]
+132E Hillside AM
+0
+942.000
+
+  Dep.: 15:58:0
+[addtrip]
+132E Hillside AM - R
+0
+958.000
+
+  Dep.: 16:13:0
+[addtrip]
+132-Finch
+0
+973.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 5:54:0
+[addtrip]
+FInch-132
+0
+354.000
+
+  Dep.: 6:0:0
+[addtrip]
+132B To Hillside
+0
+360.000
+
+  Dep.: 6:30:0
+[addtrip]
+132B Sheppard Stn
+0
+390.000
+
+  Dep.: 7:0:0
+[addtrip]
+132B To Hillside
+0
+420.000
+
+  Dep.: 7:30:0
+[addtrip]
+132B Sheppard Stn
+0
+450.000
+
+  Dep.: 8:0:0
+[addtrip]
+132B To Hillside
+0
+480.000
+
+  Dep.: 8:30:0
+[addtrip]
+132B Sheppard Stn
+0
+510.000
+
+  Dep.: 9:0:0
+[addtrip]
+132B To Hillside
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+132B Sheppard Stn
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+132B To Hillside
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+132B Sheppard Stn
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+132B To Hillside
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+132B Sheppard Stn
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+132B To Hillside
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+132B Sheppard Stn
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+132B To Hillside
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+132B Sheppard Stn
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+132B To Hillside
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+132B Sheppard Stn
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+132B To Hillside
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+132B Sheppard Stn
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+132B To Hillside
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+132B Sheppard Stn
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+132B To Hillside
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+132B Sheppard Stn
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+132B To Hillside
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+132B Sheppard Stn
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+132B To Hillside
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+132B Sheppard Stn
+0
+1170.000
+
+  Dep.: 20:0:0
+[addtrip]
+132B To Hillside
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+132B Sheppard Stn
+0
+1230.000
+
+  Dep.: 20:56:0
+[addtrip]
+132-Finch
+0
+1256.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 6:24:0
+[addtrip]
+FInch-132
+0
+384.000
+
+  Dep.: 6:30:0
+[addtrip]
+132B To Hillside
+0
+390.000
+
+  Dep.: 7:0:0
+[addtrip]
+132B Sheppard Stn
+0
+420.000
+
+  Dep.: 7:30:0
+[addtrip]
+132B To Hillside
+0
+450.000
+
+  Dep.: 8:0:0
+[addtrip]
+132B Sheppard Stn
+0
+480.000
+
+  Dep.: 8:30:0
+[addtrip]
+132B To Hillside
+0
+510.000
+
+  Dep.: 9:0:0
+[addtrip]
+132B Sheppard Stn
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+132B To Hillside
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+132B Sheppard Stn
+0
+600.000
+
+  Dep.: 10:40:0
+[addtrip]
+132B To Hillside
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+132B Sheppard Stn
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+132B To Hillside
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+132B Sheppard Stn
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+132B To Hillside
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+132B Sheppard Stn
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+132B To Hillside
+0
+820.000
+
+  Dep.: 14:10:0
+[addtrip]
+132B Sheppard Stn
+0
+850.000
+
+  Dep.: 14:40:0
+[addtrip]
+132B To Hillside
+0
+880.000
+
+  Dep.: 15:10:0
+[addtrip]
+132B Sheppard Stn
+0
+910.000
+
+  Dep.: 15:40:0
+[addtrip]
+132B To Hillside
+0
+940.000
+
+  Dep.: 16:10:0
+[addtrip]
+132B Sheppard Stn
+0
+970.000
+
+  Dep.: 16:40:0
+[addtrip]
+132B To Hillside
+0
+1000.000
+
+  Dep.: 17:10:0
+[addtrip]
+132B Sheppard Stn
+0
+1030.000
+
+  Dep.: 17:40:0
+[addtrip]
+132B To Hillside
+0
+1060.000
+
+  Dep.: 18:10:0
+[addtrip]
+132B Sheppard Stn
+0
+1090.000
+
+  Dep.: 18:40:0
+[addtrip]
+132B To Hillside
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+132B Sheppard Stn
+0
+1150.000
+
+  Dep.: 19:40:0
+[addtrip]
+132B To Hillside
+0
+1180.000
+
+  Dep.: 20:10:0
+[addtrip]
+132B Sheppard Stn
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+132B To Hillside
+0
+1240.000
+
+  Dep.: 21:18:0
+[addtrip]
+132B Sheppard Stn
+0
+1278.000
+
+  Dep.: 21:46:0
+[addtrip]
+132B To Hillside
+0
+1306.000
+
+  Dep.: 22:15:0
+[addtrip]
+132B Sheppard Stn
+1
+1335.000
+
+  Dep.: 22:56:0
+[addtrip]
+132B To Hillside
+1
+1376.000
+
+  Dep.: 23:15:0
+[addtrip]
+132B Sheppard Stn
+1
+1395.000
+
+  Dep.: 23:56:0
+[addtrip]
+132B To Hillside
+1
+1436.000
+
+  Dep.: 24:15:0
+[addtrip]
+132B Sheppard Stn
+1
+1455.000
+
+  Dep.: 24:56:0
+[addtrip]
+132B To Hillside
+1
+1496.000
+
+  Dep.: 25:15:0
+[addtrip]
+132B Sheppard Stn
+1
+1515.000
+
+  Dep.: 25:37:30
+[addtrip]
+132-Finch
+0
+1537.500
+
+------------------------------------
+
+[newtour]
+Run 3  - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 10:10:0
+[addtrip]
+FInch-132
+0
+610.000
+
+  Dep.: 10:20:0
+[addtrip]
+132B To Hillside
+0
+620.000
+
+  Dep.: 10:50:0
+[addtrip]
+132B Sheppard Stn
+0
+650.000
+
+  Dep.: 11:20:0
+[addtrip]
+132B To Hillside
+0
+680.000
+
+  Dep.: 11:50:0
+[addtrip]
+132B Sheppard Stn
+0
+710.000
+
+  Dep.: 12:20:0
+[addtrip]
+132B To Hillside
+0
+740.000
+
+  Dep.: 12:50:0
+[addtrip]
+132B Sheppard Stn
+0
+770.000
+
+  Dep.: 13:20:0
+[addtrip]
+132B To Hillside
+0
+800.000
+
+  Dep.: 13:50:0
+[addtrip]
+132B Sheppard Stn
+0
+830.000
+
+  Dep.: 14:20:0
+[addtrip]
+132B To Hillside
+0
+860.000
+
+  Dep.: 14:50:0
+[addtrip]
+132B Sheppard Stn
+0
+890.000
+
+  Dep.: 15:20:0
+[addtrip]
+132B To Hillside
+0
+920.000
+
+  Dep.: 15:50:0
+[addtrip]
+132B Sheppard Stn
+0
+950.000
+
+  Dep.: 16:20:0
+[addtrip]
+132B To Hillside
+0
+980.000
+
+  Dep.: 16:50:0
+[addtrip]
+132B Sheppard Stn
+0
+1010.000
+
+  Dep.: 17:20:0
+[addtrip]
+132B To Hillside
+0
+1040.000
+
+  Dep.: 17:50:0
+[addtrip]
+132B Sheppard Stn
+0
+1070.000
+
+  Dep.: 18:20:0
+[addtrip]
+132B To Hillside
+0
+1100.000
+
+  Dep.: 18:50:0
+[addtrip]
+132B Sheppard Stn
+0
+1130.000
+
+  Dep.: 19:20:0
+[addtrip]
+132B To Hillside
+0
+1160.000
+
+  Dep.: 19:50:0
+[addtrip]
+132B Sheppard Stn
+0
+1190.000
+
+  Dep.: 20:20:0
+[addtrip]
+132B To Hillside
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+132B Sheppard Stn
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+132B To Hillside
+0
+1280.000
+
+  Dep.: 21:47:0
+[addtrip]
+132B Sheppard Stn
+1
+1307.000
+
+  Dep.: 22:26:0
+[addtrip]
+132B To Hillside
+1
+1346.000
+
+  Dep.: 22:45:0
+[addtrip]
+132B Sheppard Stn
+1
+1365.000
+
+  Dep.: 23:26:0
+[addtrip]
+132B To Hillside
+1
+1406.000
+
+  Dep.: 23:45:0
+[addtrip]
+132B Sheppard Stn
+1
+1425.000
+
+  Dep.: 24:26:0
+[addtrip]
+132B To Hillside
+1
+1466.000
+
+  Dep.: 24:45:0
+[addtrip]
+132B Sheppard Stn
+1
+1485.000
+
+  Dep.: 25:26:0
+[addtrip]
+132B To Hillside
+1
+1526.000
+
+  Dep.: 25:45:0
+[addtrip]
+132B Sheppard Stn
+1
+1545.000
+
+  Dep.: 26:7:30
+[addtrip]
+132-Finch
+0
+1567.500
+

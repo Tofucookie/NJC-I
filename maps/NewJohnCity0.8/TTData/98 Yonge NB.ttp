@@ -1,0 +1,124 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+YRT Yonge NB
+98 Yonge - Lake Nefari
+98
+
+.........................
+        Stations
+.........................
+
+[station]
+26910
+3
+Bessarion Terminal
+230
+1.500
+51.000
+11.000
+15.000
+
+[station]
+26911
+16
+Brenham YRT
+230
+1.500
+217.400
+44.000
+15.000
+
+[station]
+26904
+41
+#3627 on Steeles
+227
+0.875
+501.930
+28.000
+0.000
+
+[station]
+26903
+45
+The Bridle Path YRT
+227
+1.000
+694.430
+70.000
+0.000
+
+[station]
+26899
+60
+Yonge YRT
+225
+6.827
+1085.302
+47.342
+1.000
+
+[station]
+26896
+66
+Northland YRT
+489
+4.870
+1298.562
+9.422
+2.000
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+5.000
+
+[profile_man_arr_time]
+0
+1.000
+[profile_man_dep_time]
+0
+1.000
+[profile_otherstopping]
+0
+4
+[profile_man_arr_time]
+1
+1.250
+[profile_man_dep_time]
+1
+1.250
+[profile_man_arr_time]
+2
+2.000
+[profile_man_dep_time]
+2
+2.000
+[profile_man_arr_time]
+3
+2.500
+[profile_man_dep_time]
+3
+2.500
+[profile_man_arr_time]
+4
+4.000
+[profile_man_dep_time]
+4
+4.000
+[profile_man_arr_time]
+5
+4.500
+[profile_man_dep_time]
+5
+4.500

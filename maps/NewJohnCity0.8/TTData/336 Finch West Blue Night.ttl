@@ -1,0 +1,131 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+Run 1
+Quail Valley Garage
+255
+
+------------------------------------
+
+  Dep.: 2:15:0
+[addtrip]
+81 Thorncliffe Park - Garage
+0
+135.000
+
+  Dep.: 2:22:0
+[addtrip]
+336 Finch West (Temporary)
+0
+142.000
+
+  Dep.: 2:51:0
+[addtrip]
+336 Quail
+0
+171.000
+
+  Dep.: 3:22:0
+[addtrip]
+336 Finch West (Temporary)
+0
+202.000
+
+  Dep.: 3:51:0
+[addtrip]
+336 Quail
+0
+231.000
+
+  Dep.: 4:22:0
+[addtrip]
+336 Finch West (Temporary)
+0
+262.000
+
+  Dep.: 4:55:0
+[addtrip]
+336 Quail
+0
+295.000
+
+  Dep.: 5:15:0
+[addtrip]
+standard
+0
+315.000
+
+------------------------------------
+
+[newtour]
+Run 2
+Quail Valley Garage
+255
+
+------------------------------------
+
+  Dep.: 1:45:0
+[addtrip]
+81 Thorncliffe Park - Garage
+0
+105.000
+
+  Dep.: 1:52:0
+[addtrip]
+336 Finch West (Temporary)
+0
+112.000
+
+  Dep.: 2:21:0
+[addtrip]
+336 Quail
+0
+141.000
+
+  Dep.: 2:52:0
+[addtrip]
+336 Finch West (Temporary)
+0
+172.000
+
+  Dep.: 3:21:0
+[addtrip]
+336 Quail
+0
+201.000
+
+  Dep.: 3:52:0
+[addtrip]
+336 Finch West (Temporary)
+0
+232.000
+
+  Dep.: 4:21:0
+[addtrip]
+336 Quail
+0
+261.000
+
+  Dep.: 4:52:0
+[addtrip]
+336 Finch West (Temporary)
+0
+292.000
+
+  Dep.: 5:18:0
+[addtrip]
+36D Yonge
+0
+318.000
+

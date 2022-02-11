@@ -1,0 +1,3290 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 03/25/2017
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 5:27:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+327.000
+
+  Dep.: 5:37:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+337.000
+
+  Dep.: 5:49:0
+[addtrip]
+192 Airport Rocket
+0
+349.000
+
+  Dep.: 6:11:0
+[addtrip]
+192 Airport Rocket
+0
+371.000
+
+  Dep.: 6:33:0
+[addtrip]
+192 Airport Rocket
+0
+393.000
+
+  Dep.: 6:55:0
+[addtrip]
+192 Airport Rocket
+0
+415.000
+
+  Dep.: 7:17:0
+[addtrip]
+192 Airport Rocket
+0
+437.000
+
+  Dep.: 7:39:0
+[addtrip]
+192 Airport Rocket
+0
+459.000
+
+  Dep.: 8:1:0
+[addtrip]
+192 Airport Rocket
+0
+481.000
+
+  Dep.: 8:23:0
+[addtrip]
+192 Airport Rocket
+0
+503.000
+
+  Dep.: 8:45:0
+[addtrip]
+192 Airport Rocket
+0
+525.000
+
+  Dep.: 9:7:0
+[addtrip]
+192 Airport Rocket
+0
+547.000
+
+  Dep.: 9:29:0
+[addtrip]
+192 Airport Rocket
+0
+569.000
+
+  Dep.: 9:51:0
+[addtrip]
+192 Airport Rocket
+0
+591.000
+
+  Dep.: 10:13:0
+[addtrip]
+192 Airport Rocket
+0
+613.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 10:35:0
+[addtrip]
+192 Airport Rocket
+0
+635.000
+
+  Dep.: 10:57:0
+[addtrip]
+192 Airport Rocket
+0
+657.000
+
+  Dep.: 11:19:0
+[addtrip]
+192 Airport Rocket
+0
+679.000
+
+  Dep.: 11:41:0
+[addtrip]
+192 Airport Rocket
+0
+701.000
+
+  Dep.: 12:3:0
+[addtrip]
+192 Airport Rocket
+0
+723.000
+
+  Dep.: 12:25:0
+[addtrip]
+192 Airport Rocket
+0
+745.000
+
+  Dep.: 12:47:0
+[addtrip]
+192 Airport Rocket
+0
+767.000
+
+  Dep.: 13:9:0
+[addtrip]
+192 Airport Rocket
+0
+789.000
+
+  Dep.: 13:31:0
+[addtrip]
+192 Airport Rocket
+0
+811.000
+
+  Dep.: 13:53:0
+[addtrip]
+192 Airport Rocket
+0
+833.000
+
+  Dep.: 14:15:0
+[addtrip]
+192 Airport Rocket
+0
+855.000
+
+  Dep.: 14:37:0
+[addtrip]
+192 Airport Rocket
+0
+877.000
+
+  Dep.: 14:59:0
+[addtrip]
+192 Airport Rocket
+0
+899.000
+
+  Dep.: 15:21:0
+[addtrip]
+192 Airport Rocket
+0
+921.000
+
+  Dep.: 15:43:0
+[addtrip]
+192 Airport Rocket
+0
+943.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 16:5:0
+[addtrip]
+192 Airport Rocket
+0
+965.000
+
+  Dep.: 16:27:0
+[addtrip]
+192 Airport Rocket
+0
+987.000
+
+  Dep.: 16:49:0
+[addtrip]
+192 Airport Rocket
+0
+1009.000
+
+  Dep.: 17:11:0
+[addtrip]
+192 Airport Rocket
+0
+1031.000
+
+  Dep.: 17:33:0
+[addtrip]
+192 Airport Rocket
+0
+1053.000
+
+  Dep.: 17:55:0
+[addtrip]
+192 Airport Rocket
+0
+1075.000
+
+  Dep.: 18:17:0
+[addtrip]
+192 Airport Rocket
+0
+1097.000
+
+  Dep.: 18:39:0
+[addtrip]
+192 Airport Rocket
+0
+1119.000
+
+  Dep.: 19:1:0
+[addtrip]
+192 Airport Rocket
+0
+1141.000
+
+  Dep.: 19:23:0
+[addtrip]
+192 Airport Rocket
+0
+1163.000
+
+  Dep.: 19:45:0
+[addtrip]
+192 Airport Rocket
+0
+1185.000
+
+  Dep.: 20:7:0
+[addtrip]
+192 Airport Rocket
+0
+1207.000
+
+  Dep.: 20:29:0
+[addtrip]
+192 Airport Rocket
+0
+1229.000
+
+  Dep.: 20:51:0
+[addtrip]
+192 Airport Rocket
+0
+1251.000
+
+  Dep.: 21:13:0
+[addtrip]
+192 Airport Rocket
+0
+1273.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 21:35:0
+[addtrip]
+192 Airport Rocket
+0
+1295.000
+
+  Dep.: 21:57:0
+[addtrip]
+192 Airport Rocket
+0
+1317.000
+
+  Dep.: 22:19:0
+[addtrip]
+192 Airport Rocket
+0
+1339.000
+
+  Dep.: 22:41:0
+[addtrip]
+192 Airport Rocket
+0
+1361.000
+
+  Dep.: 23:3:0
+[addtrip]
+192 Airport Rocket
+0
+1383.000
+
+  Dep.: 23:25:0
+[addtrip]
+192 Airport Rocket
+0
+1405.000
+
+  Dep.: 23:42:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1422.000
+
+  Dep.: 23:52:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1432.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 5:36:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+336.000
+
+  Dep.: 5:47:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+347.000
+
+  Dep.: 6:0:0
+[addtrip]
+192 Airport Rocket
+0
+360.000
+
+  Dep.: 6:22:0
+[addtrip]
+192 Airport Rocket
+0
+382.000
+
+  Dep.: 6:44:0
+[addtrip]
+192 Airport Rocket
+0
+404.000
+
+  Dep.: 7:6:0
+[addtrip]
+192 Airport Rocket
+0
+426.000
+
+  Dep.: 7:28:0
+[addtrip]
+192 Airport Rocket
+0
+448.000
+
+  Dep.: 7:50:0
+[addtrip]
+192 Airport Rocket
+0
+470.000
+
+  Dep.: 8:12:0
+[addtrip]
+192 Airport Rocket
+0
+492.000
+
+  Dep.: 8:34:0
+[addtrip]
+192 Airport Rocket
+0
+514.000
+
+  Dep.: 8:56:0
+[addtrip]
+192 Airport Rocket
+0
+536.000
+
+  Dep.: 9:18:0
+[addtrip]
+192 Airport Rocket
+0
+558.000
+
+  Dep.: 9:40:0
+[addtrip]
+192 Airport Rocket
+0
+580.000
+
+  Dep.: 10:2:0
+[addtrip]
+192 Airport Rocket
+0
+602.000
+
+  Dep.: 10:24:0
+[addtrip]
+192 Airport Rocket
+0
+624.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 10:46:0
+[addtrip]
+192 Airport Rocket
+0
+646.000
+
+  Dep.: 11:8:0
+[addtrip]
+192 Airport Rocket
+0
+668.000
+
+  Dep.: 11:30:0
+[addtrip]
+192 Airport Rocket
+0
+690.000
+
+  Dep.: 11:52:0
+[addtrip]
+192 Airport Rocket
+0
+712.000
+
+  Dep.: 12:14:0
+[addtrip]
+192 Airport Rocket
+0
+734.000
+
+  Dep.: 12:36:0
+[addtrip]
+192 Airport Rocket
+0
+756.000
+
+  Dep.: 12:58:0
+[addtrip]
+192 Airport Rocket
+0
+778.000
+
+  Dep.: 13:20:0
+[addtrip]
+192 Airport Rocket
+0
+800.000
+
+  Dep.: 13:42:0
+[addtrip]
+192 Airport Rocket
+0
+822.000
+
+  Dep.: 14:4:0
+[addtrip]
+192 Airport Rocket
+0
+844.000
+
+  Dep.: 14:26:0
+[addtrip]
+192 Airport Rocket
+0
+866.000
+
+  Dep.: 14:48:0
+[addtrip]
+192 Airport Rocket
+0
+888.000
+
+  Dep.: 15:10:0
+[addtrip]
+192 Airport Rocket
+0
+910.000
+
+  Dep.: 15:32:0
+[addtrip]
+192 Airport Rocket
+0
+932.000
+
+  Dep.: 15:54:0
+[addtrip]
+192 Airport Rocket
+0
+954.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 16:16:0
+[addtrip]
+192 Airport Rocket
+0
+976.000
+
+  Dep.: 16:38:0
+[addtrip]
+192 Airport Rocket
+0
+998.000
+
+  Dep.: 17:0:0
+[addtrip]
+192 Airport Rocket
+0
+1020.000
+
+  Dep.: 17:22:0
+[addtrip]
+192 Airport Rocket
+0
+1042.000
+
+  Dep.: 17:44:0
+[addtrip]
+192 Airport Rocket
+0
+1064.000
+
+  Dep.: 18:6:0
+[addtrip]
+192 Airport Rocket
+0
+1086.000
+
+  Dep.: 18:28:0
+[addtrip]
+192 Airport Rocket
+0
+1108.000
+
+  Dep.: 18:50:0
+[addtrip]
+192 Airport Rocket
+0
+1130.000
+
+  Dep.: 19:12:0
+[addtrip]
+192 Airport Rocket
+0
+1152.000
+
+  Dep.: 19:34:0
+[addtrip]
+192 Airport Rocket
+0
+1174.000
+
+  Dep.: 19:56:0
+[addtrip]
+192 Airport Rocket
+0
+1196.000
+
+  Dep.: 20:18:0
+[addtrip]
+192 Airport Rocket
+0
+1218.000
+
+  Dep.: 20:40:0
+[addtrip]
+192 Airport Rocket
+0
+1240.000
+
+  Dep.: 21:2:0
+[addtrip]
+192 Airport Rocket
+0
+1262.000
+
+  Dep.: 21:24:0
+[addtrip]
+192 Airport Rocket
+0
+1284.000
+
+------------------------------------
+
+[newtour]
+Run 8 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 21:46:0
+[addtrip]
+192 Airport Rocket
+0
+1306.000
+
+  Dep.: 22:8:0
+[addtrip]
+192 Airport Rocket
+0
+1328.000
+
+  Dep.: 22:30:0
+[addtrip]
+192 Airport Rocket
+0
+1350.000
+
+  Dep.: 22:52:0
+[addtrip]
+192 Airport Rocket
+0
+1372.000
+
+  Dep.: 23:14:0
+[addtrip]
+192 Airport Rocket
+0
+1394.000
+
+  Dep.: 23:40:0
+[addtrip]
+192 Airport Rocket
+0
+1420.000
+
+  Dep.: 24:0:0
+[addtrip]
+192 Airport Rocket
+0
+1440.000
+
+  Dep.: 24:20:0
+[addtrip]
+192 Airport Rocket
+0
+1460.000
+
+  Dep.: 24:40:0
+[addtrip]
+192 Airport Rocket
+0
+1480.000
+
+  Dep.: 25:0:0
+[addtrip]
+192 Airport Rocket
+0
+1500.000
+
+  Dep.: 25:20:0
+[addtrip]
+192 Airport Rocket
+0
+1520.000
+
+  Dep.: 25:40:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1540.000
+
+  Dep.: 25:50:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1550.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Airport Rocket
+928
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+360.000
+
+  Dep.: 6:6:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+366.000
+
+  Dep.: 6:21:0
+[addtrip]
+192 Airport Rocket (new)
+0
+381.000
+
+  Dep.: 6:48:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+408.500
+
+  Dep.: 7:16:0
+[addtrip]
+192 Airport Rocket (new)
+0
+436.000
+
+  Dep.: 7:43:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+463.500
+
+  Dep.: 8:11:0
+[addtrip]
+192 Airport Rocket (new)
+0
+491.000
+
+  Dep.: 8:38:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+518.500
+
+  Dep.: 9:6:0
+[addtrip]
+192 Airport Rocket (new)
+0
+546.000
+
+  Dep.: 9:33:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+573.500
+
+  Dep.: 10:1:0
+[addtrip]
+192 Airport Rocket (new)
+0
+601.000
+
+  Dep.: 10:28:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+628.500
+
+  Dep.: 10:56:0
+[addtrip]
+192 Airport Rocket (new)
+0
+656.000
+
+  Dep.: 11:23:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+683.500
+
+  Dep.: 11:51:0
+[addtrip]
+192 Airport Rocket (new)
+0
+711.000
+
+  Dep.: 12:18:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+738.500
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Airport Rocket
+928
+
+------------------------------------
+
+  Dep.: 12:46:0
+[addtrip]
+192 Airport Rocket (new)
+0
+766.000
+
+  Dep.: 13:13:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+793.500
+
+  Dep.: 13:41:0
+[addtrip]
+192 Airport Rocket (new)
+0
+821.000
+
+  Dep.: 14:8:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+848.500
+
+  Dep.: 14:36:0
+[addtrip]
+192 Airport Rocket (new)
+0
+876.000
+
+  Dep.: 15:3:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+903.500
+
+  Dep.: 15:31:0
+[addtrip]
+192 Airport Rocket (new)
+0
+931.000
+
+  Dep.: 15:58:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+958.500
+
+  Dep.: 16:26:0
+[addtrip]
+192 Airport Rocket (new)
+0
+986.000
+
+  Dep.: 16:53:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1013.500
+
+  Dep.: 17:21:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1041.000
+
+  Dep.: 17:48:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1068.500
+
+  Dep.: 18:16:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1096.000
+
+  Dep.: 18:43:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1123.500
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Airport Rocket
+928
+
+------------------------------------
+
+  Dep.: 19:11:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1151.000
+
+  Dep.: 19:38:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1178.500
+
+  Dep.: 20:6:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1206.000
+
+  Dep.: 20:33:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1233.500
+
+  Dep.: 21:1:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1261.000
+
+  Dep.: 21:28:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1288.500
+
+  Dep.: 21:56:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1316.000
+
+  Dep.: 22:20:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1340.000
+
+  Dep.: 22:50:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1370.000
+
+  Dep.: 23:20:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1400.000
+
+  Dep.: 23:50:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1430.000
+
+  Dep.: 24:20:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1460.000
+
+  Dep.: 24:50:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1490.000
+
+  Dep.: 25:20:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1520.000
+
+  Dep.: 25:50:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1550.000
+
+  Dep.: 26:0:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1560.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Saturday
+Airport Rocket
+928
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+370.000
+
+  Dep.: 6:17:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+377.000
+
+  Dep.: 6:32:0
+[addtrip]
+192 Airport Rocket (new)
+0
+392.000
+
+  Dep.: 6:59:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+419.500
+
+  Dep.: 7:27:0
+[addtrip]
+192 Airport Rocket (new)
+0
+447.000
+
+  Dep.: 7:54:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+474.500
+
+  Dep.: 8:22:0
+[addtrip]
+192 Airport Rocket (new)
+0
+502.000
+
+  Dep.: 8:49:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+529.500
+
+  Dep.: 9:17:0
+[addtrip]
+192 Airport Rocket (new)
+0
+557.000
+
+  Dep.: 9:44:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+584.500
+
+  Dep.: 10:12:0
+[addtrip]
+192 Airport Rocket (new)
+0
+612.000
+
+  Dep.: 10:39:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+639.500
+
+  Dep.: 11:7:0
+[addtrip]
+192 Airport Rocket (new)
+0
+667.000
+
+  Dep.: 11:34:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+694.500
+
+  Dep.: 12:2:0
+[addtrip]
+192 Airport Rocket (new)
+0
+722.000
+
+  Dep.: 12:29:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+749.500
+
+  Dep.: 12:57:0
+[addtrip]
+192 Airport Rocket (new)
+0
+777.000
+
+  Dep.: 13:24:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+804.500
+
+  Dep.: 13:52:0
+[addtrip]
+192 Airport Rocket (new)
+0
+832.000
+
+  Dep.: 14:19:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+859.500
+
+  Dep.: 14:47:0
+[addtrip]
+192 Airport Rocket (new)
+0
+887.000
+
+  Dep.: 15:14:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+914.500
+
+  Dep.: 15:42:0
+[addtrip]
+192 Airport Rocket (new)
+0
+942.000
+
+  Dep.: 16:9:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+969.500
+
+  Dep.: 16:37:0
+[addtrip]
+192 Airport Rocket (new)
+0
+997.000
+
+  Dep.: 17:4:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1024.500
+
+  Dep.: 17:32:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1052.000
+
+  Dep.: 17:59:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1079.500
+
+  Dep.: 18:27:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1107.000
+
+  Dep.: 18:54:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1134.500
+
+  Dep.: 19:22:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1162.000
+
+  Dep.: 19:49:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1189.500
+
+  Dep.: 20:17:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1217.000
+
+  Dep.: 20:44:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1244.500
+
+  Dep.: 21:12:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1272.000
+
+  Dep.: 21:39:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1299.500
+
+  Dep.: 22:10:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1330.000
+
+  Dep.: 22:40:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1360.000
+
+  Dep.: 23:10:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1450.000
+
+  Dep.: 24:40:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1480.000
+
+  Dep.: 25:10:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1570.000
+
+  Dep.: 26:20:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1580.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Airport Rocket
+928
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+380.000
+
+  Dep.: 6:28:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+388.000
+
+  Dep.: 6:43:0
+[addtrip]
+192 Airport Rocket (new)
+0
+403.000
+
+  Dep.: 7:10:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+430.500
+
+  Dep.: 7:38:0
+[addtrip]
+192 Airport Rocket (new)
+0
+458.000
+
+  Dep.: 8:5:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+485.500
+
+  Dep.: 8:33:0
+[addtrip]
+192 Airport Rocket (new)
+0
+513.000
+
+  Dep.: 9:0:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+540.500
+
+  Dep.: 9:28:0
+[addtrip]
+192 Airport Rocket (new)
+0
+568.000
+
+  Dep.: 9:55:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+595.500
+
+  Dep.: 10:23:0
+[addtrip]
+192 Airport Rocket (new)
+0
+623.000
+
+  Dep.: 10:50:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+650.500
+
+  Dep.: 11:18:0
+[addtrip]
+192 Airport Rocket (new)
+0
+678.000
+
+  Dep.: 11:45:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+705.500
+
+  Dep.: 12:13:0
+[addtrip]
+192 Airport Rocket (new)
+0
+733.000
+
+  Dep.: 12:40:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+760.500
+
+  Dep.: 13:8:0
+[addtrip]
+192 Airport Rocket (new)
+0
+788.000
+
+  Dep.: 13:35:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+815.500
+
+  Dep.: 14:3:0
+[addtrip]
+192 Airport Rocket (new)
+0
+843.000
+
+  Dep.: 14:30:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+870.500
+
+  Dep.: 14:58:0
+[addtrip]
+192 Airport Rocket (new)
+0
+898.000
+
+  Dep.: 15:25:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+925.500
+
+  Dep.: 15:53:0
+[addtrip]
+192 Airport Rocket (new)
+0
+953.000
+
+  Dep.: 16:20:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+980.500
+
+  Dep.: 16:48:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1008.000
+
+  Dep.: 17:15:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1035.500
+
+  Dep.: 17:43:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1063.000
+
+  Dep.: 18:10:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1090.500
+
+  Dep.: 18:38:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1118.000
+
+  Dep.: 19:5:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1145.500
+
+  Dep.: 19:33:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1173.000
+
+  Dep.: 20:0:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1200.500
+
+  Dep.: 20:28:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1228.000
+
+  Dep.: 20:55:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1255.500
+
+  Dep.: 21:23:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1283.000
+
+  Dep.: 21:50:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1310.500
+
+  Dep.: 22:20:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1340.000
+
+  Dep.: 22:30:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1350.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Saturday
+Airport Rocket
+928
+
+------------------------------------
+
+  Dep.: 6:32:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+392.000
+
+  Dep.: 6:38:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+398.000
+
+  Dep.: 6:54:0
+[addtrip]
+192 Airport Rocket (new)
+0
+414.000
+
+  Dep.: 7:21:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+441.500
+
+  Dep.: 7:49:0
+[addtrip]
+192 Airport Rocket (new)
+0
+469.000
+
+  Dep.: 8:16:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+496.500
+
+  Dep.: 8:44:0
+[addtrip]
+192 Airport Rocket (new)
+0
+524.000
+
+  Dep.: 9:11:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+551.500
+
+  Dep.: 9:39:0
+[addtrip]
+192 Airport Rocket (new)
+0
+579.000
+
+  Dep.: 10:6:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+606.500
+
+  Dep.: 10:34:0
+[addtrip]
+192 Airport Rocket (new)
+0
+634.000
+
+  Dep.: 11:1:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+661.500
+
+  Dep.: 11:29:0
+[addtrip]
+192 Airport Rocket (new)
+0
+689.000
+
+  Dep.: 11:56:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+716.500
+
+  Dep.: 12:24:0
+[addtrip]
+192 Airport Rocket (new)
+0
+744.000
+
+  Dep.: 12:51:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+771.500
+
+  Dep.: 13:19:0
+[addtrip]
+192 Airport Rocket (new)
+0
+799.000
+
+  Dep.: 13:46:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+826.500
+
+  Dep.: 14:14:0
+[addtrip]
+192 Airport Rocket (new)
+0
+854.000
+
+  Dep.: 14:41:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+881.500
+
+  Dep.: 15:9:0
+[addtrip]
+192 Airport Rocket (new)
+0
+909.000
+
+  Dep.: 15:36:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+936.500
+
+  Dep.: 16:4:0
+[addtrip]
+192 Airport Rocket (new)
+0
+964.000
+
+  Dep.: 16:31:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+991.500
+
+  Dep.: 16:59:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1019.000
+
+  Dep.: 17:26:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1046.500
+
+  Dep.: 17:54:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1074.000
+
+  Dep.: 18:21:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1101.500
+
+  Dep.: 18:49:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1129.000
+
+  Dep.: 19:16:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1156.500
+
+  Dep.: 19:44:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1184.000
+
+  Dep.: 20:11:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1211.500
+
+  Dep.: 20:39:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1239.000
+
+  Dep.: 21:6:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1266.500
+
+  Dep.: 21:34:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1294.000
+
+  Dep.: 22:1:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1321.500
+
+  Dep.: 22:30:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1350.000
+
+  Dep.: 23:0:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1380.000
+
+  Dep.: 23:30:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1410.000
+
+  Dep.: 24:0:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1440.000
+
+  Dep.: 24:30:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1470.000
+
+  Dep.: 25:0:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1500.000
+
+  Dep.: 25:30:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1530.000
+
+  Dep.: 25:40:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1540.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Saturday
+Airport Rocket
+928
+
+------------------------------------
+
+  Dep.: 6:43:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+403.000
+
+  Dep.: 6:48:54
+[addtrip]
+192 Airport Rocket - F Garage
+0
+408.900
+
+  Dep.: 7:5:0
+[addtrip]
+192 Airport Rocket (new)
+0
+425.000
+
+  Dep.: 7:32:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+452.500
+
+  Dep.: 8:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+480.000
+
+  Dep.: 8:27:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+507.500
+
+  Dep.: 8:55:0
+[addtrip]
+192 Airport Rocket (new)
+0
+535.000
+
+  Dep.: 9:22:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+562.500
+
+  Dep.: 9:50:0
+[addtrip]
+192 Airport Rocket (new)
+0
+590.000
+
+  Dep.: 10:17:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+617.500
+
+  Dep.: 10:45:0
+[addtrip]
+192 Airport Rocket (new)
+0
+645.000
+
+  Dep.: 11:12:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+672.500
+
+  Dep.: 11:40:0
+[addtrip]
+192 Airport Rocket (new)
+0
+700.000
+
+  Dep.: 12:7:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+727.500
+
+  Dep.: 12:35:0
+[addtrip]
+192 Airport Rocket (new)
+0
+755.000
+
+  Dep.: 13:2:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+782.500
+
+  Dep.: 13:30:0
+[addtrip]
+192 Airport Rocket (new)
+0
+810.000
+
+  Dep.: 13:57:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+837.500
+
+  Dep.: 14:25:0
+[addtrip]
+192 Airport Rocket (new)
+0
+865.000
+
+  Dep.: 14:52:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+892.500
+
+  Dep.: 15:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+920.000
+
+  Dep.: 15:47:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+947.500
+
+  Dep.: 16:15:0
+[addtrip]
+192 Airport Rocket (new)
+0
+975.000
+
+  Dep.: 16:42:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1002.500
+
+  Dep.: 17:10:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1030.000
+
+  Dep.: 17:37:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1057.500
+
+  Dep.: 18:5:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1085.000
+
+  Dep.: 18:32:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1112.500
+
+  Dep.: 19:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1140.000
+
+  Dep.: 19:27:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1167.500
+
+  Dep.: 19:55:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1195.000
+
+  Dep.: 20:22:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1222.500
+
+  Dep.: 20:50:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1250.000
+
+  Dep.: 21:17:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1277.500
+
+  Dep.: 21:45:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1305.000
+
+  Dep.: 22:12:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1332.500
+
+  Dep.: 22:40:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1360.000
+
+  Dep.: 22:50:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1370.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 8:0:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+480.000
+
+  Dep.: 8:5:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+485.000
+
+  Dep.: 8:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+500.000
+
+  Dep.: 8:47:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+527.500
+
+  Dep.: 9:15:0
+[addtrip]
+192 Airport Rocket (new)
+0
+555.000
+
+  Dep.: 9:42:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+582.500
+
+  Dep.: 10:10:0
+[addtrip]
+192 Airport Rocket (new)
+0
+610.000
+
+  Dep.: 10:37:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+637.500
+
+  Dep.: 11:5:0
+[addtrip]
+192 Airport Rocket (new)
+0
+665.000
+
+  Dep.: 11:32:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+692.500
+
+  Dep.: 12:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+720.000
+
+  Dep.: 12:27:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+747.500
+
+  Dep.: 12:55:0
+[addtrip]
+192 Airport Rocket (new)
+0
+775.000
+
+  Dep.: 13:22:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+802.500
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 13:50:0
+[addtrip]
+192 Airport Rocket (new)
+0
+830.000
+
+  Dep.: 14:17:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+857.500
+
+  Dep.: 14:45:0
+[addtrip]
+192 Airport Rocket (new)
+0
+885.000
+
+  Dep.: 15:12:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+912.500
+
+  Dep.: 15:40:0
+[addtrip]
+192 Airport Rocket (new)
+0
+940.000
+
+  Dep.: 16:7:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+967.500
+
+  Dep.: 16:35:0
+[addtrip]
+192 Airport Rocket (new)
+0
+995.000
+
+  Dep.: 17:2:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1022.500
+
+  Dep.: 17:30:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1050.000
+
+  Dep.: 17:57:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1077.500
+
+  Dep.: 18:25:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1105.000
+
+  Dep.: 18:52:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1132.500
+
+  Dep.: 19:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1160.000
+
+  Dep.: 19:47:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1187.500
+
+  Dep.: 20:15:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1215.000
+
+  Dep.: 20:42:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1242.500
+
+  Dep.: 21:10:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1270.000
+
+  Dep.: 21:20:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1280.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 8:11:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+491.000
+
+  Dep.: 8:16:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+496.000
+
+  Dep.: 8:31:0
+[addtrip]
+192 Airport Rocket (new)
+0
+511.000
+
+  Dep.: 8:58:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+538.500
+
+  Dep.: 9:26:0
+[addtrip]
+192 Airport Rocket (new)
+0
+566.000
+
+  Dep.: 9:53:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+593.500
+
+  Dep.: 10:21:0
+[addtrip]
+192 Airport Rocket (new)
+0
+621.000
+
+  Dep.: 10:48:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+648.500
+
+  Dep.: 11:16:0
+[addtrip]
+192 Airport Rocket (new)
+0
+676.000
+
+  Dep.: 11:43:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+703.500
+
+  Dep.: 12:11:0
+[addtrip]
+192 Airport Rocket (new)
+0
+731.000
+
+  Dep.: 12:38:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+758.500
+
+  Dep.: 13:6:0
+[addtrip]
+192 Airport Rocket (new)
+0
+786.000
+
+  Dep.: 13:33:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+813.500
+
+  Dep.: 14:1:0
+[addtrip]
+192 Airport Rocket (new)
+0
+841.000
+
+  Dep.: 14:28:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+868.500
+
+  Dep.: 14:56:0
+[addtrip]
+192 Airport Rocket (new)
+0
+896.000
+
+  Dep.: 15:23:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+923.500
+
+  Dep.: 15:51:0
+[addtrip]
+192 Airport Rocket (new)
+0
+951.000
+
+  Dep.: 16:18:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+978.500
+
+------------------------------------
+
+[newtour]
+Run 4 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 16:46:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1006.000
+
+  Dep.: 17:13:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1033.500
+
+  Dep.: 17:41:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1061.000
+
+  Dep.: 18:8:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1088.500
+
+  Dep.: 18:36:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1116.000
+
+  Dep.: 19:3:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1143.500
+
+  Dep.: 19:31:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1171.000
+
+  Dep.: 19:58:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1198.500
+
+  Dep.: 20:26:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1226.000
+
+  Dep.: 20:53:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1253.500
+
+  Dep.: 21:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1310.000
+
+  Dep.: 22:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1340.000
+
+  Dep.: 22:50:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1370.000
+
+  Dep.: 23:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1400.000
+
+  Dep.: 23:50:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1430.000
+
+  Dep.: 24:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1460.000
+
+  Dep.: 24:50:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1490.000
+
+  Dep.: 25:20:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1520.000
+
+  Dep.: 25:50:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1550.000
+
+  Dep.: 26:15:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1575.000
+
+  Dep.: 26:25:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1585.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 8:22:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+502.000
+
+  Dep.: 8:27:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+507.000
+
+  Dep.: 8:42:0
+[addtrip]
+192 Airport Rocket (new)
+0
+522.000
+
+  Dep.: 9:9:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+549.500
+
+  Dep.: 9:37:0
+[addtrip]
+192 Airport Rocket (new)
+0
+577.000
+
+  Dep.: 10:4:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+604.500
+
+  Dep.: 10:32:0
+[addtrip]
+192 Airport Rocket (new)
+0
+632.000
+
+  Dep.: 10:59:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+659.500
+
+  Dep.: 11:27:0
+[addtrip]
+192 Airport Rocket (new)
+0
+687.000
+
+  Dep.: 11:54:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+714.500
+
+  Dep.: 12:22:0
+[addtrip]
+192 Airport Rocket (new)
+0
+742.000
+
+  Dep.: 12:49:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+769.500
+
+  Dep.: 13:17:0
+[addtrip]
+192 Airport Rocket (new)
+0
+797.000
+
+  Dep.: 13:44:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+824.500
+
+  Dep.: 14:12:0
+[addtrip]
+192 Airport Rocket (new)
+0
+852.000
+
+  Dep.: 14:39:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+879.500
+
+  Dep.: 15:7:0
+[addtrip]
+192 Airport Rocket (new)
+0
+907.000
+
+  Dep.: 15:34:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+934.500
+
+------------------------------------
+
+[newtour]
+Run 6 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 16:2:0
+[addtrip]
+192 Airport Rocket (new)
+0
+962.000
+
+  Dep.: 16:29:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+989.500
+
+  Dep.: 16:57:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1017.000
+
+  Dep.: 17:24:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1044.500
+
+  Dep.: 17:52:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1072.000
+
+  Dep.: 18:19:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1099.500
+
+  Dep.: 18:47:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1127.000
+
+  Dep.: 19:14:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1154.500
+
+  Dep.: 19:42:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1182.000
+
+  Dep.: 20:9:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1209.500
+
+  Dep.: 20:37:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1237.000
+
+  Dep.: 21:4:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1264.500
+
+  Dep.: 21:32:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1292.000
+
+  Dep.: 21:42:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1302.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 8:33:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+513.000
+
+  Dep.: 8:38:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+518.000
+
+  Dep.: 8:53:0
+[addtrip]
+192 Airport Rocket (new)
+0
+533.000
+
+  Dep.: 9:20:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+560.500
+
+  Dep.: 9:48:0
+[addtrip]
+192 Airport Rocket (new)
+0
+588.000
+
+  Dep.: 10:15:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+615.500
+
+  Dep.: 10:43:0
+[addtrip]
+192 Airport Rocket (new)
+0
+643.000
+
+  Dep.: 11:10:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+670.500
+
+  Dep.: 11:38:0
+[addtrip]
+192 Airport Rocket (new)
+0
+698.000
+
+  Dep.: 12:5:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+725.500
+
+  Dep.: 12:33:0
+[addtrip]
+192 Airport Rocket (new)
+0
+753.000
+
+  Dep.: 13:0:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+780.500
+
+  Dep.: 13:28:0
+[addtrip]
+192 Airport Rocket (new)
+0
+808.000
+
+  Dep.: 13:55:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+835.500
+
+  Dep.: 14:23:0
+[addtrip]
+192 Airport Rocket (new)
+0
+863.000
+
+  Dep.: 14:50:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+890.500
+
+  Dep.: 15:18:0
+[addtrip]
+192 Airport Rocket (new)
+0
+918.000
+
+  Dep.: 15:45:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+945.500
+
+  Dep.: 16:13:0
+[addtrip]
+192 Airport Rocket (new)
+0
+973.000
+
+  Dep.: 16:40:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1000.500
+
+------------------------------------
+
+[newtour]
+Run 8 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 17:8:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1028.000
+
+  Dep.: 17:35:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1055.500
+
+  Dep.: 18:3:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1083.000
+
+  Dep.: 18:30:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1110.500
+
+  Dep.: 18:58:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1138.000
+
+  Dep.: 19:25:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1165.500
+
+  Dep.: 19:53:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1193.000
+
+  Dep.: 20:20:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1220.500
+
+  Dep.: 20:48:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1248.000
+
+  Dep.: 21:15:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1275.500
+
+  Dep.: 21:40:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1330.000
+
+  Dep.: 22:40:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1360.000
+
+  Dep.: 23:10:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1450.000
+
+  Dep.: 24:40:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1480.000
+
+  Dep.: 25:10:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1540.000
+
+  Dep.: 25:50:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1550.000
+
+------------------------------------
+
+[newtour]
+Run 9 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 8:44:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+524.000
+
+  Dep.: 8:49:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+529.000
+
+  Dep.: 9:4:0
+[addtrip]
+192 Airport Rocket (new)
+0
+544.000
+
+  Dep.: 9:31:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+571.500
+
+  Dep.: 9:59:0
+[addtrip]
+192 Airport Rocket (new)
+0
+599.000
+
+  Dep.: 10:26:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+626.500
+
+  Dep.: 10:54:0
+[addtrip]
+192 Airport Rocket (new)
+0
+654.000
+
+  Dep.: 11:21:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+681.500
+
+  Dep.: 11:49:0
+[addtrip]
+192 Airport Rocket (new)
+0
+709.000
+
+  Dep.: 12:16:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+736.500
+
+  Dep.: 12:44:0
+[addtrip]
+192 Airport Rocket (new)
+0
+764.000
+
+  Dep.: 13:11:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+791.500
+
+  Dep.: 13:39:0
+[addtrip]
+192 Airport Rocket (new)
+0
+819.000
+
+  Dep.: 14:6:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+846.500
+
+  Dep.: 14:34:0
+[addtrip]
+192 Airport Rocket (new)
+0
+874.000
+
+  Dep.: 15:1:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+901.500
+
+  Dep.: 15:29:0
+[addtrip]
+192 Airport Rocket (new)
+0
+929.000
+
+  Dep.: 15:56:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+956.500
+
+------------------------------------
+
+[newtour]
+Run 10 - Sunday
+Airport Rocket
+832
+
+------------------------------------
+
+  Dep.: 16:24:0
+[addtrip]
+192 Airport Rocket (new)
+0
+984.000
+
+  Dep.: 16:51:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1011.500
+
+  Dep.: 17:19:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1039.000
+
+  Dep.: 17:46:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1066.500
+
+  Dep.: 18:14:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1094.000
+
+  Dep.: 18:41:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1121.500
+
+  Dep.: 19:9:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1149.000
+
+  Dep.: 19:36:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1176.500
+
+  Dep.: 20:4:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1204.000
+
+  Dep.: 20:31:30
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1231.500
+
+  Dep.: 21:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1350.000
+
+  Dep.: 23:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1380.000
+
+  Dep.: 23:30:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1410.000
+
+  Dep.: 24:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1440.000
+
+  Dep.: 24:30:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1470.000
+
+  Dep.: 25:0:0
+[addtrip]
+192 Airport Rocket (new)
+0
+1500.000
+
+  Dep.: 25:30:0
+[addtrip]
+192 Airrport Rocket (NEW R)
+0
+1530.000
+
+  Dep.: 25:55:0
+[addtrip]
+192 Airport Rocket R - Garage
+0
+1555.000
+
+  Dep.: 26:5:0
+[addtrip]
+192 Airport Rocket R2 - Garage
+0
+1565.000
+

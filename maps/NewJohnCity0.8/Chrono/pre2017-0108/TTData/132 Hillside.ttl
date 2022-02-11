@@ -1,0 +1,650 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 6:24:0
+[addtrip]
+FInch-132
+0
+384.000
+
+  Dep.: 6:30:0
+[addtrip]
+132E Hillside AM
+0
+390.000
+
+  Dep.: 6:55:0
+[addtrip]
+132E Hillside AM - R
+0
+415.000
+
+  Dep.: 7:10:0
+[addtrip]
+132E Hillside AM
+0
+430.000
+
+  Dep.: 7:35:0
+[addtrip]
+132E Hillside AM - R
+0
+455.000
+
+  Dep.: 7:50:0
+[addtrip]
+132E Hillside AM
+0
+470.000
+
+  Dep.: 8:15:0
+[addtrip]
+132E Hillside AM - R
+0
+495.000
+
+  Dep.: 8:30:0
+[addtrip]
+132E Hillside AM
+0
+510.000
+
+  Dep.: 8:55:0
+[addtrip]
+132E Hillside AM - R
+0
+535.000
+
+  Dep.: 9:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+555.000
+
+  Dep.: 9:35:0
+[addtrip]
+132 Hillside-Stn
+0
+575.000
+
+  Dep.: 9:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+595.000
+
+  Dep.: 10:15:0
+[addtrip]
+132 Hillside-Stn
+0
+615.000
+
+  Dep.: 10:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+635.000
+
+  Dep.: 11:0:0
+[addtrip]
+132 Hillside-Stn
+0
+660.000
+
+  Dep.: 11:20:0
+[addtrip]
+132-Finch
+0
+680.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 11:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+675.000
+
+  Dep.: 11:35:0
+[addtrip]
+132 Hillside-Stn
+0
+695.000
+
+  Dep.: 11:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+715.000
+
+  Dep.: 12:15:0
+[addtrip]
+132 Hillside-Stn
+0
+735.000
+
+  Dep.: 12:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+755.000
+
+  Dep.: 12:55:0
+[addtrip]
+132 Hillside-Stn
+0
+775.000
+
+  Dep.: 13:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+795.000
+
+  Dep.: 13:35:0
+[addtrip]
+132 Hillside-Stn
+0
+815.000
+
+  Dep.: 13:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+835.000
+
+  Dep.: 14:15:0
+[addtrip]
+132 Hillside-Stn
+0
+855.000
+
+  Dep.: 14:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+875.000
+
+  Dep.: 15:0:0
+[addtrip]
+132 Hillside-Stn
+0
+900.000
+
+  Dep.: 15:20:0
+[addtrip]
+132-Finch
+0
+920.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 15:15:0
+[addtrip]
+132E Hillside AM
+0
+915.000
+
+  Dep.: 15:35:0
+[addtrip]
+132E Hillside AM - R
+0
+935.000
+
+  Dep.: 15:54:0
+[addtrip]
+132E Hillside AM
+0
+954.000
+
+  Dep.: 16:15:0
+[addtrip]
+132E Hillside AM - R
+0
+975.000
+
+  Dep.: 16:30:0
+[addtrip]
+132E Hillside AM
+0
+990.000
+
+  Dep.: 16:55:0
+[addtrip]
+132E Hillside AM - R
+0
+1015.000
+
+  Dep.: 17:10:0
+[addtrip]
+132E Hillside AM
+0
+1030.000
+
+  Dep.: 17:35:0
+[addtrip]
+132E Hillside AM - R
+0
+1055.000
+
+  Dep.: 17:50:0
+[addtrip]
+132E Hillside AM
+0
+1070.000
+
+  Dep.: 18:15:0
+[addtrip]
+132E Hillside AM - R
+0
+1095.000
+
+  Dep.: 18:30:0
+[addtrip]
+132 Hillside - Hillside
+0
+1110.000
+
+  Dep.: 18:50:0
+[addtrip]
+132 Hillside-Stn
+0
+1130.000
+
+  Dep.: 19:10:0
+[addtrip]
+132 Hillside - Hillside
+0
+1150.000
+
+  Dep.: 19:30:0
+[addtrip]
+132 Hillside-Stn
+0
+1170.000
+
+  Dep.: 19:50:0
+[addtrip]
+132 Hillside - Hillside
+0
+1190.000
+
+  Dep.: 20:10:0
+[addtrip]
+132 Hillside-Stn
+0
+1210.000
+
+  Dep.: 20:30:0
+[addtrip]
+132-Finch
+0
+1230.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 6:43:0
+[addtrip]
+FInch-132
+0
+403.000
+
+  Dep.: 6:50:0
+[addtrip]
+132E Hillside AM
+0
+410.000
+
+  Dep.: 7:15:0
+[addtrip]
+132E Hillside AM - R
+0
+435.000
+
+  Dep.: 7:30:0
+[addtrip]
+132E Hillside AM
+0
+450.000
+
+  Dep.: 7:55:0
+[addtrip]
+132E Hillside AM - R
+0
+475.000
+
+  Dep.: 8:10:0
+[addtrip]
+132E Hillside AM
+0
+490.000
+
+  Dep.: 8:35:0
+[addtrip]
+132E Hillside AM - R
+0
+515.000
+
+  Dep.: 8:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+535.000
+
+  Dep.: 9:15:0
+[addtrip]
+132 Hillside-Stn
+0
+555.000
+
+  Dep.: 9:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+575.000
+
+  Dep.: 9:55:0
+[addtrip]
+132 Hillside-Stn
+0
+595.000
+
+  Dep.: 10:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+615.000
+
+  Dep.: 10:35:0
+[addtrip]
+132 Hillside-Stn
+0
+635.000
+
+  Dep.: 10:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+655.000
+
+  Dep.: 11:20:0
+[addtrip]
+132 Hillside-Stn
+0
+680.000
+
+  Dep.: 11:40:0
+[addtrip]
+132-Finch
+0
+700.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 11:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+695.000
+
+  Dep.: 11:55:0
+[addtrip]
+132 Hillside-Stn
+0
+715.000
+
+  Dep.: 12:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+735.000
+
+  Dep.: 12:35:0
+[addtrip]
+132 Hillside-Stn
+0
+755.000
+
+  Dep.: 12:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+775.000
+
+  Dep.: 13:15:0
+[addtrip]
+132 Hillside-Stn
+0
+795.000
+
+  Dep.: 13:35:0
+[addtrip]
+132 Hillside - Hillside
+0
+815.000
+
+  Dep.: 13:55:0
+[addtrip]
+132 Hillside-Stn
+0
+835.000
+
+  Dep.: 14:15:0
+[addtrip]
+132 Hillside - Hillside
+0
+855.000
+
+  Dep.: 14:35:0
+[addtrip]
+132 Hillside-Stn
+0
+875.000
+
+  Dep.: 14:55:0
+[addtrip]
+132 Hillside - Hillside
+0
+895.000
+
+  Dep.: 15:15:0
+[addtrip]
+132E Hillside AM - R
+0
+915.000
+
+  Dep.: 15:30:0
+[addtrip]
+132E Hillside AM
+0
+930.000
+
+  Dep.: 15:50:0
+[addtrip]
+132E Hillside AM - R
+0
+950.000
+
+  Dep.: 16:6:0
+[addtrip]
+132-Finch
+0
+966.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Weekday
+Finch Garage
+287
+
+------------------------------------
+
+  Dep.: 16:10:0
+[addtrip]
+132E Hillside AM
+0
+970.000
+
+  Dep.: 16:35:0
+[addtrip]
+132E Hillside AM - R
+0
+995.000
+
+  Dep.: 16:50:0
+[addtrip]
+132E Hillside AM
+0
+1010.000
+
+  Dep.: 17:15:0
+[addtrip]
+132E Hillside AM - R
+0
+1035.000
+
+  Dep.: 17:30:0
+[addtrip]
+132E Hillside AM
+0
+1050.000
+
+  Dep.: 17:55:0
+[addtrip]
+132E Hillside AM - R
+0
+1075.000
+
+  Dep.: 18:10:0
+[addtrip]
+132E Hillside AM
+0
+1090.000
+
+  Dep.: 18:35:0
+[addtrip]
+132E Hillside AM - R
+0
+1115.000
+
+  Dep.: 18:50:0
+[addtrip]
+132 Hillside - Hillside
+0
+1130.000
+
+  Dep.: 19:10:0
+[addtrip]
+132 Hillside-Stn
+0
+1150.000
+
+  Dep.: 19:30:0
+[addtrip]
+132 Hillside - Hillside
+0
+1170.000
+
+  Dep.: 19:50:0
+[addtrip]
+132 Hillside-Stn
+0
+1190.000
+
+  Dep.: 20:10:0
+[addtrip]
+132-Finch
+0
+1210.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Weekday
+Quail Valley Garage
+287
+
+------------------------------------
+
+  Dep.: 14:54:30
+[addtrip]
+Quail-KingscourtPM
+0
+894.500
+
+  Dep.: 15:5:40
+[addtrip]
+132 Kingscourt
+0
+905.667
+
+  Dep.: 15:21:45
+[addtrip]
+132E Hillside AM - R
+0
+921.750
+
+  Dep.: 15:42:0
+[addtrip]
+132E Hillside AM
+0
+942.000
+
+  Dep.: 15:58:0
+[addtrip]
+132E Hillside AM - R
+0
+958.000
+
+  Dep.: 16:13:0
+[addtrip]
+132-Finch
+0
+973.000
+

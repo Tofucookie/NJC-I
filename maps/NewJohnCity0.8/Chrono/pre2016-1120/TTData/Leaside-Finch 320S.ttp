@@ -1,0 +1,76 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+320 Yonge Night - SHORT TURN
+320S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+17666
+
+[station_typ2]
+13918
+
+[station_typ2]
+13923
+
+[station_typ2]
+1977
+
+[station_typ2]
+1982
+
+[station_typ2]
+1986
+
+[station_typ2]
+1731
+
+[station_typ2]
+2611
+
+[station_typ2]
+12236
+
+[station_typ2]
+6832
+
+[station_typ2]
+3715
+
+[station_typ2]
+3732
+
+[station_typ2]
+3736
+
+[station_typ2]
+23261
+
+[station_typ2]
+1819
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+8.000
+
+[profile_man_arr_time]
+13
+7.000
+[profile_man_dep_time]
+13
+7.000

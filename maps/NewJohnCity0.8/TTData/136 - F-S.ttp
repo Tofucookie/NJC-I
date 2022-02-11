@@ -1,0 +1,61 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+136E Finch-Sheppard - Sheppard Stn
+136E
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+1819
+
+[station_typ2]
+27301
+
+[station_typ2]
+27302
+
+[station_typ2]
+27303
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+7.000
+
+[profile_otherstopping]
+0
+4
+[profile_man_arr_time]
+1
+2.000
+[profile_man_dep_time]
+1
+2.000
+[profile_man_arr_time]
+2
+5.000
+[profile_man_dep_time]
+2
+5.000
+[profile_man_arr_time]
+3
+7.000
+[profile_man_dep_time]
+3
+7.000
+[profile_otherstopping]
+3
+4

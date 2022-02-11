@@ -1,0 +1,6683 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 5:50:0
+[addtrip]
+97 Q-S InService
+0
+350.000
+
+  Dep.: 5:58:0
+[addtrip]
+97B S-B
+0
+358.000
+
+  Dep.: 6:39:0
+[addtrip]
+97B B-S
+2
+399.000
+
+  Dep.: 7:28:0
+[addtrip]
+97C S-Y
+2
+448.000
+
+  Dep.: 8:14:0
+[addtrip]
+97C Y-S
+2
+494.000
+
+  Dep.: 8:49:0
+[addtrip]
+97B S-B
+2
+529.000
+
+  Dep.: 9:50:0
+[addtrip]
+97B B-S
+2
+590.000
+
+  Dep.: 10:39:0
+[addtrip]
+97B S-B
+2
+639.000
+
+  Dep.: 11:40:0
+[addtrip]
+97B B-S
+2
+700.000
+
+  Dep.: 12:29:0
+[addtrip]
+97B S-B
+2
+749.000
+
+  Dep.: 13:30:0
+[addtrip]
+97B B-S
+2
+810.000
+
+  Dep.: 14:19:0
+[addtrip]
+97B S-B
+2
+859.000
+
+  Dep.: 15:13:0
+[addtrip]
+97B B-S
+2
+913.000
+
+  Dep.: 16:0:0
+[addtrip]
+97B S-B
+2
+960.000
+
+  Dep.: 16:58:0
+[addtrip]
+97B B-S
+2
+1018.000
+
+  Dep.: 17:45:0
+[addtrip]
+97C S-Y PM
+2
+1065.000
+
+  Dep.: 18:28:0
+[addtrip]
+97C Y-S PM
+2
+1108.000
+
+  Dep.: 19:0:0
+[addtrip]
+97B S-B
+2
+1140.000
+
+  Dep.: 20:0:0
+[addtrip]
+97B B-S
+0
+1200.000
+
+  Dep.: 20:37:30
+[addtrip]
+97 S-Q
+0
+1237.500
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 5:43:0
+[addtrip]
+97 Q-S InService
+0
+343.000
+
+  Dep.: 5:52:0
+[addtrip]
+97C S-Y
+2
+352.000
+
+  Dep.: 6:38:0
+[addtrip]
+97C Y-S
+2
+398.000
+
+  Dep.: 7:16:0
+[addtrip]
+97B S-B
+2
+436.000
+
+  Dep.: 8:18:0
+[addtrip]
+97B B-S
+2
+498.000
+
+  Dep.: 9:2:0
+[addtrip]
+97S S-T
+0
+542.000
+
+  Dep.: 9:8:0
+[addtrip]
+NIS T-Q 2
+0
+548.000
+
+  Dep.: 14:56:0
+[addtrip]
+Quail-KingscourtPM
+0
+896.000
+
+  Dep.: 15:7:0
+[addtrip]
+97B K-B
+1
+907.000
+
+  Dep.: 15:58:0
+[addtrip]
+97B B-S
+2
+958.000
+
+  Dep.: 16:45:0
+[addtrip]
+97C S-Y PM
+2
+1005.000
+
+  Dep.: 17:28:0
+[addtrip]
+97C Y-S PM
+2
+1048.000
+
+  Dep.: 18:0:0
+[addtrip]
+97B S-B
+2
+1080.000
+
+  Dep.: 18:58:0
+[addtrip]
+97B B-S
+2
+1138.000
+
+  Dep.: 19:50:0
+[addtrip]
+97B S-B
+0
+1190.000
+
+  Dep.: 20:40:0
+[addtrip]
+97B B-S
+0
+1240.000
+
+  Dep.: 21:30:0
+[addtrip]
+97B S-B
+0
+1290.000
+
+  Dep.: 22:20:0
+[addtrip]
+97B B-S
+4
+1340.000
+
+  Dep.: 23:10:0
+[addtrip]
+97B S-B
+3
+1390.000
+
+  Dep.: 23:52:0
+[addtrip]
+97S B-T
+4
+1432.000
+
+  Dep.: 24:22:0
+[addtrip]
+NIS T-Q 1
+0
+1462.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 3:45:0
+[addtrip]
+320 E-B
+1
+225.000
+
+  Dep.: 4:15:0
+[addtrip]
+97B B-S (closed-closed)
+1
+255.000
+
+  Dep.: 4:45:0
+[addtrip]
+97B S-B (closed-closed)
+3
+285.000
+
+  Dep.: 5:23:0
+[addtrip]
+97B B-S (closed-open)
+0
+323.000
+
+  Dep.: 6:4:0
+[addtrip]
+97B S-B
+2
+364.000
+
+  Dep.: 7:3:0
+[addtrip]
+97B B-S
+2
+423.000
+
+  Dep.: 7:52:0
+[addtrip]
+97C S-Y
+2
+472.000
+
+  Dep.: 8:36:0
+[addtrip]
+97C Y-S
+2
+516.000
+
+  Dep.: 9:11:0
+[addtrip]
+97B S-B
+2
+551.000
+
+  Dep.: 10:12:0
+[addtrip]
+97B B-S
+2
+612.000
+
+  Dep.: 11:1:0
+[addtrip]
+97B S-B
+2
+661.000
+
+  Dep.: 12:2:0
+[addtrip]
+97B B-S
+2
+722.000
+
+  Dep.: 12:51:0
+[addtrip]
+97B S-B
+2
+771.000
+
+  Dep.: 13:52:0
+[addtrip]
+97B B-S
+2
+832.000
+
+  Dep.: 14:41:0
+[addtrip]
+97B S-B
+2
+881.000
+
+  Dep.: 15:35:0
+[addtrip]
+97B B-S
+2
+935.000
+
+  Dep.: 16:22:30
+[addtrip]
+97A S-L
+1
+982.500
+
+  Dep.: 16:45:0
+[addtrip]
+97A L-S
+1
+1005.000
+
+  Dep.: 17:7:30
+[addtrip]
+97A S-L
+1
+1027.500
+
+  Dep.: 17:30:0
+[addtrip]
+97A L-S
+1
+1050.000
+
+  Dep.: 17:52:30
+[addtrip]
+97A S-L
+1
+1072.500
+
+  Dep.: 18:15:0
+[addtrip]
+97A L-S
+1
+1095.000
+
+  Dep.: 18:37:30
+[addtrip]
+97A S-L
+1
+1117.500
+
+  Dep.: 18:59:0
+[addtrip]
+97A L-S
+1
+1139.000
+
+  Dep.: 19:20:0
+[addtrip]
+97A S-L
+1
+1160.000
+
+  Dep.: 19:43:0
+[addtrip]
+97A L-S
+0
+1183.000
+
+  Dep.: 20:0:0
+[addtrip]
+97A S-L
+0
+1200.000
+
+  Dep.: 20:21:0
+[addtrip]
+97A L-S
+0
+1221.000
+
+  Dep.: 20:40:0
+[addtrip]
+97S S-T
+0
+1240.000
+
+  Dep.: 20:46:0
+[addtrip]
+NIS T-Q 2
+0
+1246.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:8:0
+[addtrip]
+97 Q-S InService
+0
+368.000
+
+  Dep.: 6:16:0
+[addtrip]
+97C S-Y
+2
+376.000
+
+  Dep.: 7:2:0
+[addtrip]
+97C Y-S
+2
+422.000
+
+  Dep.: 7:40:0
+[addtrip]
+97B S-B
+2
+460.000
+
+  Dep.: 8:35:0
+[addtrip]
+97B B-S
+2
+515.000
+
+  Dep.: 9:19:0
+[addtrip]
+97S S-T
+0
+559.000
+
+  Dep.: 9:25:0
+[addtrip]
+NIS T-Q 2
+0
+565.000
+
+  Dep.: 20:22:0
+[addtrip]
+97 Q-S InService
+0
+1222.000
+
+  Dep.: 20:30:0
+[addtrip]
+97B S-B
+0
+1230.000
+
+  Dep.: 21:20:0
+[addtrip]
+97B B-S
+0
+1280.000
+
+  Dep.: 22:10:0
+[addtrip]
+97B S-B
+0
+1330.000
+
+  Dep.: 23:0:0
+[addtrip]
+97B B-S
+4
+1380.000
+
+  Dep.: 23:50:0
+[addtrip]
+97B S-B
+0
+1430.000
+
+  Dep.: 24:35:0
+[addtrip]
+97B B-S
+4
+1475.000
+
+  Dep.: 25:20:0
+[addtrip]
+97B S-B
+3
+1520.000
+
+  Dep.: 25:55:0
+[addtrip]
+97B B-Q
+0
+1555.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 4:0:0
+[addtrip]
+97B E-B
+1
+240.000
+
+  Dep.: 4:29:0
+[addtrip]
+97B B-S (closed-closed)
+1
+269.000
+
+  Dep.: 4:59:0
+[addtrip]
+97B S-B (closed-closed)
+3
+299.000
+
+  Dep.: 5:41:0
+[addtrip]
+97B B-S (closed-open)
+0
+341.000
+
+  Dep.: 6:22:0
+[addtrip]
+97A S-L
+1
+382.000
+
+  Dep.: 6:46:0
+[addtrip]
+97A L-S
+1
+406.000
+
+  Dep.: 7:10:0
+[addtrip]
+97A S-L
+1
+430.000
+
+  Dep.: 7:33:0
+[addtrip]
+97A L-S
+1
+453.000
+
+  Dep.: 7:58:0
+[addtrip]
+97A S-L
+1
+478.000
+
+  Dep.: 8:22:0
+[addtrip]
+97A L-S
+1
+502.000
+
+  Dep.: 8:46:0
+[addtrip]
+97A S-L
+1
+526.000
+
+  Dep.: 9:11:0
+[addtrip]
+97A L-S
+1
+551.000
+
+  Dep.: 9:30:0
+[addtrip]
+97S S-T
+0
+570.000
+
+  Dep.: 9:36:0
+[addtrip]
+NIS T-Q 2
+0
+576.000
+
+  Dep.: 20:43:0
+[addtrip]
+97 Q-S
+0
+1243.000
+
+  Dep.: 20:50:0
+[addtrip]
+97B S-B
+0
+1250.000
+
+  Dep.: 21:40:0
+[addtrip]
+97B B-S
+0
+1300.000
+
+  Dep.: 22:30:0
+[addtrip]
+97B S-B
+3
+1350.000
+
+  Dep.: 23:20:0
+[addtrip]
+97B B-S
+4
+1400.000
+
+  Dep.: 23:53:0
+[addtrip]
+97 S-Q
+0
+1433.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+97 Q-S InService
+0
+380.000
+
+  Dep.: 6:28:0
+[addtrip]
+97B S-B
+2
+388.000
+
+  Dep.: 7:27:0
+[addtrip]
+97B B-S
+2
+447.000
+
+  Dep.: 8:16:0
+[addtrip]
+97C S-Y
+2
+496.000
+
+  Dep.: 8:58:0
+[addtrip]
+97C Y-S
+2
+538.000
+
+  Dep.: 9:33:0
+[addtrip]
+97B S-B
+2
+573.000
+
+  Dep.: 10:34:0
+[addtrip]
+97B B-S
+2
+634.000
+
+  Dep.: 11:23:0
+[addtrip]
+97B S-B
+2
+683.000
+
+  Dep.: 12:24:0
+[addtrip]
+97B B-S
+2
+744.000
+
+  Dep.: 13:13:0
+[addtrip]
+97B S-B
+2
+793.000
+
+  Dep.: 14:13:30
+[addtrip]
+97B B-S
+2
+853.500
+
+  Dep.: 15:0:0
+[addtrip]
+97B S-B
+2
+900.000
+
+  Dep.: 15:49:0
+[addtrip]
+97B B-S
+2
+949.000
+
+  Dep.: 16:35:0
+[addtrip]
+97B S-B
+2
+995.000
+
+  Dep.: 17:28:0
+[addtrip]
+97B B-S
+2
+1048.000
+
+  Dep.: 18:15:0
+[addtrip]
+97C S-Y PM
+2
+1095.000
+
+  Dep.: 18:58:0
+[addtrip]
+97C Y-S PM
+1
+1138.000
+
+  Dep.: 19:30:0
+[addtrip]
+97B S-B
+0
+1170.000
+
+  Dep.: 20:20:0
+[addtrip]
+97B B-S
+0
+1220.000
+
+  Dep.: 20:58:0
+[addtrip]
+97 S-Q
+0
+1258.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 5:0:0
+[addtrip]
+97 Q-Y (closed)
+0
+300.000
+
+  Dep.: 5:11:0
+[addtrip]
+97B S-B (closed-open)
+0
+311.000
+
+  Dep.: 5:53:0
+[addtrip]
+97B B-S
+0
+353.000
+
+  Dep.: 6:34:0
+[addtrip]
+97A S-L
+1
+394.000
+
+  Dep.: 6:58:0
+[addtrip]
+97A L-S
+1
+418.000
+
+  Dep.: 7:22:0
+[addtrip]
+97A S-L
+1
+442.000
+
+  Dep.: 7:46:0
+[addtrip]
+97A L-S
+1
+466.000
+
+  Dep.: 8:10:0
+[addtrip]
+97A S-L
+1
+490.000
+
+  Dep.: 8:34:0
+[addtrip]
+97A L-S
+1
+514.000
+
+  Dep.: 8:58:0
+[addtrip]
+97A S-L
+1
+538.000
+
+  Dep.: 9:23:0
+[addtrip]
+97A L-S
+1
+563.000
+
+  Dep.: 9:44:0
+[addtrip]
+97A S-L
+1
+584.000
+
+  Dep.: 10:3:0
+[addtrip]
+97A L-S
+1
+603.000
+
+  Dep.: 10:28:0
+[addtrip]
+97A S-L
+1
+628.000
+
+  Dep.: 10:47:0
+[addtrip]
+97A L-S
+1
+647.000
+
+  Dep.: 11:12:0
+[addtrip]
+97A S-L
+1
+672.000
+
+  Dep.: 11:31:0
+[addtrip]
+97A L-S
+1
+691.000
+
+  Dep.: 11:56:0
+[addtrip]
+97A S-L
+1
+716.000
+
+  Dep.: 12:15:0
+[addtrip]
+97A L-S
+1
+735.000
+
+  Dep.: 12:40:0
+[addtrip]
+97A S-L
+1
+760.000
+
+  Dep.: 12:59:0
+[addtrip]
+97A L-S
+1
+779.000
+
+  Dep.: 13:24:0
+[addtrip]
+97A S-L
+1
+804.000
+
+  Dep.: 13:43:0
+[addtrip]
+97A L-S
+1
+823.000
+
+  Dep.: 14:8:0
+[addtrip]
+97A S-L
+1
+848.000
+
+  Dep.: 14:26:30
+[addtrip]
+97A L-S
+1
+866.500
+
+  Dep.: 14:50:30
+[addtrip]
+97A S-L
+1
+890.500
+
+  Dep.: 15:8:0
+[addtrip]
+97A L-S
+1
+908.000
+
+  Dep.: 15:30:0
+[addtrip]
+97B S-B
+2
+930.000
+
+  Dep.: 16:28:0
+[addtrip]
+97B B-S
+2
+988.000
+
+  Dep.: 17:15:0
+[addtrip]
+97C S-Y PM
+2
+1035.000
+
+  Dep.: 17:58:0
+[addtrip]
+97C Y-S PM
+2
+1078.000
+
+  Dep.: 18:30:0
+[addtrip]
+97B S-B
+2
+1110.000
+
+  Dep.: 19:28:0
+[addtrip]
+97B B-S
+0
+1168.000
+
+  Dep.: 20:10:0
+[addtrip]
+97B S-B
+0
+1210.000
+
+  Dep.: 21:0:0
+[addtrip]
+97B B-S
+0
+1260.000
+
+  Dep.: 21:37:30
+[addtrip]
+97 S-Q
+0
+1297.500
+
+------------------------------------
+
+[newtour]
+Run 8 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:32:0
+[addtrip]
+97 Q-S InService
+0
+392.000
+
+  Dep.: 6:40:0
+[addtrip]
+97C S-Y
+2
+400.000
+
+  Dep.: 7:26:0
+[addtrip]
+97C Y-S
+2
+446.000
+
+  Dep.: 8:4:0
+[addtrip]
+97B S-B
+2
+484.000
+
+  Dep.: 8:55:0
+[addtrip]
+97B B-S
+2
+535.000
+
+  Dep.: 9:39:0
+[addtrip]
+97S S-T
+0
+579.000
+
+  Dep.: 9:45:0
+[addtrip]
+NIS T-Q 2
+0
+585.000
+
+  Dep.: 21:2:0
+[addtrip]
+97 Q-S
+0
+1262.000
+
+  Dep.: 21:10:0
+[addtrip]
+97B S-B
+0
+1270.000
+
+  Dep.: 22:0:0
+[addtrip]
+97B B-S
+0
+1320.000
+
+  Dep.: 22:50:0
+[addtrip]
+97B S-B
+3
+1370.000
+
+  Dep.: 23:40:0
+[addtrip]
+97B B-S
+4
+1420.000
+
+  Dep.: 24:20:0
+[addtrip]
+97B S-B
+3
+1460.000
+
+  Dep.: 25:7:30
+[addtrip]
+97B B-S
+4
+1507.500
+
+  Dep.: 25:44:0
+[addtrip]
+97B S-B
+1
+1544.000
+
+  Dep.: 26:12:0
+[addtrip]
+97B B-Q
+0
+1572.000
+
+------------------------------------
+
+[newtour]
+Run 9 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:38:0
+[addtrip]
+97 Q-S InService
+0
+398.000
+
+  Dep.: 6:46:0
+[addtrip]
+97A S-L
+1
+406.000
+
+  Dep.: 7:10:0
+[addtrip]
+97A L-S
+1
+430.000
+
+  Dep.: 7:34:0
+[addtrip]
+97A S-L
+1
+454.000
+
+  Dep.: 7:58:0
+[addtrip]
+97A L-S
+1
+478.000
+
+  Dep.: 8:22:0
+[addtrip]
+97A S-L
+1
+502.000
+
+  Dep.: 8:46:0
+[addtrip]
+97A L-S
+1
+526.000
+
+  Dep.: 9:7:0
+[addtrip]
+97A S-L
+1
+547.000
+
+  Dep.: 9:34:0
+[addtrip]
+97A L-S
+1
+574.000
+
+  Dep.: 9:55:0
+[addtrip]
+97B S-B
+2
+595.000
+
+  Dep.: 10:56:0
+[addtrip]
+97B B-S
+2
+656.000
+
+  Dep.: 11:45:0
+[addtrip]
+97B S-B
+2
+705.000
+
+  Dep.: 12:46:0
+[addtrip]
+97B B-S
+2
+766.000
+
+  Dep.: 13:35:0
+[addtrip]
+97B S-B
+2
+815.000
+
+  Dep.: 14:35:30
+[addtrip]
+97B B-S
+2
+875.500
+
+  Dep.: 15:22:30
+[addtrip]
+97A S-L
+1
+922.500
+
+  Dep.: 15:45:30
+[addtrip]
+97A L-S
+1
+945.500
+
+  Dep.: 16:7:30
+[addtrip]
+97A S-L
+1
+967.500
+
+  Dep.: 16:30:30
+[addtrip]
+97A L-S
+1
+990.500
+
+  Dep.: 16:52:30
+[addtrip]
+97A S-L
+1
+1012.500
+
+  Dep.: 17:15:30
+[addtrip]
+97A L-S
+1
+1035.500
+
+  Dep.: 17:37:30
+[addtrip]
+97A S-L
+1
+1057.500
+
+  Dep.: 18:0:30
+[addtrip]
+97A L-S
+1
+1080.500
+
+  Dep.: 18:22:30
+[addtrip]
+97A S-L
+1
+1102.500
+
+  Dep.: 18:45:30
+[addtrip]
+97A L-S
+1
+1125.500
+
+  Dep.: 19:10:0
+[addtrip]
+97A S-L
+1
+1150.000
+
+  Dep.: 19:32:30
+[addtrip]
+97A L-S
+1
+1172.500
+
+  Dep.: 19:55:0
+[addtrip]
+97S S-T
+0
+1195.000
+
+  Dep.: 20:1:0
+[addtrip]
+NIS T-Q 2
+0
+1201.000
+
+------------------------------------
+
+[newtour]
+Run 10 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 4:14:0
+[addtrip]
+320 E-B
+1
+254.000
+
+  Dep.: 4:45:0
+[addtrip]
+97B B-S (closed-closed)
+4
+285.000
+
+  Dep.: 5:23:0
+[addtrip]
+97B S-B (closed-open)
+0
+323.000
+
+  Dep.: 6:5:0
+[addtrip]
+97B B-S
+2
+365.000
+
+  Dep.: 6:52:0
+[addtrip]
+97B S-B
+2
+412.000
+
+  Dep.: 7:51:0
+[addtrip]
+97B B-S
+2
+471.000
+
+  Dep.: 8:40:0
+[addtrip]
+97C S-Y
+2
+520.000
+
+  Dep.: 9:18:0
+[addtrip]
+97C Y-S
+2
+558.000
+
+  Dep.: 9:51:0
+[addtrip]
+97S S-T
+0
+591.000
+
+  Dep.: 9:57:0
+[addtrip]
+NIS T-Q 2
+0
+597.000
+
+  Dep.: 21:40:0
+[addtrip]
+97 Q-S
+0
+1300.000
+
+  Dep.: 21:50:0
+[addtrip]
+97B S-B
+0
+1310.000
+
+  Dep.: 22:40:0
+[addtrip]
+97B B-S
+4
+1360.000
+
+  Dep.: 23:30:0
+[addtrip]
+97B S-B
+3
+1410.000
+
+  Dep.: 24:5:0
+[addtrip]
+97B B-S
+4
+1445.000
+
+  Dep.: 24:50:0
+[addtrip]
+97B S-B
+3
+1490.000
+
+  Dep.: 25:40:0
+[addtrip]
+97B B-S
+1
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+97 Yonge - To Garage
+0
+1570.000
+
+------------------------------------
+
+[newtour]
+Run 11 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:50:0
+[addtrip]
+97 Q-S InService
+0
+410.000
+
+  Dep.: 6:58:0
+[addtrip]
+97A S-L
+1
+418.000
+
+  Dep.: 7:22:0
+[addtrip]
+97A L-S
+1
+442.000
+
+  Dep.: 7:46:0
+[addtrip]
+97A S-L
+1
+466.000
+
+  Dep.: 8:9:0
+[addtrip]
+97A L-S
+1
+489.000
+
+  Dep.: 8:34:0
+[addtrip]
+97A S-L
+1
+514.000
+
+  Dep.: 8:58:0
+[addtrip]
+97A L-S
+1
+538.000
+
+  Dep.: 9:22:0
+[addtrip]
+97A S-L
+1
+562.000
+
+  Dep.: 9:45:0
+[addtrip]
+97A L-S
+1
+585.000
+
+  Dep.: 10:6:0
+[addtrip]
+97A S-L
+1
+606.000
+
+  Dep.: 10:25:0
+[addtrip]
+97A L-S
+1
+625.000
+
+  Dep.: 10:50:0
+[addtrip]
+97A S-L
+1
+650.000
+
+  Dep.: 11:9:0
+[addtrip]
+97A L-S
+1
+669.000
+
+  Dep.: 11:34:0
+[addtrip]
+97A S-L
+1
+694.000
+
+  Dep.: 11:53:0
+[addtrip]
+97A L-S
+1
+713.000
+
+  Dep.: 12:18:0
+[addtrip]
+97A S-L
+1
+738.000
+
+  Dep.: 12:37:0
+[addtrip]
+97A L-S
+1
+757.000
+
+  Dep.: 13:2:0
+[addtrip]
+97A S-L
+1
+782.000
+
+  Dep.: 13:21:0
+[addtrip]
+97A L-S
+1
+801.000
+
+  Dep.: 13:46:0
+[addtrip]
+97A S-L
+1
+826.000
+
+  Dep.: 14:5:0
+[addtrip]
+97A L-S
+1
+845.000
+
+  Dep.: 14:29:0
+[addtrip]
+97A S-L
+1
+869.000
+
+  Dep.: 14:47:0
+[addtrip]
+97A L-S
+1
+887.000
+
+  Dep.: 15:7:30
+[addtrip]
+97A S-L
+1
+907.500
+
+  Dep.: 15:30:30
+[addtrip]
+97A L-S
+1
+930.500
+
+  Dep.: 15:52:30
+[addtrip]
+97A S-L
+1
+952.500
+
+  Dep.: 16:15:30
+[addtrip]
+97A L-S
+1
+975.500
+
+  Dep.: 16:37:30
+[addtrip]
+97A S-L
+1
+997.500
+
+  Dep.: 17:0:30
+[addtrip]
+97A L-S
+1
+1020.500
+
+  Dep.: 17:22:30
+[addtrip]
+97A S-L
+1
+1042.500
+
+  Dep.: 17:45:30
+[addtrip]
+97A L-S
+1
+1065.500
+
+  Dep.: 18:7:30
+[addtrip]
+97A S-L
+1
+1087.500
+
+  Dep.: 18:30:30
+[addtrip]
+97A L-S
+1
+1110.500
+
+  Dep.: 18:52:30
+[addtrip]
+97A S-L
+1
+1132.500
+
+  Dep.: 19:15:30
+[addtrip]
+97A L-S
+1
+1155.500
+
+  Dep.: 19:40:0
+[addtrip]
+97A S-L
+1
+1180.000
+
+  Dep.: 20:0:30
+[addtrip]
+97A L-S
+1
+1200.500
+
+  Dep.: 20:20:0
+[addtrip]
+97S S-T
+0
+1220.000
+
+  Dep.: 20:27:0
+[addtrip]
+NIS T-Q 2
+0
+1227.000
+
+------------------------------------
+
+[newtour]
+Run 12 - Weekday
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 4:27:0
+[addtrip]
+97B E-B
+1
+267.000
+
+  Dep.: 4:58:0
+[addtrip]
+97B B-S (closed-closed)
+4
+298.000
+
+  Dep.: 5:35:0
+[addtrip]
+97B S-B (closed-open)
+0
+335.000
+
+  Dep.: 6:17:0
+[addtrip]
+97B B-S
+2
+377.000
+
+  Dep.: 7:4:0
+[addtrip]
+97C S-Y
+2
+424.000
+
+  Dep.: 7:50:0
+[addtrip]
+97C Y-S
+2
+470.000
+
+  Dep.: 8:30:0
+[addtrip]
+97B S-B
+2
+510.000
+
+  Dep.: 9:27:0
+[addtrip]
+97B B-S
+2
+567.000
+
+  Dep.: 10:17:0
+[addtrip]
+97B S-B
+2
+617.000
+
+  Dep.: 11:18:0
+[addtrip]
+97B B-S
+2
+678.000
+
+  Dep.: 12:7:0
+[addtrip]
+97B S-B
+2
+727.000
+
+  Dep.: 13:8:0
+[addtrip]
+97B B-S
+2
+788.000
+
+  Dep.: 13:57:0
+[addtrip]
+97B S-B
+2
+837.000
+
+  Dep.: 14:58:0
+[addtrip]
+97B B-S
+2
+898.000
+
+  Dep.: 15:45:0
+[addtrip]
+97C S-Y PM
+2
+945.000
+
+  Dep.: 16:28:0
+[addtrip]
+97C Y-S PM
+2
+988.000
+
+  Dep.: 17:0:0
+[addtrip]
+97B S-B
+2
+1020.000
+
+  Dep.: 17:58:0
+[addtrip]
+97B B-S
+2
+1078.000
+
+  Dep.: 18:45:0
+[addtrip]
+97C S-Y PM
+2
+1125.000
+
+  Dep.: 19:27:0
+[addtrip]
+97C Y-S PM
+2
+1167.000
+
+  Dep.: 19:57:0
+[addtrip]
+97S S-T
+0
+1197.000
+
+  Dep.: 20:4:0
+[addtrip]
+NIS T-Q 2
+0
+1204.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 4:54:0
+[addtrip]
+97 Q-Y (closed)
+0
+294.000
+
+  Dep.: 5:5:0
+[addtrip]
+97B S-B (closed-open)
+3
+305.000
+
+  Dep.: 5:52:0
+[addtrip]
+97B B-S
+0
+352.000
+
+  Dep.: 6:41:0
+[addtrip]
+97B S-B
+0
+401.000
+
+  Dep.: 7:27:0
+[addtrip]
+97B B-S
+0
+447.000
+
+  Dep.: 8:9:0
+[addtrip]
+97B S-B
+0
+489.000
+
+  Dep.: 8:52:0
+[addtrip]
+97B B-S
+0
+532.000
+
+  Dep.: 9:34:0
+[addtrip]
+97B S-B
+0
+574.000
+
+  Dep.: 10:17:0
+[addtrip]
+97B B-S
+0
+617.000
+
+  Dep.: 10:59:0
+[addtrip]
+97B S-B
+0
+659.000
+
+  Dep.: 11:42:0
+[addtrip]
+97B B-S
+0
+702.000
+
+  Dep.: 12:24:0
+[addtrip]
+97B S-B
+0
+744.000
+
+  Dep.: 13:7:0
+[addtrip]
+97B B-S
+0
+787.000
+
+  Dep.: 13:49:0
+[addtrip]
+97B S-B
+0
+829.000
+
+  Dep.: 14:32:0
+[addtrip]
+97B B-S
+0
+872.000
+
+  Dep.: 15:14:0
+[addtrip]
+97B S-B
+0
+914.000
+
+  Dep.: 15:57:0
+[addtrip]
+97B B-S
+0
+957.000
+
+  Dep.: 16:38:0
+[addtrip]
+97B S-B
+0
+998.000
+
+  Dep.: 17:22:0
+[addtrip]
+97B B-S
+0
+1042.000
+
+  Dep.: 18:5:0
+[addtrip]
+97S S-T
+0
+1085.000
+
+  Dep.: 18:12:0
+[addtrip]
+NIS T-Q 2
+0
+1092.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 4:17:0
+[addtrip]
+320 E-B
+1
+257.000
+
+  Dep.: 4:50:0
+[addtrip]
+97B B-S (closed-closed)
+4
+290.000
+
+  Dep.: 5:30:0
+[addtrip]
+97B S-B (closed-open)
+0
+330.000
+
+  Dep.: 6:16:0
+[addtrip]
+97B B-S
+0
+376.000
+
+  Dep.: 7:1:0
+[addtrip]
+97B S-B
+0
+421.000
+
+  Dep.: 7:44:0
+[addtrip]
+97B B-S
+0
+464.000
+
+  Dep.: 8:26:0
+[addtrip]
+97B S-B
+0
+506.000
+
+  Dep.: 9:9:0
+[addtrip]
+97B B-S
+0
+549.000
+
+  Dep.: 9:51:0
+[addtrip]
+97B S-B
+0
+591.000
+
+  Dep.: 10:34:0
+[addtrip]
+97B B-S
+0
+634.000
+
+  Dep.: 11:16:0
+[addtrip]
+97B S-B
+0
+676.000
+
+  Dep.: 11:59:0
+[addtrip]
+97B B-S
+0
+719.000
+
+  Dep.: 12:41:0
+[addtrip]
+97B S-B
+0
+761.000
+
+  Dep.: 13:24:0
+[addtrip]
+97B B-S
+0
+804.000
+
+  Dep.: 14:6:0
+[addtrip]
+97B S-B
+0
+846.000
+
+  Dep.: 14:49:0
+[addtrip]
+97B B-S
+0
+889.000
+
+  Dep.: 15:31:0
+[addtrip]
+97B S-B
+0
+931.000
+
+  Dep.: 16:14:0
+[addtrip]
+97B B-S
+0
+974.000
+
+  Dep.: 16:58:0
+[addtrip]
+97B S-B
+0
+1018.000
+
+  Dep.: 17:44:0
+[addtrip]
+97B B-S
+0
+1064.000
+
+  Dep.: 18:28:0
+[addtrip]
+97B S-B
+0
+1108.000
+
+  Dep.: 19:14:0
+[addtrip]
+97B B-S
+0
+1154.000
+
+  Dep.: 20:0:0
+[addtrip]
+97B S-B
+3
+1200.000
+
+  Dep.: 20:43:0
+[addtrip]
+97B B-S
+4
+1243.000
+
+  Dep.: 21:20:0
+[addtrip]
+97B S-B
+3
+1280.000
+
+  Dep.: 22:3:0
+[addtrip]
+97B B-S
+4
+1323.000
+
+  Dep.: 22:39:0
+[addtrip]
+97B S-B
+3
+1359.000
+
+  Dep.: 23:23:0
+[addtrip]
+97S B-T
+4
+1403.000
+
+  Dep.: 23:53:0
+[addtrip]
+NIS T-Q 1
+0
+1433.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 4:55:0
+[addtrip]
+320 F-B
+0
+295.000
+
+  Dep.: 5:14:0
+[addtrip]
+97B B-S (closed-closed)
+4
+314.000
+
+  Dep.: 5:53:0
+[addtrip]
+97B S-B (closed-open)
+0
+353.000
+
+  Dep.: 6:36:0
+[addtrip]
+97B B-S
+0
+396.000
+
+  Dep.: 7:18:0
+[addtrip]
+97B S-B
+0
+438.000
+
+  Dep.: 8:1:0
+[addtrip]
+97B B-S
+0
+481.000
+
+  Dep.: 8:43:0
+[addtrip]
+97B S-B
+0
+523.000
+
+  Dep.: 9:26:0
+[addtrip]
+97B B-S
+0
+566.000
+
+  Dep.: 10:8:0
+[addtrip]
+97B S-B
+0
+608.000
+
+  Dep.: 10:51:0
+[addtrip]
+97B B-S
+0
+651.000
+
+  Dep.: 11:33:0
+[addtrip]
+97B S-B
+0
+693.000
+
+  Dep.: 12:16:0
+[addtrip]
+97B B-S
+0
+736.000
+
+  Dep.: 12:58:0
+[addtrip]
+97B S-B
+0
+778.000
+
+  Dep.: 13:41:0
+[addtrip]
+97B B-S
+0
+821.000
+
+  Dep.: 14:23:0
+[addtrip]
+97B S-B
+0
+863.000
+
+  Dep.: 15:6:0
+[addtrip]
+97B B-S
+0
+906.000
+
+  Dep.: 15:48:0
+[addtrip]
+97B S-B
+0
+948.000
+
+  Dep.: 16:31:0
+[addtrip]
+97B B-S
+0
+991.000
+
+  Dep.: 17:13:0
+[addtrip]
+97B S-B
+0
+1033.000
+
+  Dep.: 17:59:0
+[addtrip]
+97B B-S
+0
+1079.000
+
+  Dep.: 18:43:0
+[addtrip]
+97B S-B
+0
+1123.000
+
+  Dep.: 19:29:0
+[addtrip]
+97B B-S
+0
+1169.000
+
+  Dep.: 20:16:0
+[addtrip]
+97B S-B
+3
+1216.000
+
+  Dep.: 20:59:0
+[addtrip]
+97B B-S
+4
+1259.000
+
+  Dep.: 21:36:0
+[addtrip]
+97B S-B
+3
+1296.000
+
+  Dep.: 22:19:0
+[addtrip]
+97B B-S
+4
+1339.000
+
+  Dep.: 22:54:0
+[addtrip]
+97B S-B
+3
+1374.000
+
+  Dep.: 23:34:0
+[addtrip]
+97B B-S
+1
+1414.000
+
+  Dep.: 24:14:0
+[addtrip]
+97B S-B
+1
+1454.000
+
+  Dep.: 24:54:0
+[addtrip]
+97B B-S
+1
+1494.000
+
+  Dep.: 25:27:0
+[addtrip]
+97S S-T
+0
+1527.000
+
+  Dep.: 25:33:0
+[addtrip]
+NIS T-Q 2
+0
+1533.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 3:43:0
+[addtrip]
+320 E-B
+1
+223.000
+
+  Dep.: 4:10:0
+[addtrip]
+97B B-S (closed-closed)
+1
+250.000
+
+  Dep.: 4:45:0
+[addtrip]
+97B S-B (closed-closed)
+3
+285.000
+
+  Dep.: 5:25:0
+[addtrip]
+97B B-S (closed-open)
+0
+325.000
+
+  Dep.: 6:8:0
+[addtrip]
+97B S-B
+0
+368.000
+
+  Dep.: 6:52:0
+[addtrip]
+97B B-S
+0
+412.000
+
+  Dep.: 7:34:0
+[addtrip]
+97B S-B
+0
+454.000
+
+  Dep.: 8:18:0
+[addtrip]
+97B B-S
+0
+498.000
+
+  Dep.: 8:59:0
+[addtrip]
+97B S-B
+0
+539.000
+
+  Dep.: 9:43:0
+[addtrip]
+97B B-S
+0
+583.000
+
+  Dep.: 10:24:0
+[addtrip]
+97B S-B
+0
+624.000
+
+  Dep.: 11:8:0
+[addtrip]
+97B B-S
+0
+668.000
+
+  Dep.: 11:49:0
+[addtrip]
+97B S-B
+0
+709.000
+
+  Dep.: 12:33:0
+[addtrip]
+97B B-S
+0
+753.000
+
+  Dep.: 13:14:0
+[addtrip]
+97B S-B
+0
+794.000
+
+  Dep.: 13:58:0
+[addtrip]
+97B B-S
+0
+838.000
+
+  Dep.: 14:39:0
+[addtrip]
+97B S-B
+0
+879.000
+
+  Dep.: 15:23:0
+[addtrip]
+97B B-S
+0
+923.000
+
+  Dep.: 16:4:0
+[addtrip]
+97B S-B
+0
+964.000
+
+  Dep.: 16:45:0
+[addtrip]
+97B B-S
+0
+1005.000
+
+  Dep.: 17:28:0
+[addtrip]
+97B S-B
+0
+1048.000
+
+  Dep.: 18:14:0
+[addtrip]
+97B B-S
+0
+1094.000
+
+  Dep.: 18:58:0
+[addtrip]
+97B S-B
+0
+1138.000
+
+  Dep.: 19:44:0
+[addtrip]
+97B B-S
+0
+1184.000
+
+  Dep.: 20:32:0
+[addtrip]
+97B S-B
+3
+1232.000
+
+  Dep.: 21:15:0
+[addtrip]
+97B B-S
+4
+1275.000
+
+  Dep.: 21:52:0
+[addtrip]
+97B S-B
+3
+1312.000
+
+  Dep.: 22:35:0
+[addtrip]
+97B B-S
+4
+1355.000
+
+  Dep.: 23:14:0
+[addtrip]
+97B S-B
+1
+1394.000
+
+  Dep.: 23:54:0
+[addtrip]
+97B B-S
+1
+1434.000
+
+  Dep.: 24:34:0
+[addtrip]
+97B S-B
+1
+1474.000
+
+  Dep.: 25:10:0
+[addtrip]
+97B B-S
+1
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+320 S-B (191)
+1
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+320 B-S
+1
+1570.000
+
+  Dep.: 26:40:0
+[addtrip]
+320 S-B
+1
+1600.000
+
+  Dep.: 27:10:0
+[addtrip]
+320 B-S
+1
+1630.000
+
+  Dep.: 27:38:0
+[addtrip]
+320 S-F
+1
+1658.000
+
+  Dep.: 27:48:0
+[addtrip]
+320 G_F-Q
+0
+1668.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 4:2:0
+[addtrip]
+97B E-B
+1
+242.000
+
+  Dep.: 4:30:0
+[addtrip]
+97B B-S (closed-closed)
+1
+270.000
+
+  Dep.: 5:5:0
+[addtrip]
+97B S-B (closed-closed)
+3
+305.000
+
+  Dep.: 5:45:0
+[addtrip]
+97B B-S (closed-open)
+0
+345.000
+
+  Dep.: 6:27:0
+[addtrip]
+97B S-B
+0
+387.000
+
+  Dep.: 7:10:0
+[addtrip]
+97B B-S
+0
+430.000
+
+  Dep.: 7:51:0
+[addtrip]
+97B S-B
+0
+471.000
+
+  Dep.: 8:35:0
+[addtrip]
+97B B-S
+0
+515.000
+
+  Dep.: 9:16:0
+[addtrip]
+97B S-B
+0
+556.000
+
+  Dep.: 10:0:0
+[addtrip]
+97B B-S
+0
+600.000
+
+  Dep.: 10:41:0
+[addtrip]
+97B S-B
+0
+641.000
+
+  Dep.: 11:25:0
+[addtrip]
+97B B-S
+0
+685.000
+
+  Dep.: 12:6:0
+[addtrip]
+97B S-B
+0
+726.000
+
+  Dep.: 12:50:0
+[addtrip]
+97B B-S
+0
+770.000
+
+  Dep.: 13:31:0
+[addtrip]
+97B S-B
+0
+811.000
+
+  Dep.: 14:15:0
+[addtrip]
+97B B-S
+0
+855.000
+
+  Dep.: 14:56:0
+[addtrip]
+97B S-B
+0
+896.000
+
+  Dep.: 15:40:0
+[addtrip]
+97B B-S
+0
+940.000
+
+  Dep.: 16:21:0
+[addtrip]
+97B S-B
+0
+981.000
+
+  Dep.: 17:2:0
+[addtrip]
+97B B-S
+0
+1022.000
+
+  Dep.: 17:43:0
+[addtrip]
+97B S-B
+0
+1063.000
+
+  Dep.: 18:29:0
+[addtrip]
+97B B-S
+0
+1109.000
+
+  Dep.: 19:13:0
+[addtrip]
+97B S-B
+0
+1153.000
+
+  Dep.: 19:59:0
+[addtrip]
+97B B-S
+4
+1199.000
+
+  Dep.: 20:33:0
+[addtrip]
+97 S-Q
+0
+1233.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 6:28:0
+[addtrip]
+97 Q-S InService
+0
+388.000
+
+  Dep.: 6:35:30
+[addtrip]
+97A S-L
+0
+395.500
+
+  Dep.: 6:52:30
+[addtrip]
+97A L-S
+0
+412.500
+
+  Dep.: 7:9:30
+[addtrip]
+97A S-L
+0
+429.500
+
+  Dep.: 7:26:30
+[addtrip]
+97A L-S
+0
+446.500
+
+  Dep.: 7:43:30
+[addtrip]
+97A S-L
+0
+463.500
+
+  Dep.: 8:0:30
+[addtrip]
+97A L-S
+0
+480.500
+
+  Dep.: 8:17:30
+[addtrip]
+97A S-L
+0
+497.500
+
+  Dep.: 8:34:30
+[addtrip]
+97A L-S
+0
+514.500
+
+  Dep.: 8:51:30
+[addtrip]
+97A S-L
+0
+531.500
+
+  Dep.: 9:8:30
+[addtrip]
+97A L-S
+0
+548.500
+
+  Dep.: 9:25:30
+[addtrip]
+97A S-L
+0
+565.500
+
+  Dep.: 9:42:30
+[addtrip]
+97A L-S
+0
+582.500
+
+  Dep.: 9:59:30
+[addtrip]
+97A S-L
+0
+599.500
+
+  Dep.: 10:16:30
+[addtrip]
+97A L-S
+0
+616.500
+
+  Dep.: 10:33:30
+[addtrip]
+97A S-L
+0
+633.500
+
+  Dep.: 10:50:30
+[addtrip]
+97A L-S
+0
+650.500
+
+  Dep.: 11:7:30
+[addtrip]
+97A S-L
+0
+667.500
+
+  Dep.: 11:24:30
+[addtrip]
+97A L-S
+0
+684.500
+
+  Dep.: 11:41:30
+[addtrip]
+97A S-L
+0
+701.500
+
+  Dep.: 11:58:30
+[addtrip]
+97A L-S
+0
+718.500
+
+  Dep.: 12:15:30
+[addtrip]
+97A S-L
+0
+735.500
+
+  Dep.: 12:32:30
+[addtrip]
+97A L-S
+0
+752.500
+
+  Dep.: 12:49:30
+[addtrip]
+97A S-L
+0
+769.500
+
+  Dep.: 13:6:30
+[addtrip]
+97A L-S
+0
+786.500
+
+  Dep.: 13:23:30
+[addtrip]
+97A S-L
+0
+803.500
+
+  Dep.: 13:40:30
+[addtrip]
+97A L-S
+0
+820.500
+
+  Dep.: 13:57:30
+[addtrip]
+97A S-L
+0
+837.500
+
+  Dep.: 14:14:30
+[addtrip]
+97A L-S
+0
+854.500
+
+  Dep.: 14:31:30
+[addtrip]
+97A S-L
+0
+871.500
+
+  Dep.: 14:48:30
+[addtrip]
+97A L-S
+0
+888.500
+
+  Dep.: 15:5:30
+[addtrip]
+97A S-L
+0
+905.500
+
+  Dep.: 15:22:30
+[addtrip]
+97A L-S
+0
+922.500
+
+  Dep.: 15:39:30
+[addtrip]
+97A S-L
+0
+939.500
+
+  Dep.: 15:56:30
+[addtrip]
+97A L-S
+0
+956.500
+
+  Dep.: 16:13:30
+[addtrip]
+97A S-L
+0
+973.500
+
+  Dep.: 16:30:30
+[addtrip]
+97A L-S
+0
+990.500
+
+  Dep.: 16:47:30
+[addtrip]
+97A S-L
+0
+1007.500
+
+  Dep.: 17:4:30
+[addtrip]
+97A L-S
+0
+1024.500
+
+  Dep.: 17:21:30
+[addtrip]
+97A S-L
+0
+1041.500
+
+  Dep.: 17:38:30
+[addtrip]
+97A L-S
+0
+1058.500
+
+  Dep.: 17:58:0
+[addtrip]
+97B S-B
+0
+1078.000
+
+  Dep.: 18:44:0
+[addtrip]
+97B B-S
+0
+1124.000
+
+  Dep.: 19:28:0
+[addtrip]
+97B S-B
+0
+1168.000
+
+  Dep.: 20:12:0
+[addtrip]
+97B B-S
+4
+1212.000
+
+  Dep.: 20:48:0
+[addtrip]
+97B S-B
+3
+1248.000
+
+  Dep.: 21:31:0
+[addtrip]
+97B B-S
+4
+1291.000
+
+  Dep.: 22:9:0
+[addtrip]
+97B S-B
+3
+1329.000
+
+  Dep.: 22:51:0
+[addtrip]
+97B B-S
+4
+1371.000
+
+  Dep.: 23:34:0
+[addtrip]
+97B S-B
+1
+1414.000
+
+  Dep.: 24:14:0
+[addtrip]
+97B B-S
+1
+1454.000
+
+  Dep.: 24:54:0
+[addtrip]
+97B S-B
+1
+1494.000
+
+  Dep.: 25:35:0
+[addtrip]
+97B B-S
+1
+1535.000
+
+  Dep.: 26:10:0
+[addtrip]
+320 S-B (191)
+1
+1570.000
+
+  Dep.: 26:40:0
+[addtrip]
+320 B-S
+1
+1600.000
+
+  Dep.: 27:10:0
+[addtrip]
+320 S-B
+1
+1630.000
+
+  Dep.: 27:40:0
+[addtrip]
+320 B-S
+1
+1660.000
+
+  Dep.: 28:8:0
+[addtrip]
+320 S-F
+1
+1688.000
+
+  Dep.: 28:18:0
+[addtrip]
+320 G_F-Q
+0
+1698.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 6:44:0
+[addtrip]
+97 Q-S InService
+0
+404.000
+
+  Dep.: 6:52:30
+[addtrip]
+97A S-L
+0
+412.500
+
+  Dep.: 7:9:30
+[addtrip]
+97A L-S
+0
+429.500
+
+  Dep.: 7:26:30
+[addtrip]
+97A S-L
+0
+446.500
+
+  Dep.: 7:43:30
+[addtrip]
+97A L-S
+0
+463.500
+
+  Dep.: 8:0:30
+[addtrip]
+97A S-L
+0
+480.500
+
+  Dep.: 8:17:30
+[addtrip]
+97A L-S
+0
+497.500
+
+  Dep.: 8:34:30
+[addtrip]
+97A S-L
+0
+514.500
+
+  Dep.: 8:51:30
+[addtrip]
+97A L-S
+0
+531.500
+
+  Dep.: 9:8:30
+[addtrip]
+97A S-L
+0
+548.500
+
+  Dep.: 9:25:30
+[addtrip]
+97A L-S
+0
+565.500
+
+  Dep.: 9:42:30
+[addtrip]
+97A S-L
+0
+582.500
+
+  Dep.: 9:59:30
+[addtrip]
+97A L-S
+0
+599.500
+
+  Dep.: 10:16:30
+[addtrip]
+97A S-L
+0
+616.500
+
+  Dep.: 10:33:30
+[addtrip]
+97A L-S
+0
+633.500
+
+  Dep.: 10:50:30
+[addtrip]
+97A S-L
+0
+650.500
+
+  Dep.: 11:7:30
+[addtrip]
+97A L-S
+0
+667.500
+
+  Dep.: 11:24:30
+[addtrip]
+97A S-L
+0
+684.500
+
+  Dep.: 11:41:30
+[addtrip]
+97A L-S
+0
+701.500
+
+  Dep.: 11:58:30
+[addtrip]
+97A S-L
+0
+718.500
+
+  Dep.: 12:15:30
+[addtrip]
+97A L-S
+0
+735.500
+
+  Dep.: 12:32:30
+[addtrip]
+97A S-L
+0
+752.500
+
+  Dep.: 12:49:30
+[addtrip]
+97A L-S
+0
+769.500
+
+  Dep.: 13:6:30
+[addtrip]
+97A S-L
+0
+786.500
+
+  Dep.: 13:23:30
+[addtrip]
+97A L-S
+0
+803.500
+
+  Dep.: 13:40:30
+[addtrip]
+97A S-L
+0
+820.500
+
+  Dep.: 13:57:30
+[addtrip]
+97A L-S
+0
+837.500
+
+  Dep.: 14:14:30
+[addtrip]
+97A S-L
+0
+854.500
+
+  Dep.: 14:31:30
+[addtrip]
+97A L-S
+0
+871.500
+
+  Dep.: 14:48:30
+[addtrip]
+97A S-L
+0
+888.500
+
+  Dep.: 15:5:30
+[addtrip]
+97A L-S
+0
+905.500
+
+  Dep.: 15:22:30
+[addtrip]
+97A S-L
+0
+922.500
+
+  Dep.: 15:39:30
+[addtrip]
+97A L-S
+0
+939.500
+
+  Dep.: 15:56:30
+[addtrip]
+97A S-L
+0
+956.500
+
+  Dep.: 16:13:30
+[addtrip]
+97A L-S
+0
+973.500
+
+  Dep.: 16:30:30
+[addtrip]
+97A S-L
+0
+990.500
+
+  Dep.: 16:47:30
+[addtrip]
+97A L-S
+0
+1007.500
+
+  Dep.: 17:4:30
+[addtrip]
+97A S-L
+0
+1024.500
+
+  Dep.: 17:21:30
+[addtrip]
+97A L-S
+0
+1041.500
+
+  Dep.: 17:38:30
+[addtrip]
+97A S-L
+0
+1058.500
+
+  Dep.: 17:55:30
+[addtrip]
+97A L-S
+0
+1075.500
+
+  Dep.: 18:13:0
+[addtrip]
+97B S-B
+0
+1093.000
+
+  Dep.: 18:59:0
+[addtrip]
+97B B-S
+0
+1139.000
+
+  Dep.: 19:44:0
+[addtrip]
+97B S-B
+0
+1184.000
+
+  Dep.: 20:29:0
+[addtrip]
+97B B-S
+4
+1229.000
+
+  Dep.: 21:4:0
+[addtrip]
+97B S-B
+3
+1264.000
+
+  Dep.: 21:47:0
+[addtrip]
+97B B-S
+4
+1307.000
+
+  Dep.: 22:24:0
+[addtrip]
+97B S-B
+3
+1344.000
+
+  Dep.: 23:11:0
+[addtrip]
+97B B-S
+1
+1391.000
+
+  Dep.: 23:54:0
+[addtrip]
+97B S-B
+1
+1434.000
+
+  Dep.: 24:34:0
+[addtrip]
+97B B-S
+1
+1474.000
+
+  Dep.: 25:14:0
+[addtrip]
+97B S-B
+1
+1514.000
+
+  Dep.: 25:50:0
+[addtrip]
+97S B-T
+4
+1550.000
+
+  Dep.: 26:20:0
+[addtrip]
+NIS T-Q 1
+0
+1580.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Quail Valley Garage
+832
+
+------------------------------------
+
+  Dep.: 3:55:0
+[addtrip]
+97B E-B
+1
+235.000
+
+  Dep.: 4:26:0
+[addtrip]
+97B B-S (closed-closed)
+1
+266.000
+
+  Dep.: 4:57:0
+[addtrip]
+97B S-B (closed-closed)
+3
+297.000
+
+  Dep.: 5:33:0
+[addtrip]
+97B B-S (closed-closed)
+4
+333.000
+
+  Dep.: 6:10:0
+[addtrip]
+97B S-B (closed-closed)
+0
+370.000
+
+  Dep.: 6:50:0
+[addtrip]
+97B B-S (closed-closed)
+0
+410.000
+
+  Dep.: 7:32:0
+[addtrip]
+97B S-B (closed-open)
+0
+452.000
+
+  Dep.: 8:12:30
+[addtrip]
+97B B-S
+0
+492.500
+
+  Dep.: 8:52:0
+[addtrip]
+97B S-B
+0
+532.000
+
+  Dep.: 9:32:30
+[addtrip]
+97B B-S
+0
+572.500
+
+  Dep.: 10:12:0
+[addtrip]
+97B S-B
+0
+612.000
+
+  Dep.: 10:52:30
+[addtrip]
+97B B-S
+0
+652.500
+
+  Dep.: 11:32:0
+[addtrip]
+97B S-B
+0
+692.000
+
+  Dep.: 12:12:30
+[addtrip]
+97B B-S
+0
+732.500
+
+  Dep.: 12:52:0
+[addtrip]
+97B S-B
+0
+772.000
+
+  Dep.: 13:32:30
+[addtrip]
+97B B-S
+0
+812.500
+
+  Dep.: 14:12:0
+[addtrip]
+97B S-B
+0
+852.000
+
+  Dep.: 14:52:30
+[addtrip]
+97B B-S
+0
+892.500
+
+  Dep.: 15:32:0
+[addtrip]
+97B S-B
+0
+932.000
+
+  Dep.: 16:12:30
+[addtrip]
+97B B-S
+0
+972.500
+
+  Dep.: 16:52:0
+[addtrip]
+97B S-B
+0
+1012.000
+
+  Dep.: 17:32:30
+[addtrip]
+97B B-S
+0
+1052.500
+
+  Dep.: 18:12:0
+[addtrip]
+97B S-B
+0
+1092.000
+
+  Dep.: 18:52:30
+[addtrip]
+97B B-S
+0
+1132.500
+
+  Dep.: 19:32:0
+[addtrip]
+97B S-B
+3
+1172.000
+
+  Dep.: 20:17:0
+[addtrip]
+97B B-Q
+0
+1217.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Quail Valley Garage
+832
+
+------------------------------------
+
+  Dep.: 7:30:0
+[addtrip]
+97 Yonge - Garage
+0
+450.000
+
+  Dep.: 7:42:0
+[addtrip]
+97A S-L
+0
+462.000
+
+  Dep.: 8:4:0
+[addtrip]
+97A L-S
+0
+484.000
+
+  Dep.: 8:27:0
+[addtrip]
+97A S-L
+0
+507.000
+
+  Dep.: 8:44:0
+[addtrip]
+97A L-S
+0
+524.000
+
+  Dep.: 9:2:0
+[addtrip]
+97A S-L
+0
+542.000
+
+  Dep.: 9:24:0
+[addtrip]
+97A L-S
+0
+564.000
+
+  Dep.: 9:42:0
+[addtrip]
+97A S-L
+0
+582.000
+
+  Dep.: 10:4:0
+[addtrip]
+97A L-S
+0
+604.000
+
+  Dep.: 10:22:0
+[addtrip]
+97A S-L
+0
+622.000
+
+  Dep.: 10:44:0
+[addtrip]
+97A L-S
+0
+644.000
+
+  Dep.: 11:2:0
+[addtrip]
+97A S-L
+0
+662.000
+
+  Dep.: 11:24:0
+[addtrip]
+97A L-S
+0
+684.000
+
+  Dep.: 11:42:0
+[addtrip]
+97A S-L
+0
+702.000
+
+  Dep.: 12:4:0
+[addtrip]
+97A L-S
+0
+724.000
+
+  Dep.: 12:22:0
+[addtrip]
+97A S-L
+0
+742.000
+
+  Dep.: 12:44:0
+[addtrip]
+97A L-S
+0
+764.000
+
+  Dep.: 13:2:0
+[addtrip]
+97A S-L
+0
+782.000
+
+  Dep.: 13:24:0
+[addtrip]
+97A L-S
+0
+804.000
+
+  Dep.: 13:42:0
+[addtrip]
+97A S-L
+0
+822.000
+
+  Dep.: 14:4:0
+[addtrip]
+97A L-S
+0
+844.000
+
+  Dep.: 14:22:0
+[addtrip]
+97A S-L
+0
+862.000
+
+  Dep.: 14:44:0
+[addtrip]
+97A L-S
+0
+884.000
+
+  Dep.: 15:2:0
+[addtrip]
+97A S-L
+0
+902.000
+
+  Dep.: 15:24:0
+[addtrip]
+97A L-S
+0
+924.000
+
+  Dep.: 15:42:0
+[addtrip]
+97A S-L
+0
+942.000
+
+  Dep.: 16:4:0
+[addtrip]
+97A L-S
+0
+964.000
+
+  Dep.: 16:22:0
+[addtrip]
+97A S-L
+0
+982.000
+
+  Dep.: 16:44:0
+[addtrip]
+97A L-S
+0
+1004.000
+
+  Dep.: 17:2:0
+[addtrip]
+97A S-L
+0
+1022.000
+
+  Dep.: 17:24:0
+[addtrip]
+97A L-S
+0
+1044.000
+
+  Dep.: 17:42:0
+[addtrip]
+97A S-L
+0
+1062.000
+
+  Dep.: 18:4:0
+[addtrip]
+97A L-S
+0
+1084.000
+
+  Dep.: 18:22:0
+[addtrip]
+97S S-T
+0
+1102.000
+
+  Dep.: 18:30:0
+[addtrip]
+NIS T-Q 2
+0
+1110.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Quail Valley Garage
+832
+
+------------------------------------
+
+  Dep.: 5:4:0
+[addtrip]
+97 Q-Y (closed)
+0
+304.000
+
+  Dep.: 5:13:0
+[addtrip]
+97B S-B (closed-closed)
+3
+313.000
+
+  Dep.: 5:50:0
+[addtrip]
+97B B-S (closed-closed)
+0
+350.000
+
+  Dep.: 6:30:0
+[addtrip]
+97B S-B (closed-closed)
+0
+390.000
+
+  Dep.: 7:10:0
+[addtrip]
+97B B-S (closed-open)
+0
+430.000
+
+  Dep.: 7:52:0
+[addtrip]
+97B S-B
+0
+472.000
+
+  Dep.: 8:32:30
+[addtrip]
+97B B-S
+0
+512.500
+
+  Dep.: 9:12:0
+[addtrip]
+97B S-B
+0
+552.000
+
+  Dep.: 9:52:30
+[addtrip]
+97B B-S
+0
+592.500
+
+  Dep.: 10:32:0
+[addtrip]
+97B S-B
+0
+632.000
+
+  Dep.: 11:12:30
+[addtrip]
+97B B-S
+0
+672.500
+
+  Dep.: 11:52:0
+[addtrip]
+97B S-B
+0
+712.000
+
+  Dep.: 12:32:30
+[addtrip]
+97B B-S
+0
+752.500
+
+  Dep.: 13:12:0
+[addtrip]
+97B S-B
+0
+792.000
+
+  Dep.: 13:52:30
+[addtrip]
+97B B-S
+0
+832.500
+
+  Dep.: 14:32:0
+[addtrip]
+97B S-B
+0
+872.000
+
+  Dep.: 15:12:30
+[addtrip]
+97B B-S
+0
+912.500
+
+  Dep.: 15:52:0
+[addtrip]
+97B S-B
+0
+952.000
+
+  Dep.: 16:32:30
+[addtrip]
+97B B-S
+0
+992.500
+
+  Dep.: 17:12:0
+[addtrip]
+97B S-B
+0
+1032.000
+
+  Dep.: 17:52:30
+[addtrip]
+97B B-S
+0
+1072.500
+
+  Dep.: 18:32:0
+[addtrip]
+97B S-B
+0
+1112.000
+
+  Dep.: 19:12:30
+[addtrip]
+97B B-S
+0
+1152.500
+
+  Dep.: 19:57:0
+[addtrip]
+97B S-B
+3
+1197.000
+
+  Dep.: 20:32:0
+[addtrip]
+97B B-S
+4
+1232.000
+
+  Dep.: 21:17:0
+[addtrip]
+97B S-B
+3
+1277.000
+
+  Dep.: 22:2:0
+[addtrip]
+97B B-S
+4
+1322.000
+
+  Dep.: 22:40:0
+[addtrip]
+97B S-B
+1
+1360.000
+
+  Dep.: 23:10:0
+[addtrip]
+97B B-S
+1
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+97B S-B
+1
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+97B B-S
+1
+1450.000
+
+  Dep.: 24:40:0
+[addtrip]
+97B S-B
+1
+1480.000
+
+  Dep.: 25:10:0
+[addtrip]
+97B B-S
+1
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+320 S-B (191)
+1
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+320 B-S
+1
+1570.000
+
+  Dep.: 26:40:0
+[addtrip]
+320 S-B
+1
+1600.000
+
+  Dep.: 27:10:0
+[addtrip]
+320 B-S
+1
+1630.000
+
+  Dep.: 27:38:0
+[addtrip]
+320 S-F
+1
+1658.000
+
+  Dep.: 27:48:0
+[addtrip]
+320 G_F-Q
+0
+1668.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Sunday
+Quail Valley Garage
+832
+
+------------------------------------
+
+  Dep.: 4:12:0
+[addtrip]
+320 E-B
+1
+252.000
+
+  Dep.: 4:50:0
+[addtrip]
+97B B-S (closed-closed)
+4
+290.000
+
+  Dep.: 5:30:0
+[addtrip]
+97B S-B (closed-closed)
+3
+330.000
+
+  Dep.: 6:10:0
+[addtrip]
+97B B-S (closed-closed)
+0
+370.000
+
+  Dep.: 6:50:0
+[addtrip]
+97B S-B (closed-closed)
+0
+410.000
+
+  Dep.: 7:30:0
+[addtrip]
+97B B-S (closed-open)
+0
+450.000
+
+  Dep.: 8:9:0
+[addtrip]
+97A S-L
+0
+489.000
+
+  Dep.: 8:28:0
+[addtrip]
+97A L-S
+0
+508.000
+
+  Dep.: 8:45:0
+[addtrip]
+97A S-L
+0
+525.000
+
+  Dep.: 9:4:0
+[addtrip]
+97A L-S
+0
+544.000
+
+  Dep.: 9:22:0
+[addtrip]
+97A S-L
+0
+562.000
+
+  Dep.: 9:44:0
+[addtrip]
+97A L-S
+0
+584.000
+
+  Dep.: 10:2:0
+[addtrip]
+97A S-L
+0
+602.000
+
+  Dep.: 10:24:0
+[addtrip]
+97A L-S
+0
+624.000
+
+  Dep.: 10:42:0
+[addtrip]
+97A S-L
+0
+642.000
+
+  Dep.: 11:4:0
+[addtrip]
+97A L-S
+0
+664.000
+
+  Dep.: 11:22:0
+[addtrip]
+97A S-L
+0
+682.000
+
+  Dep.: 11:44:0
+[addtrip]
+97A L-S
+0
+704.000
+
+  Dep.: 12:2:0
+[addtrip]
+97A S-L
+0
+722.000
+
+  Dep.: 12:24:0
+[addtrip]
+97A L-S
+0
+744.000
+
+  Dep.: 12:42:0
+[addtrip]
+97A S-L
+0
+762.000
+
+  Dep.: 13:4:0
+[addtrip]
+97A L-S
+0
+784.000
+
+  Dep.: 13:22:0
+[addtrip]
+97A S-L
+0
+802.000
+
+  Dep.: 13:44:0
+[addtrip]
+97A L-S
+0
+824.000
+
+  Dep.: 14:2:0
+[addtrip]
+97A S-L
+0
+842.000
+
+  Dep.: 14:24:0
+[addtrip]
+97A L-S
+0
+864.000
+
+  Dep.: 14:42:0
+[addtrip]
+97A S-L
+0
+882.000
+
+  Dep.: 15:4:0
+[addtrip]
+97A L-S
+0
+904.000
+
+  Dep.: 15:22:0
+[addtrip]
+97A S-L
+0
+922.000
+
+  Dep.: 15:44:0
+[addtrip]
+97A L-S
+0
+944.000
+
+  Dep.: 16:2:0
+[addtrip]
+97A S-L
+0
+962.000
+
+  Dep.: 16:24:0
+[addtrip]
+97A L-S
+0
+984.000
+
+  Dep.: 16:42:0
+[addtrip]
+97A S-L
+0
+1002.000
+
+  Dep.: 17:4:0
+[addtrip]
+97A L-S
+0
+1024.000
+
+  Dep.: 17:22:0
+[addtrip]
+97A S-L
+0
+1042.000
+
+  Dep.: 17:44:0
+[addtrip]
+97A L-S
+0
+1064.000
+
+  Dep.: 18:2:0
+[addtrip]
+97S S-T
+0
+1082.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Sunday
+Quail Valley Garage
+832
+
+------------------------------------
+
+  Dep.: 8:7:0
+[addtrip]
+97 Q-S InService
+0
+487.000
+
+  Dep.: 8:12:0
+[addtrip]
+97B S-B
+0
+492.000
+
+  Dep.: 8:52:30
+[addtrip]
+97B B-S
+0
+532.500
+
+  Dep.: 9:32:0
+[addtrip]
+97B S-B
+0
+572.000
+
+  Dep.: 10:12:30
+[addtrip]
+97B B-S
+0
+612.500
+
+  Dep.: 10:52:0
+[addtrip]
+97B S-B
+0
+652.000
+
+  Dep.: 11:32:30
+[addtrip]
+97B B-S
+0
+692.500
+
+  Dep.: 12:12:0
+[addtrip]
+97B S-B
+0
+732.000
+
+  Dep.: 12:52:30
+[addtrip]
+97B B-S
+0
+772.500
+
+  Dep.: 13:32:0
+[addtrip]
+97B S-B
+0
+812.000
+
+  Dep.: 14:12:30
+[addtrip]
+97B B-S
+0
+852.500
+
+  Dep.: 14:52:0
+[addtrip]
+97B S-B
+0
+892.000
+
+  Dep.: 15:32:30
+[addtrip]
+97B B-S
+0
+932.500
+
+  Dep.: 16:12:0
+[addtrip]
+97B S-B
+0
+972.000
+
+  Dep.: 16:52:30
+[addtrip]
+97B B-S
+0
+1012.500
+
+  Dep.: 17:32:0
+[addtrip]
+97B S-B
+0
+1052.000
+
+  Dep.: 18:12:30
+[addtrip]
+97B B-S
+0
+1092.500
+
+  Dep.: 18:52:0
+[addtrip]
+97B S-B
+0
+1132.000
+
+  Dep.: 19:37:30
+[addtrip]
+97B B-S
+0
+1177.500
+
+  Dep.: 20:22:0
+[addtrip]
+97B S-B
+3
+1222.000
+
+  Dep.: 21:2:0
+[addtrip]
+97B B-S
+4
+1262.000
+
+  Dep.: 21:47:0
+[addtrip]
+97B S-B
+3
+1307.000
+
+  Dep.: 22:32:0
+[addtrip]
+97B B-S
+4
+1352.000
+
+  Dep.: 23:10:0
+[addtrip]
+97B S-B
+1
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+97B B-S
+1
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+97B S-B
+1
+1450.000
+
+  Dep.: 24:40:0
+[addtrip]
+97B B-S
+1
+1480.000
+
+  Dep.: 25:10:0
+[addtrip]
+97B S-B
+1
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+97B B-S
+1
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+320 S-B (191)
+1
+1570.000
+
+  Dep.: 26:40:0
+[addtrip]
+320 B-S
+1
+1600.000
+
+  Dep.: 27:10:0
+[addtrip]
+320 S-B
+1
+1630.000
+
+  Dep.: 27:40:0
+[addtrip]
+320 B-S
+1
+1660.000
+
+  Dep.: 28:8:0
+[addtrip]
+320 S-F
+1
+1688.000
+
+  Dep.: 28:18:0
+[addtrip]
+320 G_F-Q
+0
+1698.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Sunday
+Quail Valley Garage
+832
+
+------------------------------------
+
+  Dep.: 3:43:0
+[addtrip]
+320 E-B
+1
+223.000
+
+  Dep.: 4:10:0
+[addtrip]
+97B B-S (closed-closed)
+1
+250.000
+
+  Dep.: 4:40:0
+[addtrip]
+97B S-B (closed-closed)
+1
+280.000
+
+  Dep.: 5:12:0
+[addtrip]
+97B B-S (closed-closed)
+4
+312.000
+
+  Dep.: 5:50:0
+[addtrip]
+97B S-B (closed-closed)
+0
+350.000
+
+  Dep.: 6:30:0
+[addtrip]
+97B B-S (closed-closed)
+0
+390.000
+
+  Dep.: 7:10:0
+[addtrip]
+97B S-B (closed-open)
+0
+430.000
+
+  Dep.: 7:50:0
+[addtrip]
+97B B-S
+0
+470.000
+
+  Dep.: 8:32:0
+[addtrip]
+97B S-B
+0
+512.000
+
+  Dep.: 9:12:30
+[addtrip]
+97B B-S
+0
+552.500
+
+  Dep.: 9:52:0
+[addtrip]
+97B S-B
+0
+592.000
+
+  Dep.: 10:32:30
+[addtrip]
+97B B-S
+0
+632.500
+
+  Dep.: 11:12:0
+[addtrip]
+97B S-B
+0
+672.000
+
+  Dep.: 11:52:30
+[addtrip]
+97B B-S
+0
+712.500
+
+  Dep.: 12:32:0
+[addtrip]
+97B S-B
+0
+752.000
+
+  Dep.: 13:12:30
+[addtrip]
+97B B-S
+0
+792.500
+
+  Dep.: 13:52:0
+[addtrip]
+97B S-B
+0
+832.000
+
+  Dep.: 14:32:30
+[addtrip]
+97B B-S
+0
+872.500
+
+  Dep.: 15:12:0
+[addtrip]
+97B S-B
+0
+912.000
+
+  Dep.: 15:52:30
+[addtrip]
+97B B-S
+0
+952.500
+
+  Dep.: 16:32:0
+[addtrip]
+97B S-B
+0
+992.000
+
+  Dep.: 17:12:30
+[addtrip]
+97B B-S
+0
+1032.500
+
+  Dep.: 17:52:0
+[addtrip]
+97B S-B
+0
+1072.000
+
+  Dep.: 18:32:30
+[addtrip]
+97B B-S
+0
+1112.500
+
+  Dep.: 19:12:0
+[addtrip]
+97B S-B
+0
+1152.000
+
+  Dep.: 20:2:30
+[addtrip]
+97B B-S
+4
+1202.500
+
+  Dep.: 20:47:0
+[addtrip]
+97B S-B
+3
+1247.000
+
+  Dep.: 21:32:0
+[addtrip]
+97B B-S
+4
+1292.000
+
+  Dep.: 22:17:0
+[addtrip]
+97B S-B
+3
+1337.000
+
+  Dep.: 22:55:0
+[addtrip]
+97B B-S
+4
+1375.000
+
+  Dep.: 23:30:0
+[addtrip]
+97S S-T
+0
+1410.000
+
+  Dep.: 23:37:0
+[addtrip]
+NIS T-Q 2
+0
+1417.000
+
+------------------------------------
+
+[newtour]
+97_6_1
+Quail Valley Garage ARTICS
+896
+
+------------------------------------
+
+  Dep.: 3:43:0
+[addtrip]
+320 E-B
+1
+223.000
+
+  Dep.: 4:10:0
+[addtrip]
+97B B-S (closed-closed)
+1
+250.000
+
+  Dep.: 4:40:0
+[addtrip]
+97B S-B (closed-closed)
+1
+280.000
+
+  Dep.: 5:12:0
+[addtrip]
+97B B-S (closed-closed)
+4
+312.000
+
+  Dep.: 5:50:0
+[addtrip]
+97B S-B (closed-closed)
+0
+350.000
+
+  Dep.: 6:30:0
+[addtrip]
+97B B-S (closed-closed)
+0
+390.000
+
+  Dep.: 7:10:0
+[addtrip]
+97B S-B (closed-open)
+0
+430.000
+
+  Dep.: 7:50:0
+[addtrip]
+97B B-S
+0
+470.000
+
+  Dep.: 8:35:0
+[addtrip]
+97B S-B
+0
+515.000
+
+  Dep.: 9:20:0
+[addtrip]
+97B B-S
+0
+560.000
+
+  Dep.: 10:3:0
+[addtrip]
+97B S-B
+0
+603.000
+
+  Dep.: 10:48:0
+[addtrip]
+97B B-S
+0
+648.000
+
+  Dep.: 11:31:0
+[addtrip]
+97B S-B
+0
+691.000
+
+  Dep.: 12:16:0
+[addtrip]
+97B B-S
+0
+736.000
+
+  Dep.: 12:59:0
+[addtrip]
+97B S-B
+0
+779.000
+
+  Dep.: 13:44:0
+[addtrip]
+97B B-S
+0
+824.000
+
+  Dep.: 14:27:0
+[addtrip]
+97B S-B
+0
+867.000
+
+  Dep.: 15:12:0
+[addtrip]
+97B B-S
+0
+912.000
+
+  Dep.: 15:55:0
+[addtrip]
+97B S-B
+0
+955.000
+
+  Dep.: 16:40:0
+[addtrip]
+97B B-S
+0
+1000.000
+
+  Dep.: 17:23:0
+[addtrip]
+97B S-B
+0
+1043.000
+
+  Dep.: 18:8:0
+[addtrip]
+97B B-S
+0
+1088.000
+
+  Dep.: 18:51:0
+[addtrip]
+97B S-B
+0
+1131.000
+
+  Dep.: 19:36:0
+[addtrip]
+97B B-S
+0
+1176.000
+
+  Dep.: 20:19:0
+[addtrip]
+97B S-B
+0
+1219.000
+
+  Dep.: 21:4:0
+[addtrip]
+97B B-S
+0
+1264.000
+
+  Dep.: 21:47:0
+[addtrip]
+97S S-T
+0
+1307.000
+
+------------------------------------
+
+[newtour]
+97_6_2
+Quail Valley Garage ARTICS
+896
+
+------------------------------------
+
+  Dep.: 3:55:0
+[addtrip]
+320 E-B
+1
+235.000
+
+  Dep.: 4:30:0
+[addtrip]
+97B B-S (closed-closed)
+1
+270.000
+
+  Dep.: 5:0:0
+[addtrip]
+97B S-B (closed-closed)
+3
+300.000
+
+  Dep.: 5:37:0
+[addtrip]
+97B B-S (closed-closed)
+4
+337.000
+
+  Dep.: 6:20:0
+[addtrip]
+97B S-B (closed-closed)
+0
+380.000
+
+  Dep.: 7:3:0
+[addtrip]
+97B B-S (closed-closed)
+0
+423.000
+
+  Dep.: 7:50:0
+[addtrip]
+97B S-B (closed-open)
+0
+470.000
+
+  Dep.: 8:32:0
+[addtrip]
+97B B-S
+0
+512.000
+
+  Dep.: 9:15:0
+[addtrip]
+97B S-B
+0
+555.000
+
+  Dep.: 10:0:0
+[addtrip]
+97B B-S
+0
+600.000
+
+  Dep.: 10:43:0
+[addtrip]
+97B S-B
+0
+643.000
+
+  Dep.: 11:28:0
+[addtrip]
+97B B-S
+0
+688.000
+
+  Dep.: 12:11:0
+[addtrip]
+97B S-B
+0
+731.000
+
+  Dep.: 12:56:0
+[addtrip]
+97B B-S
+0
+776.000
+
+  Dep.: 13:39:0
+[addtrip]
+97B S-B
+0
+819.000
+
+  Dep.: 14:24:0
+[addtrip]
+97B B-S
+0
+864.000
+
+  Dep.: 15:7:0
+[addtrip]
+97B S-B
+0
+907.000
+
+  Dep.: 15:52:0
+[addtrip]
+97B B-S
+0
+952.000
+
+  Dep.: 16:35:0
+[addtrip]
+97B S-B
+0
+995.000
+
+  Dep.: 17:20:0
+[addtrip]
+97B B-S
+0
+1040.000
+
+  Dep.: 18:3:0
+[addtrip]
+97B S-B
+0
+1083.000
+
+  Dep.: 18:48:0
+[addtrip]
+97B B-S
+0
+1128.000
+
+  Dep.: 19:31:0
+[addtrip]
+97B S-B
+0
+1171.000
+
+  Dep.: 20:16:0
+[addtrip]
+97B B-S
+0
+1216.000
+
+  Dep.: 20:59:0
+[addtrip]
+97B S-B
+0
+1259.000
+
+  Dep.: 21:44:0
+[addtrip]
+97B B-S
+0
+1304.000
+
+  Dep.: 22:22:30
+[addtrip]
+97S S-T
+0
+1342.500
+
+------------------------------------
+
+[newtour]
+97_6_3
+Quail Valley Garage ARTICS
+896
+
+------------------------------------
+
+  Dep.: 4:22:0
+[addtrip]
+320 E-B
+1
+262.000
+
+  Dep.: 4:51:0
+[addtrip]
+97B B-S (closed-closed)
+1
+291.000
+
+  Dep.: 5:25:0
+[addtrip]
+97B S-B (closed-closed)
+3
+325.000
+
+  Dep.: 6:2:0
+[addtrip]
+97B B-S (closed-closed)
+0
+362.000
+
+  Dep.: 6:45:0
+[addtrip]
+97B S-B (closed-closed)
+0
+405.000
+
+  Dep.: 7:30:0
+[addtrip]
+97B B-S (closed-open)
+0
+450.000
+
+  Dep.: 8:15:0
+[addtrip]
+97B S-B
+0
+495.000
+
+  Dep.: 8:56:0
+[addtrip]
+97B B-S
+0
+536.000
+
+  Dep.: 9:39:0
+[addtrip]
+97B S-B
+0
+579.000
+
+  Dep.: 10:24:0
+[addtrip]
+97B B-S
+0
+624.000
+
+  Dep.: 11:7:0
+[addtrip]
+97B S-B
+0
+667.000
+
+  Dep.: 11:52:0
+[addtrip]
+97B B-S
+0
+712.000
+
+  Dep.: 12:35:0
+[addtrip]
+97B S-B
+0
+755.000
+
+  Dep.: 13:20:0
+[addtrip]
+97B B-S
+0
+800.000
+
+  Dep.: 14:3:0
+[addtrip]
+97B S-B
+0
+843.000
+
+  Dep.: 14:48:0
+[addtrip]
+97B B-S
+0
+888.000
+
+  Dep.: 15:31:0
+[addtrip]
+97B S-B
+0
+931.000
+
+  Dep.: 16:16:0
+[addtrip]
+97B B-S
+0
+976.000
+
+  Dep.: 16:59:0
+[addtrip]
+97B S-B
+0
+1019.000
+
+  Dep.: 17:44:0
+[addtrip]
+97B B-S
+0
+1064.000
+
+  Dep.: 18:27:0
+[addtrip]
+97B S-B
+0
+1107.000
+
+  Dep.: 19:12:0
+[addtrip]
+97B B-S
+0
+1152.000
+
+  Dep.: 19:55:0
+[addtrip]
+97B S-B
+0
+1195.000
+
+  Dep.: 20:40:0
+[addtrip]
+97B B-S
+0
+1240.000
+
+  Dep.: 21:23:0
+[addtrip]
+97B S-B
+0
+1283.000
+
+  Dep.: 22:8:0
+[addtrip]
+97B B-S
+4
+1328.000
+
+  Dep.: 22:45:0
+[addtrip]
+97B S-B
+3
+1365.000
+
+  Dep.: 23:27:0
+[addtrip]
+97B B-S
+4
+1407.000
+
+  Dep.: 24:6:0
+[addtrip]
+97B S-B
+1
+1446.000
+
+------------------------------------
+
+[newtour]
+97_6_4
+Finch Garage
+896
+
+------------------------------------
+
+  Dep.: 7:0:0
+[addtrip]
+320 F-B
+0
+420.000
+
+  Dep.: 7:20:0
+[addtrip]
+97B B-S (closed-open)
+0
+440.000
+
+  Dep.: 8:5:0
+[addtrip]
+97B S-B
+0
+485.000
+
+  Dep.: 8:48:0
+[addtrip]
+97B B-S
+0
+528.000
+
+  Dep.: 9:31:0
+[addtrip]
+97B S-B
+0
+571.000
+
+  Dep.: 10:16:0
+[addtrip]
+97B B-S
+0
+616.000
+
+  Dep.: 10:59:0
+[addtrip]
+97B S-B
+0
+659.000
+
+  Dep.: 11:44:0
+[addtrip]
+97B B-S
+0
+704.000
+
+  Dep.: 12:27:0
+[addtrip]
+97B S-B
+0
+747.000
+
+  Dep.: 13:12:0
+[addtrip]
+97B B-S
+0
+792.000
+
+  Dep.: 13:55:0
+[addtrip]
+97B S-B
+0
+835.000
+
+  Dep.: 14:40:0
+[addtrip]
+97B B-S
+0
+880.000
+
+  Dep.: 15:23:0
+[addtrip]
+97B S-B
+0
+923.000
+
+  Dep.: 16:8:0
+[addtrip]
+97B B-S
+0
+968.000
+
+  Dep.: 16:51:0
+[addtrip]
+97B S-B
+0
+1011.000
+
+  Dep.: 17:36:0
+[addtrip]
+97B B-S
+0
+1056.000
+
+  Dep.: 18:19:0
+[addtrip]
+97B S-B
+0
+1099.000
+
+  Dep.: 19:4:0
+[addtrip]
+97B B-S
+0
+1144.000
+
+  Dep.: 19:47:0
+[addtrip]
+97B S-B
+0
+1187.000
+
+  Dep.: 20:32:0
+[addtrip]
+97B B-S
+0
+1232.000
+
+  Dep.: 21:15:0
+[addtrip]
+97B S-B
+0
+1275.000
+
+  Dep.: 22:0:0
+[addtrip]
+97B B-S
+4
+1320.000
+
+  Dep.: 22:36:0
+[addtrip]
+97B S-B
+3
+1356.000
+
+  Dep.: 23:18:0
+[addtrip]
+97B B-S
+4
+1398.000
+
+  Dep.: 23:57:0
+[addtrip]
+97B S-B
+1
+1437.000
+
+  Dep.: 24:30:0
+[addtrip]
+97B B-S
+1
+1470.000
+
+  Dep.: 25:0:0
+[addtrip]
+97B S-B
+1
+1500.000
+
+  Dep.: 25:30:0
+[addtrip]
+97B B-S
+1
+1530.000
+
+------------------------------------
+
+[newtour]
+97_6_5
+Finch Garage
+896
+
+------------------------------------
+
+  Dep.: 6:47:0
+[addtrip]
+320 F-B
+0
+407.000
+
+  Dep.: 7:10:0
+[addtrip]
+97B B-S (closed-open)
+0
+430.000
+
+  Dep.: 7:55:0
+[addtrip]
+97B S-B
+0
+475.000
+
+  Dep.: 8:40:0
+[addtrip]
+97B B-S
+0
+520.000
+
+  Dep.: 9:23:0
+[addtrip]
+97B S-B
+0
+563.000
+
+  Dep.: 10:8:0
+[addtrip]
+97B B-S
+0
+608.000
+
+  Dep.: 10:51:0
+[addtrip]
+97B S-B
+0
+651.000
+
+  Dep.: 11:36:0
+[addtrip]
+97B B-S
+0
+696.000
+
+  Dep.: 12:19:0
+[addtrip]
+97B S-B
+0
+739.000
+
+  Dep.: 13:4:0
+[addtrip]
+97B B-S
+0
+784.000
+
+  Dep.: 13:47:0
+[addtrip]
+97B S-B
+0
+827.000
+
+  Dep.: 14:32:0
+[addtrip]
+97B B-S
+0
+872.000
+
+  Dep.: 15:15:0
+[addtrip]
+97B S-B
+0
+915.000
+
+  Dep.: 16:0:0
+[addtrip]
+97B B-S
+0
+960.000
+
+  Dep.: 16:43:0
+[addtrip]
+97B S-B
+0
+1003.000
+
+  Dep.: 17:28:0
+[addtrip]
+97B B-S
+0
+1048.000
+
+  Dep.: 18:11:0
+[addtrip]
+97B S-B
+0
+1091.000
+
+  Dep.: 18:56:0
+[addtrip]
+97B B-S
+0
+1136.000
+
+  Dep.: 19:39:0
+[addtrip]
+97B S-B
+0
+1179.000
+
+  Dep.: 20:24:0
+[addtrip]
+97B B-S
+0
+1224.000
+
+  Dep.: 21:7:0
+[addtrip]
+97B S-B
+0
+1267.000
+
+  Dep.: 21:51:0
+[addtrip]
+97B B-S
+4
+1311.000
+
+  Dep.: 22:27:0
+[addtrip]
+97B S-B
+3
+1347.000
+
+  Dep.: 23:9:0
+[addtrip]
+97B B-S
+4
+1389.000
+
+  Dep.: 23:48:0
+[addtrip]
+97B S-B
+1
+1428.000
+
+  Dep.: 24:20:0
+[addtrip]
+97B B-S
+1
+1460.000
+
+  Dep.: 24:50:0
+[addtrip]
+97B S-B
+1
+1490.000
+
+  Dep.: 25:20:0
+[addtrip]
+97B B-S
+1
+1520.000
+
+  Dep.: 25:50:0
+[addtrip]
+320 S-B (191)
+1
+1550.000
+
+------------------------------------
+
+[newtour]
+97_6_6
+Finch Garage
+896
+
+------------------------------------
+
+  Dep.: 7:20:0
+[addtrip]
+320 F-B
+0
+440.000
+
+  Dep.: 7:40:0
+[addtrip]
+97B B-S (closed-open)
+0
+460.000
+
+  Dep.: 8:25:0
+[addtrip]
+97B S-B
+0
+505.000
+
+  Dep.: 9:12:0
+[addtrip]
+97B B-S
+0
+552.000
+
+  Dep.: 9:55:0
+[addtrip]
+97B S-B
+0
+595.000
+
+  Dep.: 10:40:0
+[addtrip]
+97B B-S
+0
+640.000
+
+  Dep.: 11:23:0
+[addtrip]
+97B S-B
+0
+683.000
+
+  Dep.: 12:8:0
+[addtrip]
+97B B-S
+0
+728.000
+
+  Dep.: 12:51:0
+[addtrip]
+97B S-B
+0
+771.000
+
+  Dep.: 13:36:0
+[addtrip]
+97B B-S
+0
+816.000
+
+  Dep.: 14:19:0
+[addtrip]
+97B S-B
+0
+859.000
+
+  Dep.: 15:4:0
+[addtrip]
+97B B-S
+0
+904.000
+
+  Dep.: 15:47:0
+[addtrip]
+97B S-B
+0
+947.000
+
+  Dep.: 16:32:0
+[addtrip]
+97B B-S
+0
+992.000
+
+  Dep.: 17:15:0
+[addtrip]
+97B S-B
+0
+1035.000
+
+  Dep.: 18:0:0
+[addtrip]
+97B B-S
+0
+1080.000
+
+  Dep.: 18:43:0
+[addtrip]
+97B S-B
+0
+1123.000
+
+  Dep.: 19:28:0
+[addtrip]
+97B B-S
+0
+1168.000
+
+  Dep.: 20:11:0
+[addtrip]
+97B S-B
+0
+1211.000
+
+  Dep.: 20:56:0
+[addtrip]
+97B B-S
+0
+1256.000
+
+  Dep.: 21:39:0
+[addtrip]
+97B S-B
+0
+1299.000
+
+  Dep.: 22:24:0
+[addtrip]
+97B B-S
+4
+1344.000
+
+  Dep.: 23:3:0
+[addtrip]
+97B S-B
+3
+1383.000
+
+  Dep.: 23:45:0
+[addtrip]
+97B B-S
+4
+1425.000
+
+  Dep.: 24:20:0
+[addtrip]
+97B S-B
+1
+1460.000
+
+  Dep.: 24:50:0
+[addtrip]
+97B B-S
+1
+1490.000
+
+  Dep.: 25:20:0
+[addtrip]
+97B S-B
+1
+1520.000
+
+  Dep.: 25:50:0
+[addtrip]
+97B B-S
+1
+1550.000
+
+------------------------------------
+
+[newtour]
+97_6_7
+Finch Garage
+896
+
+------------------------------------
+
+  Dep.: 7:40:0
+[addtrip]
+320 F-B
+0
+460.000
+
+  Dep.: 8:0:0
+[addtrip]
+97B B-S (closed-open)
+0
+480.000
+
+  Dep.: 8:43:0
+[addtrip]
+97B S-B
+0
+523.000
+
+  Dep.: 9:28:0
+[addtrip]
+97B B-S
+0
+568.000
+
+  Dep.: 10:11:0
+[addtrip]
+97B S-B
+0
+611.000
+
+  Dep.: 10:56:0
+[addtrip]
+97B B-S
+0
+656.000
+
+  Dep.: 11:39:0
+[addtrip]
+97B S-B
+0
+699.000
+
+  Dep.: 12:24:0
+[addtrip]
+97B B-S
+0
+744.000
+
+  Dep.: 13:7:0
+[addtrip]
+97B S-B
+0
+787.000
+
+  Dep.: 13:52:0
+[addtrip]
+97B B-S
+0
+832.000
+
+  Dep.: 14:35:0
+[addtrip]
+97B S-B
+0
+875.000
+
+  Dep.: 15:20:0
+[addtrip]
+97B B-S
+0
+920.000
+
+  Dep.: 16:3:0
+[addtrip]
+97B S-B
+0
+963.000
+
+  Dep.: 16:48:0
+[addtrip]
+97B B-S
+0
+1008.000
+
+  Dep.: 17:31:0
+[addtrip]
+97B S-B
+0
+1051.000
+
+  Dep.: 18:16:0
+[addtrip]
+97B B-S
+0
+1096.000
+
+  Dep.: 18:59:0
+[addtrip]
+97B S-B
+0
+1139.000
+
+  Dep.: 19:44:0
+[addtrip]
+97B B-S
+0
+1184.000
+
+  Dep.: 20:27:0
+[addtrip]
+97B S-B
+0
+1227.000
+
+  Dep.: 21:12:0
+[addtrip]
+97B B-S
+0
+1272.000
+
+  Dep.: 21:51:0
+[addtrip]
+97B S-B
+3
+1311.000
+
+  Dep.: 22:33:0
+[addtrip]
+97B B-S
+4
+1353.000
+
+  Dep.: 23:12:0
+[addtrip]
+97B S-B
+3
+1392.000
+
+  Dep.: 23:54:0
+[addtrip]
+97B B-S
+1
+1434.000
+
+------------------------------------
+
+[newtour]
+97_6_8
+Finch Garage
+896
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+320 F-B
+0
+380.000
+
+  Dep.: 6:41:0
+[addtrip]
+97B B-S (closed-closed)
+0
+401.000
+
+  Dep.: 7:25:0
+[addtrip]
+97B S-B (closed-open)
+0
+445.000
+
+  Dep.: 8:10:0
+[addtrip]
+97B B-S
+0
+490.000
+
+  Dep.: 8:51:0
+[addtrip]
+97B S-B
+0
+531.000
+
+  Dep.: 9:36:0
+[addtrip]
+97B B-S
+0
+576.000
+
+  Dep.: 10:19:0
+[addtrip]
+97B S-B
+0
+619.000
+
+  Dep.: 11:4:0
+[addtrip]
+97B B-S
+0
+664.000
+
+  Dep.: 11:47:0
+[addtrip]
+97B S-B
+0
+707.000
+
+  Dep.: 12:32:0
+[addtrip]
+97B B-S
+0
+752.000
+
+  Dep.: 13:15:0
+[addtrip]
+97B S-B
+0
+795.000
+
+  Dep.: 14:0:0
+[addtrip]
+97B B-S
+0
+840.000
+
+  Dep.: 14:43:0
+[addtrip]
+97B S-B
+0
+883.000
+
+  Dep.: 15:28:0
+[addtrip]
+97B B-S
+0
+928.000
+
+  Dep.: 16:11:0
+[addtrip]
+97B S-B
+0
+971.000
+
+  Dep.: 16:56:0
+[addtrip]
+97B B-S
+0
+1016.000
+
+  Dep.: 17:39:0
+[addtrip]
+97B S-B
+0
+1059.000
+
+  Dep.: 18:24:0
+[addtrip]
+97B B-S
+0
+1104.000
+
+  Dep.: 19:7:0
+[addtrip]
+97B S-B
+0
+1147.000
+
+  Dep.: 19:52:0
+[addtrip]
+97B B-S
+0
+1192.000
+
+  Dep.: 20:35:0
+[addtrip]
+97B S-B
+0
+1235.000
+
+  Dep.: 21:20:0
+[addtrip]
+97B B-S
+0
+1280.000
+
+  Dep.: 22:0:0
+[addtrip]
+97B S-B
+3
+1320.000
+
+  Dep.: 22:42:0
+[addtrip]
+97B B-S
+4
+1362.000
+
+  Dep.: 23:21:0
+[addtrip]
+97B S-B
+3
+1401.000
+
+  Dep.: 24:2:0
+[addtrip]
+97B B-S
+1
+1442.000
+
+  Dep.: 24:30:0
+[addtrip]
+97B S-B
+1
+1470.000
+
+  Dep.: 25:0:0
+[addtrip]
+97B B-S
+1
+1500.000
+
+  Dep.: 25:30:0
+[addtrip]
+320 S-B (191)
+1
+1530.000
+
+------------------------------------
+
+[newtour]
+97_6_9
+Quail Valley Garage
+896
+
+------------------------------------
+
+  Dep.: 6:7:0
+[addtrip]
+97B E-B
+0
+367.000
+
+  Dep.: 6:52:0
+[addtrip]
+97B B-S (closed-closed)
+0
+412.000
+
+  Dep.: 7:35:0
+[addtrip]
+97B S-B (closed-open)
+0
+455.000
+
+  Dep.: 8:20:0
+[addtrip]
+97B B-S
+0
+500.000
+
+  Dep.: 8:59:0
+[addtrip]
+97B S-B
+0
+539.000
+
+  Dep.: 9:44:0
+[addtrip]
+97B B-S
+0
+584.000
+
+  Dep.: 10:27:0
+[addtrip]
+97B S-B
+0
+627.000
+
+  Dep.: 11:12:0
+[addtrip]
+97B B-S
+0
+672.000
+
+  Dep.: 11:55:0
+[addtrip]
+97B S-B
+0
+715.000
+
+  Dep.: 12:40:0
+[addtrip]
+97B B-S
+0
+760.000
+
+  Dep.: 13:23:0
+[addtrip]
+97B S-B
+0
+803.000
+
+  Dep.: 14:8:0
+[addtrip]
+97B B-S
+0
+848.000
+
+  Dep.: 14:51:0
+[addtrip]
+97B S-B
+0
+891.000
+
+  Dep.: 15:36:0
+[addtrip]
+97B B-S
+0
+936.000
+
+  Dep.: 16:19:0
+[addtrip]
+97B S-B
+0
+979.000
+
+  Dep.: 17:4:0
+[addtrip]
+97B B-S
+0
+1024.000
+
+  Dep.: 17:47:0
+[addtrip]
+97B S-B
+0
+1067.000
+
+  Dep.: 18:32:0
+[addtrip]
+97B B-S
+0
+1112.000
+
+  Dep.: 19:15:0
+[addtrip]
+97B S-B
+0
+1155.000
+
+  Dep.: 20:0:0
+[addtrip]
+97B B-S
+0
+1200.000
+
+  Dep.: 20:43:0
+[addtrip]
+97B S-B
+0
+1243.000
+
+  Dep.: 21:28:0
+[addtrip]
+97B B-S
+0
+1288.000
+
+  Dep.: 22:9:0
+[addtrip]
+97B S-B
+3
+1329.000
+
+  Dep.: 22:51:0
+[addtrip]
+97B B-S
+4
+1371.000
+
+  Dep.: 23:30:0
+[addtrip]
+97B S-B
+3
+1410.000
+
+------------------------------------
+
+[newtour]
+97_6_10
+Quail Valley Garage
+896
+
+------------------------------------
+
+  Dep.: 9:0:0
+[addtrip]
+97 Q-S InService
+0
+540.000
+
+  Dep.: 9:7:0
+[addtrip]
+97B S-B
+0
+547.000
+
+  Dep.: 9:52:0
+[addtrip]
+97B B-S
+0
+592.000
+
+  Dep.: 10:35:0
+[addtrip]
+97B S-B
+0
+635.000
+
+  Dep.: 11:20:0
+[addtrip]
+97B B-S
+0
+680.000
+
+  Dep.: 12:3:0
+[addtrip]
+97B S-B
+0
+723.000
+
+  Dep.: 12:48:0
+[addtrip]
+97B B-S
+0
+768.000
+
+  Dep.: 13:31:0
+[addtrip]
+97B S-B
+0
+811.000
+
+  Dep.: 14:16:0
+[addtrip]
+97B B-S
+0
+856.000
+
+  Dep.: 14:59:0
+[addtrip]
+97B S-B
+0
+899.000
+
+  Dep.: 15:44:0
+[addtrip]
+97B B-S
+0
+944.000
+
+  Dep.: 16:27:0
+[addtrip]
+97B S-B
+0
+987.000
+
+  Dep.: 17:12:0
+[addtrip]
+97B B-S
+0
+1032.000
+
+  Dep.: 17:55:0
+[addtrip]
+97B S-B
+0
+1075.000
+
+  Dep.: 18:40:0
+[addtrip]
+97B B-S
+0
+1120.000
+
+  Dep.: 19:23:0
+[addtrip]
+97B S-B
+0
+1163.000
+
+  Dep.: 20:8:0
+[addtrip]
+97B B-S
+0
+1208.000
+
+  Dep.: 20:51:0
+[addtrip]
+97B S-B
+0
+1251.000
+
+  Dep.: 21:36:0
+[addtrip]
+97B B-S
+0
+1296.000
+
+  Dep.: 22:18:0
+[addtrip]
+97B S-B
+3
+1338.000
+
+  Dep.: 23:0:0
+[addtrip]
+97B B-S
+4
+1380.000
+
+  Dep.: 23:39:0
+[addtrip]
+97B S-B
+1
+1419.000
+
+  Dep.: 24:10:0
+[addtrip]
+97B B-S
+1
+1450.000
+
+  Dep.: 24:40:0
+[addtrip]
+97B S-B
+1
+1480.000
+
+  Dep.: 25:10:0
+[addtrip]
+97B B-S
+1
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+320 S-B (191)
+1
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+320 B-S
+1
+1570.000
+
+  Dep.: 26:40:0
+[addtrip]
+320 S-B
+1
+1600.000
+
+  Dep.: 27:10:0
+[addtrip]
+320 B-S
+1
+1630.000
+
+  Dep.: 27:38:0
+[addtrip]
+320 S-F
+1
+1658.000
+
+  Dep.: 27:48:0
+[addtrip]
+320 G_F-F
+0
+1668.000
+
+------------------------------------
+
+[newtour]
+97_6_11
+Quail Valley Garage
+896
+
+------------------------------------
+
+  Dep.: 8:23:0
+[addtrip]
+97B E-B
+0
+503.000
+
+  Dep.: 9:4:0
+[addtrip]
+97B B-S (closed-open)
+0
+544.000
+
+  Dep.: 9:47:0
+[addtrip]
+97B S-B
+0
+587.000
+
+  Dep.: 10:32:0
+[addtrip]
+97B B-S
+0
+632.000
+
+  Dep.: 11:15:0
+[addtrip]
+97B S-B
+0
+675.000
+
+  Dep.: 12:0:0
+[addtrip]
+97B B-S
+0
+720.000
+
+  Dep.: 12:43:0
+[addtrip]
+97B S-B
+0
+763.000
+
+  Dep.: 13:28:0
+[addtrip]
+97B B-S
+0
+808.000
+
+  Dep.: 14:11:0
+[addtrip]
+97B S-B
+0
+851.000
+
+  Dep.: 14:56:0
+[addtrip]
+97B B-S
+0
+896.000
+
+  Dep.: 15:39:0
+[addtrip]
+97B S-B
+0
+939.000
+
+  Dep.: 16:24:0
+[addtrip]
+97B B-S
+0
+984.000
+
+  Dep.: 17:7:0
+[addtrip]
+97B S-B
+0
+1027.000
+
+  Dep.: 17:52:0
+[addtrip]
+97B B-S
+0
+1072.000
+
+  Dep.: 18:35:0
+[addtrip]
+97B S-B
+0
+1115.000
+
+  Dep.: 19:20:0
+[addtrip]
+97B B-S
+0
+1160.000
+
+  Dep.: 20:3:0
+[addtrip]
+97B S-B
+0
+1203.000
+
+  Dep.: 20:48:0
+[addtrip]
+97B B-S
+0
+1248.000
+
+  Dep.: 21:31:0
+[addtrip]
+97B S-B
+0
+1291.000
+
+  Dep.: 22:16:0
+[addtrip]
+97B B-S
+4
+1336.000
+
+  Dep.: 22:54:0
+[addtrip]
+97B S-B
+3
+1374.000
+
+  Dep.: 23:36:0
+[addtrip]
+97B B-S
+4
+1416.000
+
+  Dep.: 24:11:0
+[addtrip]
+97B S-B
+1
+1451.000
+
+  Dep.: 24:40:0
+[addtrip]
+97B B-S
+1
+1480.000
+
+  Dep.: 25:10:0
+[addtrip]
+97B S-B
+1
+1510.000
+
+  Dep.: 25:40:0
+[addtrip]
+97B B-S
+1
+1540.000
+
+  Dep.: 26:10:0
+[addtrip]
+320 S-B (191)
+1
+1570.000
+
+  Dep.: 26:40:0
+[addtrip]
+320 B-S
+1
+1600.000
+
+  Dep.: 27:10:0
+[addtrip]
+320 S-B
+1
+1630.000
+
+  Dep.: 27:40:0
+[addtrip]
+320 B-S
+1
+1660.000
+
+  Dep.: 28:8:0
+[addtrip]
+320 S-F
+1
+1688.000
+
+  Dep.: 28:18:0
+[addtrip]
+320 G_F-F
+0
+1698.000
+

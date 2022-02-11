@@ -1,0 +1,69 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+37 - Fruitsville
+37
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+9795
+
+[station_typ2]
+29535
+
+[station_typ2]
+23275
+
+[station_typ2]
+28067
+
+[station_typ2]
+28068
+
+[station_typ2]
+28069
+
+[station_typ2]
+28070
+
+[station_typ2]
+28071
+
+[station_typ2]
+5132
+
+[station_typ2]
+5137
+
+[station_typ2]
+5143
+
+[station_typ2]
+5150
+
+[station_typ2]
+5509
+
+[station_typ2]
+5513
+
+[station_typ2]
+5517
+
+[station_typ2]
+5538
+
+
+.........................
+        Profiles
+.........................
+

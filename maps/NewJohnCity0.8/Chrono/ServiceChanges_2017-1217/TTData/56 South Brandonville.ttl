@@ -1,0 +1,3089 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+56_1_5
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:30:0
+[addtrip]
+56 F-E
+0
+270.000
+
+  Dep.: 4:56:0
+[addtrip]
+56B Sheppard Stn
+0
+296.000
+
+  Dep.: 5:17:0
+[addtrip]
+56_1 S-O
+0
+317.000
+
+  Dep.: 5:37:30
+[addtrip]
+56_1 B-S
+1
+337.500
+
+  Dep.: 5:53:30
+[addtrip]
+56_1 S-O
+1
+353.500
+
+  Dep.: 6:18:30
+[addtrip]
+56_1 B-S
+0
+378.500
+
+  Dep.: 6:38:30
+[addtrip]
+56_1 S-O
+1
+398.500
+
+  Dep.: 7:3:30
+[addtrip]
+56_1 B-S
+0
+423.500
+
+  Dep.: 7:23:30
+[addtrip]
+56_1 S-O
+1
+443.500
+
+  Dep.: 7:48:30
+[addtrip]
+56_1 B-S
+0
+468.500
+
+  Dep.: 8:8:30
+[addtrip]
+56_1 S-O
+1
+488.500
+
+  Dep.: 8:33:30
+[addtrip]
+56_1 B-S
+0
+513.500
+
+  Dep.: 8:53:30
+[addtrip]
+56_1 S-O
+1
+533.500
+
+  Dep.: 9:18:0
+[addtrip]
+56_1 B-S
+1
+558.000
+
+  Dep.: 9:36:0
+[addtrip]
+56_1 S-O
+0
+576.000
+
+  Dep.: 9:54:0
+[addtrip]
+56_1 B-S
+1
+594.000
+
+  Dep.: 10:12:0
+[addtrip]
+56_1 S-O
+0
+612.000
+
+  Dep.: 10:30:0
+[addtrip]
+56_1 B-S
+1
+630.000
+
+  Dep.: 10:48:0
+[addtrip]
+56_1 S-O
+0
+648.000
+
+  Dep.: 11:6:0
+[addtrip]
+56_1 B-S
+1
+666.000
+
+  Dep.: 11:24:0
+[addtrip]
+56_1 S-O
+0
+684.000
+
+  Dep.: 11:42:0
+[addtrip]
+56_1 B-S
+1
+702.000
+
+  Dep.: 12:0:0
+[addtrip]
+56_1 S-O
+0
+720.000
+
+  Dep.: 12:18:0
+[addtrip]
+56_1 B-S
+1
+738.000
+
+  Dep.: 12:36:0
+[addtrip]
+56_1 S-O
+0
+756.000
+
+  Dep.: 12:54:0
+[addtrip]
+56_1 B-S
+1
+774.000
+
+  Dep.: 13:12:0
+[addtrip]
+56_1 S-O
+0
+792.000
+
+  Dep.: 13:30:0
+[addtrip]
+56_1 B-S
+1
+810.000
+
+  Dep.: 13:48:0
+[addtrip]
+56_1 S-O
+0
+828.000
+
+  Dep.: 14:6:0
+[addtrip]
+56_1 B-S
+1
+846.000
+
+  Dep.: 14:23:0
+[addtrip]
+56_1 S-O
+0
+863.000
+
+  Dep.: 14:40:0
+[addtrip]
+56_1 B-S
+1
+880.000
+
+  Dep.: 14:57:0
+[addtrip]
+56_1 S-K-O
+1
+897.000
+
+  Dep.: 15:21:0
+[addtrip]
+56_1 B-S
+0
+921.000
+
+  Dep.: 15:43:0
+[addtrip]
+56_1 S-O
+1
+943.000
+
+  Dep.: 16:4:0
+[addtrip]
+56_1 B-S
+0
+964.000
+
+  Dep.: 16:28:0
+[addtrip]
+56_1 S-O
+1
+988.000
+
+  Dep.: 16:49:0
+[addtrip]
+56_1 B-S
+0
+1009.000
+
+  Dep.: 17:13:0
+[addtrip]
+56_1 S-O
+1
+1033.000
+
+  Dep.: 17:34:0
+[addtrip]
+56_1 B-S
+0
+1054.000
+
+  Dep.: 17:58:0
+[addtrip]
+56_1 S-O
+1
+1078.000
+
+  Dep.: 18:19:0
+[addtrip]
+56_1 B-S
+0
+1099.000
+
+  Dep.: 18:43:0
+[addtrip]
+56_1 S-O
+1
+1123.000
+
+  Dep.: 19:4:0
+[addtrip]
+56_1 B-S
+0
+1144.000
+
+  Dep.: 19:26:30
+[addtrip]
+56_1 S-O
+0
+1166.500
+
+  Dep.: 19:43:0
+[addtrip]
+56_1 B-S
+1
+1183.000
+
+  Dep.: 20:0:0
+[addtrip]
+56 S-F
+0
+1200.000
+
+------------------------------------
+
+[newtour]
+56_1_6
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:45:0
+[addtrip]
+56 F-S
+0
+285.000
+
+  Dep.: 4:57:0
+[addtrip]
+56_2 S-O
+0
+297.000
+
+  Dep.: 5:15:0
+[addtrip]
+56_2 B-S
+1
+315.000
+
+  Dep.: 5:32:0
+[addtrip]
+56_2 S-O
+0
+332.000
+
+  Dep.: 5:48:30
+[addtrip]
+56_2 B-S
+0
+348.500
+
+  Dep.: 6:8:30
+[addtrip]
+56_2 S-O
+1
+368.500
+
+  Dep.: 6:33:30
+[addtrip]
+56_2 B-S
+0
+393.500
+
+  Dep.: 6:53:30
+[addtrip]
+56_2 S-O
+1
+413.500
+
+  Dep.: 7:18:30
+[addtrip]
+56_2 B-S
+0
+438.500
+
+  Dep.: 7:38:30
+[addtrip]
+56_2 S-O
+1
+458.500
+
+  Dep.: 8:3:30
+[addtrip]
+56_2 B-S
+0
+483.500
+
+  Dep.: 8:23:30
+[addtrip]
+56_2 S-O
+1
+503.500
+
+  Dep.: 8:48:30
+[addtrip]
+56_2 B-S
+0
+528.500
+
+  Dep.: 9:8:30
+[addtrip]
+56_2 S-O
+1
+548.500
+
+  Dep.: 9:30:0
+[addtrip]
+56_2 B-S
+1
+570.000
+
+  Dep.: 9:48:0
+[addtrip]
+56_2 S-O
+0
+588.000
+
+  Dep.: 10:6:0
+[addtrip]
+56_2 B-S
+1
+606.000
+
+  Dep.: 10:24:0
+[addtrip]
+56_2 S-O
+0
+624.000
+
+  Dep.: 10:42:0
+[addtrip]
+56_2 B-S
+1
+642.000
+
+  Dep.: 11:0:0
+[addtrip]
+56_2 S-O
+0
+660.000
+
+  Dep.: 11:18:0
+[addtrip]
+56_2 B-S
+1
+678.000
+
+  Dep.: 11:36:0
+[addtrip]
+56_2 S-O
+0
+696.000
+
+  Dep.: 11:54:0
+[addtrip]
+56_2 B-S
+1
+714.000
+
+  Dep.: 12:12:0
+[addtrip]
+56_2 S-O
+0
+732.000
+
+  Dep.: 12:30:0
+[addtrip]
+56_2 B-S
+1
+750.000
+
+  Dep.: 12:48:0
+[addtrip]
+56_2 S-O
+0
+768.000
+
+  Dep.: 13:6:0
+[addtrip]
+56_2 B-S
+1
+786.000
+
+  Dep.: 13:24:0
+[addtrip]
+56_2 S-O
+0
+804.000
+
+  Dep.: 13:42:0
+[addtrip]
+56_2 B-S
+1
+822.000
+
+  Dep.: 14:0:0
+[addtrip]
+56_2 S-O
+0
+840.000
+
+  Dep.: 14:18:0
+[addtrip]
+56_2 B-S
+1
+858.000
+
+  Dep.: 14:36:0
+[addtrip]
+56_2 S-O
+0
+876.000
+
+  Dep.: 14:53:0
+[addtrip]
+56_2 B-S
+1
+893.000
+
+  Dep.: 15:13:0
+[addtrip]
+56_2 S-O
+1
+913.000
+
+  Dep.: 15:34:0
+[addtrip]
+56_2 B-S
+0
+934.000
+
+  Dep.: 15:58:0
+[addtrip]
+56_2 S-O
+1
+958.000
+
+  Dep.: 16:19:0
+[addtrip]
+56_2 B-S
+0
+979.000
+
+  Dep.: 16:43:0
+[addtrip]
+56_2 S-O
+1
+1003.000
+
+  Dep.: 17:4:0
+[addtrip]
+56_2 B-S
+0
+1024.000
+
+  Dep.: 17:28:0
+[addtrip]
+56_2 S-O
+1
+1048.000
+
+  Dep.: 17:49:0
+[addtrip]
+56_2 B-S
+0
+1069.000
+
+  Dep.: 18:13:0
+[addtrip]
+56_2 S-O
+1
+1093.000
+
+  Dep.: 18:34:0
+[addtrip]
+56_2 B-S
+0
+1114.000
+
+  Dep.: 18:58:0
+[addtrip]
+56_2 S-O
+1
+1138.000
+
+  Dep.: 19:19:0
+[addtrip]
+56_2 B-S
+1
+1159.000
+
+  Dep.: 19:36:0
+[addtrip]
+56_2 S-O
+0
+1176.000
+
+  Dep.: 19:56:0
+[addtrip]
+56_2 B-S
+1
+1196.000
+
+  Dep.: 20:16:0
+[addtrip]
+56_2 S-O
+0
+1216.000
+
+  Dep.: 20:36:0
+[addtrip]
+56_2 B-S
+1
+1236.000
+
+  Dep.: 20:56:0
+[addtrip]
+56_2 S-O
+0
+1256.000
+
+  Dep.: 21:16:0
+[addtrip]
+56_2 B-S
+1
+1276.000
+
+  Dep.: 21:36:0
+[addtrip]
+56_2 S-O
+0
+1296.000
+
+  Dep.: 21:53:0
+[addtrip]
+56_2 B-S
+1
+1313.000
+
+  Dep.: 22:10:0
+[addtrip]
+56_2 S-O
+0
+1330.000
+
+  Dep.: 22:30:0
+[addtrip]
+56_2 B-S
+1
+1350.000
+
+  Dep.: 22:50:0
+[addtrip]
+56_2 S-O
+2
+1370.000
+
+  Dep.: 23:12:0
+[addtrip]
+56_2 B-S
+2
+1392.000
+
+  Dep.: 23:34:0
+[addtrip]
+56_2 S-O
+2
+1414.000
+
+  Dep.: 23:56:0
+[addtrip]
+56_2 B-S
+2
+1436.000
+
+  Dep.: 24:18:0
+[addtrip]
+56_2 S-O
+2
+1458.000
+
+  Dep.: 24:40:0
+[addtrip]
+56_2 B-S
+2
+1480.000
+
+  Dep.: 24:54:0
+[addtrip]
+56 S-F
+0
+1494.000
+
+------------------------------------
+
+[newtour]
+56_1_7
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:44:0
+[addtrip]
+56 F-E
+0
+344.000
+
+  Dep.: 6:1:30
+[addtrip]
+56B Sheppard Stn
+1
+361.500
+
+  Dep.: 6:23:30
+[addtrip]
+56_3 S-O
+1
+383.500
+
+  Dep.: 6:48:30
+[addtrip]
+56_3 B-S
+0
+408.500
+
+  Dep.: 7:8:30
+[addtrip]
+56_3 S-O
+1
+428.500
+
+  Dep.: 7:33:30
+[addtrip]
+56_3 B-S
+0
+453.500
+
+  Dep.: 7:53:30
+[addtrip]
+56_3 S-O
+1
+473.500
+
+  Dep.: 8:18:30
+[addtrip]
+56_3 B-S
+0
+498.500
+
+  Dep.: 8:38:30
+[addtrip]
+56_3 S-O
+1
+518.500
+
+  Dep.: 9:3:30
+[addtrip]
+56_3 B-S
+0
+543.500
+
+  Dep.: 9:24:0
+[addtrip]
+56_3 S-O
+0
+564.000
+
+  Dep.: 9:42:0
+[addtrip]
+56_3 B-S
+1
+582.000
+
+  Dep.: 10:0:0
+[addtrip]
+56_3 S-O
+0
+600.000
+
+  Dep.: 10:18:0
+[addtrip]
+56_3 B-S
+1
+618.000
+
+  Dep.: 10:36:0
+[addtrip]
+56_3 S-O
+0
+636.000
+
+  Dep.: 10:54:0
+[addtrip]
+56_3 B-S
+1
+654.000
+
+  Dep.: 11:12:0
+[addtrip]
+56_3 S-O
+0
+672.000
+
+  Dep.: 11:30:0
+[addtrip]
+56_3 B-S
+1
+690.000
+
+  Dep.: 11:48:0
+[addtrip]
+56_3 S-O
+0
+708.000
+
+  Dep.: 12:6:0
+[addtrip]
+56_3 B-S
+1
+726.000
+
+  Dep.: 12:24:0
+[addtrip]
+56_3 S-O
+0
+744.000
+
+  Dep.: 12:42:0
+[addtrip]
+56_3 B-S
+1
+762.000
+
+  Dep.: 13:0:0
+[addtrip]
+56_3 S-O
+0
+780.000
+
+  Dep.: 13:18:0
+[addtrip]
+56_3 B-S
+1
+798.000
+
+  Dep.: 13:36:0
+[addtrip]
+56_3 S-O
+0
+816.000
+
+  Dep.: 13:54:0
+[addtrip]
+56_3 B-S
+1
+834.000
+
+  Dep.: 14:12:0
+[addtrip]
+56_3 S-O
+0
+852.000
+
+  Dep.: 14:29:0
+[addtrip]
+56_3 B-S
+1
+869.000
+
+  Dep.: 14:48:0
+[addtrip]
+56_3 S-O
+0
+888.000
+
+  Dep.: 15:4:0
+[addtrip]
+56_3 B-K-S
+0
+904.000
+
+  Dep.: 15:28:0
+[addtrip]
+56_3 S-O
+1
+928.000
+
+  Dep.: 15:49:0
+[addtrip]
+56_3 B-S
+0
+949.000
+
+  Dep.: 16:13:0
+[addtrip]
+56_3 S-O
+1
+973.000
+
+  Dep.: 16:34:0
+[addtrip]
+56_3 B-S
+0
+994.000
+
+  Dep.: 16:58:0
+[addtrip]
+56_3 S-O
+1
+1018.000
+
+  Dep.: 17:19:0
+[addtrip]
+56_3 B-S
+0
+1039.000
+
+  Dep.: 17:43:0
+[addtrip]
+56_3 S-O
+1
+1063.000
+
+  Dep.: 18:4:0
+[addtrip]
+56_3 B-S
+0
+1084.000
+
+  Dep.: 18:28:0
+[addtrip]
+56_3 S-O
+1
+1108.000
+
+  Dep.: 18:49:0
+[addtrip]
+56_3 B-S
+0
+1129.000
+
+  Dep.: 19:13:0
+[addtrip]
+56_3 S-O
+1
+1153.000
+
+  Dep.: 19:34:0
+[addtrip]
+56_3 B-S
+1
+1174.000
+
+  Dep.: 19:56:0
+[addtrip]
+56_3 S-O
+0
+1196.000
+
+  Dep.: 20:16:0
+[addtrip]
+56_3 B-S
+1
+1216.000
+
+  Dep.: 20:36:0
+[addtrip]
+56_3 S-O
+0
+1236.000
+
+  Dep.: 20:56:0
+[addtrip]
+56_3 B-S
+1
+1256.000
+
+  Dep.: 21:16:0
+[addtrip]
+56_3 S-O
+0
+1276.000
+
+  Dep.: 21:36:0
+[addtrip]
+56_3 B-S
+1
+1296.000
+
+  Dep.: 21:56:0
+[addtrip]
+56_3 S-O
+0
+1316.000
+
+  Dep.: 22:13:0
+[addtrip]
+56_3 B-S
+1
+1333.000
+
+  Dep.: 22:30:0
+[addtrip]
+56_3 S-O
+0
+1350.000
+
+  Dep.: 22:53:0
+[addtrip]
+56_3 B-S
+1
+1373.000
+
+  Dep.: 23:12:0
+[addtrip]
+56_3 S-O
+2
+1392.000
+
+  Dep.: 23:34:0
+[addtrip]
+56_3 B-S
+2
+1414.000
+
+  Dep.: 23:56:0
+[addtrip]
+56_3 S-O
+2
+1436.000
+
+  Dep.: 24:18:0
+[addtrip]
+56_3 B-S
+2
+1458.000
+
+  Dep.: 24:40:0
+[addtrip]
+56_3 S-O
+2
+1480.000
+
+  Dep.: 24:55:0
+[addtrip]
+56_3 B-S
+2
+1495.000
+
+  Dep.: 25:10:0
+[addtrip]
+56_3 S-O
+2
+1510.000
+
+  Dep.: 25:25:0
+[addtrip]
+56_3 B-S
+2
+1525.000
+
+  Dep.: 25:40:0
+[addtrip]
+56_3 S-O
+2
+1540.000
+
+  Dep.: 25:55:0
+[addtrip]
+56_3 B-S
+2
+1555.000
+
+  Dep.: 26:9:0
+[addtrip]
+56 S-F
+0
+1569.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 6:5:0
+[addtrip]
+56 F-S
+0
+365.000
+
+  Dep.: 6:14:0
+[addtrip]
+56 S-O
+0
+374.000
+
+  Dep.: 6:34:0
+[addtrip]
+56 B-S
+1
+394.000
+
+  Dep.: 6:54:0
+[addtrip]
+56 S-O
+0
+414.000
+
+  Dep.: 7:14:0
+[addtrip]
+56 B-S
+1
+434.000
+
+  Dep.: 7:34:0
+[addtrip]
+56 S-O
+0
+454.000
+
+  Dep.: 7:54:0
+[addtrip]
+56 B-S
+1
+474.000
+
+  Dep.: 8:14:0
+[addtrip]
+56 S-O
+0
+494.000
+
+  Dep.: 8:34:0
+[addtrip]
+56 B-S
+1
+514.000
+
+  Dep.: 8:54:0
+[addtrip]
+56 S-O
+0
+534.000
+
+  Dep.: 9:14:0
+[addtrip]
+56 B-S
+1
+554.000
+
+  Dep.: 9:34:0
+[addtrip]
+56 S-O
+0
+574.000
+
+  Dep.: 9:54:0
+[addtrip]
+56 B-S
+1
+594.000
+
+  Dep.: 10:14:0
+[addtrip]
+56 S-O
+0
+614.000
+
+  Dep.: 10:34:0
+[addtrip]
+56 B-S
+1
+634.000
+
+  Dep.: 10:54:0
+[addtrip]
+56 S-O
+0
+654.000
+
+  Dep.: 11:14:0
+[addtrip]
+56 B-S
+1
+674.000
+
+  Dep.: 11:34:0
+[addtrip]
+56 S-O
+0
+694.000
+
+  Dep.: 11:54:0
+[addtrip]
+56 B-S
+1
+714.000
+
+  Dep.: 12:14:0
+[addtrip]
+56 S-O
+0
+734.000
+
+  Dep.: 12:34:0
+[addtrip]
+56 B-S
+1
+754.000
+
+  Dep.: 12:54:0
+[addtrip]
+56 S-O
+0
+774.000
+
+  Dep.: 13:14:0
+[addtrip]
+56 B-S
+1
+794.000
+
+  Dep.: 13:34:0
+[addtrip]
+56 S-O
+0
+814.000
+
+  Dep.: 13:54:0
+[addtrip]
+56 B-S
+1
+834.000
+
+  Dep.: 14:14:0
+[addtrip]
+56 S-O
+0
+854.000
+
+  Dep.: 14:34:0
+[addtrip]
+56 B-S
+1
+874.000
+
+  Dep.: 14:54:0
+[addtrip]
+56 S-O
+0
+894.000
+
+  Dep.: 15:14:0
+[addtrip]
+56 B-S
+1
+914.000
+
+  Dep.: 15:34:0
+[addtrip]
+56 S-O
+0
+934.000
+
+  Dep.: 15:54:0
+[addtrip]
+56 B-S
+1
+954.000
+
+  Dep.: 16:14:0
+[addtrip]
+56 S-O
+0
+974.000
+
+  Dep.: 16:34:0
+[addtrip]
+56 B-S
+1
+994.000
+
+  Dep.: 16:54:0
+[addtrip]
+56 S-O
+0
+1014.000
+
+  Dep.: 17:12:0
+[addtrip]
+56 B-S
+1
+1032.000
+
+  Dep.: 17:30:0
+[addtrip]
+56 S-O
+0
+1050.000
+
+  Dep.: 17:48:0
+[addtrip]
+56 B-S
+1
+1068.000
+
+  Dep.: 18:6:0
+[addtrip]
+56 S-O
+0
+1086.000
+
+  Dep.: 18:24:0
+[addtrip]
+56 B-S
+1
+1104.000
+
+  Dep.: 18:42:0
+[addtrip]
+56 S-O
+0
+1122.000
+
+  Dep.: 19:2:0
+[addtrip]
+56 B-S
+1
+1142.000
+
+  Dep.: 19:22:0
+[addtrip]
+56 S-O
+0
+1162.000
+
+  Dep.: 19:42:0
+[addtrip]
+56 B-S
+1
+1182.000
+
+  Dep.: 20:2:0
+[addtrip]
+56 S-O
+0
+1202.000
+
+  Dep.: 20:22:0
+[addtrip]
+56 B-S
+1
+1222.000
+
+  Dep.: 20:42:0
+[addtrip]
+56 S-O
+0
+1242.000
+
+  Dep.: 21:2:0
+[addtrip]
+56 B-S
+1
+1262.000
+
+  Dep.: 21:22:0
+[addtrip]
+56 S-O
+0
+1282.000
+
+  Dep.: 21:39:0
+[addtrip]
+56 B-S
+1
+1299.000
+
+  Dep.: 21:56:0
+[addtrip]
+56 S-O
+2
+1316.000
+
+  Dep.: 22:11:0
+[addtrip]
+56 B-S
+2
+1331.000
+
+  Dep.: 22:26:0
+[addtrip]
+56 S-O
+2
+1346.000
+
+  Dep.: 22:41:0
+[addtrip]
+56 B-S
+2
+1361.000
+
+  Dep.: 22:56:0
+[addtrip]
+56 S-O
+2
+1376.000
+
+  Dep.: 23:11:0
+[addtrip]
+56 B-S
+2
+1391.000
+
+  Dep.: 23:26:0
+[addtrip]
+56 S-O
+2
+1406.000
+
+  Dep.: 23:41:0
+[addtrip]
+56 B-S
+2
+1421.000
+
+  Dep.: 23:56:0
+[addtrip]
+56 S-O
+2
+1436.000
+
+  Dep.: 24:11:0
+[addtrip]
+56 B-S
+2
+1451.000
+
+  Dep.: 24:26:0
+[addtrip]
+56 S-O
+2
+1466.000
+
+  Dep.: 24:41:0
+[addtrip]
+56 B-S
+2
+1481.000
+
+  Dep.: 24:57:0
+[addtrip]
+56 S-O
+2
+1497.000
+
+  Dep.: 25:13:0
+[addtrip]
+56 B-S
+2
+1513.000
+
+  Dep.: 25:30:0
+[addtrip]
+56 S-O
+2
+1530.000
+
+  Dep.: 25:45:0
+[addtrip]
+56 B-S
+2
+1545.000
+
+  Dep.: 26:0:0
+[addtrip]
+56 S-F
+0
+1560.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 6:25:0
+[addtrip]
+56 F-S
+0
+385.000
+
+  Dep.: 6:34:0
+[addtrip]
+56 S-O
+0
+394.000
+
+  Dep.: 6:54:0
+[addtrip]
+56 B-S
+1
+414.000
+
+  Dep.: 7:14:0
+[addtrip]
+56 S-O
+0
+434.000
+
+  Dep.: 7:34:0
+[addtrip]
+56 B-S
+1
+454.000
+
+  Dep.: 7:54:0
+[addtrip]
+56 S-O
+0
+474.000
+
+  Dep.: 8:14:0
+[addtrip]
+56 B-S
+1
+494.000
+
+  Dep.: 8:34:0
+[addtrip]
+56 S-O
+0
+514.000
+
+  Dep.: 8:54:0
+[addtrip]
+56 B-S
+1
+534.000
+
+  Dep.: 9:14:0
+[addtrip]
+56 S-O
+0
+554.000
+
+  Dep.: 9:34:0
+[addtrip]
+56 B-S
+1
+574.000
+
+  Dep.: 9:54:0
+[addtrip]
+56 S-O
+0
+594.000
+
+  Dep.: 10:14:0
+[addtrip]
+56 B-S
+1
+614.000
+
+  Dep.: 10:34:0
+[addtrip]
+56 S-O
+0
+634.000
+
+  Dep.: 10:54:0
+[addtrip]
+56 B-S
+1
+654.000
+
+  Dep.: 11:14:0
+[addtrip]
+56 S-O
+0
+674.000
+
+  Dep.: 11:34:0
+[addtrip]
+56 B-S
+1
+694.000
+
+  Dep.: 11:54:0
+[addtrip]
+56 S-O
+0
+714.000
+
+  Dep.: 12:14:0
+[addtrip]
+56 B-S
+1
+734.000
+
+  Dep.: 12:34:0
+[addtrip]
+56 S-O
+0
+754.000
+
+  Dep.: 12:54:0
+[addtrip]
+56 B-S
+1
+774.000
+
+  Dep.: 13:14:0
+[addtrip]
+56 S-O
+0
+794.000
+
+  Dep.: 13:34:0
+[addtrip]
+56 B-S
+1
+814.000
+
+  Dep.: 13:54:0
+[addtrip]
+56 S-O
+0
+834.000
+
+  Dep.: 14:14:0
+[addtrip]
+56 B-S
+1
+854.000
+
+  Dep.: 14:34:0
+[addtrip]
+56 S-O
+0
+874.000
+
+  Dep.: 14:54:0
+[addtrip]
+56 B-S
+1
+894.000
+
+  Dep.: 15:14:0
+[addtrip]
+56 S-O
+0
+914.000
+
+  Dep.: 15:34:0
+[addtrip]
+56 B-S
+1
+934.000
+
+  Dep.: 15:54:0
+[addtrip]
+56 S-O
+0
+954.000
+
+  Dep.: 16:14:0
+[addtrip]
+56 B-S
+1
+974.000
+
+  Dep.: 16:34:0
+[addtrip]
+56 S-O
+0
+994.000
+
+  Dep.: 16:54:0
+[addtrip]
+56 B-S
+1
+1014.000
+
+  Dep.: 17:12:0
+[addtrip]
+56 S-O
+0
+1032.000
+
+  Dep.: 17:30:0
+[addtrip]
+56 B-S
+1
+1050.000
+
+  Dep.: 17:48:0
+[addtrip]
+56 S-O
+0
+1068.000
+
+  Dep.: 18:6:0
+[addtrip]
+56 B-S
+1
+1086.000
+
+  Dep.: 18:24:0
+[addtrip]
+56 S-O
+0
+1104.000
+
+  Dep.: 18:42:0
+[addtrip]
+56 B-S
+1
+1122.000
+
+  Dep.: 19:2:0
+[addtrip]
+56 S-O
+0
+1142.000
+
+  Dep.: 19:22:0
+[addtrip]
+56 B-S
+1
+1162.000
+
+  Dep.: 19:42:0
+[addtrip]
+56 S-O
+0
+1182.000
+
+  Dep.: 20:2:0
+[addtrip]
+56 B-S
+1
+1202.000
+
+  Dep.: 20:22:0
+[addtrip]
+56 S-O
+0
+1222.000
+
+  Dep.: 20:42:0
+[addtrip]
+56 B-S
+1
+1242.000
+
+  Dep.: 21:2:0
+[addtrip]
+56 S-O
+0
+1262.000
+
+  Dep.: 21:22:0
+[addtrip]
+56 B-S
+1
+1282.000
+
+  Dep.: 21:40:0
+[addtrip]
+56 S-O
+0
+1300.000
+
+  Dep.: 21:57:0
+[addtrip]
+56 B-S
+2
+1317.000
+
+  Dep.: 22:11:0
+[addtrip]
+56 S-F
+0
+1331.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 6:12:0
+[addtrip]
+81 Thorncliffe Park - Garage
+0
+372.000
+
+  Dep.: 6:17:0
+[addtrip]
+81 Q-S (closed)
+2
+377.000
+
+  Dep.: 6:31:0
+[addtrip]
+56 S-O (closed)
+0
+391.000
+
+  Dep.: 6:48:0
+[addtrip]
+56 B-S (closed)
+1
+408.000
+
+  Dep.: 7:6:0
+[addtrip]
+81 S-Q (closed)
+2
+426.000
+
+  Dep.: 7:20:0
+[addtrip]
+81 Q-S (closed)
+2
+440.000
+
+  Dep.: 7:34:0
+[addtrip]
+56 S-O (closed)
+0
+454.000
+
+  Dep.: 7:51:0
+[addtrip]
+56 B-S (81)
+1
+471.000
+
+  Dep.: 8:9:0
+[addtrip]
+81 Thorncliffe Park R
+2
+489.000
+
+  Dep.: 8:23:0
+[addtrip]
+81 Q-S (56)
+2
+503.000
+
+  Dep.: 8:37:0
+[addtrip]
+56 S-O
+0
+517.000
+
+  Dep.: 8:54:0
+[addtrip]
+56 B-S (81)
+1
+534.000
+
+  Dep.: 9:12:0
+[addtrip]
+81 Thorncliffe Park R
+2
+552.000
+
+  Dep.: 9:26:0
+[addtrip]
+81 Q-S (56)
+2
+566.000
+
+  Dep.: 9:40:0
+[addtrip]
+56 S-O
+0
+580.000
+
+  Dep.: 9:57:0
+[addtrip]
+56 B-S (81)
+1
+597.000
+
+  Dep.: 10:15:0
+[addtrip]
+81 Thorncliffe Park R
+2
+615.000
+
+  Dep.: 10:29:0
+[addtrip]
+81 Q-S (56)
+2
+629.000
+
+  Dep.: 10:43:0
+[addtrip]
+56 S-O
+0
+643.000
+
+  Dep.: 11:0:0
+[addtrip]
+56 B-S (81)
+1
+660.000
+
+  Dep.: 11:18:0
+[addtrip]
+81 Thorncliffe Park R
+2
+678.000
+
+  Dep.: 11:32:0
+[addtrip]
+81 Q-S (56)
+2
+692.000
+
+  Dep.: 11:46:0
+[addtrip]
+56 S-O
+0
+706.000
+
+  Dep.: 12:3:0
+[addtrip]
+56 B-S (81)
+1
+723.000
+
+  Dep.: 12:21:0
+[addtrip]
+81 Thorncliffe Park R
+2
+741.000
+
+  Dep.: 12:35:0
+[addtrip]
+81 Q-S (56)
+2
+755.000
+
+  Dep.: 12:49:0
+[addtrip]
+56 S-O
+0
+769.000
+
+  Dep.: 13:6:0
+[addtrip]
+56 B-S (81)
+1
+786.000
+
+  Dep.: 13:24:0
+[addtrip]
+81 Thorncliffe Park R
+2
+804.000
+
+  Dep.: 13:38:0
+[addtrip]
+81 Q-S (56)
+2
+818.000
+
+  Dep.: 13:52:0
+[addtrip]
+56 S-O
+0
+832.000
+
+  Dep.: 14:9:0
+[addtrip]
+56 B-S (81)
+1
+849.000
+
+  Dep.: 14:27:0
+[addtrip]
+81 Thorncliffe Park R
+2
+867.000
+
+  Dep.: 14:41:0
+[addtrip]
+81 Q-S (56)
+2
+881.000
+
+  Dep.: 14:55:0
+[addtrip]
+56 S-O
+0
+895.000
+
+  Dep.: 15:12:0
+[addtrip]
+56 B-S (81)
+1
+912.000
+
+  Dep.: 15:30:0
+[addtrip]
+81 Thorncliffe Park R
+2
+930.000
+
+  Dep.: 15:44:0
+[addtrip]
+81 Q-S (56)
+2
+944.000
+
+  Dep.: 15:58:0
+[addtrip]
+56 S-O
+0
+958.000
+
+  Dep.: 16:15:0
+[addtrip]
+56 B-S (81)
+1
+975.000
+
+  Dep.: 16:33:0
+[addtrip]
+81 Thorncliffe Park R
+2
+993.000
+
+  Dep.: 16:47:0
+[addtrip]
+81 Q-S (56)
+2
+1007.000
+
+  Dep.: 17:1:0
+[addtrip]
+56 S-O
+0
+1021.000
+
+  Dep.: 17:18:0
+[addtrip]
+56 B-S (81)
+1
+1038.000
+
+  Dep.: 17:36:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1056.000
+
+  Dep.: 17:50:0
+[addtrip]
+81 Q-S (56)
+2
+1070.000
+
+  Dep.: 18:4:0
+[addtrip]
+56 S-O
+0
+1084.000
+
+  Dep.: 18:21:0
+[addtrip]
+56 B-S (81)
+1
+1101.000
+
+  Dep.: 18:39:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1119.000
+
+  Dep.: 18:53:0
+[addtrip]
+81 Q-S (56)
+2
+1133.000
+
+  Dep.: 19:6:0
+[addtrip]
+56 S-O
+0
+1146.000
+
+  Dep.: 19:23:0
+[addtrip]
+56 B-S (81)
+1
+1163.000
+
+  Dep.: 19:40:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1180.000
+
+  Dep.: 19:53:0
+[addtrip]
+81 Q-S (56)
+2
+1193.000
+
+  Dep.: 20:6:0
+[addtrip]
+56 S-O
+0
+1206.000
+
+  Dep.: 20:23:0
+[addtrip]
+56 B-S (81)
+1
+1223.000
+
+  Dep.: 20:40:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1240.000
+
+  Dep.: 20:57:0
+[addtrip]
+81 Q-S (56)
+2
+1257.000
+
+  Dep.: 21:10:0
+[addtrip]
+56 To Quail
+0
+1270.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 6:34:0
+[addtrip]
+81 Thorncliffe Park - Garage
+0
+394.000
+
+  Dep.: 6:38:0
+[addtrip]
+81 Q-S (closed)
+2
+398.000
+
+  Dep.: 6:52:0
+[addtrip]
+56 S-O (closed)
+0
+412.000
+
+  Dep.: 7:9:0
+[addtrip]
+56 B-S (closed)
+1
+429.000
+
+  Dep.: 7:27:0
+[addtrip]
+81 S-Q (closed)
+2
+447.000
+
+  Dep.: 7:41:0
+[addtrip]
+81 Q-S (56)
+2
+461.000
+
+  Dep.: 7:55:0
+[addtrip]
+56 S-O
+0
+475.000
+
+  Dep.: 8:12:0
+[addtrip]
+56 B-S (81)
+1
+492.000
+
+  Dep.: 8:30:0
+[addtrip]
+81 Thorncliffe Park R
+2
+510.000
+
+  Dep.: 8:44:0
+[addtrip]
+81 Q-S (56)
+2
+524.000
+
+  Dep.: 8:58:0
+[addtrip]
+56 S-O
+0
+538.000
+
+  Dep.: 9:15:0
+[addtrip]
+56 B-S (81)
+1
+555.000
+
+  Dep.: 9:33:0
+[addtrip]
+81 Thorncliffe Park R
+2
+573.000
+
+  Dep.: 9:47:0
+[addtrip]
+81 Q-S (56)
+0
+587.000
+
+  Dep.: 10:1:0
+[addtrip]
+56 S-O
+0
+601.000
+
+  Dep.: 10:18:0
+[addtrip]
+56 B-S (81)
+1
+618.000
+
+  Dep.: 10:36:0
+[addtrip]
+81 Thorncliffe Park R
+2
+636.000
+
+  Dep.: 10:50:0
+[addtrip]
+81 Q-S (56)
+0
+650.000
+
+  Dep.: 11:4:0
+[addtrip]
+56 S-O
+0
+664.000
+
+  Dep.: 11:21:0
+[addtrip]
+56 B-S (81)
+1
+681.000
+
+  Dep.: 11:39:0
+[addtrip]
+81 Thorncliffe Park R
+2
+699.000
+
+  Dep.: 11:53:0
+[addtrip]
+81 Q-S (56)
+0
+713.000
+
+  Dep.: 12:7:0
+[addtrip]
+56 S-O
+0
+727.000
+
+  Dep.: 12:24:0
+[addtrip]
+56 B-S (81)
+1
+744.000
+
+  Dep.: 12:42:0
+[addtrip]
+81 Thorncliffe Park R
+2
+762.000
+
+  Dep.: 12:56:0
+[addtrip]
+81 Q-S (56)
+0
+776.000
+
+  Dep.: 13:10:0
+[addtrip]
+56 S-O
+0
+790.000
+
+  Dep.: 13:27:0
+[addtrip]
+56 B-S (81)
+1
+807.000
+
+  Dep.: 13:45:0
+[addtrip]
+81 Thorncliffe Park R
+2
+825.000
+
+  Dep.: 13:59:0
+[addtrip]
+81 Q-S (56)
+0
+839.000
+
+  Dep.: 14:13:0
+[addtrip]
+56 S-O
+0
+853.000
+
+  Dep.: 14:30:0
+[addtrip]
+56 B-S (81)
+1
+870.000
+
+  Dep.: 14:48:0
+[addtrip]
+81 Thorncliffe Park R
+2
+888.000
+
+  Dep.: 15:2:0
+[addtrip]
+81 Q-S (56)
+0
+902.000
+
+  Dep.: 15:16:0
+[addtrip]
+56 S-O
+0
+916.000
+
+  Dep.: 15:33:0
+[addtrip]
+56 B-S (81)
+1
+933.000
+
+  Dep.: 15:51:0
+[addtrip]
+81 Thorncliffe Park R
+2
+951.000
+
+  Dep.: 16:5:0
+[addtrip]
+81 Q-S (56)
+0
+965.000
+
+  Dep.: 16:19:0
+[addtrip]
+56 S-O
+0
+979.000
+
+  Dep.: 16:36:0
+[addtrip]
+56 B-S (81)
+1
+996.000
+
+  Dep.: 16:54:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1014.000
+
+  Dep.: 17:8:0
+[addtrip]
+81 Q-S (56)
+0
+1028.000
+
+  Dep.: 17:22:0
+[addtrip]
+56 S-O
+0
+1042.000
+
+  Dep.: 17:39:0
+[addtrip]
+56 B-S (81)
+1
+1059.000
+
+  Dep.: 17:57:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1077.000
+
+  Dep.: 18:11:0
+[addtrip]
+81 Q-S (56)
+0
+1091.000
+
+  Dep.: 18:25:0
+[addtrip]
+56 S-O
+0
+1105.000
+
+  Dep.: 18:42:0
+[addtrip]
+56 B-S (81)
+1
+1122.000
+
+  Dep.: 19:0:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1140.000
+
+  Dep.: 19:13:0
+[addtrip]
+81 Q-S (56)
+0
+1153.000
+
+  Dep.: 19:26:0
+[addtrip]
+56 S-O
+0
+1166.000
+
+  Dep.: 19:43:0
+[addtrip]
+56 B-S (81)
+1
+1183.000
+
+  Dep.: 20:0:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1200.000
+
+  Dep.: 20:13:0
+[addtrip]
+81 Q-S (56)
+0
+1213.000
+
+  Dep.: 20:26:0
+[addtrip]
+56 S-O
+0
+1226.000
+
+  Dep.: 20:43:0
+[addtrip]
+56 B-S (81)
+1
+1243.000
+
+  Dep.: 21:0:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1260.000
+
+  Dep.: 21:16:0
+[addtrip]
+81 Thorncliffe Park
+2
+1276.000
+
+  Dep.: 21:30:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1290.000
+
+  Dep.: 21:46:0
+[addtrip]
+81 Thorncliffe Park
+2
+1306.000
+
+  Dep.: 22:0:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1320.000
+
+  Dep.: 22:16:0
+[addtrip]
+81 Thorncliffe Park
+2
+1336.000
+
+  Dep.: 22:30:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1350.000
+
+  Dep.: 22:46:0
+[addtrip]
+81 Thorncliffe Park
+2
+1366.000
+
+  Dep.: 23:0:0
+[addtrip]
+81 Thorncliffe Park R
+0
+1380.000
+
+  Dep.: 23:18:0
+[addtrip]
+81 Thorncliffe Park
+0
+1398.000
+
+  Dep.: 23:30:0
+[addtrip]
+81 Thorncliffe Park R
+0
+1410.000
+
+  Dep.: 23:48:0
+[addtrip]
+81 Thorncliffe Park
+0
+1428.000
+
+  Dep.: 24:0:0
+[addtrip]
+81 Thorncliffe Park R
+0
+1440.000
+
+  Dep.: 24:18:0
+[addtrip]
+81 Thorncliffe Park
+0
+1458.000
+
+  Dep.: 24:30:0
+[addtrip]
+81 Thorncliffe Park R
+0
+1470.000
+
+  Dep.: 24:41:0
+[addtrip]
+81 Thorncliffe Park
+0
+1481.000
+
+  Dep.: 24:52:30
+[addtrip]
+81 Thorncliffe Park R
+0
+1492.500
+
+  Dep.: 25:4:0
+[addtrip]
+81 Thorncliffe Park
+0
+1504.000
+
+  Dep.: 25:16:0
+[addtrip]
+81 Thorncliffe Park R
+0
+1516.000
+
+  Dep.: 25:28:0
+[addtrip]
+81 Thorncliffe Park
+0
+1528.000
+
+  Dep.: 25:40:0
+[addtrip]
+81 Thorncliffe Park R
+0
+1540.000
+
+  Dep.: 25:50:0
+[addtrip]
+81 Thorncliffe Park R - Garage
+0
+1550.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 6:54:0
+[addtrip]
+81 Thorncliffe Park - Garage
+0
+414.000
+
+  Dep.: 6:59:0
+[addtrip]
+81 Q-S (closed)
+2
+419.000
+
+  Dep.: 7:13:0
+[addtrip]
+56 S-O (closed)
+0
+433.000
+
+  Dep.: 7:30:0
+[addtrip]
+56 B-S (closed)
+1
+450.000
+
+  Dep.: 7:48:0
+[addtrip]
+81 S-Q (closed)
+2
+468.000
+
+  Dep.: 8:2:0
+[addtrip]
+81 Q-S (56)
+2
+482.000
+
+  Dep.: 8:16:0
+[addtrip]
+56 S-O
+0
+496.000
+
+  Dep.: 8:33:0
+[addtrip]
+56 B-S (81)
+1
+513.000
+
+  Dep.: 8:51:0
+[addtrip]
+81 Thorncliffe Park R
+2
+531.000
+
+  Dep.: 9:5:0
+[addtrip]
+81 Q-S (56)
+2
+545.000
+
+  Dep.: 9:19:0
+[addtrip]
+56 S-O
+0
+559.000
+
+  Dep.: 9:36:0
+[addtrip]
+56 B-S (81)
+1
+576.000
+
+  Dep.: 9:54:0
+[addtrip]
+81 Thorncliffe Park R
+2
+594.000
+
+  Dep.: 10:8:0
+[addtrip]
+81 Q-S (56)
+2
+608.000
+
+  Dep.: 10:22:0
+[addtrip]
+56 S-O
+0
+622.000
+
+  Dep.: 10:39:0
+[addtrip]
+56 B-S (81)
+1
+639.000
+
+  Dep.: 10:57:0
+[addtrip]
+81 Thorncliffe Park R
+2
+657.000
+
+  Dep.: 11:11:0
+[addtrip]
+81 Q-S (56)
+2
+671.000
+
+  Dep.: 11:25:0
+[addtrip]
+56 S-O
+0
+685.000
+
+  Dep.: 11:42:0
+[addtrip]
+56 B-S (81)
+1
+702.000
+
+  Dep.: 12:0:0
+[addtrip]
+81 Thorncliffe Park R
+2
+720.000
+
+  Dep.: 12:14:0
+[addtrip]
+81 Q-S (56)
+2
+734.000
+
+  Dep.: 12:28:0
+[addtrip]
+56 S-O
+0
+748.000
+
+  Dep.: 12:45:0
+[addtrip]
+56 B-S (81)
+1
+765.000
+
+  Dep.: 13:3:0
+[addtrip]
+81 Thorncliffe Park R
+2
+783.000
+
+  Dep.: 13:17:0
+[addtrip]
+81 Q-S (56)
+2
+797.000
+
+  Dep.: 13:31:0
+[addtrip]
+56 S-O
+0
+811.000
+
+  Dep.: 13:48:0
+[addtrip]
+56 B-S (81)
+1
+828.000
+
+  Dep.: 14:6:0
+[addtrip]
+81 Thorncliffe Park R
+2
+846.000
+
+  Dep.: 14:20:0
+[addtrip]
+81 Q-S (56)
+2
+860.000
+
+  Dep.: 14:34:0
+[addtrip]
+56 S-O
+0
+874.000
+
+  Dep.: 14:51:0
+[addtrip]
+56 B-S (81)
+1
+891.000
+
+  Dep.: 15:9:0
+[addtrip]
+81 Thorncliffe Park R
+2
+909.000
+
+  Dep.: 15:23:0
+[addtrip]
+81 Q-S (56)
+2
+923.000
+
+  Dep.: 15:37:0
+[addtrip]
+56 S-O
+0
+937.000
+
+  Dep.: 15:54:0
+[addtrip]
+56 B-S (81)
+1
+954.000
+
+  Dep.: 16:12:0
+[addtrip]
+81 Thorncliffe Park R
+2
+972.000
+
+  Dep.: 16:26:0
+[addtrip]
+81 Q-S (56)
+2
+986.000
+
+  Dep.: 16:40:0
+[addtrip]
+56 S-O
+0
+1000.000
+
+  Dep.: 16:57:0
+[addtrip]
+56 B-S (81)
+1
+1017.000
+
+  Dep.: 17:15:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1035.000
+
+  Dep.: 17:29:0
+[addtrip]
+81 Q-S (56)
+2
+1049.000
+
+  Dep.: 17:43:0
+[addtrip]
+56 S-O
+0
+1063.000
+
+  Dep.: 18:0:0
+[addtrip]
+56 B-S (81)
+1
+1080.000
+
+  Dep.: 18:18:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1098.000
+
+  Dep.: 18:32:0
+[addtrip]
+81 Q-S (56)
+2
+1112.000
+
+  Dep.: 18:46:0
+[addtrip]
+56 S-O
+0
+1126.000
+
+  Dep.: 19:3:0
+[addtrip]
+56 B-S (81)
+1
+1143.000
+
+  Dep.: 19:20:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1160.000
+
+  Dep.: 19:33:0
+[addtrip]
+81 Q-S (56)
+2
+1173.000
+
+  Dep.: 19:46:0
+[addtrip]
+56 S-O
+0
+1186.000
+
+  Dep.: 20:3:0
+[addtrip]
+56 B-S (81)
+1
+1203.000
+
+  Dep.: 20:20:0
+[addtrip]
+81 Thorncliffe Park R
+2
+1220.000
+
+  Dep.: 20:33:0
+[addtrip]
+81 Q-S (56)
+2
+1233.000
+
+  Dep.: 20:46:0
+[addtrip]
+56 S-O
+2
+1246.000
+
+  Dep.: 21:0:0
+[addtrip]
+56 B-S
+2
+1260.000
+
+  Dep.: 21:15:0
+[addtrip]
+56 S-O
+2
+1275.000
+
+  Dep.: 21:30:0
+[addtrip]
+56 B-S
+2
+1290.000
+
+  Dep.: 21:45:0
+[addtrip]
+56 S-O
+2
+1305.000
+
+  Dep.: 22:0:0
+[addtrip]
+56 B-S
+2
+1320.000
+
+  Dep.: 22:15:0
+[addtrip]
+56 S-O
+2
+1335.000
+
+  Dep.: 22:30:0
+[addtrip]
+56 B-S
+2
+1350.000
+
+  Dep.: 22:45:0
+[addtrip]
+56 S-O
+2
+1365.000
+
+  Dep.: 23:0:0
+[addtrip]
+56 B-S
+2
+1380.000
+
+  Dep.: 23:15:0
+[addtrip]
+56 S-O
+2
+1395.000
+
+  Dep.: 23:30:0
+[addtrip]
+56 B-S
+2
+1410.000
+
+  Dep.: 23:45:0
+[addtrip]
+56 S-O
+2
+1425.000
+
+  Dep.: 24:0:0
+[addtrip]
+56 B-S
+2
+1440.000
+
+  Dep.: 24:15:0
+[addtrip]
+56 S-O
+2
+1455.000
+
+  Dep.: 24:30:0
+[addtrip]
+56 B-S
+2
+1470.000
+
+  Dep.: 24:45:0
+[addtrip]
+56 S-O
+2
+1485.000
+
+  Dep.: 25:0:0
+[addtrip]
+56 B-S
+2
+1500.000
+
+  Dep.: 25:14:0
+[addtrip]
+56 S-O
+2
+1514.000
+
+  Dep.: 25:28:0
+[addtrip]
+56 B-S (81)
+2
+1528.000
+
+  Dep.: 25:41:0
+[addtrip]
+81 Thorncliffe Park R
+0
+1541.000
+
+  Dep.: 25:51:0
+[addtrip]
+81 Thorncliffe Park R - Garage
+0
+1551.000
+

@@ -1,0 +1,1721 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+Run 1
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:11:0
+[addtrip]
+36 Garage Rippleton
+0
+311.000
+
+  Dep.: 5:40:0
+[addtrip]
+36B Yonge
+0
+340.000
+
+  Dep.: 6:11:30
+[addtrip]
+36B Rippleton
+0
+371.500
+
+  Dep.: 6:43:0
+[addtrip]
+36B Yonge
+0
+403.000
+
+  Dep.: 7:14:30
+[addtrip]
+36B Rippleton
+0
+434.500
+
+  Dep.: 7:46:0
+[addtrip]
+36B Yonge
+0
+466.000
+
+  Dep.: 8:17:30
+[addtrip]
+36B Rippleton
+0
+497.500
+
+  Dep.: 8:49:0
+[addtrip]
+36B Yonge
+0
+529.000
+
+  Dep.: 9:20:30
+[addtrip]
+36B Rippleton
+0
+560.500
+
+  Dep.: 9:52:0
+[addtrip]
+36B Yonge
+0
+592.000
+
+  Dep.: 10:23:30
+[addtrip]
+36B Rippleton
+0
+623.500
+
+  Dep.: 10:55:0
+[addtrip]
+36B Yonge
+0
+655.000
+
+  Dep.: 11:26:30
+[addtrip]
+36B Rippleton
+0
+686.500
+
+  Dep.: 11:58:0
+[addtrip]
+36B Yonge
+0
+718.000
+
+  Dep.: 12:29:30
+[addtrip]
+36B Rippleton
+0
+749.500
+
+  Dep.: 13:1:0
+[addtrip]
+36B Yonge
+0
+781.000
+
+  Dep.: 13:32:30
+[addtrip]
+36B Rippleton
+0
+812.500
+
+  Dep.: 14:4:0
+[addtrip]
+36B Yonge
+0
+844.000
+
+  Dep.: 14:35:30
+[addtrip]
+36B Rippleton
+0
+875.500
+
+  Dep.: 15:7:0
+[addtrip]
+36B Yonge
+0
+907.000
+
+  Dep.: 15:38:30
+[addtrip]
+36B Rippleton
+0
+938.500
+
+  Dep.: 16:10:0
+[addtrip]
+36B Yonge
+0
+970.000
+
+  Dep.: 16:41:30
+[addtrip]
+36B Rippleton
+0
+1001.500
+
+  Dep.: 17:13:0
+[addtrip]
+36B Yonge
+0
+1033.000
+
+  Dep.: 17:44:30
+[addtrip]
+36B Rippleton
+0
+1064.500
+
+  Dep.: 18:16:0
+[addtrip]
+36B Yonge
+0
+1096.000
+
+  Dep.: 18:47:30
+[addtrip]
+36B Rippleton
+0
+1127.500
+
+  Dep.: 19:19:0
+[addtrip]
+36B Yonge
+0
+1159.000
+
+  Dep.: 19:50:30
+[addtrip]
+36B Rippleton
+0
+1190.500
+
+  Dep.: 20:22:0
+[addtrip]
+36B Yonge
+0
+1222.000
+
+  Dep.: 20:53:30
+[addtrip]
+36B Rippleton
+0
+1253.500
+
+  Dep.: 21:25:0
+[addtrip]
+36B Yonge
+0
+1285.000
+
+  Dep.: 22:0:0
+[addtrip]
+36B Rippleton
+0
+1320.000
+
+  Dep.: 22:35:0
+[addtrip]
+36B Yonge
+0
+1355.000
+
+  Dep.: 23:10:0
+[addtrip]
+36B Rippleton
+0
+1390.000
+
+  Dep.: 23:45:0
+[addtrip]
+36B Yonge
+0
+1425.000
+
+  Dep.: 24:20:0
+[addtrip]
+36B Rippleton
+0
+1460.000
+
+  Dep.: 24:55:0
+[addtrip]
+36B Yonge
+0
+1495.000
+
+  Dep.: 25:30:0
+[addtrip]
+36B Rippleton
+0
+1530.000
+
+------------------------------------
+
+[newtour]
+Run 2
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:22:0
+[addtrip]
+36 Garage Rippleton
+0
+322.000
+
+  Dep.: 5:49:0
+[addtrip]
+36B Yonge
+0
+349.000
+
+  Dep.: 6:20:30
+[addtrip]
+36B Rippleton
+0
+380.500
+
+  Dep.: 6:52:0
+[addtrip]
+36B Yonge
+0
+412.000
+
+  Dep.: 7:23:30
+[addtrip]
+36B Rippleton
+0
+443.500
+
+  Dep.: 7:55:0
+[addtrip]
+36B Yonge
+0
+475.000
+
+  Dep.: 8:26:30
+[addtrip]
+36B Rippleton
+0
+506.500
+
+  Dep.: 8:58:0
+[addtrip]
+36B Yonge
+0
+538.000
+
+  Dep.: 9:29:30
+[addtrip]
+36B Rippleton
+0
+569.500
+
+  Dep.: 10:1:0
+[addtrip]
+36B Yonge
+0
+601.000
+
+  Dep.: 10:32:30
+[addtrip]
+36B Rippleton
+0
+632.500
+
+  Dep.: 11:4:0
+[addtrip]
+36B Yonge
+0
+664.000
+
+  Dep.: 11:35:30
+[addtrip]
+36B Rippleton
+0
+695.500
+
+  Dep.: 12:7:0
+[addtrip]
+36B Yonge
+0
+727.000
+
+  Dep.: 12:38:30
+[addtrip]
+36B Rippleton
+0
+758.500
+
+  Dep.: 13:10:0
+[addtrip]
+36B Yonge
+0
+790.000
+
+  Dep.: 13:41:30
+[addtrip]
+36B Rippleton
+0
+821.500
+
+  Dep.: 14:13:0
+[addtrip]
+36B Yonge
+0
+853.000
+
+  Dep.: 14:44:30
+[addtrip]
+36B Rippleton
+0
+884.500
+
+  Dep.: 15:16:0
+[addtrip]
+36B Yonge
+0
+916.000
+
+  Dep.: 15:47:30
+[addtrip]
+36B Rippleton
+0
+947.500
+
+  Dep.: 16:19:0
+[addtrip]
+36B Yonge
+0
+979.000
+
+  Dep.: 16:50:30
+[addtrip]
+36B Rippleton
+0
+1010.500
+
+  Dep.: 17:22:0
+[addtrip]
+36B Yonge
+0
+1042.000
+
+  Dep.: 17:53:30
+[addtrip]
+36B Rippleton
+0
+1073.500
+
+  Dep.: 18:25:0
+[addtrip]
+36B Yonge
+0
+1105.000
+
+  Dep.: 18:56:30
+[addtrip]
+36B Rippleton
+0
+1136.500
+
+  Dep.: 19:28:0
+[addtrip]
+36B Yonge
+0
+1168.000
+
+  Dep.: 19:59:30
+[addtrip]
+36B Rippleton
+0
+1199.500
+
+  Dep.: 20:31:0
+[addtrip]
+36B Yonge
+0
+1231.000
+
+  Dep.: 21:2:30
+[addtrip]
+36B Rippleton
+0
+1262.500
+
+  Dep.: 21:35:0
+[addtrip]
+36B Yonge
+0
+1295.000
+
+  Dep.: 22:10:0
+[addtrip]
+36B Rippleton
+0
+1330.000
+
+  Dep.: 22:45:0
+[addtrip]
+36B Yonge
+0
+1365.000
+
+  Dep.: 23:20:0
+[addtrip]
+36B Rippleton
+0
+1400.000
+
+  Dep.: 23:55:0
+[addtrip]
+36B Yonge
+0
+1435.000
+
+  Dep.: 24:30:0
+[addtrip]
+36B Rippleton
+0
+1470.000
+
+  Dep.: 25:5:0
+[addtrip]
+36B Yonge
+0
+1505.000
+
+  Dep.: 25:40:0
+[addtrip]
+36B Rippleton
+0
+1540.000
+
+------------------------------------
+
+[newtour]
+Run 3
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:33:0
+[addtrip]
+36 Garage Rippleton
+0
+333.000
+
+  Dep.: 5:58:0
+[addtrip]
+36B Yonge
+0
+358.000
+
+  Dep.: 6:29:30
+[addtrip]
+36B Rippleton
+0
+389.500
+
+  Dep.: 7:1:0
+[addtrip]
+36B Yonge
+0
+421.000
+
+  Dep.: 7:32:30
+[addtrip]
+36B Rippleton
+0
+452.500
+
+  Dep.: 8:4:0
+[addtrip]
+36B Yonge
+0
+484.000
+
+  Dep.: 8:35:30
+[addtrip]
+36B Rippleton
+0
+515.500
+
+  Dep.: 9:7:0
+[addtrip]
+36B Yonge
+0
+547.000
+
+  Dep.: 9:38:30
+[addtrip]
+36B Rippleton
+0
+578.500
+
+  Dep.: 10:10:0
+[addtrip]
+36B Yonge
+0
+610.000
+
+  Dep.: 10:41:30
+[addtrip]
+36B Rippleton
+0
+641.500
+
+  Dep.: 11:13:0
+[addtrip]
+36B Yonge
+0
+673.000
+
+  Dep.: 11:44:30
+[addtrip]
+36B Rippleton
+0
+704.500
+
+  Dep.: 12:16:0
+[addtrip]
+36B Yonge
+0
+736.000
+
+  Dep.: 12:47:30
+[addtrip]
+36B Rippleton
+0
+767.500
+
+  Dep.: 13:19:0
+[addtrip]
+36B Yonge
+0
+799.000
+
+  Dep.: 13:50:30
+[addtrip]
+36B Rippleton
+0
+830.500
+
+  Dep.: 14:22:0
+[addtrip]
+36B Yonge
+0
+862.000
+
+  Dep.: 14:53:30
+[addtrip]
+36B Rippleton
+0
+893.500
+
+  Dep.: 15:25:0
+[addtrip]
+36B Yonge
+0
+925.000
+
+  Dep.: 15:56:30
+[addtrip]
+36B Rippleton
+0
+956.500
+
+  Dep.: 16:28:0
+[addtrip]
+36B Yonge
+0
+988.000
+
+  Dep.: 16:59:30
+[addtrip]
+36B Rippleton
+0
+1019.500
+
+  Dep.: 17:31:0
+[addtrip]
+36B Yonge
+0
+1051.000
+
+  Dep.: 18:2:30
+[addtrip]
+36B Rippleton
+0
+1082.500
+
+  Dep.: 18:34:0
+[addtrip]
+36B Yonge
+0
+1114.000
+
+  Dep.: 19:5:30
+[addtrip]
+36B Rippleton
+0
+1145.500
+
+  Dep.: 19:37:0
+[addtrip]
+36B Yonge
+0
+1177.000
+
+  Dep.: 20:8:30
+[addtrip]
+36B Rippleton
+0
+1208.500
+
+  Dep.: 20:40:0
+[addtrip]
+36B Yonge
+0
+1240.000
+
+  Dep.: 21:11:30
+[addtrip]
+36B Rippleton
+0
+1271.500
+
+  Dep.: 21:45:0
+[addtrip]
+36B Yonge
+0
+1305.000
+
+  Dep.: 22:20:0
+[addtrip]
+36B Rippleton
+0
+1340.000
+
+  Dep.: 22:55:0
+[addtrip]
+36B Yonge
+0
+1375.000
+
+  Dep.: 23:30:0
+[addtrip]
+36B Rippleton
+0
+1410.000
+
+  Dep.: 24:5:0
+[addtrip]
+36B Yonge
+0
+1445.000
+
+  Dep.: 24:40:0
+[addtrip]
+36B Rippleton
+0
+1480.000
+
+  Dep.: 25:15:0
+[addtrip]
+36B Yonge
+0
+1515.000
+
+  Dep.: 25:50:0
+[addtrip]
+36B Rippleton
+0
+1550.000
+
+------------------------------------
+
+[newtour]
+Run 4
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:43:0
+[addtrip]
+36 Garage Rippleton
+0
+343.000
+
+  Dep.: 6:7:0
+[addtrip]
+36B Yonge
+0
+367.000
+
+  Dep.: 6:38:30
+[addtrip]
+36B Rippleton
+0
+398.500
+
+  Dep.: 7:10:0
+[addtrip]
+36B Yonge
+0
+430.000
+
+  Dep.: 7:41:30
+[addtrip]
+36B Rippleton
+0
+461.500
+
+  Dep.: 8:13:0
+[addtrip]
+36B Yonge
+0
+493.000
+
+  Dep.: 8:44:30
+[addtrip]
+36B Rippleton
+0
+524.500
+
+  Dep.: 9:16:0
+[addtrip]
+36B Yonge
+0
+556.000
+
+  Dep.: 9:47:30
+[addtrip]
+36B Rippleton
+0
+587.500
+
+  Dep.: 10:19:0
+[addtrip]
+36B Yonge
+0
+619.000
+
+  Dep.: 10:50:30
+[addtrip]
+36B Rippleton
+0
+650.500
+
+  Dep.: 11:22:0
+[addtrip]
+36B Yonge
+0
+682.000
+
+  Dep.: 11:53:30
+[addtrip]
+36B Rippleton
+0
+713.500
+
+  Dep.: 12:25:0
+[addtrip]
+36B Yonge
+0
+745.000
+
+  Dep.: 12:56:30
+[addtrip]
+36B Rippleton
+0
+776.500
+
+  Dep.: 13:28:0
+[addtrip]
+36B Yonge
+0
+808.000
+
+  Dep.: 13:59:30
+[addtrip]
+36B Rippleton
+0
+839.500
+
+  Dep.: 14:31:0
+[addtrip]
+36B Yonge
+0
+871.000
+
+  Dep.: 15:2:30
+[addtrip]
+36B Rippleton
+0
+902.500
+
+  Dep.: 15:34:0
+[addtrip]
+36B Yonge
+0
+934.000
+
+  Dep.: 16:5:30
+[addtrip]
+36B Rippleton
+0
+965.500
+
+  Dep.: 16:37:0
+[addtrip]
+36B Yonge
+0
+997.000
+
+  Dep.: 17:8:30
+[addtrip]
+36B Rippleton
+0
+1028.500
+
+  Dep.: 17:40:0
+[addtrip]
+36B Yonge
+0
+1060.000
+
+  Dep.: 18:11:30
+[addtrip]
+36B Rippleton
+0
+1091.500
+
+  Dep.: 18:43:0
+[addtrip]
+36B Yonge
+0
+1123.000
+
+  Dep.: 19:14:30
+[addtrip]
+36B Rippleton
+0
+1154.500
+
+  Dep.: 19:46:0
+[addtrip]
+36B Yonge
+0
+1186.000
+
+  Dep.: 20:17:30
+[addtrip]
+36B Rippleton
+0
+1217.500
+
+  Dep.: 20:49:0
+[addtrip]
+36B Yonge
+0
+1249.000
+
+  Dep.: 21:20:0
+[addtrip]
+36B Rippleton
+0
+1280.000
+
+  Dep.: 21:55:0
+[addtrip]
+36B Yonge
+0
+1315.000
+
+  Dep.: 22:30:0
+[addtrip]
+36B Rippleton
+0
+1350.000
+
+  Dep.: 23:5:0
+[addtrip]
+36B Yonge
+0
+1385.000
+
+  Dep.: 23:40:0
+[addtrip]
+36B Rippleton
+0
+1420.000
+
+  Dep.: 24:15:0
+[addtrip]
+36B Yonge
+0
+1455.000
+
+  Dep.: 24:50:0
+[addtrip]
+36B Rippleton
+0
+1490.000
+
+  Dep.: 25:25:0
+[addtrip]
+36B Yonge
+0
+1525.000
+
+  Dep.: 26:0:0
+[addtrip]
+36B Rippleton
+0
+1560.000
+
+------------------------------------
+
+[newtour]
+Run 5 
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:50:0
+[addtrip]
+36 Garage Rippleton
+0
+350.000
+
+  Dep.: 6:16:0
+[addtrip]
+36B Yonge
+0
+376.000
+
+  Dep.: 6:47:30
+[addtrip]
+36B Rippleton
+0
+407.500
+
+  Dep.: 7:19:0
+[addtrip]
+36B Yonge
+0
+439.000
+
+  Dep.: 7:50:30
+[addtrip]
+36B Rippleton
+0
+470.500
+
+  Dep.: 8:22:0
+[addtrip]
+36B Yonge
+0
+502.000
+
+  Dep.: 8:53:30
+[addtrip]
+36B Rippleton
+0
+533.500
+
+  Dep.: 9:25:0
+[addtrip]
+36B Yonge
+0
+565.000
+
+  Dep.: 9:56:30
+[addtrip]
+36B Rippleton
+0
+596.500
+
+  Dep.: 10:28:0
+[addtrip]
+36B Yonge
+0
+628.000
+
+  Dep.: 10:59:30
+[addtrip]
+36B Rippleton
+0
+659.500
+
+  Dep.: 11:31:0
+[addtrip]
+36B Yonge
+0
+691.000
+
+  Dep.: 12:2:30
+[addtrip]
+36B Rippleton
+0
+722.500
+
+  Dep.: 12:34:0
+[addtrip]
+36B Yonge
+0
+754.000
+
+  Dep.: 13:5:30
+[addtrip]
+36B Rippleton
+0
+785.500
+
+  Dep.: 13:37:0
+[addtrip]
+36B Yonge
+0
+817.000
+
+  Dep.: 14:8:30
+[addtrip]
+36B Rippleton
+0
+848.500
+
+  Dep.: 14:40:0
+[addtrip]
+36B Yonge
+0
+880.000
+
+  Dep.: 15:11:30
+[addtrip]
+36B Rippleton
+0
+911.500
+
+  Dep.: 15:43:0
+[addtrip]
+36B Yonge
+0
+943.000
+
+  Dep.: 16:14:30
+[addtrip]
+36B Rippleton
+0
+974.500
+
+  Dep.: 16:46:0
+[addtrip]
+36B Yonge
+0
+1006.000
+
+  Dep.: 17:17:30
+[addtrip]
+36B Rippleton
+0
+1037.500
+
+  Dep.: 17:49:0
+[addtrip]
+36B Yonge
+0
+1069.000
+
+  Dep.: 18:20:30
+[addtrip]
+36B Rippleton
+0
+1100.500
+
+  Dep.: 18:52:0
+[addtrip]
+36B Yonge
+0
+1132.000
+
+  Dep.: 19:23:30
+[addtrip]
+36B Rippleton
+0
+1163.500
+
+  Dep.: 19:55:0
+[addtrip]
+36B Yonge
+0
+1195.000
+
+  Dep.: 20:26:30
+[addtrip]
+36B Rippleton
+0
+1226.500
+
+  Dep.: 20:58:0
+[addtrip]
+36B Yonge
+0
+1258.000
+
+  Dep.: 21:30:0
+[addtrip]
+36B Rippleton
+0
+1290.000
+
+  Dep.: 22:5:0
+[addtrip]
+36B Yonge
+0
+1325.000
+
+  Dep.: 22:40:0
+[addtrip]
+36B Rippleton
+0
+1360.000
+
+  Dep.: 23:15:0
+[addtrip]
+36B Yonge
+0
+1395.000
+
+  Dep.: 23:50:0
+[addtrip]
+36B Rippleton
+0
+1430.000
+
+  Dep.: 24:25:0
+[addtrip]
+36B Yonge
+0
+1465.000
+
+  Dep.: 25:0:0
+[addtrip]
+36B Rippleton
+0
+1500.000
+
+  Dep.: 25:35:0
+[addtrip]
+36B Yonge
+0
+1535.000
+
+  Dep.: 26:10:0
+[addtrip]
+36B Rippleton
+0
+1570.000
+
+------------------------------------
+
+[newtour]
+Run 6
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:56:0
+[addtrip]
+36 Garage Rippleton
+0
+356.000
+
+  Dep.: 6:25:0
+[addtrip]
+36B Yonge
+0
+385.000
+
+  Dep.: 6:56:30
+[addtrip]
+36B Rippleton
+0
+416.500
+
+  Dep.: 7:28:0
+[addtrip]
+36B Yonge
+0
+448.000
+
+  Dep.: 7:59:30
+[addtrip]
+36B Rippleton
+0
+479.500
+
+  Dep.: 8:31:0
+[addtrip]
+36B Yonge
+0
+511.000
+
+  Dep.: 9:2:30
+[addtrip]
+36B Rippleton
+0
+542.500
+
+  Dep.: 9:34:0
+[addtrip]
+36B Yonge
+0
+574.000
+
+  Dep.: 10:5:30
+[addtrip]
+36B Rippleton
+0
+605.500
+
+  Dep.: 10:37:0
+[addtrip]
+36B Yonge
+0
+637.000
+
+  Dep.: 11:8:30
+[addtrip]
+36B Rippleton
+0
+668.500
+
+  Dep.: 11:40:0
+[addtrip]
+36B Yonge
+0
+700.000
+
+  Dep.: 12:11:30
+[addtrip]
+36B Rippleton
+0
+731.500
+
+  Dep.: 12:43:0
+[addtrip]
+36B Yonge
+0
+763.000
+
+  Dep.: 13:14:30
+[addtrip]
+36B Rippleton
+0
+794.500
+
+  Dep.: 13:46:0
+[addtrip]
+36B Yonge
+0
+826.000
+
+  Dep.: 14:17:30
+[addtrip]
+36B Rippleton
+0
+857.500
+
+  Dep.: 14:49:0
+[addtrip]
+36B Yonge
+0
+889.000
+
+  Dep.: 15:20:30
+[addtrip]
+36B Rippleton
+0
+920.500
+
+  Dep.: 15:52:0
+[addtrip]
+36B Yonge
+0
+952.000
+
+  Dep.: 16:23:30
+[addtrip]
+36B Rippleton
+0
+983.500
+
+  Dep.: 16:55:0
+[addtrip]
+36B Yonge
+0
+1015.000
+
+  Dep.: 17:26:30
+[addtrip]
+36B Rippleton
+0
+1046.500
+
+  Dep.: 17:58:0
+[addtrip]
+36B Yonge
+0
+1078.000
+
+  Dep.: 18:29:30
+[addtrip]
+36B Rippleton
+0
+1109.500
+
+  Dep.: 19:1:0
+[addtrip]
+36B Yonge
+0
+1141.000
+
+  Dep.: 19:32:30
+[addtrip]
+36B Rippleton
+0
+1172.500
+
+  Dep.: 20:4:0
+[addtrip]
+36B Yonge
+0
+1204.000
+
+  Dep.: 20:35:30
+[addtrip]
+36B Rippleton
+0
+1235.500
+
+  Dep.: 21:7:0
+[addtrip]
+36B Yonge
+0
+1267.000
+
+  Dep.: 21:40:0
+[addtrip]
+36B Rippleton
+0
+1300.000
+
+  Dep.: 22:15:0
+[addtrip]
+36B Yonge
+0
+1335.000
+
+  Dep.: 22:50:0
+[addtrip]
+36B Rippleton
+0
+1370.000
+
+  Dep.: 23:25:0
+[addtrip]
+36B Yonge
+0
+1405.000
+
+  Dep.: 24:0:0
+[addtrip]
+36B Rippleton
+0
+1440.000
+
+  Dep.: 24:35:0
+[addtrip]
+36B Yonge
+0
+1475.000
+
+  Dep.: 25:10:0
+[addtrip]
+36B Rippleton
+0
+1510.000
+
+  Dep.: 25:45:0
+[addtrip]
+36B Yonge
+0
+1545.000
+
+  Dep.: 26:17:30
+[addtrip]
+36B Rippleton
+0
+1577.500
+
+------------------------------------
+
+[newtour]
+Run 7
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:4:0
+[addtrip]
+36 Garage Rippleton
+0
+364.000
+
+  Dep.: 6:34:0
+[addtrip]
+36B Yonge
+0
+394.000
+
+  Dep.: 7:5:30
+[addtrip]
+36B Rippleton
+0
+425.500
+
+  Dep.: 7:37:0
+[addtrip]
+36B Yonge
+0
+457.000
+
+  Dep.: 8:8:30
+[addtrip]
+36B Rippleton
+0
+488.500
+
+  Dep.: 8:40:0
+[addtrip]
+36B Yonge
+0
+520.000
+
+  Dep.: 9:11:30
+[addtrip]
+36B Rippleton
+0
+551.500
+
+  Dep.: 9:43:0
+[addtrip]
+36B Yonge
+0
+583.000
+
+  Dep.: 10:14:30
+[addtrip]
+36B Rippleton
+0
+614.500
+
+  Dep.: 10:46:0
+[addtrip]
+36B Yonge
+0
+646.000
+
+  Dep.: 11:17:30
+[addtrip]
+36B Rippleton
+0
+677.500
+
+  Dep.: 11:49:0
+[addtrip]
+36B Yonge
+0
+709.000
+
+  Dep.: 12:20:30
+[addtrip]
+36B Rippleton
+0
+740.500
+
+  Dep.: 12:52:0
+[addtrip]
+36B Yonge
+0
+772.000
+
+  Dep.: 13:23:30
+[addtrip]
+36B Rippleton
+0
+803.500
+
+  Dep.: 13:55:0
+[addtrip]
+36B Yonge
+0
+835.000
+
+  Dep.: 14:26:30
+[addtrip]
+36B Rippleton
+0
+866.500
+
+  Dep.: 14:58:0
+[addtrip]
+36B Yonge
+0
+898.000
+
+  Dep.: 15:29:30
+[addtrip]
+36B Rippleton
+0
+929.500
+
+  Dep.: 16:1:0
+[addtrip]
+36B Yonge
+0
+961.000
+
+  Dep.: 16:32:30
+[addtrip]
+36B Rippleton
+0
+992.500
+
+  Dep.: 17:4:0
+[addtrip]
+36B Yonge
+0
+1024.000
+
+  Dep.: 17:35:30
+[addtrip]
+36B Rippleton
+0
+1055.500
+
+  Dep.: 18:7:0
+[addtrip]
+36B Yonge
+0
+1087.000
+
+  Dep.: 18:38:30
+[addtrip]
+36B Rippleton
+0
+1118.500
+
+  Dep.: 19:10:0
+[addtrip]
+36B Yonge
+0
+1150.000
+
+  Dep.: 19:41:30
+[addtrip]
+36B Rippleton
+0
+1181.500
+
+  Dep.: 20:13:0
+[addtrip]
+36B Yonge
+0
+1213.000
+
+  Dep.: 20:44:30
+[addtrip]
+36B Rippleton
+0
+1244.500
+
+  Dep.: 21:16:0
+[addtrip]
+36B Yonge
+0
+1276.000
+
+  Dep.: 21:50:0
+[addtrip]
+36B Rippleton
+0
+1310.000
+
+  Dep.: 22:25:0
+[addtrip]
+36B Yonge
+0
+1345.000
+
+  Dep.: 23:0:0
+[addtrip]
+36B Rippleton
+0
+1380.000
+
+  Dep.: 23:35:0
+[addtrip]
+36B Yonge
+0
+1415.000
+
+  Dep.: 24:10:0
+[addtrip]
+36B Rippleton
+0
+1450.000
+
+  Dep.: 24:45:0
+[addtrip]
+36B Yonge
+0
+1485.000
+
+  Dep.: 25:20:0
+[addtrip]
+36B Rippleton
+0
+1520.000
+
+  Dep.: 25:55:0
+[addtrip]
+36B Yonge
+0
+1555.000
+
+  Dep.: 26:25:0
+[addtrip]
+36B Rippleton
+0
+1585.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Finch Garage
+1023
+
+------------------------------------
+

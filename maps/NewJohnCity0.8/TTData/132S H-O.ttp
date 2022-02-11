@@ -1,0 +1,49 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+132S Hillside - Oriole
+132S
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+17202
+
+[station_typ2]
+17221
+
+[station_typ2]
+17323
+
+[station_typ2]
+17336
+
+[station_typ2]
+17146
+
+[station_typ2]
+17125
+
+[station_typ2]
+17135
+
+[station_typ2]
+17354
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+

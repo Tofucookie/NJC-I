@@ -1,0 +1,2861 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+4
+------------------------------------
+
+[newtour]
+Run 1
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 5:28:0
+[addtrip]
+97 Yonge - Garage
+0
+328.000
+
+  Dep.: 5:35:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+335.000
+
+  Dep.: 6:20:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+380.000
+
+  Dep.: 7:2:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+422.000
+
+  Dep.: 7:47:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+467.000
+
+  Dep.: 8:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+505.000
+
+  Dep.: 9:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+546.250
+
+  Dep.: 9:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+585.000
+
+  Dep.: 10:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+626.250
+
+  Dep.: 11:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+665.000
+
+  Dep.: 11:46:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+706.250
+
+  Dep.: 12:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+745.000
+
+  Dep.: 13:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+786.250
+
+  Dep.: 13:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+825.000
+
+  Dep.: 14:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+866.250
+
+  Dep.: 15:21:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+921.000
+
+  Dep.: 16:2:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+962.250
+
+  Dep.: 16:41:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1001.000
+
+  Dep.: 17:22:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1042.250
+
+  Dep.: 18:1:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1081.000
+
+  Dep.: 18:42:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1122.250
+
+  Dep.: 19:19:45
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1159.750
+
+  Dep.: 20:2:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1202.250
+
+  Dep.: 20:39:45
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1239.750
+
+  Dep.: 21:22:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1282.250
+
+  Dep.: 22:0:0
+[addtrip]
+97 Yonge - To Garage
+0
+1320.000
+
+------------------------------------
+
+[newtour]
+Run 2
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 5:38:0
+[addtrip]
+97 Yonge - Garage
+0
+338.000
+
+  Dep.: 5:47:30
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+347.500
+
+  Dep.: 6:32:30
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+392.500
+
+  Dep.: 7:14:30
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+434.500
+
+  Dep.: 7:55:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+475.000
+
+  Dep.: 8:35:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+515.000
+
+  Dep.: 9:16:0
+[addtrip]
+97B Yonge - To Garage
+0
+556.000
+
+  Dep.: 14:54:15
+[addtrip]
+Quail-KingscourtPM
+0
+894.250
+
+  Dep.: 15:5:30
+[addtrip]
+97B fromKingsCourt
+0
+905.500
+
+  Dep.: 15:46:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+946.250
+
+  Dep.: 16:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+985.000
+
+  Dep.: 17:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1026.250
+
+  Dep.: 17:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1065.000
+
+  Dep.: 18:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1106.250
+
+  Dep.: 19:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1145.000
+
+  Dep.: 19:46:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1186.250
+
+  Dep.: 20:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1225.000
+
+  Dep.: 21:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1266.250
+
+  Dep.: 21:47:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1307.000
+
+  Dep.: 22:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1350.000
+
+  Dep.: 23:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1395.000
+
+  Dep.: 24:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1440.000
+
+  Dep.: 24:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1485.000
+
+  Dep.: 25:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1530.000
+
+  Dep.: 26:8:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1568.000
+
+  Dep.: 26:36:0
+[addtrip]
+97B Yonge - To Garage
+0
+1596.000
+
+------------------------------------
+
+[newtour]
+Run 3
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 5:48:0
+[addtrip]
+97 Yonge - Garage
+0
+348.000
+
+  Dep.: 6:0:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+360.000
+
+  Dep.: 6:45:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+405.000
+
+  Dep.: 7:27:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+447.000
+
+  Dep.: 8:7:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+487.000
+
+  Dep.: 8:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+525.000
+
+  Dep.: 9:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+566.250
+
+  Dep.: 10:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+605.000
+
+  Dep.: 10:46:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+646.250
+
+  Dep.: 11:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+685.000
+
+  Dep.: 12:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+726.250
+
+  Dep.: 12:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+765.000
+
+  Dep.: 13:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+806.250
+
+  Dep.: 14:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+845.000
+
+  Dep.: 14:48:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+888.250
+
+  Dep.: 15:37:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+937.000
+
+  Dep.: 16:18:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+978.250
+
+  Dep.: 16:57:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1017.000
+
+  Dep.: 17:38:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1058.250
+
+  Dep.: 18:17:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1097.000
+
+  Dep.: 18:58:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1138.250
+
+  Dep.: 19:37:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1177.000
+
+  Dep.: 20:18:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1218.250
+
+  Dep.: 20:57:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1257.000
+
+  Dep.: 21:38:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1298.250
+
+  Dep.: 22:17:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1337.000
+
+  Dep.: 23:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1380.000
+
+  Dep.: 23:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1425.000
+
+  Dep.: 24:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1470.000
+
+  Dep.: 25:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1515.000
+
+  Dep.: 25:43:0
+[addtrip]
+97B Yonge - To Garage
+0
+1543.000
+
+------------------------------------
+
+[newtour]
+Run 4
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 5:58:0
+[addtrip]
+97 Yonge - Garage
+0
+358.000
+
+  Dep.: 6:12:30
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+372.500
+
+  Dep.: 6:57:30
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+417.500
+
+  Dep.: 7:39:30
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+459.500
+
+  Dep.: 8:22:30
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+502.500
+
+  Dep.: 9:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+545.000
+
+  Dep.: 9:46:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+586.250
+
+  Dep.: 10:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+625.000
+
+  Dep.: 11:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+666.250
+
+  Dep.: 11:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+705.000
+
+  Dep.: 12:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+746.250
+
+  Dep.: 13:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+785.000
+
+  Dep.: 13:46:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+826.250
+
+  Dep.: 14:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+865.000
+
+  Dep.: 15:10:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+910.250
+
+  Dep.: 15:53:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+953.000
+
+  Dep.: 16:34:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+994.250
+
+  Dep.: 17:13:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1033.000
+
+  Dep.: 17:54:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1074.250
+
+  Dep.: 18:33:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1113.000
+
+  Dep.: 19:14:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1154.250
+
+  Dep.: 19:53:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1193.000
+
+  Dep.: 20:34:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1234.250
+
+  Dep.: 21:13:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1273.000
+
+  Dep.: 21:54:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1314.250
+
+  Dep.: 22:33:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1353.000
+
+  Dep.: 23:13:0
+[addtrip]
+97B Yonge - To Garage
+0
+1393.000
+
+------------------------------------
+
+[newtour]
+Run 5
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+97 Yonge - Garage
+0
+370.000
+
+  Dep.: 6:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+385.000
+
+  Dep.: 7:10:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+430.000
+
+  Dep.: 7:52:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+472.000
+
+  Dep.: 8:35:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+515.000
+
+  Dep.: 9:15:0
+[addtrip]
+97 Yonge - To Garage
+0
+555.000
+
+------------------------------------
+
+[newtour]
+Run 6
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:25:0
+[addtrip]
+97 Yonge - Garage
+0
+385.000
+
+  Dep.: 6:37:30
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+397.500
+
+  Dep.: 7:22:30
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+442.500
+
+  Dep.: 8:4:30
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+484.500
+
+  Dep.: 8:45:30
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+525.500
+
+  Dep.: 9:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+565.000
+
+  Dep.: 10:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+606.250
+
+  Dep.: 10:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+645.000
+
+  Dep.: 11:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+686.250
+
+  Dep.: 12:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+725.000
+
+  Dep.: 12:46:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+766.250
+
+  Dep.: 13:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+805.000
+
+  Dep.: 14:6:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+846.250
+
+  Dep.: 14:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+885.000
+
+  Dep.: 15:26:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+926.250
+
+  Dep.: 16:9:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+969.000
+
+  Dep.: 16:50:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1010.250
+
+  Dep.: 17:29:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1049.000
+
+  Dep.: 18:10:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1090.250
+
+  Dep.: 18:49:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1129.000
+
+  Dep.: 19:30:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1170.250
+
+  Dep.: 20:9:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1209.000
+
+  Dep.: 20:50:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1250.250
+
+  Dep.: 21:29:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1289.000
+
+  Dep.: 22:10:15
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1330.250
+
+  Dep.: 22:49:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1369.000
+
+  Dep.: 23:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1410.000
+
+  Dep.: 24:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1455.000
+
+  Dep.: 25:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1500.000
+
+  Dep.: 25:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1545.000
+
+  Dep.: 26:24:0
+[addtrip]
+97B Yonge - To Garage
+0
+1584.000
+
+------------------------------------
+
+[newtour]
+Run 7
+Quail Valley Garage ARTICS
+799
+
+------------------------------------
+
+  Dep.: 6:37:30
+[addtrip]
+97 Yonge - Garage
+0
+397.500
+
+  Dep.: 6:50:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+410.000
+
+  Dep.: 7:35:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+455.000
+
+  Dep.: 8:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+495.000
+
+  Dep.: 8:55:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+535.000
+
+  Dep.: 9:35:0
+[addtrip]
+97 Yonge - To Garage
+0
+575.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 5:56:15
+[addtrip]
+97 Yonge - Garage
+0
+356.250
+
+  Dep.: 6:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+365.000
+
+  Dep.: 6:43:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+403.750
+
+  Dep.: 7:22:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+442.000
+
+  Dep.: 7:38:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+458.250
+
+  Dep.: 7:55:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+475.000
+
+  Dep.: 8:33:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+513.750
+
+  Dep.: 9:12:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+552.000
+
+  Dep.: 9:28:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+568.250
+
+  Dep.: 9:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+585.000
+
+  Dep.: 10:23:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+623.750
+
+  Dep.: 11:2:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+662.000
+
+  Dep.: 11:18:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+678.250
+
+  Dep.: 11:35:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+695.000
+
+  Dep.: 12:13:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+733.750
+
+  Dep.: 12:52:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+772.000
+
+  Dep.: 13:8:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+788.250
+
+  Dep.: 13:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+805.000
+
+  Dep.: 14:3:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+843.750
+
+  Dep.: 14:42:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+882.000
+
+  Dep.: 14:58:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+898.250
+
+  Dep.: 15:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+915.000
+
+  Dep.: 15:53:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+953.750
+
+  Dep.: 16:32:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+992.000
+
+  Dep.: 16:48:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1008.250
+
+  Dep.: 17:5:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1025.000
+
+  Dep.: 17:43:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1063.750
+
+  Dep.: 18:22:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1102.000
+
+  Dep.: 18:38:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1118.250
+
+  Dep.: 18:55:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1135.000
+
+  Dep.: 19:33:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1173.750
+
+  Dep.: 20:19:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1219.000
+
+  Dep.: 20:41:30
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1241.500
+
+  Dep.: 20:57:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1257.000
+
+  Dep.: 21:39:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1299.000
+
+  Dep.: 22:21:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1341.000
+
+  Dep.: 23:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1380.000
+
+  Dep.: 23:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1425.000
+
+  Dep.: 24:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1470.000
+
+  Dep.: 25:12:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1512.000
+
+  Dep.: 25:53:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1553.000
+
+  Dep.: 26:24:0
+[addtrip]
+97 Yonge - To Garage
+0
+1584.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 6:17:0
+[addtrip]
+97 Yonge - Garage
+0
+377.000
+
+  Dep.: 6:27:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+387.000
+
+  Dep.: 7:5:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+425.750
+
+  Dep.: 7:44:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+464.000
+
+  Dep.: 8:0:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+480.250
+
+  Dep.: 8:17:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+497.000
+
+  Dep.: 8:55:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+535.750
+
+  Dep.: 9:34:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+574.000
+
+  Dep.: 9:50:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+590.250
+
+  Dep.: 10:7:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+607.000
+
+  Dep.: 10:45:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+645.750
+
+  Dep.: 11:24:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+684.000
+
+  Dep.: 11:40:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+700.250
+
+  Dep.: 11:57:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+717.000
+
+  Dep.: 12:35:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+755.750
+
+  Dep.: 13:14:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+794.000
+
+  Dep.: 13:30:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+810.250
+
+  Dep.: 13:47:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+827.000
+
+  Dep.: 14:25:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+865.750
+
+  Dep.: 15:4:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+904.000
+
+  Dep.: 15:20:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+920.250
+
+  Dep.: 15:37:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+937.000
+
+  Dep.: 16:15:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+975.750
+
+  Dep.: 16:54:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1014.000
+
+  Dep.: 17:10:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1030.250
+
+  Dep.: 17:27:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1047.000
+
+  Dep.: 18:5:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1085.750
+
+  Dep.: 18:44:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1124.000
+
+  Dep.: 19:0:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1140.250
+
+  Dep.: 19:17:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1157.000
+
+  Dep.: 19:55:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1195.750
+
+  Dep.: 20:34:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1234.000
+
+  Dep.: 20:56:30
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1256.500
+
+  Dep.: 21:12:0
+[addtrip]
+97 Yonge - To Garage
+0
+1272.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 7:2:0
+[addtrip]
+97 Yonge - Garage
+0
+422.000
+
+  Dep.: 7:11:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+431.000
+
+  Dep.: 7:49:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+469.750
+
+  Dep.: 8:28:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+508.000
+
+  Dep.: 8:44:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+524.250
+
+  Dep.: 9:1:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+541.000
+
+  Dep.: 9:39:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+579.750
+
+  Dep.: 10:18:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+618.000
+
+  Dep.: 10:34:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+634.250
+
+  Dep.: 10:51:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+651.000
+
+  Dep.: 11:29:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+689.750
+
+  Dep.: 12:8:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+728.000
+
+  Dep.: 12:24:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+744.250
+
+  Dep.: 12:41:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+761.000
+
+  Dep.: 13:19:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+799.750
+
+  Dep.: 13:58:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+838.000
+
+  Dep.: 14:14:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+854.250
+
+  Dep.: 14:31:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+871.000
+
+  Dep.: 15:9:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+909.750
+
+  Dep.: 15:48:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+948.000
+
+  Dep.: 16:4:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+964.250
+
+  Dep.: 16:21:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+981.000
+
+  Dep.: 16:59:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1019.750
+
+  Dep.: 17:38:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1058.000
+
+  Dep.: 17:54:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1074.250
+
+  Dep.: 18:11:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1091.000
+
+  Dep.: 18:49:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1129.750
+
+  Dep.: 19:28:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1168.000
+
+  Dep.: 19:44:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1184.250
+
+  Dep.: 20:1:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1201.000
+
+  Dep.: 20:43:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1243.000
+
+  Dep.: 21:25:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1285.000
+
+  Dep.: 22:7:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1327.000
+
+  Dep.: 22:49:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1369.000
+
+  Dep.: 23:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1410.000
+
+  Dep.: 24:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1455.000
+
+  Dep.: 25:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1500.000
+
+  Dep.: 25:42:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1542.000
+
+  Dep.: 26:20:0
+[addtrip]
+97B Yonge - To Garage
+0
+1580.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 6:38:0
+[addtrip]
+97 Yonge - Garage
+0
+398.000
+
+  Dep.: 6:49:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+409.000
+
+  Dep.: 7:27:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+447.750
+
+  Dep.: 8:6:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+486.000
+
+  Dep.: 8:22:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+502.000
+
+  Dep.: 8:39:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+519.000
+
+  Dep.: 9:17:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+557.750
+
+  Dep.: 9:56:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+596.000
+
+  Dep.: 10:12:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+612.000
+
+  Dep.: 10:29:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+629.000
+
+  Dep.: 11:7:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+667.750
+
+  Dep.: 11:46:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+706.000
+
+  Dep.: 12:2:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+722.000
+
+  Dep.: 12:19:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+739.000
+
+  Dep.: 12:57:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+777.750
+
+  Dep.: 13:36:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+816.000
+
+  Dep.: 13:52:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+832.000
+
+  Dep.: 14:9:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+849.000
+
+  Dep.: 14:47:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+887.750
+
+  Dep.: 15:26:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+926.000
+
+  Dep.: 15:42:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+942.000
+
+  Dep.: 15:59:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+959.000
+
+  Dep.: 16:37:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+997.750
+
+  Dep.: 17:16:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1036.000
+
+  Dep.: 17:32:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1052.000
+
+  Dep.: 17:49:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1069.000
+
+  Dep.: 18:27:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1107.750
+
+  Dep.: 19:6:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1146.000
+
+  Dep.: 19:22:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1162.000
+
+  Dep.: 19:39:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1179.000
+
+  Dep.: 20:17:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1217.000
+
+  Dep.: 20:54:30
+[addtrip]
+97 Yonge - To Garage
+0
+1254.500
+
+------------------------------------
+
+[newtour]
+Run 5 - Saturday
+Quail Valley Garage
+800
+
+------------------------------------
+
+  Dep.: 7:25:0
+[addtrip]
+97 Yonge - Garage
+0
+445.000
+
+  Dep.: 7:33:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+453.000
+
+  Dep.: 8:11:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+491.750
+
+  Dep.: 8:50:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+530.000
+
+  Dep.: 9:6:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+546.250
+
+  Dep.: 9:23:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+563.000
+
+  Dep.: 10:1:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+601.750
+
+  Dep.: 10:40:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+640.000
+
+  Dep.: 10:56:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+656.250
+
+  Dep.: 11:13:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+673.000
+
+  Dep.: 11:51:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+711.750
+
+  Dep.: 12:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+750.000
+
+  Dep.: 12:46:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+766.250
+
+  Dep.: 13:3:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+783.000
+
+  Dep.: 13:41:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+821.750
+
+  Dep.: 14:20:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+860.000
+
+  Dep.: 14:36:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+876.250
+
+  Dep.: 14:53:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+893.000
+
+  Dep.: 15:31:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+931.750
+
+  Dep.: 16:10:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+970.000
+
+  Dep.: 16:26:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+986.250
+
+  Dep.: 16:43:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1003.000
+
+  Dep.: 17:21:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1041.750
+
+  Dep.: 18:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1080.000
+
+  Dep.: 18:16:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1096.250
+
+  Dep.: 18:33:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1113.000
+
+  Dep.: 19:11:45
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1151.750
+
+  Dep.: 19:50:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1190.000
+
+  Dep.: 20:6:15
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1206.250
+
+  Dep.: 20:29:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1229.000
+
+  Dep.: 21:11:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1271.000
+
+  Dep.: 21:53:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1313.000
+
+  Dep.: 22:35:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1355.000
+
+  Dep.: 23:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1395.000
+
+  Dep.: 24:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1440.000
+
+  Dep.: 24:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1485.000
+
+  Dep.: 25:23:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1523.000
+
+  Dep.: 26:1:30
+[addtrip]
+97 Yonge - To Garage
+0
+1561.500
+
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 8:9:0
+[addtrip]
+97 Yonge - Garage
+0
+489.000
+
+  Dep.: 8:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+495.000
+
+  Dep.: 9:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+540.000
+
+  Dep.: 9:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+585.000
+
+  Dep.: 10:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+630.000
+
+  Dep.: 11:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+675.000
+
+  Dep.: 12:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+720.000
+
+  Dep.: 12:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+765.000
+
+  Dep.: 13:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+810.000
+
+  Dep.: 14:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+855.000
+
+  Dep.: 15:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+900.000
+
+  Dep.: 15:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+945.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 16:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+990.000
+
+  Dep.: 17:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1035.000
+
+  Dep.: 18:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1080.000
+
+  Dep.: 18:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1125.000
+
+  Dep.: 19:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1170.000
+
+  Dep.: 20:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1215.000
+
+  Dep.: 21:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1260.000
+
+  Dep.: 21:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1305.000
+
+  Dep.: 22:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1350.000
+
+  Dep.: 23:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1395.000
+
+  Dep.: 24:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1440.000
+
+  Dep.: 24:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1485.000
+
+  Dep.: 25:26:30
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1526.500
+
+  Dep.: 26:5:0
+[addtrip]
+97 Yonge - To Garage
+0
+1565.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 8:37:0
+[addtrip]
+97 Yonge - Garage
+0
+517.000
+
+  Dep.: 8:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+525.000
+
+  Dep.: 9:37:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+577.000
+
+  Dep.: 10:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+615.000
+
+  Dep.: 11:7:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+667.000
+
+  Dep.: 11:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+705.000
+
+  Dep.: 12:37:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+757.000
+
+  Dep.: 13:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+795.000
+
+  Dep.: 14:7:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+847.000
+
+  Dep.: 14:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+885.000
+
+  Dep.: 15:37:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+937.000
+
+  Dep.: 16:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+975.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 17:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1020.000
+
+  Dep.: 17:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1065.000
+
+  Dep.: 18:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1110.000
+
+  Dep.: 19:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1155.000
+
+  Dep.: 20:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1200.000
+
+  Dep.: 20:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1245.000
+
+  Dep.: 21:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1290.000
+
+  Dep.: 22:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1335.000
+
+  Dep.: 23:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1380.000
+
+  Dep.: 23:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1425.000
+
+  Dep.: 24:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1470.000
+
+  Dep.: 25:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1515.000
+
+  Dep.: 25:53:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1553.000
+
+  Dep.: 26:23:30
+[addtrip]
+97 Yonge - To Garage
+0
+1583.500
+
+------------------------------------
+
+[newtour]
+Run 5 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 9:7:0
+[addtrip]
+97 Yonge - Garage
+0
+547.000
+
+  Dep.: 9:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+555.000
+
+  Dep.: 10:7:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+607.000
+
+  Dep.: 10:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+645.000
+
+  Dep.: 11:37:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+697.000
+
+  Dep.: 12:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+735.000
+
+  Dep.: 13:7:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+787.000
+
+  Dep.: 13:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+825.000
+
+  Dep.: 14:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+870.000
+
+  Dep.: 15:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+915.000
+
+  Dep.: 16:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+960.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 16:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1005.000
+
+  Dep.: 17:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1050.000
+
+  Dep.: 18:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1095.000
+
+  Dep.: 19:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1140.000
+
+  Dep.: 19:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1185.000
+
+  Dep.: 20:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+0
+1230.000
+
+  Dep.: 21:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+0
+1275.000
+
+  Dep.: 22:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1320.000
+
+  Dep.: 22:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1365.000
+
+  Dep.: 23:30:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1410.000
+
+  Dep.: 24:15:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1455.000
+
+  Dep.: 25:0:0
+[addtrip]
+97B Yonge - Sheppard Stn
+1
+1500.000
+
+  Dep.: 25:45:0
+[addtrip]
+97B Yonge - Bessarion Stn
+1
+1545.000
+
+  Dep.: 26:24:0
+[addtrip]
+97B Yonge - To Garage
+0
+1584.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 11:50:0
+[addtrip]
+97 Yonge - Garage
+0
+710.000
+
+  Dep.: 12:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+720.000
+
+  Dep.: 12:15:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+735.000
+
+  Dep.: 12:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+750.000
+
+  Dep.: 12:45:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+765.000
+
+  Dep.: 13:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+780.000
+
+  Dep.: 13:15:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+795.000
+
+  Dep.: 13:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+810.000
+
+  Dep.: 13:45:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+825.000
+
+  Dep.: 14:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+840.000
+
+  Dep.: 14:15:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+855.000
+
+  Dep.: 14:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+870.000
+
+  Dep.: 14:45:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+885.000
+
+------------------------------------
+
+[newtour]
+Run 8 - Sunday
+Quail Valley Garage
+960
+
+------------------------------------
+
+  Dep.: 15:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+900.000
+
+  Dep.: 15:15:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+915.000
+
+  Dep.: 15:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+930.000
+
+  Dep.: 15:45:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+945.000
+
+  Dep.: 16:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+960.000
+
+  Dep.: 16:15:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+975.000
+
+  Dep.: 16:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+990.000
+
+  Dep.: 16:45:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1005.000
+
+  Dep.: 17:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1020.000
+
+  Dep.: 17:15:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1035.000
+
+  Dep.: 17:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1050.000
+
+  Dep.: 17:45:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1065.000
+
+  Dep.: 18:0:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1080.000
+
+  Dep.: 18:15:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1095.000
+
+  Dep.: 18:30:0
+[addtrip]
+97A Yonge - Concorde Loop
+0
+1110.000
+
+  Dep.: 18:45:0
+[addtrip]
+97A Yonge - Sheppard Stn
+0
+1125.000
+
+  Dep.: 19:0:0
+[addtrip]
+97 Yonge - To Garage
+0
+1140.000
+

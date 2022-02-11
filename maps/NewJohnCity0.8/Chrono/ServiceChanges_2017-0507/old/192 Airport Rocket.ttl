@@ -1,0 +1,659 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 03/25/2017
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 4:35:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+275.000
+
+  Dep.: 4:41:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+281.000
+
+  Dep.: 4:56:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+296.000
+
+  Dep.: 5:14:0
+[addtrip]
+192 dropoff-layover
+0
+314.000
+
+  Dep.: 5:17:0
+[addtrip]
+192 layover-busterminal
+0
+317.000
+
+  Dep.: 5:18:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+318.000
+
+  Dep.: 5:36:0
+[addtrip]
+192 dropoff-layover
+0
+336.000
+
+  Dep.: 5:39:0
+[addtrip]
+192 layover-busterminal
+0
+339.000
+
+  Dep.: 5:40:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+340.000
+
+  Dep.: 5:58:0
+[addtrip]
+192 dropoff-layover
+0
+358.000
+
+  Dep.: 6:11:30
+[addtrip]
+192 layover-busterminal
+0
+371.500
+
+  Dep.: 6:14:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+374.000
+
+  Dep.: 6:32:0
+[addtrip]
+192 dropoff-layover
+0
+392.000
+
+  Dep.: 6:41:30
+[addtrip]
+192 layover-busterminal
+0
+401.500
+
+  Dep.: 6:44:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+404.000
+
+  Dep.: 7:2:0
+[addtrip]
+192 dropoff-layover
+0
+422.000
+
+  Dep.: 7:11:30
+[addtrip]
+192 layover-busterminal
+0
+431.500
+
+  Dep.: 7:14:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+434.000
+
+  Dep.: 7:32:0
+[addtrip]
+192 dropoff-layover
+0
+452.000
+
+  Dep.: 7:41:30
+[addtrip]
+192 layover-busterminal
+0
+461.500
+
+  Dep.: 7:44:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+464.000
+
+  Dep.: 8:2:0
+[addtrip]
+192 dropoff-layover
+0
+482.000
+
+  Dep.: 8:11:30
+[addtrip]
+192 layover-busterminal
+0
+491.500
+
+  Dep.: 8:14:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+494.000
+
+  Dep.: 8:32:0
+[addtrip]
+192 dropoff-layover
+0
+512.000
+
+  Dep.: 8:41:30
+[addtrip]
+192 layover-busterminal
+0
+521.500
+
+  Dep.: 8:44:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+524.000
+
+  Dep.: 9:2:0
+[addtrip]
+192 dropoff-layover
+0
+542.000
+
+  Dep.: 9:11:30
+[addtrip]
+192 layover-busterminal
+0
+551.500
+
+  Dep.: 9:14:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+554.000
+
+  Dep.: 9:32:0
+[addtrip]
+192 dropoff-layover
+0
+572.000
+
+  Dep.: 9:41:30
+[addtrip]
+192 layover-busterminal
+0
+581.500
+
+  Dep.: 9:44:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+584.000
+
+  Dep.: 10:2:0
+[addtrip]
+192 dropoff-layover
+0
+602.000
+
+  Dep.: 10:11:30
+[addtrip]
+192 layover-busterminal
+0
+611.500
+
+  Dep.: 10:14:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+614.000
+
+  Dep.: 10:32:0
+[addtrip]
+192 dropoff-layover
+0
+632.000
+
+  Dep.: 10:41:30
+[addtrip]
+192 layover-busterminal
+0
+641.500
+
+  Dep.: 10:44:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+644.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 5:35:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+335.000
+
+  Dep.: 5:40:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+340.000
+
+  Dep.: 5:54:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+354.000
+
+  Dep.: 6:12:0
+[addtrip]
+192 dropoff-layover
+0
+372.000
+
+  Dep.: 6:21:30
+[addtrip]
+192 layover-busterminal
+0
+381.500
+
+  Dep.: 6:24:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+384.000
+
+  Dep.: 6:42:0
+[addtrip]
+192 dropoff-layover
+0
+402.000
+
+  Dep.: 6:51:30
+[addtrip]
+192 layover-busterminal
+0
+411.500
+
+  Dep.: 6:54:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+414.000
+
+  Dep.: 7:12:0
+[addtrip]
+192 dropoff-layover
+0
+432.000
+
+  Dep.: 7:21:30
+[addtrip]
+192 layover-busterminal
+0
+441.500
+
+  Dep.: 7:24:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+444.000
+
+  Dep.: 7:42:0
+[addtrip]
+192 dropoff-layover
+0
+462.000
+
+  Dep.: 7:51:30
+[addtrip]
+192 layover-busterminal
+0
+471.500
+
+  Dep.: 7:54:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+474.000
+
+  Dep.: 8:12:0
+[addtrip]
+192 dropoff-layover
+0
+492.000
+
+  Dep.: 8:21:30
+[addtrip]
+192 layover-busterminal
+0
+501.500
+
+  Dep.: 8:24:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+504.000
+
+  Dep.: 8:42:0
+[addtrip]
+192 dropoff-layover
+0
+522.000
+
+  Dep.: 8:51:30
+[addtrip]
+192 layover-busterminal
+0
+531.500
+
+  Dep.: 8:54:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+534.000
+
+  Dep.: 9:12:0
+[addtrip]
+192 dropoff-layover
+0
+552.000
+
+  Dep.: 9:21:30
+[addtrip]
+192 layover-busterminal
+0
+561.500
+
+  Dep.: 9:24:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+564.000
+
+  Dep.: 9:42:0
+[addtrip]
+192 dropoff-layover
+0
+582.000
+
+  Dep.: 9:51:30
+[addtrip]
+192 layover-busterminal
+0
+591.500
+
+  Dep.: 9:54:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+594.000
+
+  Dep.: 10:12:0
+[addtrip]
+192 dropoff-layover
+0
+612.000
+
+  Dep.: 10:21:30
+[addtrip]
+192 layover-busterminal
+0
+621.500
+
+  Dep.: 10:24:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+624.000
+
+  Dep.: 10:42:0
+[addtrip]
+192 dropoff-layover
+0
+642.000
+
+  Dep.: 10:51:30
+[addtrip]
+192 layover-busterminal
+0
+651.500
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Airport Rocket
+799
+
+------------------------------------
+
+  Dep.: 5:45:0
+[addtrip]
+192 Airport Rocket - Garage
+0
+345.000
+
+  Dep.: 5:50:0
+[addtrip]
+192 Airport Rocket - F Garage
+0
+350.000
+
+  Dep.: 6:4:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+364.000
+
+  Dep.: 6:22:0
+[addtrip]
+192 dropoff-layover
+0
+382.000
+
+  Dep.: 6:32:30
+[addtrip]
+192 layover-busterminal
+0
+392.500
+
+  Dep.: 6:34:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+394.000
+
+  Dep.: 6:52:0
+[addtrip]
+192 dropoff-layover
+0
+412.000
+
+  Dep.: 7:2:30
+[addtrip]
+192 layover-busterminal
+0
+422.500
+
+  Dep.: 7:4:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+424.000
+
+  Dep.: 7:22:0
+[addtrip]
+192 dropoff-layover
+0
+442.000
+
+  Dep.: 7:32:30
+[addtrip]
+192 layover-busterminal
+0
+452.500
+
+  Dep.: 7:34:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+454.000
+
+  Dep.: 7:52:0
+[addtrip]
+192 dropoff-layover
+0
+472.000
+
+  Dep.: 8:2:30
+[addtrip]
+192 layover-busterminal
+0
+482.500
+
+  Dep.: 8:4:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+484.000
+
+  Dep.: 8:22:0
+[addtrip]
+192 dropoff-layover
+0
+502.000
+
+  Dep.: 8:32:30
+[addtrip]
+192 layover-busterminal
+0
+512.500
+
+  Dep.: 8:34:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+514.000
+
+  Dep.: 8:52:0
+[addtrip]
+192 dropoff-layover
+0
+532.000
+
+  Dep.: 9:2:30
+[addtrip]
+192 layover-busterminal
+0
+542.500
+
+  Dep.: 9:4:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+544.000
+
+  Dep.: 9:22:0
+[addtrip]
+192 dropoff-layover
+0
+562.000
+
+  Dep.: 9:32:30
+[addtrip]
+192 layover-busterminal
+0
+572.500
+
+  Dep.: 9:34:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+574.000
+
+  Dep.: 9:52:0
+[addtrip]
+192 dropoff-layover
+0
+592.000
+
+  Dep.: 10:2:30
+[addtrip]
+192 layover-busterminal
+0
+602.500
+
+  Dep.: 10:4:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+604.000
+
+  Dep.: 10:22:0
+[addtrip]
+192 dropoff-layover
+0
+622.000
+
+  Dep.: 10:32:30
+[addtrip]
+192 layover-busterminal
+0
+632.500
+
+  Dep.: 10:34:0
+[addtrip]
+192 Airport Rocket (with dropoff)
+0
+634.000
+
+  Dep.: 10:52:0
+[addtrip]
+192 dropoff-layover
+0
+652.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Airport Rocket
+1023
+
+------------------------------------
+

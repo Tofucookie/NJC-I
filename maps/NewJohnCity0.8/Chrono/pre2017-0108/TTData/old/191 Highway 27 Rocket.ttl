@@ -1,0 +1,4301 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 05/05/2017
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:30:0
+[addtrip]
+Finch-Bessarion
+0
+330.000
+
+  Dep.: 5:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+340.000
+
+  Dep.: 6:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+370.000
+
+  Dep.: 6:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+400.000
+
+  Dep.: 7:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+430.000
+
+  Dep.: 7:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+460.000
+
+  Dep.: 8:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+490.000
+
+  Dep.: 8:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+520.000
+
+  Dep.: 9:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+820.000
+
+  Dep.: 14:5:30
+[addtrip]
+191B Highway 27 Rocket
+0
+845.500
+
+  Dep.: 14:36:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+876.000
+
+  Dep.: 15:1:30
+[addtrip]
+191B Highway 27 Rocket
+0
+901.500
+
+  Dep.: 15:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+930.000
+
+  Dep.: 15:55:30
+[addtrip]
+191B Highway 27 Rocket
+0
+955.500
+
+  Dep.: 16:24:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+984.000
+
+  Dep.: 16:49:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1009.500
+
+  Dep.: 17:18:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1038.000
+
+  Dep.: 17:43:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1063.500
+
+  Dep.: 18:12:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1092.000
+
+  Dep.: 18:37:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1117.500
+
+  Dep.: 19:6:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1146.000
+
+  Dep.: 19:31:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1171.500
+
+  Dep.: 20:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1350.000
+
+  Dep.: 23:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1380.000
+
+  Dep.: 23:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1410.000
+
+  Dep.: 24:0:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1440.000
+
+  Dep.: 24:24:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1464.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+Finch-Bessarion
+0
+340.000
+
+  Dep.: 5:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+350.000
+
+  Dep.: 6:20:0
+[addtrip]
+191C Highway 27 Rocket
+0
+380.000
+
+  Dep.: 6:40:0
+[addtrip]
+191C Highway 27 Rocket - R
+0
+400.000
+
+  Dep.: 7:0:0
+[addtrip]
+191A Highway 27 Rocket
+0
+420.000
+
+  Dep.: 7:30:0
+[addtrip]
+191A Highway 27 Rocket R
+0
+450.000
+
+  Dep.: 7:50:0
+[addtrip]
+191C Highway 27 Rocket
+0
+470.000
+
+  Dep.: 8:10:0
+[addtrip]
+191C Highway 27 Rocket - R
+0
+490.000
+
+  Dep.: 8:30:0
+[addtrip]
+191A Highway 27 Rocket
+0
+510.000
+
+  Dep.: 9:0:0
+[addtrip]
+191A Highway 27 Rocket R
+0
+540.000
+
+  Dep.: 9:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+560.000
+
+  Dep.: 9:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+590.000
+
+  Dep.: 10:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+620.000
+
+  Dep.: 10:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+650.000
+
+  Dep.: 11:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+680.000
+
+  Dep.: 11:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+710.000
+
+  Dep.: 12:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+740.000
+
+  Dep.: 12:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+770.000
+
+  Dep.: 13:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+800.000
+
+  Dep.: 13:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+830.000
+
+  Dep.: 14:15:30
+[addtrip]
+191B Highway 27 Rocket
+0
+855.500
+
+  Dep.: 14:45:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+885.000
+
+  Dep.: 15:10:30
+[addtrip]
+191B Highway 27 Rocket
+0
+910.500
+
+  Dep.: 15:39:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+939.000
+
+  Dep.: 16:4:30
+[addtrip]
+191B Highway 27 Rocket
+0
+964.500
+
+  Dep.: 16:33:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+993.000
+
+  Dep.: 16:58:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1018.500
+
+  Dep.: 17:27:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1047.000
+
+  Dep.: 17:52:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1072.500
+
+  Dep.: 18:21:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1101.000
+
+  Dep.: 18:46:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1126.500
+
+  Dep.: 19:15:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1155.000
+
+  Dep.: 19:40:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1180.500
+
+  Dep.: 20:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1330.000
+
+  Dep.: 22:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1360.000
+
+  Dep.: 23:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1450.000
+
+  Dep.: 24:35:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1475.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:50:0
+[addtrip]
+Finch-Bessarion
+0
+350.000
+
+  Dep.: 6:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+360.000
+
+  Dep.: 6:30:0
+[addtrip]
+191A Highway 27 Rocket
+0
+390.000
+
+  Dep.: 7:0:0
+[addtrip]
+191A Highway 27 Rocket R
+0
+420.000
+
+  Dep.: 7:20:0
+[addtrip]
+191C Highway 27 Rocket
+0
+440.000
+
+  Dep.: 7:40:0
+[addtrip]
+191C Highway 27 Rocket - R
+0
+460.000
+
+  Dep.: 8:0:0
+[addtrip]
+191A Highway 27 Rocket
+0
+480.000
+
+  Dep.: 8:30:0
+[addtrip]
+191A Highway 27 Rocket R
+0
+510.000
+
+  Dep.: 8:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+530.000
+
+  Dep.: 9:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+560.000
+
+  Dep.: 9:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+590.000
+
+  Dep.: 10:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+620.000
+
+  Dep.: 10:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+650.000
+
+  Dep.: 11:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+680.000
+
+  Dep.: 11:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+710.000
+
+  Dep.: 12:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+740.000
+
+  Dep.: 12:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+770.000
+
+  Dep.: 13:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+800.000
+
+  Dep.: 13:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+830.000
+
+  Dep.: 14:18:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+858.000
+
+  Dep.: 14:43:30
+[addtrip]
+191B Highway 27 Rocket
+0
+883.500
+
+  Dep.: 15:12:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+912.000
+
+  Dep.: 15:37:30
+[addtrip]
+191B Highway 27 Rocket
+0
+937.500
+
+  Dep.: 16:6:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+966.000
+
+  Dep.: 16:31:30
+[addtrip]
+191B Highway 27 Rocket
+0
+991.500
+
+  Dep.: 17:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1020.000
+
+  Dep.: 17:25:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1045.500
+
+  Dep.: 17:54:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1074.000
+
+  Dep.: 18:19:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1099.500
+
+  Dep.: 18:48:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1128.000
+
+  Dep.: 19:13:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1153.500
+
+  Dep.: 19:42:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1182.000
+
+  Dep.: 20:7:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1207.500
+
+  Dep.: 20:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1330.000
+
+  Dep.: 22:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1360.000
+
+  Dep.: 23:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1390.000
+
+  Dep.: 23:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1420.000
+
+  Dep.: 24:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1450.000
+
+  Dep.: 24:45:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1485.000
+
+  Dep.: 25:24:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1524.000
+
+  Dep.: 25:51:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1551.000
+
+  Dep.: 26:15:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1575.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+Finch-Bessarion
+0
+360.000
+
+  Dep.: 6:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+370.000
+
+  Dep.: 6:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+400.000
+
+  Dep.: 7:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+430.000
+
+  Dep.: 7:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+460.000
+
+  Dep.: 8:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+490.000
+
+  Dep.: 8:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+520.000
+
+  Dep.: 9:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+820.000
+
+  Dep.: 14:9:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+849.000
+
+  Dep.: 14:34:30
+[addtrip]
+191B Highway 27 Rocket
+0
+874.500
+
+  Dep.: 15:3:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+903.000
+
+  Dep.: 15:28:30
+[addtrip]
+191B Highway 27 Rocket
+0
+928.500
+
+  Dep.: 15:57:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+957.000
+
+  Dep.: 16:22:30
+[addtrip]
+191B Highway 27 Rocket
+0
+982.500
+
+  Dep.: 16:51:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1011.000
+
+  Dep.: 17:16:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1036.500
+
+  Dep.: 17:45:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1065.000
+
+  Dep.: 18:10:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1090.500
+
+  Dep.: 18:39:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1119.000
+
+  Dep.: 19:4:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1144.500
+
+  Dep.: 19:33:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1173.000
+
+  Dep.: 19:58:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1198.500
+
+  Dep.: 20:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1350.000
+
+  Dep.: 23:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1380.000
+
+  Dep.: 23:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1410.000
+
+  Dep.: 24:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1440.000
+
+  Dep.: 24:30:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1470.000
+
+  Dep.: 25:7:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1507.000
+
+  Dep.: 25:34:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1534.000
+
+  Dep.: 26:3:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1563.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+Finch-Bessarion
+0
+370.000
+
+  Dep.: 6:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+380.000
+
+  Dep.: 6:50:0
+[addtrip]
+191C Highway 27 Rocket
+0
+410.000
+
+  Dep.: 7:10:0
+[addtrip]
+191C Highway 27 Rocket - R
+0
+430.000
+
+  Dep.: 7:30:0
+[addtrip]
+191A Highway 27 Rocket
+0
+450.000
+
+  Dep.: 8:0:0
+[addtrip]
+191A Highway 27 Rocket R
+0
+480.000
+
+  Dep.: 8:20:0
+[addtrip]
+191C Highway 27 Rocket
+0
+500.000
+
+  Dep.: 8:40:0
+[addtrip]
+191C Highway 27 Rocket - R
+0
+520.000
+
+  Dep.: 9:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+840.000
+
+  Dep.: 14:27:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+867.000
+
+  Dep.: 14:52:30
+[addtrip]
+191B Highway 27 Rocket
+0
+892.500
+
+  Dep.: 15:21:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+921.000
+
+  Dep.: 15:46:30
+[addtrip]
+191B Highway 27 Rocket
+0
+946.500
+
+  Dep.: 16:15:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+975.000
+
+  Dep.: 16:40:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1000.500
+
+  Dep.: 17:9:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1029.000
+
+  Dep.: 17:34:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1054.500
+
+  Dep.: 18:3:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1083.000
+
+  Dep.: 18:28:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1108.500
+
+  Dep.: 18:57:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1137.000
+
+  Dep.: 19:22:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1162.500
+
+  Dep.: 19:51:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1191.000
+
+  Dep.: 20:16:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1216.500
+
+  Dep.: 20:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1310.000
+
+  Dep.: 22:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1340.000
+
+  Dep.: 22:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1370.000
+
+  Dep.: 23:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1400.000
+
+  Dep.: 23:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1430.000
+
+  Dep.: 24:20:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1460.000
+
+  Dep.: 25:0:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1500.000
+
+  Dep.: 25:24:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1524.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 7:45:0
+[addtrip]
+Finch-Bessarion
+0
+465.000
+
+  Dep.: 7:55:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+475.000
+
+  Dep.: 8:25:0
+[addtrip]
+191B Highway 27 Rocket
+0
+505.000
+
+  Dep.: 9:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+840.000
+
+  Dep.: 14:25:30
+[addtrip]
+191B Highway 27 Rocket
+0
+865.500
+
+  Dep.: 14:54:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+894.000
+
+  Dep.: 15:19:30
+[addtrip]
+191B Highway 27 Rocket
+0
+919.500
+
+  Dep.: 15:48:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+948.000
+
+  Dep.: 16:13:30
+[addtrip]
+191B Highway 27 Rocket
+0
+973.500
+
+  Dep.: 16:42:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1002.000
+
+  Dep.: 17:7:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1027.500
+
+  Dep.: 17:36:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1056.000
+
+  Dep.: 18:1:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1081.500
+
+  Dep.: 18:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1110.000
+
+  Dep.: 18:55:30
+[addtrip]
+191B Highway 27 Rocket
+0
+1135.500
+
+  Dep.: 19:24:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1164.000
+
+  Dep.: 19:49:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1189.000
+
+  Dep.: 20:17:30
+[addtrip]
+191B Highway 27 Rocket R
+0
+1217.500
+
+  Dep.: 20:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1310.000
+
+  Dep.: 22:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1340.000
+
+  Dep.: 22:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1370.000
+
+  Dep.: 23:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1400.000
+
+  Dep.: 23:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1430.000
+
+  Dep.: 24:20:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1460.000
+
+  Dep.: 24:50:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1490.000
+
+  Dep.: 25:17:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1517.000
+
+  Dep.: 25:45:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1545.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+Finch-Bessarion
+0
+360.000
+
+  Dep.: 6:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+370.000
+
+  Dep.: 6:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+400.000
+
+  Dep.: 7:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+430.000
+
+  Dep.: 7:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+460.000
+
+  Dep.: 8:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+490.000
+
+  Dep.: 8:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+520.000
+
+  Dep.: 9:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+820.000
+
+  Dep.: 14:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+850.000
+
+  Dep.: 14:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+880.000
+
+  Dep.: 15:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+910.000
+
+  Dep.: 15:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+940.000
+
+  Dep.: 16:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+970.000
+
+  Dep.: 16:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1000.000
+
+  Dep.: 17:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1030.000
+
+  Dep.: 17:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1060.000
+
+  Dep.: 18:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1090.000
+
+  Dep.: 18:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1150.000
+
+  Dep.: 19:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1180.000
+
+  Dep.: 20:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1300.000
+
+  Dep.: 22:8:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1328.000
+
+  Dep.: 22:33:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1353.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 6:20:0
+[addtrip]
+Finch-Bessarion
+0
+380.000
+
+  Dep.: 6:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+390.000
+
+  Dep.: 7:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+420.000
+
+  Dep.: 7:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+450.000
+
+  Dep.: 8:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+480.000
+
+  Dep.: 8:28:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+508.000
+
+  Dep.: 8:52:30
+[addtrip]
+191B Highway 27 Rocket
+0
+532.500
+
+  Dep.: 9:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+560.000
+
+  Dep.: 9:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+590.000
+
+  Dep.: 10:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+620.000
+
+  Dep.: 10:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+650.000
+
+  Dep.: 11:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+680.000
+
+  Dep.: 11:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+710.000
+
+  Dep.: 12:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+740.000
+
+  Dep.: 12:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+770.000
+
+  Dep.: 13:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+800.000
+
+  Dep.: 13:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+830.000
+
+  Dep.: 14:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+860.000
+
+  Dep.: 14:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+890.000
+
+  Dep.: 15:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+920.000
+
+  Dep.: 15:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+950.000
+
+  Dep.: 16:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+980.000
+
+  Dep.: 16:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1010.000
+
+  Dep.: 17:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1040.000
+
+  Dep.: 17:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1070.000
+
+  Dep.: 18:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1100.000
+
+  Dep.: 18:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1130.000
+
+  Dep.: 19:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1160.000
+
+  Dep.: 19:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1190.000
+
+  Dep.: 20:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1310.000
+
+  Dep.: 22:18:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1338.000
+
+  Dep.: 22:43:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1363.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 6:40:0
+[addtrip]
+Finch-Bessarion
+0
+400.000
+
+  Dep.: 6:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+410.000
+
+  Dep.: 7:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+440.000
+
+  Dep.: 7:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+470.000
+
+  Dep.: 8:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+500.000
+
+  Dep.: 8:47:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+527.000
+
+  Dep.: 9:11:0
+[addtrip]
+191B Highway 27 Rocket
+0
+551.000
+
+  Dep.: 9:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+820.000
+
+  Dep.: 14:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+850.000
+
+  Dep.: 14:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+880.000
+
+  Dep.: 15:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+910.000
+
+  Dep.: 15:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+940.000
+
+  Dep.: 16:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+970.000
+
+  Dep.: 16:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1000.000
+
+  Dep.: 17:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1030.000
+
+  Dep.: 17:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1060.000
+
+  Dep.: 18:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1090.000
+
+  Dep.: 18:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1150.000
+
+  Dep.: 19:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1180.000
+
+  Dep.: 20:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1330.000
+
+  Dep.: 22:44:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1364.000
+
+  Dep.: 23:9:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1389.000
+
+  Dep.: 23:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1420.000
+
+  Dep.: 24:5:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1445.000
+
+  Dep.: 24:36:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1476.000
+
+  Dep.: 25:1:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1501.000
+
+  Dep.: 25:32:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1532.000
+
+  Dep.: 26:0:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1560.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 8:47:0
+[addtrip]
+Finch-Bessarion
+0
+527.000
+
+  Dep.: 8:58:30
+[addtrip]
+191B Highway 27 Rocket R
+0
+538.500
+
+  Dep.: 9:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1170.000
+
+  Dep.: 20:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1320.000
+
+  Dep.: 22:35:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1355.000
+
+  Dep.: 23:12:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1392.000
+
+  Dep.: 23:37:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1417.000
+
+  Dep.: 24:8:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1448.000
+
+  Dep.: 24:33:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1473.000
+
+  Dep.: 25:4:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1504.000
+
+  Dep.: 25:31:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1531.000
+
+  Dep.: 26:2:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1562.000
+
+  Dep.: 26:26:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1586.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 9:20:0
+[addtrip]
+Finch-Bessarion
+0
+560.000
+
+  Dep.: 9:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1170.000
+
+  Dep.: 20:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1350.000
+
+  Dep.: 22:55:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1375.000
+
+  Dep.: 23:26:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1406.000
+
+  Dep.: 23:51:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1431.000
+
+  Dep.: 24:22:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1462.000
+
+  Dep.: 24:47:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1487.000
+
+  Dep.: 25:18:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1518.000
+
+  Dep.: 25:45:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1545.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 9:35:0
+[addtrip]
+Finch-Bessarion
+0
+575.000
+
+  Dep.: 9:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+590.000
+
+  Dep.: 10:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+620.000
+
+  Dep.: 10:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+650.000
+
+  Dep.: 11:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+680.000
+
+  Dep.: 11:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+710.000
+
+  Dep.: 12:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+740.000
+
+  Dep.: 12:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+770.000
+
+  Dep.: 13:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+800.000
+
+  Dep.: 13:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+830.000
+
+  Dep.: 14:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+860.000
+
+  Dep.: 14:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+890.000
+
+  Dep.: 15:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+920.000
+
+  Dep.: 15:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+950.000
+
+  Dep.: 16:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+980.000
+
+  Dep.: 16:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1010.000
+
+  Dep.: 17:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1040.000
+
+  Dep.: 17:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1070.000
+
+  Dep.: 18:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1100.000
+
+  Dep.: 18:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1130.000
+
+  Dep.: 19:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1160.000
+
+  Dep.: 19:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1190.000
+
+  Dep.: 20:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1310.000
+
+  Dep.: 22:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1340.000
+
+  Dep.: 22:58:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1378.000
+
+  Dep.: 23:23:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1403.000
+
+  Dep.: 23:54:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1434.000
+
+  Dep.: 24:19:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1459.000
+
+  Dep.: 24:50:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1490.000
+
+  Dep.: 25:15:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1515.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 6:25:0
+[addtrip]
+Finch-Bessarion
+0
+385.000
+
+  Dep.: 6:40:0
+[addtrip]
+320 Yonge 7am
+1
+400.000
+
+  Dep.: 7:30:0
+[addtrip]
+320 Yonge
+1
+450.000
+
+  Dep.: 8:20:0
+[addtrip]
+320 Yonge 7am
+1
+500.000
+
+  Dep.: 9:10:0
+[addtrip]
+320 Yonge
+1
+550.000
+
+  Dep.: 10:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+990.000
+
+  Dep.: 17:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1020.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 17:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1170.000
+
+  Dep.: 20:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1350.000
+
+  Dep.: 23:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1380.000
+
+  Dep.: 23:30:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1410.000
+
+  Dep.: 24:0:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1440.000
+
+  Dep.: 24:30:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1470.000
+
+  Dep.: 25:0:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1500.000
+
+  Dep.: 25:30:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1530.000
+
+  Dep.: 25:57:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1557.000
+
+  Dep.: 26:22:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1582.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 6:35:0
+[addtrip]
+Finch-Bessarion
+0
+395.000
+
+  Dep.: 6:50:0
+[addtrip]
+320 Yonge 7am
+1
+410.000
+
+  Dep.: 7:40:0
+[addtrip]
+320 Yonge
+1
+460.000
+
+  Dep.: 8:27:0
+[addtrip]
+320 Yonge 7am
+1
+507.000
+
+  Dep.: 9:14:0
+[addtrip]
+320 - To Garage
+0
+554.000
+
+  Dep.: 9:21:15
+[addtrip]
+Finch-Bessarion
+0
+561.250
+
+  Dep.: 9:32:30
+[addtrip]
+191B Highway 27 Rocket R
+0
+572.500
+
+  Dep.: 10:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+720.000
+
+  Dep.: 12:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+750.000
+
+  Dep.: 13:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+780.000
+
+  Dep.: 13:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+810.000
+
+  Dep.: 14:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+840.000
+
+  Dep.: 14:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+870.000
+
+  Dep.: 15:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+900.000
+
+  Dep.: 15:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+930.000
+
+  Dep.: 16:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+960.000
+
+  Dep.: 16:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+990.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 17:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1020.000
+
+  Dep.: 17:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1050.000
+
+  Dep.: 18:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1080.000
+
+  Dep.: 18:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1110.000
+
+  Dep.: 19:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1140.000
+
+  Dep.: 19:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1170.000
+
+  Dep.: 20:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1200.000
+
+  Dep.: 20:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1230.000
+
+  Dep.: 21:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1260.000
+
+  Dep.: 21:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1290.000
+
+  Dep.: 22:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1320.000
+
+  Dep.: 22:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1350.000
+
+  Dep.: 23:0:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1380.000
+
+  Dep.: 23:30:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1410.000
+
+  Dep.: 24:0:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1440.000
+
+  Dep.: 24:30:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1470.000
+
+  Dep.: 25:0:0
+[addtrip]
+191B Highway 27 Rocket
+1
+1500.000
+
+  Dep.: 25:30:0
+[addtrip]
+191B Highway 27 Rocket R
+1
+1530.000
+
+  Dep.: 25:54:0
+[addtrip]
+GarageRun
+0
+1554.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 6:45:0
+[addtrip]
+Finch-Bessarion
+0
+405.000
+
+  Dep.: 7:0:0
+[addtrip]
+320 Yonge 7am
+1
+420.000
+
+  Dep.: 7:50:0
+[addtrip]
+320 Yonge
+1
+470.000
+
+  Dep.: 8:40:0
+[addtrip]
+320 Yonge 7am
+1
+520.000
+
+  Dep.: 9:27:0
+[addtrip]
+320 - To Garage
+0
+567.000
+
+  Dep.: 9:37:0
+[addtrip]
+Finch-Bessarion
+0
+577.000
+
+  Dep.: 9:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+590.000
+
+  Dep.: 10:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+620.000
+
+  Dep.: 10:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+650.000
+
+  Dep.: 11:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+680.000
+
+  Dep.: 11:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+710.000
+
+  Dep.: 12:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+740.000
+
+  Dep.: 12:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+770.000
+
+  Dep.: 13:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+800.000
+
+  Dep.: 13:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+830.000
+
+  Dep.: 14:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+860.000
+
+  Dep.: 14:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+890.000
+
+  Dep.: 15:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+920.000
+
+  Dep.: 15:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+950.000
+
+  Dep.: 16:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+980.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 16:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1010.000
+
+  Dep.: 17:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1040.000
+
+  Dep.: 17:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1070.000
+
+  Dep.: 18:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1100.000
+
+  Dep.: 18:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1130.000
+
+  Dep.: 19:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1160.000
+
+  Dep.: 19:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1190.000
+
+  Dep.: 20:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1310.000
+
+  Dep.: 22:20:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1340.000
+
+  Dep.: 22:50:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1370.000
+
+  Dep.: 23:15:0
+[addtrip]
+GarageRun
+0
+1395.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 7:15:0
+[addtrip]
+Finch-Bessarion
+0
+435.000
+
+  Dep.: 7:30:0
+[addtrip]
+320 Yonge 7am
+1
+450.000
+
+  Dep.: 8:20:0
+[addtrip]
+320 Yonge
+1
+500.000
+
+  Dep.: 9:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+550.000
+
+  Dep.: 9:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+820.000
+
+  Dep.: 14:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+850.000
+
+  Dep.: 14:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+880.000
+
+  Dep.: 15:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+910.000
+
+  Dep.: 15:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+940.000
+
+------------------------------------
+
+[newtour]
+Run 8 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 16:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+970.000
+
+  Dep.: 16:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1000.000
+
+  Dep.: 17:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1030.000
+
+  Dep.: 17:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1060.000
+
+  Dep.: 18:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1090.000
+
+  Dep.: 18:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1150.000
+
+  Dep.: 19:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1180.000
+
+  Dep.: 20:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1330.000
+
+  Dep.: 22:35:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1355.000
+
+------------------------------------
+
+[newtour]
+Run 9 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 6:10:0
+[addtrip]
+Finch-Bessarion
+0
+370.000
+
+  Dep.: 6:20:0
+[addtrip]
+320 Yonge 7am
+1
+380.000
+
+  Dep.: 7:10:0
+[addtrip]
+320 Yonge
+1
+430.000
+
+  Dep.: 8:0:0
+[addtrip]
+320 Yonge 7am
+1
+480.000
+
+  Dep.: 8:50:0
+[addtrip]
+320 Yonge
+1
+530.000
+
+  Dep.: 9:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+580.000
+
+  Dep.: 10:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+610.000
+
+  Dep.: 10:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+640.000
+
+  Dep.: 11:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+670.000
+
+  Dep.: 11:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+700.000
+
+  Dep.: 12:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+730.000
+
+  Dep.: 12:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+760.000
+
+  Dep.: 13:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+790.000
+
+  Dep.: 13:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+820.000
+
+  Dep.: 14:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+850.000
+
+  Dep.: 14:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+880.000
+
+  Dep.: 15:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+910.000
+
+  Dep.: 15:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+940.000
+
+  Dep.: 16:7:30
+[addtrip]
+191 Garage End - Sheppard
+0
+967.500
+
+------------------------------------
+
+[newtour]
+Run 10 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 16:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+970.000
+
+  Dep.: 16:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1000.000
+
+  Dep.: 17:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1030.000
+
+  Dep.: 17:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1060.000
+
+  Dep.: 18:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1090.000
+
+  Dep.: 18:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1120.000
+
+  Dep.: 19:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1150.000
+
+  Dep.: 19:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1180.000
+
+  Dep.: 20:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1210.000
+
+  Dep.: 20:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1240.000
+
+  Dep.: 21:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1270.000
+
+  Dep.: 21:40:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1300.000
+
+  Dep.: 22:10:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1330.000
+
+  Dep.: 22:37:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1357.000
+
+  Dep.: 23:2:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1382.000
+
+------------------------------------
+
+[newtour]
+Run 11 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 7:25:0
+[addtrip]
+Finch-Bessarion
+0
+445.000
+
+  Dep.: 7:40:0
+[addtrip]
+320 Yonge 7am
+1
+460.000
+
+  Dep.: 8:30:0
+[addtrip]
+320 Yonge
+1
+510.000
+
+  Dep.: 9:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+560.000
+
+  Dep.: 9:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+590.000
+
+  Dep.: 10:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+620.000
+
+  Dep.: 10:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+650.000
+
+  Dep.: 11:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+680.000
+
+  Dep.: 11:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+710.000
+
+  Dep.: 12:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+740.000
+
+  Dep.: 12:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+770.000
+
+  Dep.: 13:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+800.000
+
+  Dep.: 13:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+830.000
+
+  Dep.: 14:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+860.000
+
+  Dep.: 14:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+890.000
+
+  Dep.: 15:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+920.000
+
+  Dep.: 15:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+950.000
+
+  Dep.: 16:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+980.000
+
+  Dep.: 16:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1010.000
+
+------------------------------------
+
+[newtour]
+Run 12 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 17:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1040.000
+
+  Dep.: 17:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1070.000
+
+  Dep.: 18:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1100.000
+
+  Dep.: 18:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1130.000
+
+  Dep.: 19:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1160.000
+
+  Dep.: 19:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1190.000
+
+  Dep.: 20:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1280.000
+
+  Dep.: 21:50:0
+[addtrip]
+191B Highway 27 Rocket
+0
+1310.000
+
+  Dep.: 22:18:0
+[addtrip]
+191B Highway 27 Rocket R
+0
+1338.000
+
+  Dep.: 22:43:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1363.000
+

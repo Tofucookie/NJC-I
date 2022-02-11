@@ -1,0 +1,1262 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+192_1_1
+Airport Rocket
+1023
+
+------------------------------------
+
+  Dep.: 0:0:0
+[addtrip]
+192 G-A-G
+0
+0.000
+
+  Dep.: 0:21:0
+[addtrip]
+192 G-A-G
+0
+21.000
+
+  Dep.: 0:42:0
+[addtrip]
+192 G-A-G
+0
+42.000
+
+  Dep.: 1:3:0
+[addtrip]
+192 G-A-G
+0
+63.000
+
+  Dep.: 1:24:0
+[addtrip]
+192 G-A-G
+0
+84.000
+
+  Dep.: 1:45:0
+[addtrip]
+192 G-A-G
+0
+105.000
+
+  Dep.: 2:6:0
+[addtrip]
+192 G-A-G
+0
+126.000
+
+  Dep.: 2:27:0
+[addtrip]
+192 G-A-G
+0
+147.000
+
+  Dep.: 2:48:0
+[addtrip]
+192 G-A-G
+0
+168.000
+
+  Dep.: 3:9:0
+[addtrip]
+192 G-A-G
+0
+189.000
+
+  Dep.: 3:30:0
+[addtrip]
+192 G-A-G
+0
+210.000
+
+  Dep.: 3:51:0
+[addtrip]
+192 G-A-G
+0
+231.000
+
+  Dep.: 4:12:0
+[addtrip]
+192 G-A-G
+0
+252.000
+
+  Dep.: 4:33:0
+[addtrip]
+192 G-A-G
+0
+273.000
+
+  Dep.: 4:54:0
+[addtrip]
+192 G-A-G
+0
+294.000
+
+  Dep.: 5:15:0
+[addtrip]
+192 G-A-G
+0
+315.000
+
+  Dep.: 5:36:0
+[addtrip]
+192 G-A-G
+0
+336.000
+
+  Dep.: 5:57:0
+[addtrip]
+192 G-A-G
+0
+357.000
+
+  Dep.: 6:18:0
+[addtrip]
+192 G-A-G
+0
+378.000
+
+  Dep.: 6:39:0
+[addtrip]
+192 G-A-G
+0
+399.000
+
+  Dep.: 7:0:0
+[addtrip]
+192 G-A-G
+0
+420.000
+
+  Dep.: 7:21:0
+[addtrip]
+192 G-A-G
+0
+441.000
+
+  Dep.: 7:42:0
+[addtrip]
+192 G-A-G
+0
+462.000
+
+  Dep.: 8:3:0
+[addtrip]
+192 G-A-G
+0
+483.000
+
+  Dep.: 8:24:0
+[addtrip]
+192 G-A-G
+0
+504.000
+
+  Dep.: 8:45:0
+[addtrip]
+192 G-A-G
+0
+525.000
+
+  Dep.: 9:6:0
+[addtrip]
+192 G-A-G
+0
+546.000
+
+  Dep.: 9:27:0
+[addtrip]
+192 G-A-G
+0
+567.000
+
+  Dep.: 9:48:0
+[addtrip]
+192 G-A-G
+0
+588.000
+
+  Dep.: 10:9:0
+[addtrip]
+192 G-A-G
+0
+609.000
+
+  Dep.: 10:30:0
+[addtrip]
+192 G-A-G
+0
+630.000
+
+  Dep.: 10:51:0
+[addtrip]
+192 G-A-G
+0
+651.000
+
+  Dep.: 11:12:0
+[addtrip]
+192 G-A-G
+0
+672.000
+
+  Dep.: 11:33:0
+[addtrip]
+192 G-A-G
+0
+693.000
+
+  Dep.: 11:54:0
+[addtrip]
+192 G-A-G
+0
+714.000
+
+  Dep.: 12:15:0
+[addtrip]
+192 G-A-G
+0
+735.000
+
+  Dep.: 12:36:0
+[addtrip]
+192 G-A-G
+0
+756.000
+
+  Dep.: 12:57:0
+[addtrip]
+192 G-A-G
+0
+777.000
+
+  Dep.: 13:18:0
+[addtrip]
+192 G-A-G
+0
+798.000
+
+  Dep.: 13:39:0
+[addtrip]
+192 G-A-G
+0
+819.000
+
+  Dep.: 14:0:0
+[addtrip]
+192 G-A-G
+0
+840.000
+
+  Dep.: 14:21:0
+[addtrip]
+192 G-A-G
+0
+861.000
+
+  Dep.: 14:42:0
+[addtrip]
+192 G-A-G
+0
+882.000
+
+  Dep.: 15:3:0
+[addtrip]
+192 G-A-G
+0
+903.000
+
+  Dep.: 15:24:0
+[addtrip]
+192 G-A-G
+0
+924.000
+
+  Dep.: 15:45:0
+[addtrip]
+192 G-A-G
+0
+945.000
+
+  Dep.: 16:6:0
+[addtrip]
+192 G-A-G
+0
+966.000
+
+  Dep.: 16:27:0
+[addtrip]
+192 G-A-G
+0
+987.000
+
+  Dep.: 16:48:0
+[addtrip]
+192 G-A-G
+0
+1008.000
+
+  Dep.: 17:9:0
+[addtrip]
+192 G-A-G
+0
+1029.000
+
+  Dep.: 17:30:0
+[addtrip]
+192 G-A-G
+0
+1050.000
+
+  Dep.: 17:51:0
+[addtrip]
+192 G-A-G
+0
+1071.000
+
+  Dep.: 18:12:0
+[addtrip]
+192 G-A-G
+0
+1092.000
+
+  Dep.: 18:33:0
+[addtrip]
+192 G-A-G
+0
+1113.000
+
+  Dep.: 18:54:0
+[addtrip]
+192 G-A-G
+0
+1134.000
+
+  Dep.: 19:15:0
+[addtrip]
+192 G-A-G
+0
+1155.000
+
+  Dep.: 19:36:0
+[addtrip]
+192 G-A-G
+0
+1176.000
+
+  Dep.: 19:57:0
+[addtrip]
+192 G-A-G
+0
+1197.000
+
+  Dep.: 20:18:0
+[addtrip]
+192 G-A-G
+0
+1218.000
+
+  Dep.: 20:39:0
+[addtrip]
+192 G-A-G
+0
+1239.000
+
+  Dep.: 21:0:0
+[addtrip]
+192 G-A-G
+0
+1260.000
+
+  Dep.: 21:21:0
+[addtrip]
+192 G-A-G
+0
+1281.000
+
+  Dep.: 21:42:0
+[addtrip]
+192 G-A-G
+0
+1302.000
+
+  Dep.: 22:3:0
+[addtrip]
+192 G-A-G
+0
+1323.000
+
+  Dep.: 22:24:0
+[addtrip]
+192 G-A-G
+0
+1344.000
+
+  Dep.: 22:45:0
+[addtrip]
+192 G-A-G
+0
+1365.000
+
+  Dep.: 23:6:0
+[addtrip]
+192 G-A-G
+0
+1386.000
+
+  Dep.: 23:27:0
+[addtrip]
+192 G-A-G
+0
+1407.000
+
+------------------------------------
+
+[newtour]
+192_1_2
+Airport Rocket
+1023
+
+------------------------------------
+
+  Dep.: 0:7:0
+[addtrip]
+192 G-A-G
+0
+7.000
+
+  Dep.: 0:28:0
+[addtrip]
+192 G-A-G
+0
+28.000
+
+  Dep.: 0:49:0
+[addtrip]
+192 G-A-G
+0
+49.000
+
+  Dep.: 1:10:0
+[addtrip]
+192 G-A-G
+0
+70.000
+
+  Dep.: 1:31:0
+[addtrip]
+192 G-A-G
+0
+91.000
+
+  Dep.: 1:52:0
+[addtrip]
+192 G-A-G
+0
+112.000
+
+  Dep.: 2:13:0
+[addtrip]
+192 G-A-G
+0
+133.000
+
+  Dep.: 2:34:0
+[addtrip]
+192 G-A-G
+0
+154.000
+
+  Dep.: 2:55:0
+[addtrip]
+192 G-A-G
+0
+175.000
+
+  Dep.: 3:16:0
+[addtrip]
+192 G-A-G
+0
+196.000
+
+  Dep.: 3:37:0
+[addtrip]
+192 G-A-G
+0
+217.000
+
+  Dep.: 3:58:0
+[addtrip]
+192 G-A-G
+0
+238.000
+
+  Dep.: 4:19:0
+[addtrip]
+192 G-A-G
+0
+259.000
+
+  Dep.: 4:40:0
+[addtrip]
+192 G-A-G
+0
+280.000
+
+  Dep.: 5:1:0
+[addtrip]
+192 G-A-G
+0
+301.000
+
+  Dep.: 5:22:0
+[addtrip]
+192 G-A-G
+0
+322.000
+
+  Dep.: 5:43:0
+[addtrip]
+192 G-A-G
+0
+343.000
+
+  Dep.: 6:4:0
+[addtrip]
+192 G-A-G
+0
+364.000
+
+  Dep.: 6:25:0
+[addtrip]
+192 G-A-G
+0
+385.000
+
+  Dep.: 6:46:0
+[addtrip]
+192 G-A-G
+0
+406.000
+
+  Dep.: 7:7:0
+[addtrip]
+192 G-A-G
+0
+427.000
+
+  Dep.: 7:28:0
+[addtrip]
+192 G-A-G
+0
+448.000
+
+  Dep.: 7:49:0
+[addtrip]
+192 G-A-G
+0
+469.000
+
+  Dep.: 8:10:0
+[addtrip]
+192 G-A-G
+0
+490.000
+
+  Dep.: 8:31:0
+[addtrip]
+192 G-A-G
+0
+511.000
+
+  Dep.: 8:52:0
+[addtrip]
+192 G-A-G
+0
+532.000
+
+  Dep.: 9:13:0
+[addtrip]
+192 G-A-G
+0
+553.000
+
+  Dep.: 9:34:0
+[addtrip]
+192 G-A-G
+0
+574.000
+
+  Dep.: 9:55:0
+[addtrip]
+192 G-A-G
+0
+595.000
+
+  Dep.: 10:16:0
+[addtrip]
+192 G-A-G
+0
+616.000
+
+  Dep.: 10:37:0
+[addtrip]
+192 G-A-G
+0
+637.000
+
+  Dep.: 10:58:0
+[addtrip]
+192 G-A-G
+0
+658.000
+
+  Dep.: 11:19:0
+[addtrip]
+192 G-A-G
+0
+679.000
+
+  Dep.: 11:40:0
+[addtrip]
+192 G-A-G
+0
+700.000
+
+  Dep.: 12:1:0
+[addtrip]
+192 G-A-G
+0
+721.000
+
+  Dep.: 12:22:0
+[addtrip]
+192 G-A-G
+0
+742.000
+
+  Dep.: 12:43:0
+[addtrip]
+192 G-A-G
+0
+763.000
+
+  Dep.: 13:4:0
+[addtrip]
+192 G-A-G
+0
+784.000
+
+  Dep.: 13:25:0
+[addtrip]
+192 G-A-G
+0
+805.000
+
+  Dep.: 13:46:0
+[addtrip]
+192 G-A-G
+0
+826.000
+
+  Dep.: 14:7:0
+[addtrip]
+192 G-A-G
+0
+847.000
+
+  Dep.: 14:28:0
+[addtrip]
+192 G-A-G
+0
+868.000
+
+  Dep.: 14:49:0
+[addtrip]
+192 G-A-G
+0
+889.000
+
+  Dep.: 15:10:0
+[addtrip]
+192 G-A-G
+0
+910.000
+
+  Dep.: 15:31:0
+[addtrip]
+192 G-A-G
+0
+931.000
+
+  Dep.: 15:52:0
+[addtrip]
+192 G-A-G
+0
+952.000
+
+  Dep.: 16:13:0
+[addtrip]
+192 G-A-G
+0
+973.000
+
+  Dep.: 16:34:0
+[addtrip]
+192 G-A-G
+0
+994.000
+
+  Dep.: 16:55:0
+[addtrip]
+192 G-A-G
+0
+1015.000
+
+  Dep.: 17:16:0
+[addtrip]
+192 G-A-G
+0
+1036.000
+
+  Dep.: 17:37:0
+[addtrip]
+192 G-A-G
+0
+1057.000
+
+  Dep.: 17:58:0
+[addtrip]
+192 G-A-G
+0
+1078.000
+
+  Dep.: 18:19:0
+[addtrip]
+192 G-A-G
+0
+1099.000
+
+  Dep.: 18:40:0
+[addtrip]
+192 G-A-G
+0
+1120.000
+
+  Dep.: 19:1:0
+[addtrip]
+192 G-A-G
+0
+1141.000
+
+  Dep.: 19:22:0
+[addtrip]
+192 G-A-G
+0
+1162.000
+
+  Dep.: 19:43:0
+[addtrip]
+192 G-A-G
+0
+1183.000
+
+  Dep.: 20:4:0
+[addtrip]
+192 G-A-G
+0
+1204.000
+
+  Dep.: 20:25:0
+[addtrip]
+192 G-A-G
+0
+1225.000
+
+  Dep.: 20:46:0
+[addtrip]
+192 G-A-G
+0
+1246.000
+
+  Dep.: 21:7:0
+[addtrip]
+192 G-A-G
+0
+1267.000
+
+  Dep.: 21:28:0
+[addtrip]
+192 G-A-G
+0
+1288.000
+
+  Dep.: 21:49:0
+[addtrip]
+192 G-A-G
+0
+1309.000
+
+  Dep.: 22:10:0
+[addtrip]
+192 G-A-G
+0
+1330.000
+
+  Dep.: 22:31:0
+[addtrip]
+192 G-A-G
+0
+1351.000
+
+  Dep.: 22:52:0
+[addtrip]
+192 G-A-G
+0
+1372.000
+
+  Dep.: 23:13:0
+[addtrip]
+192 G-A-G
+0
+1393.000
+
+  Dep.: 23:34:0
+[addtrip]
+192 G-A-G
+0
+1414.000
+
+------------------------------------
+
+[newtour]
+192_1_3
+Airport Rocket
+1023
+
+------------------------------------
+
+  Dep.: 0:14:0
+[addtrip]
+192 G-A-G
+0
+14.000
+
+  Dep.: 0:35:0
+[addtrip]
+192 G-A-G
+0
+35.000
+
+  Dep.: 0:56:0
+[addtrip]
+192 G-A-G
+0
+56.000
+
+  Dep.: 1:17:0
+[addtrip]
+192 G-A-G
+0
+77.000
+
+  Dep.: 1:38:0
+[addtrip]
+192 G-A-G
+0
+98.000
+
+  Dep.: 1:59:0
+[addtrip]
+192 G-A-G
+0
+119.000
+
+  Dep.: 2:20:0
+[addtrip]
+192 G-A-G
+0
+140.000
+
+  Dep.: 2:41:0
+[addtrip]
+192 G-A-G
+0
+161.000
+
+  Dep.: 3:2:0
+[addtrip]
+192 G-A-G
+0
+182.000
+
+  Dep.: 3:23:0
+[addtrip]
+192 G-A-G
+0
+203.000
+
+  Dep.: 3:44:0
+[addtrip]
+192 G-A-G
+0
+224.000
+
+  Dep.: 4:5:0
+[addtrip]
+192 G-A-G
+0
+245.000
+
+  Dep.: 4:26:0
+[addtrip]
+192 G-A-G
+0
+266.000
+
+  Dep.: 4:47:0
+[addtrip]
+192 G-A-G
+0
+287.000
+
+  Dep.: 5:8:0
+[addtrip]
+192 G-A-G
+0
+308.000
+
+  Dep.: 5:29:0
+[addtrip]
+192 G-A-G
+0
+329.000
+
+  Dep.: 5:50:0
+[addtrip]
+192 G-A-G
+0
+350.000
+
+  Dep.: 6:11:0
+[addtrip]
+192 G-A-G
+0
+371.000
+
+  Dep.: 6:32:0
+[addtrip]
+192 G-A-G
+0
+392.000
+
+  Dep.: 6:53:0
+[addtrip]
+192 G-A-G
+0
+413.000
+
+  Dep.: 7:14:0
+[addtrip]
+192 G-A-G
+0
+434.000
+
+  Dep.: 7:35:0
+[addtrip]
+192 G-A-G
+0
+455.000
+
+  Dep.: 7:56:0
+[addtrip]
+192 G-A-G
+0
+476.000
+
+  Dep.: 8:17:0
+[addtrip]
+192 G-A-G
+0
+497.000
+
+  Dep.: 8:38:0
+[addtrip]
+192 G-A-G
+0
+518.000
+
+  Dep.: 8:59:0
+[addtrip]
+192 G-A-G
+0
+539.000
+
+  Dep.: 9:20:0
+[addtrip]
+192 G-A-G
+0
+560.000
+
+  Dep.: 9:41:0
+[addtrip]
+192 G-A-G
+0
+581.000
+
+  Dep.: 10:2:0
+[addtrip]
+192 G-A-G
+0
+602.000
+
+  Dep.: 10:23:0
+[addtrip]
+192 G-A-G
+0
+623.000
+
+  Dep.: 10:44:0
+[addtrip]
+192 G-A-G
+0
+644.000
+
+  Dep.: 11:5:0
+[addtrip]
+192 G-A-G
+0
+665.000
+
+  Dep.: 11:26:0
+[addtrip]
+192 G-A-G
+0
+686.000
+
+  Dep.: 11:47:0
+[addtrip]
+192 G-A-G
+0
+707.000
+
+  Dep.: 12:8:0
+[addtrip]
+192 G-A-G
+0
+728.000
+
+  Dep.: 12:29:0
+[addtrip]
+192 G-A-G
+0
+749.000
+
+  Dep.: 12:50:0
+[addtrip]
+192 G-A-G
+0
+770.000
+
+  Dep.: 13:11:0
+[addtrip]
+192 G-A-G
+0
+791.000
+
+  Dep.: 13:32:0
+[addtrip]
+192 G-A-G
+0
+812.000
+
+  Dep.: 13:53:0
+[addtrip]
+192 G-A-G
+0
+833.000
+
+  Dep.: 14:14:0
+[addtrip]
+192 G-A-G
+0
+854.000
+
+  Dep.: 14:35:0
+[addtrip]
+192 G-A-G
+0
+875.000
+
+  Dep.: 14:56:0
+[addtrip]
+192 G-A-G
+0
+896.000
+
+  Dep.: 15:17:0
+[addtrip]
+192 G-A-G
+0
+917.000
+
+  Dep.: 15:38:0
+[addtrip]
+192 G-A-G
+0
+938.000
+
+  Dep.: 15:59:0
+[addtrip]
+192 G-A-G
+0
+959.000
+
+  Dep.: 16:20:0
+[addtrip]
+192 G-A-G
+0
+980.000
+
+  Dep.: 16:41:0
+[addtrip]
+192 G-A-G
+0
+1001.000
+
+  Dep.: 17:2:0
+[addtrip]
+192 G-A-G
+0
+1022.000
+
+  Dep.: 17:23:0
+[addtrip]
+192 G-A-G
+0
+1043.000
+
+  Dep.: 17:44:0
+[addtrip]
+192 G-A-G
+0
+1064.000
+
+  Dep.: 18:5:0
+[addtrip]
+192 G-A-G
+0
+1085.000
+
+  Dep.: 18:26:0
+[addtrip]
+192 G-A-G
+0
+1106.000
+
+  Dep.: 18:47:0
+[addtrip]
+192 G-A-G
+0
+1127.000
+
+  Dep.: 19:8:0
+[addtrip]
+192 G-A-G
+0
+1148.000
+
+  Dep.: 19:29:0
+[addtrip]
+192 G-A-G
+0
+1169.000
+
+  Dep.: 19:50:0
+[addtrip]
+192 G-A-G
+0
+1190.000
+
+  Dep.: 20:11:0
+[addtrip]
+192 G-A-G
+0
+1211.000
+
+  Dep.: 20:32:0
+[addtrip]
+192 G-A-G
+0
+1232.000
+
+  Dep.: 20:53:0
+[addtrip]
+192 G-A-G
+0
+1253.000
+
+  Dep.: 21:14:0
+[addtrip]
+192 G-A-G
+0
+1274.000
+
+  Dep.: 21:35:0
+[addtrip]
+192 G-A-G
+0
+1295.000
+
+  Dep.: 21:56:0
+[addtrip]
+192 G-A-G
+0
+1316.000
+
+  Dep.: 22:17:0
+[addtrip]
+192 G-A-G
+0
+1337.000
+
+  Dep.: 22:38:0
+[addtrip]
+192 G-A-G
+0
+1358.000
+
+  Dep.: 22:59:0
+[addtrip]
+192 G-A-G
+0
+1379.000
+
+  Dep.: 23:20:0
+[addtrip]
+192 G-A-G
+0
+1400.000
+
+  Dep.: 23:41:0
+[addtrip]
+192 G-A-G
+0
+1421.000
+

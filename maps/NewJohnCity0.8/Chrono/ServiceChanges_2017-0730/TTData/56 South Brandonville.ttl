@@ -1,0 +1,2003 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:55:0
+[addtrip]
+56 F-E
+0
+295.000
+
+  Dep.: 5:13:0
+[addtrip]
+56B Sheppard Stn
+0
+313.000
+
+  Dep.: 5:43:0
+[addtrip]
+56B Eglinton
+0
+343.000
+
+  Dep.: 6:7:0
+[addtrip]
+56B Sheppard Stn
+0
+367.000
+
+  Dep.: 6:37:0
+[addtrip]
+56B Eglinton
+0
+397.000
+
+  Dep.: 7:0:0
+[addtrip]
+56B Sheppard Stn
+1
+420.000
+
+  Dep.: 7:22:0
+[addtrip]
+56B Eglinton
+2
+442.000
+
+  Dep.: 7:45:0
+[addtrip]
+56B Sheppard Stn
+1
+465.000
+
+  Dep.: 8:7:0
+[addtrip]
+56B Eglinton
+2
+487.000
+
+  Dep.: 8:30:0
+[addtrip]
+56B Sheppard Stn
+1
+510.000
+
+  Dep.: 8:52:0
+[addtrip]
+56B Eglinton
+2
+532.000
+
+  Dep.: 9:15:0
+[addtrip]
+56B Sheppard Stn
+1
+555.000
+
+  Dep.: 9:40:0
+[addtrip]
+56B Eglinton
+0
+580.000
+
+  Dep.: 10:5:0
+[addtrip]
+56B Sheppard Stn
+0
+605.000
+
+  Dep.: 10:30:0
+[addtrip]
+56B Eglinton
+0
+630.000
+
+  Dep.: 10:55:0
+[addtrip]
+56B Sheppard Stn
+0
+655.000
+
+  Dep.: 11:20:0
+[addtrip]
+56B Eglinton
+0
+680.000
+
+  Dep.: 11:45:0
+[addtrip]
+56B Sheppard Stn
+0
+705.000
+
+  Dep.: 12:10:0
+[addtrip]
+56B Eglinton
+0
+730.000
+
+  Dep.: 12:35:0
+[addtrip]
+56B Sheppard Stn
+0
+755.000
+
+  Dep.: 13:0:0
+[addtrip]
+56B Eglinton
+0
+780.000
+
+  Dep.: 13:25:0
+[addtrip]
+56B Sheppard Stn
+0
+805.000
+
+  Dep.: 13:50:0
+[addtrip]
+56B Eglinton
+0
+830.000
+
+  Dep.: 14:15:0
+[addtrip]
+56B Sheppard Stn
+0
+855.000
+
+  Dep.: 14:40:0
+[addtrip]
+56B Eglinton
+0
+880.000
+
+  Dep.: 15:5:0
+[addtrip]
+56B Sheppard Stn
+0
+905.000
+
+  Dep.: 15:30:0
+[addtrip]
+56B Eglinton
+0
+930.000
+
+  Dep.: 15:55:0
+[addtrip]
+56B Sheppard Stn
+0
+955.000
+
+  Dep.: 16:20:0
+[addtrip]
+56B Eglinton
+0
+980.000
+
+  Dep.: 16:45:0
+[addtrip]
+56B Sheppard Stn
+0
+1005.000
+
+  Dep.: 17:13:0
+[addtrip]
+56B Eglinton
+0
+1033.000
+
+  Dep.: 17:35:0
+[addtrip]
+56B Sheppard Stn
+0
+1055.000
+
+  Dep.: 18:0:0
+[addtrip]
+56B Eglinton
+0
+1080.000
+
+  Dep.: 18:25:0
+[addtrip]
+56B Sheppard Stn
+0
+1105.000
+
+  Dep.: 18:53:0
+[addtrip]
+56B Eglinton
+0
+1133.000
+
+  Dep.: 19:14:0
+[addtrip]
+56B Sheppard Stn
+0
+1154.000
+
+  Dep.: 19:35:0
+[addtrip]
+56 S-F
+0
+1175.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:13:0
+[addtrip]
+56 F-E
+0
+313.000
+
+  Dep.: 5:31:0
+[addtrip]
+56B Sheppard Stn
+0
+331.000
+
+  Dep.: 6:1:0
+[addtrip]
+56B Eglinton
+0
+361.000
+
+  Dep.: 6:25:0
+[addtrip]
+56B Sheppard Stn
+0
+385.000
+
+  Dep.: 6:55:0
+[addtrip]
+56B Eglinton
+0
+415.000
+
+  Dep.: 7:18:0
+[addtrip]
+56B Sheppard Stn
+1
+438.000
+
+  Dep.: 7:40:0
+[addtrip]
+56B Eglinton
+2
+460.000
+
+  Dep.: 8:3:0
+[addtrip]
+56B Sheppard Stn
+1
+483.000
+
+  Dep.: 8:25:0
+[addtrip]
+56B Eglinton
+2
+505.000
+
+  Dep.: 8:48:0
+[addtrip]
+56B Sheppard Stn
+1
+528.000
+
+  Dep.: 9:10:0
+[addtrip]
+56B Eglinton
+2
+550.000
+
+  Dep.: 9:35:0
+[addtrip]
+56B Sheppard Stn
+0
+575.000
+
+  Dep.: 10:0:0
+[addtrip]
+56B Eglinton
+0
+600.000
+
+  Dep.: 10:25:0
+[addtrip]
+56B Sheppard Stn
+0
+625.000
+
+  Dep.: 10:50:0
+[addtrip]
+56B Eglinton
+0
+650.000
+
+  Dep.: 11:15:0
+[addtrip]
+56B Sheppard Stn
+0
+675.000
+
+  Dep.: 11:40:0
+[addtrip]
+56B Eglinton
+0
+700.000
+
+  Dep.: 12:5:0
+[addtrip]
+56B Sheppard Stn
+0
+725.000
+
+  Dep.: 12:30:0
+[addtrip]
+56B Eglinton
+0
+750.000
+
+  Dep.: 12:55:0
+[addtrip]
+56B Sheppard Stn
+0
+775.000
+
+  Dep.: 13:20:0
+[addtrip]
+56B Eglinton
+0
+800.000
+
+  Dep.: 13:45:0
+[addtrip]
+56B Sheppard Stn
+0
+825.000
+
+  Dep.: 14:10:0
+[addtrip]
+56B Eglinton
+0
+850.000
+
+  Dep.: 14:35:0
+[addtrip]
+56B Sheppard Stn
+0
+875.000
+
+  Dep.: 15:0:0
+[addtrip]
+56B Eglinton
+0
+900.000
+
+  Dep.: 15:25:0
+[addtrip]
+56B Sheppard Stn
+0
+925.000
+
+  Dep.: 15:50:0
+[addtrip]
+56B Eglinton
+0
+950.000
+
+  Dep.: 16:15:0
+[addtrip]
+56B Sheppard Stn
+0
+975.000
+
+  Dep.: 16:43:0
+[addtrip]
+56B Eglinton
+0
+1003.000
+
+  Dep.: 17:5:0
+[addtrip]
+56B Sheppard Stn
+0
+1025.000
+
+  Dep.: 17:33:0
+[addtrip]
+56B Eglinton
+0
+1053.000
+
+  Dep.: 17:55:0
+[addtrip]
+56B Sheppard Stn
+0
+1075.000
+
+  Dep.: 18:23:0
+[addtrip]
+56B Eglinton
+0
+1103.000
+
+  Dep.: 18:46:0
+[addtrip]
+56B Sheppard Stn
+0
+1126.000
+
+  Dep.: 19:6:0
+[addtrip]
+56 S-F
+0
+1146.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:31:0
+[addtrip]
+56 F-E
+0
+331.000
+
+  Dep.: 5:49:0
+[addtrip]
+56B Sheppard Stn
+0
+349.000
+
+  Dep.: 6:19:0
+[addtrip]
+56B Eglinton
+0
+379.000
+
+  Dep.: 6:43:0
+[addtrip]
+56B Sheppard Stn
+0
+403.000
+
+  Dep.: 7:13:0
+[addtrip]
+56B Eglinton
+2
+433.000
+
+  Dep.: 7:36:0
+[addtrip]
+56B Sheppard Stn
+1
+456.000
+
+  Dep.: 7:58:0
+[addtrip]
+56B Eglinton
+2
+478.000
+
+  Dep.: 8:21:0
+[addtrip]
+56B Sheppard Stn
+1
+501.000
+
+  Dep.: 8:43:0
+[addtrip]
+56B Eglinton
+2
+523.000
+
+  Dep.: 9:6:0
+[addtrip]
+56B Sheppard Stn
+1
+546.000
+
+  Dep.: 9:30:0
+[addtrip]
+56B Eglinton
+0
+570.000
+
+  Dep.: 9:55:0
+[addtrip]
+56B Sheppard Stn
+0
+595.000
+
+  Dep.: 10:20:0
+[addtrip]
+56B Eglinton
+0
+620.000
+
+  Dep.: 10:45:0
+[addtrip]
+56B Sheppard Stn
+0
+645.000
+
+  Dep.: 11:10:0
+[addtrip]
+56B Eglinton
+0
+670.000
+
+  Dep.: 11:35:0
+[addtrip]
+56B Sheppard Stn
+0
+695.000
+
+  Dep.: 12:0:0
+[addtrip]
+56B Eglinton
+0
+720.000
+
+  Dep.: 12:25:0
+[addtrip]
+56B Sheppard Stn
+0
+745.000
+
+  Dep.: 12:50:0
+[addtrip]
+56B Eglinton
+0
+770.000
+
+  Dep.: 13:15:0
+[addtrip]
+56B Sheppard Stn
+0
+795.000
+
+  Dep.: 13:40:0
+[addtrip]
+56B Eglinton
+0
+820.000
+
+  Dep.: 14:5:0
+[addtrip]
+56B Sheppard Stn
+0
+845.000
+
+  Dep.: 14:30:0
+[addtrip]
+56B Eglinton
+0
+870.000
+
+  Dep.: 14:55:0
+[addtrip]
+56B Sheppard Stn
+0
+895.000
+
+  Dep.: 15:20:0
+[addtrip]
+56B Eglinton
+0
+920.000
+
+  Dep.: 15:45:0
+[addtrip]
+56B Sheppard Stn
+0
+945.000
+
+  Dep.: 16:10:0
+[addtrip]
+56B Eglinton
+0
+970.000
+
+  Dep.: 16:35:0
+[addtrip]
+56B Sheppard Stn
+0
+995.000
+
+  Dep.: 17:3:0
+[addtrip]
+56B Eglinton
+0
+1023.000
+
+  Dep.: 17:25:0
+[addtrip]
+56B Sheppard Stn
+0
+1045.000
+
+  Dep.: 17:53:0
+[addtrip]
+56B Eglinton
+0
+1073.000
+
+  Dep.: 18:15:0
+[addtrip]
+56B Sheppard Stn
+0
+1095.000
+
+  Dep.: 18:43:0
+[addtrip]
+56B Eglinton
+0
+1123.000
+
+  Dep.: 19:7:30
+[addtrip]
+56B Sheppard Stn
+0
+1147.500
+
+  Dep.: 19:30:0
+[addtrip]
+56B Eglinton
+0
+1170.000
+
+  Dep.: 19:52:30
+[addtrip]
+56B Sheppard Stn
+0
+1192.500
+
+  Dep.: 20:15:0
+[addtrip]
+56B Eglinton
+0
+1215.000
+
+  Dep.: 20:37:30
+[addtrip]
+56B Sheppard Stn
+0
+1237.500
+
+  Dep.: 21:0:0
+[addtrip]
+56B Eglinton
+0
+1260.000
+
+  Dep.: 21:22:30
+[addtrip]
+56B Sheppard Stn
+0
+1282.500
+
+  Dep.: 21:45:0
+[addtrip]
+56B Eglinton
+0
+1305.000
+
+  Dep.: 22:7:30
+[addtrip]
+56B Sheppard Stn
+0
+1327.500
+
+  Dep.: 22:30:0
+[addtrip]
+56B Eglinton
+0
+1350.000
+
+  Dep.: 22:50:0
+[addtrip]
+56B Sheppard Stn
+0
+1370.000
+
+  Dep.: 23:12:0
+[addtrip]
+56B Eglinton
+0
+1392.000
+
+  Dep.: 23:34:0
+[addtrip]
+56B Sheppard Stn
+0
+1414.000
+
+  Dep.: 23:56:0
+[addtrip]
+56B Eglinton
+0
+1436.000
+
+  Dep.: 24:18:0
+[addtrip]
+56B Sheppard Stn
+0
+1458.000
+
+  Dep.: 24:40:0
+[addtrip]
+56B Eglinton
+0
+1480.000
+
+  Dep.: 25:2:0
+[addtrip]
+56B Sheppard Stn
+0
+1502.000
+
+  Dep.: 25:24:0
+[addtrip]
+56B Eglinton
+0
+1524.000
+
+  Dep.: 25:45:0
+[addtrip]
+56B Sheppard Stn
+0
+1545.000
+
+  Dep.: 26:6:0
+[addtrip]
+56 S-F
+0
+1566.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:48:0
+[addtrip]
+56 F-E
+0
+408.000
+
+  Dep.: 7:9:0
+[addtrip]
+56B Sheppard Stn
+0
+429.000
+
+  Dep.: 7:31:0
+[addtrip]
+56B Eglinton
+2
+451.000
+
+  Dep.: 7:54:0
+[addtrip]
+56B Sheppard Stn
+1
+474.000
+
+  Dep.: 8:16:0
+[addtrip]
+56B Eglinton
+2
+496.000
+
+  Dep.: 8:39:0
+[addtrip]
+56B Sheppard Stn
+1
+519.000
+
+  Dep.: 9:1:0
+[addtrip]
+56B Eglinton
+2
+541.000
+
+  Dep.: 9:25:0
+[addtrip]
+56B Sheppard Stn
+0
+565.000
+
+  Dep.: 9:50:0
+[addtrip]
+56B Eglinton
+0
+590.000
+
+  Dep.: 10:15:0
+[addtrip]
+56B Sheppard Stn
+0
+615.000
+
+  Dep.: 10:40:0
+[addtrip]
+56B Eglinton
+0
+640.000
+
+  Dep.: 11:5:0
+[addtrip]
+56B Sheppard Stn
+0
+665.000
+
+  Dep.: 11:30:0
+[addtrip]
+56B Eglinton
+0
+690.000
+
+  Dep.: 11:55:0
+[addtrip]
+56B Sheppard Stn
+0
+715.000
+
+  Dep.: 12:20:0
+[addtrip]
+56B Eglinton
+0
+740.000
+
+  Dep.: 12:45:0
+[addtrip]
+56B Sheppard Stn
+0
+765.000
+
+  Dep.: 13:10:0
+[addtrip]
+56B Eglinton
+0
+790.000
+
+  Dep.: 13:35:0
+[addtrip]
+56B Sheppard Stn
+0
+815.000
+
+  Dep.: 14:0:0
+[addtrip]
+56B Eglinton
+0
+840.000
+
+  Dep.: 14:25:0
+[addtrip]
+56B Sheppard Stn
+0
+865.000
+
+  Dep.: 14:50:0
+[addtrip]
+56B Eglinton
+0
+890.000
+
+  Dep.: 15:15:0
+[addtrip]
+56B Sheppard Stn
+0
+915.000
+
+  Dep.: 15:40:0
+[addtrip]
+56B Eglinton
+0
+940.000
+
+  Dep.: 16:5:0
+[addtrip]
+56B Sheppard Stn
+0
+965.000
+
+  Dep.: 16:33:0
+[addtrip]
+56B Eglinton
+0
+993.000
+
+  Dep.: 16:55:0
+[addtrip]
+56B Sheppard Stn
+0
+1015.000
+
+  Dep.: 17:23:0
+[addtrip]
+56B Eglinton
+0
+1043.000
+
+  Dep.: 17:45:0
+[addtrip]
+56B Sheppard Stn
+0
+1065.000
+
+  Dep.: 18:13:0
+[addtrip]
+56B Eglinton
+0
+1093.000
+
+  Dep.: 18:35:0
+[addtrip]
+56B Sheppard Stn
+0
+1115.000
+
+  Dep.: 19:0:0
+[addtrip]
+56B Eglinton
+0
+1140.000
+
+  Dep.: 19:22:30
+[addtrip]
+56B Sheppard Stn
+0
+1162.500
+
+  Dep.: 19:45:0
+[addtrip]
+56B Eglinton
+0
+1185.000
+
+  Dep.: 20:7:30
+[addtrip]
+56B Sheppard Stn
+0
+1207.500
+
+  Dep.: 20:30:0
+[addtrip]
+56B Eglinton
+0
+1230.000
+
+  Dep.: 20:52:30
+[addtrip]
+56B Sheppard Stn
+0
+1252.500
+
+  Dep.: 21:15:0
+[addtrip]
+56B Eglinton
+0
+1275.000
+
+  Dep.: 21:37:30
+[addtrip]
+56B Sheppard Stn
+0
+1297.500
+
+  Dep.: 22:0:0
+[addtrip]
+56B Eglinton
+0
+1320.000
+
+  Dep.: 22:22:30
+[addtrip]
+56B Sheppard Stn
+0
+1342.500
+
+  Dep.: 22:50:0
+[addtrip]
+56B Eglinton
+0
+1370.000
+
+  Dep.: 23:12:0
+[addtrip]
+56B Sheppard Stn
+0
+1392.000
+
+  Dep.: 23:34:0
+[addtrip]
+56B Eglinton
+0
+1414.000
+
+  Dep.: 23:56:0
+[addtrip]
+56B Sheppard Stn
+0
+1436.000
+
+  Dep.: 24:18:0
+[addtrip]
+56B Eglinton
+0
+1458.000
+
+  Dep.: 24:40:0
+[addtrip]
+56B Sheppard Stn
+0
+1480.000
+
+  Dep.: 25:2:0
+[addtrip]
+56B Eglinton
+0
+1502.000
+
+  Dep.: 25:24:0
+[addtrip]
+56B Sheppard Stn
+0
+1524.000
+
+  Dep.: 25:46:0
+[addtrip]
+56B Eglinton
+0
+1546.000
+
+  Dep.: 26:7:0
+[addtrip]
+56B Sheppard Stn
+0
+1567.000
+
+  Dep.: 26:28:0
+[addtrip]
+56 S-F
+0
+1588.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 7:6:0
+[addtrip]
+56 F-E
+0
+426.000
+
+  Dep.: 7:27:0
+[addtrip]
+56B Sheppard Stn
+1
+447.000
+
+  Dep.: 7:49:0
+[addtrip]
+56B Eglinton
+2
+469.000
+
+  Dep.: 8:12:0
+[addtrip]
+56B Sheppard Stn
+1
+492.000
+
+  Dep.: 8:34:0
+[addtrip]
+56B Eglinton
+0
+514.000
+
+  Dep.: 8:57:0
+[addtrip]
+56B Sheppard Stn
+1
+537.000
+
+  Dep.: 9:20:0
+[addtrip]
+56B Eglinton
+0
+560.000
+
+  Dep.: 9:45:0
+[addtrip]
+56B Sheppard Stn
+0
+585.000
+
+  Dep.: 10:10:0
+[addtrip]
+56B Eglinton
+0
+610.000
+
+  Dep.: 10:35:0
+[addtrip]
+56B Sheppard Stn
+0
+635.000
+
+  Dep.: 11:0:0
+[addtrip]
+56B Eglinton
+0
+660.000
+
+  Dep.: 11:25:0
+[addtrip]
+56B Sheppard Stn
+0
+685.000
+
+  Dep.: 11:50:0
+[addtrip]
+56B Eglinton
+0
+710.000
+
+  Dep.: 12:15:0
+[addtrip]
+56B Sheppard Stn
+0
+735.000
+
+  Dep.: 12:40:0
+[addtrip]
+56B Eglinton
+0
+760.000
+
+  Dep.: 13:5:0
+[addtrip]
+56B Sheppard Stn
+0
+785.000
+
+  Dep.: 13:30:0
+[addtrip]
+56B Eglinton
+0
+810.000
+
+  Dep.: 13:55:0
+[addtrip]
+56B Sheppard Stn
+0
+835.000
+
+  Dep.: 14:20:0
+[addtrip]
+56B Eglinton
+0
+860.000
+
+  Dep.: 14:45:0
+[addtrip]
+56B Sheppard Stn
+0
+885.000
+
+  Dep.: 15:10:0
+[addtrip]
+56B Eglinton
+0
+910.000
+
+  Dep.: 15:35:0
+[addtrip]
+56B Sheppard Stn
+0
+935.000
+
+  Dep.: 16:0:0
+[addtrip]
+56B Eglinton
+0
+960.000
+
+  Dep.: 16:25:0
+[addtrip]
+56B Sheppard Stn
+0
+985.000
+
+  Dep.: 16:50:0
+[addtrip]
+56B Eglinton
+0
+1010.000
+
+  Dep.: 17:15:0
+[addtrip]
+56B Sheppard Stn
+0
+1035.000
+
+  Dep.: 17:43:0
+[addtrip]
+56B Eglinton
+0
+1063.000
+
+  Dep.: 18:5:0
+[addtrip]
+56B Sheppard Stn
+0
+1085.000
+
+  Dep.: 18:33:0
+[addtrip]
+56B Eglinton
+0
+1113.000
+
+  Dep.: 18:55:0
+[addtrip]
+56B Sheppard Stn
+0
+1135.000
+
+  Dep.: 19:15:0
+[addtrip]
+56B Eglinton
+0
+1155.000
+
+  Dep.: 19:37:30
+[addtrip]
+56B Sheppard Stn
+0
+1177.500
+
+  Dep.: 20:0:0
+[addtrip]
+56B Eglinton
+0
+1200.000
+
+  Dep.: 20:22:30
+[addtrip]
+56B Sheppard Stn
+0
+1222.500
+
+  Dep.: 20:45:0
+[addtrip]
+56B Eglinton
+0
+1245.000
+
+  Dep.: 21:7:30
+[addtrip]
+56B Sheppard Stn
+0
+1267.500
+
+  Dep.: 21:30:0
+[addtrip]
+56B Eglinton
+0
+1290.000
+
+  Dep.: 21:52:30
+[addtrip]
+56B Sheppard Stn
+0
+1312.500
+
+  Dep.: 22:15:0
+[addtrip]
+56B Eglinton
+0
+1335.000
+
+  Dep.: 22:36:0
+[addtrip]
+56B Sheppard Stn
+0
+1356.000
+
+  Dep.: 22:57:0
+[addtrip]
+56 S-F
+0
+1377.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 7:45:0
+[addtrip]
+56 F-E
+0
+465.000
+
+  Dep.: 8:5:0
+[addtrip]
+56B Sheppard Stn
+0
+485.000
+
+  Dep.: 8:30:0
+[addtrip]
+56B Eglinton
+0
+510.000
+
+  Dep.: 8:50:0
+[addtrip]
+56B Sheppard Stn
+0
+530.000
+
+  Dep.: 9:15:0
+[addtrip]
+56B Eglinton
+0
+555.000
+
+  Dep.: 9:35:0
+[addtrip]
+56B Sheppard Stn
+0
+575.000
+
+  Dep.: 10:0:0
+[addtrip]
+56B Eglinton
+0
+600.000
+
+  Dep.: 10:20:0
+[addtrip]
+56B Sheppard Stn
+0
+620.000
+
+  Dep.: 10:45:0
+[addtrip]
+56B Eglinton
+0
+645.000
+
+  Dep.: 11:5:0
+[addtrip]
+56B Sheppard Stn
+0
+665.000
+
+  Dep.: 11:30:0
+[addtrip]
+56B Eglinton
+0
+690.000
+
+  Dep.: 11:50:0
+[addtrip]
+56B Sheppard Stn
+0
+710.000
+
+  Dep.: 12:15:0
+[addtrip]
+56B Eglinton
+0
+735.000
+
+  Dep.: 12:35:0
+[addtrip]
+56B Sheppard Stn
+0
+755.000
+
+  Dep.: 13:0:0
+[addtrip]
+56B Eglinton
+0
+780.000
+
+  Dep.: 13:20:0
+[addtrip]
+56B Sheppard Stn
+0
+800.000
+
+  Dep.: 13:45:0
+[addtrip]
+56B Eglinton
+0
+825.000
+
+  Dep.: 14:5:0
+[addtrip]
+56B Sheppard Stn
+0
+845.000
+
+  Dep.: 14:30:0
+[addtrip]
+56B Eglinton
+0
+870.000
+
+  Dep.: 14:50:0
+[addtrip]
+56B Sheppard Stn
+0
+890.000
+
+  Dep.: 15:15:0
+[addtrip]
+56B Eglinton
+0
+915.000
+
+  Dep.: 15:35:0
+[addtrip]
+56B Sheppard Stn
+0
+935.000
+
+  Dep.: 16:0:0
+[addtrip]
+56B Eglinton
+0
+960.000
+
+  Dep.: 16:20:0
+[addtrip]
+56B Sheppard Stn
+0
+980.000
+
+  Dep.: 16:45:0
+[addtrip]
+56B Eglinton
+0
+1005.000
+
+  Dep.: 17:5:0
+[addtrip]
+56B Sheppard Stn
+0
+1025.000
+
+  Dep.: 17:30:0
+[addtrip]
+56B Eglinton
+0
+1050.000
+
+  Dep.: 17:50:0
+[addtrip]
+56B Sheppard Stn
+0
+1070.000
+
+  Dep.: 18:20:0
+[addtrip]
+56B Eglinton
+0
+1100.000
+
+  Dep.: 18:40:0
+[addtrip]
+56B Sheppard Stn
+0
+1120.000
+
+  Dep.: 19:0:0
+[addtrip]
+56B Eglinton
+0
+1140.000
+
+  Dep.: 19:20:0
+[addtrip]
+56B Sheppard Stn
+0
+1160.000
+
+  Dep.: 19:40:0
+[addtrip]
+56B Eglinton
+0
+1180.000
+
+  Dep.: 20:0:0
+[addtrip]
+56B Sheppard Stn
+0
+1200.000
+
+  Dep.: 20:20:0
+[addtrip]
+56B Eglinton
+0
+1220.000
+
+  Dep.: 20:40:0
+[addtrip]
+56B Sheppard Stn
+0
+1240.000
+
+  Dep.: 21:0:0
+[addtrip]
+56 S-F
+0
+1260.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 8:0:0
+[addtrip]
+56 F-E
+0
+480.000
+
+  Dep.: 8:20:0
+[addtrip]
+56B Sheppard Stn
+0
+500.000
+
+  Dep.: 8:45:0
+[addtrip]
+56B Eglinton
+0
+525.000
+
+  Dep.: 9:5:0
+[addtrip]
+56B Sheppard Stn
+0
+545.000
+
+  Dep.: 9:30:0
+[addtrip]
+56B Eglinton
+0
+570.000
+
+  Dep.: 9:50:0
+[addtrip]
+56B Sheppard Stn
+0
+590.000
+
+  Dep.: 10:15:0
+[addtrip]
+56B Eglinton
+0
+615.000
+
+  Dep.: 10:35:0
+[addtrip]
+56B Sheppard Stn
+0
+635.000
+
+  Dep.: 11:0:0
+[addtrip]
+56B Eglinton
+0
+660.000
+
+  Dep.: 11:20:0
+[addtrip]
+56B Sheppard Stn
+0
+680.000
+
+  Dep.: 11:45:0
+[addtrip]
+56B Eglinton
+0
+705.000
+
+  Dep.: 12:5:0
+[addtrip]
+56B Sheppard Stn
+0
+725.000
+
+  Dep.: 12:30:0
+[addtrip]
+56B Eglinton
+0
+750.000
+
+  Dep.: 12:50:0
+[addtrip]
+56B Sheppard Stn
+0
+770.000
+
+  Dep.: 13:15:0
+[addtrip]
+56B Eglinton
+0
+795.000
+
+  Dep.: 13:35:0
+[addtrip]
+56B Sheppard Stn
+0
+815.000
+
+  Dep.: 14:0:0
+[addtrip]
+56B Eglinton
+0
+840.000
+
+  Dep.: 14:20:0
+[addtrip]
+56B Sheppard Stn
+0
+860.000
+
+  Dep.: 14:45:0
+[addtrip]
+56B Eglinton
+0
+885.000
+
+  Dep.: 15:5:0
+[addtrip]
+56B Sheppard Stn
+0
+905.000
+
+  Dep.: 15:30:0
+[addtrip]
+56B Eglinton
+0
+930.000
+
+  Dep.: 15:50:0
+[addtrip]
+56B Sheppard Stn
+0
+950.000
+
+  Dep.: 16:15:0
+[addtrip]
+56B Eglinton
+0
+975.000
+
+  Dep.: 16:35:0
+[addtrip]
+56B Sheppard Stn
+0
+995.000
+
+  Dep.: 17:0:0
+[addtrip]
+56B Eglinton
+0
+1020.000
+
+  Dep.: 17:20:0
+[addtrip]
+56B Sheppard Stn
+0
+1040.000
+
+  Dep.: 17:45:0
+[addtrip]
+56B Eglinton
+0
+1065.000
+
+  Dep.: 18:5:0
+[addtrip]
+56B Sheppard Stn
+0
+1085.000
+
+  Dep.: 18:26:0
+[addtrip]
+56 S-F
+0
+1106.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 8:15:0
+[addtrip]
+56 F-E
+0
+495.000
+
+  Dep.: 8:35:0
+[addtrip]
+56B Sheppard Stn
+0
+515.000
+
+  Dep.: 9:0:0
+[addtrip]
+56B Eglinton
+0
+540.000
+
+  Dep.: 9:20:0
+[addtrip]
+56B Sheppard Stn
+0
+560.000
+
+  Dep.: 9:45:0
+[addtrip]
+56B Eglinton
+0
+585.000
+
+  Dep.: 10:5:0
+[addtrip]
+56B Sheppard Stn
+0
+605.000
+
+  Dep.: 10:30:0
+[addtrip]
+56B Eglinton
+0
+630.000
+
+  Dep.: 10:50:0
+[addtrip]
+56B Sheppard Stn
+0
+650.000
+
+  Dep.: 11:15:0
+[addtrip]
+56B Eglinton
+0
+675.000
+
+  Dep.: 11:35:0
+[addtrip]
+56B Sheppard Stn
+0
+695.000
+
+  Dep.: 12:0:0
+[addtrip]
+56B Eglinton
+0
+720.000
+
+  Dep.: 12:20:0
+[addtrip]
+56B Sheppard Stn
+0
+740.000
+
+  Dep.: 12:45:0
+[addtrip]
+56B Eglinton
+0
+765.000
+
+  Dep.: 13:5:0
+[addtrip]
+56B Sheppard Stn
+0
+785.000
+
+  Dep.: 13:30:0
+[addtrip]
+56B Eglinton
+0
+810.000
+
+  Dep.: 13:50:0
+[addtrip]
+56B Sheppard Stn
+0
+830.000
+
+  Dep.: 14:15:0
+[addtrip]
+56B Eglinton
+0
+855.000
+
+  Dep.: 14:35:0
+[addtrip]
+56B Sheppard Stn
+0
+875.000
+
+  Dep.: 15:0:0
+[addtrip]
+56B Eglinton
+0
+900.000
+
+  Dep.: 15:20:0
+[addtrip]
+56B Sheppard Stn
+0
+920.000
+
+  Dep.: 15:45:0
+[addtrip]
+56B Eglinton
+0
+945.000
+
+  Dep.: 16:5:0
+[addtrip]
+56B Sheppard Stn
+0
+965.000
+
+  Dep.: 16:30:0
+[addtrip]
+56B Eglinton
+0
+990.000
+
+  Dep.: 16:50:0
+[addtrip]
+56B Sheppard Stn
+0
+1010.000
+
+  Dep.: 17:15:0
+[addtrip]
+56B Eglinton
+0
+1035.000
+
+  Dep.: 17:35:0
+[addtrip]
+56B Sheppard Stn
+0
+1055.000
+
+  Dep.: 18:0:0
+[addtrip]
+56B Eglinton
+0
+1080.000
+
+  Dep.: 18:20:0
+[addtrip]
+56B Sheppard Stn
+0
+1100.000
+
+  Dep.: 18:40:0
+[addtrip]
+56B Eglinton
+0
+1120.000
+
+  Dep.: 19:0:0
+[addtrip]
+56B Sheppard Stn
+0
+1140.000
+
+  Dep.: 19:20:0
+[addtrip]
+56B Eglinton
+0
+1160.000
+
+  Dep.: 19:40:0
+[addtrip]
+56B Sheppard Stn
+0
+1180.000
+
+  Dep.: 20:0:0
+[addtrip]
+56B Eglinton
+0
+1200.000
+
+  Dep.: 20:20:0
+[addtrip]
+56B Sheppard Stn
+0
+1220.000
+
+  Dep.: 20:40:0
+[addtrip]
+56B Eglinton
+0
+1240.000
+
+  Dep.: 21:0:0
+[addtrip]
+56B Sheppard Stn
+0
+1260.000
+
+  Dep.: 21:20:0
+[addtrip]
+56 S-F
+0
+1280.000
+

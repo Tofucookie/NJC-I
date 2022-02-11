@@ -1,0 +1,1568 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 06/01/2017
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Sat/Sun
+Finch Garage
+992
+
+------------------------------------
+
+  Dep.: 5:47:0
+[addtrip]
+Finch-Bessarion
+0
+347.000
+
+  Dep.: 6:0:0
+[addtrip]
+191 Hwy27 R
+0
+360.000
+
+  Dep.: 6:34:30
+[addtrip]
+191B S-B
+0
+394.500
+
+  Dep.: 7:10:0
+[addtrip]
+191 Hwy27 R
+0
+430.000
+
+  Dep.: 7:44:30
+[addtrip]
+191B S-B
+0
+464.500
+
+  Dep.: 8:20:0
+[addtrip]
+191 Hwy27 R
+0
+500.000
+
+  Dep.: 8:54:30
+[addtrip]
+191B S-B
+0
+534.500
+
+  Dep.: 9:30:0
+[addtrip]
+191 Hwy27 R
+0
+570.000
+
+  Dep.: 10:4:30
+[addtrip]
+191B S-B
+0
+604.500
+
+  Dep.: 10:40:0
+[addtrip]
+191 Hwy27 R
+0
+640.000
+
+  Dep.: 11:14:30
+[addtrip]
+191B S-B
+0
+674.500
+
+  Dep.: 11:50:0
+[addtrip]
+191 Hwy27 R
+0
+710.000
+
+  Dep.: 12:24:30
+[addtrip]
+191B S-B
+0
+744.500
+
+  Dep.: 13:0:0
+[addtrip]
+191 Hwy27 R
+0
+780.000
+
+  Dep.: 13:34:30
+[addtrip]
+191B S-B
+0
+814.500
+
+  Dep.: 14:10:0
+[addtrip]
+191 Hwy27 R
+0
+850.000
+
+  Dep.: 14:44:30
+[addtrip]
+191B S-B
+0
+884.500
+
+  Dep.: 15:20:0
+[addtrip]
+191 Hwy27 R
+0
+920.000
+
+  Dep.: 15:54:30
+[addtrip]
+191B S-B
+0
+954.500
+
+  Dep.: 16:30:0
+[addtrip]
+191 Hwy27 R
+0
+990.000
+
+  Dep.: 17:4:30
+[addtrip]
+191B S-B
+0
+1024.500
+
+  Dep.: 17:40:0
+[addtrip]
+191 Hwy27 R
+0
+1060.000
+
+  Dep.: 18:14:30
+[addtrip]
+191B S-B
+0
+1094.500
+
+  Dep.: 18:50:0
+[addtrip]
+191 Hwy27 R
+0
+1130.000
+
+  Dep.: 19:24:30
+[addtrip]
+191B S-B
+0
+1164.500
+
+  Dep.: 20:0:0
+[addtrip]
+191 Hwy27 R
+0
+1200.000
+
+  Dep.: 20:34:30
+[addtrip]
+191B S-B
+0
+1234.500
+
+  Dep.: 21:10:0
+[addtrip]
+191 Hwy27 R
+0
+1270.000
+
+  Dep.: 21:35:0
+[addtrip]
+191 Garage End - Sheppard
+0
+1295.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sat/Sun
+Finch Garage
+992
+
+------------------------------------
+
+  Dep.: 5:57:0
+[addtrip]
+Finch-Bessarion
+0
+357.000
+
+  Dep.: 6:10:0
+[addtrip]
+191 Hwy27 R
+0
+370.000
+
+  Dep.: 6:44:30
+[addtrip]
+191B S-B
+0
+404.500
+
+  Dep.: 7:20:0
+[addtrip]
+191 Hwy27 R
+0
+440.000
+
+  Dep.: 7:54:30
+[addtrip]
+191B S-B
+0
+474.500
+
+  Dep.: 8:30:0
+[addtrip]
+191 Hwy27 R
+0
+510.000
+
+  Dep.: 9:4:30
+[addtrip]
+191B S-B
+0
+544.500
+
+  Dep.: 9:40:0
+[addtrip]
+191 Hwy27 R
+0
+580.000
+
+  Dep.: 10:14:30
+[addtrip]
+191B S-B
+0
+614.500
+
+  Dep.: 10:50:0
+[addtrip]
+191 Hwy27 R
+0
+650.000
+
+  Dep.: 11:24:30
+[addtrip]
+191B S-B
+0
+684.500
+
+  Dep.: 12:0:0
+[addtrip]
+191 Hwy27 R
+0
+720.000
+
+  Dep.: 12:34:30
+[addtrip]
+191B S-B
+0
+754.500
+
+  Dep.: 13:10:0
+[addtrip]
+191 Hwy27 R
+0
+790.000
+
+  Dep.: 13:44:30
+[addtrip]
+191B S-B
+0
+824.500
+
+  Dep.: 14:20:0
+[addtrip]
+191 Hwy27 R
+0
+860.000
+
+  Dep.: 14:54:30
+[addtrip]
+191B S-B
+0
+894.500
+
+  Dep.: 15:30:0
+[addtrip]
+191 Hwy27 R
+0
+930.000
+
+  Dep.: 16:4:30
+[addtrip]
+191B S-B
+0
+964.500
+
+  Dep.: 16:40:0
+[addtrip]
+191 Hwy27 R
+0
+1000.000
+
+  Dep.: 17:14:30
+[addtrip]
+191B S-B
+0
+1034.500
+
+  Dep.: 17:50:0
+[addtrip]
+191 Hwy27 R
+0
+1070.000
+
+  Dep.: 18:24:30
+[addtrip]
+191B S-B
+0
+1104.500
+
+  Dep.: 19:0:0
+[addtrip]
+191 Hwy27 R
+0
+1140.000
+
+  Dep.: 19:34:30
+[addtrip]
+191B S-B
+0
+1174.500
+
+  Dep.: 20:10:0
+[addtrip]
+191 Hwy27 R
+0
+1210.000
+
+  Dep.: 20:44:30
+[addtrip]
+191B S-B
+0
+1244.500
+
+  Dep.: 21:20:0
+[addtrip]
+191 Hwy27 R
+1
+1280.000
+
+  Dep.: 21:44:0
+[addtrip]
+191B S-B
+1
+1304.000
+
+  Dep.: 22:6:30
+[addtrip]
+191 Hwy27 R
+1
+1326.500
+
+  Dep.: 22:27:30
+[addtrip]
+GarageRun
+0
+1347.500
+
+------------------------------------
+
+[newtour]
+Run 3 - Sat/Sun
+Finch Garage
+992
+
+------------------------------------
+
+  Dep.: 6:7:0
+[addtrip]
+Finch-Bessarion
+0
+367.000
+
+  Dep.: 6:20:0
+[addtrip]
+191 Hwy27 R
+0
+380.000
+
+  Dep.: 6:54:30
+[addtrip]
+191B S-B
+0
+414.500
+
+  Dep.: 7:30:0
+[addtrip]
+191 Hwy27 R
+0
+450.000
+
+  Dep.: 8:4:30
+[addtrip]
+191B S-B
+0
+484.500
+
+  Dep.: 8:40:0
+[addtrip]
+191 Hwy27 R
+0
+520.000
+
+  Dep.: 9:14:30
+[addtrip]
+191B S-B
+0
+554.500
+
+  Dep.: 9:50:0
+[addtrip]
+191 Hwy27 R
+0
+590.000
+
+  Dep.: 10:24:30
+[addtrip]
+191B S-B
+0
+624.500
+
+  Dep.: 11:0:0
+[addtrip]
+191 Hwy27 R
+0
+660.000
+
+  Dep.: 11:34:30
+[addtrip]
+191B S-B
+0
+694.500
+
+  Dep.: 12:10:0
+[addtrip]
+191 Hwy27 R
+0
+730.000
+
+  Dep.: 12:44:30
+[addtrip]
+191B S-B
+0
+764.500
+
+  Dep.: 13:20:0
+[addtrip]
+191 Hwy27 R
+0
+800.000
+
+  Dep.: 13:54:30
+[addtrip]
+191B S-B
+0
+834.500
+
+  Dep.: 14:30:0
+[addtrip]
+191 Hwy27 R
+0
+870.000
+
+  Dep.: 15:4:30
+[addtrip]
+191B S-B
+0
+904.500
+
+  Dep.: 15:40:0
+[addtrip]
+191 Hwy27 R
+0
+940.000
+
+  Dep.: 16:14:30
+[addtrip]
+191B S-B
+0
+974.500
+
+  Dep.: 16:50:0
+[addtrip]
+191 Hwy27 R
+0
+1010.000
+
+  Dep.: 17:24:30
+[addtrip]
+191B S-B
+0
+1044.500
+
+  Dep.: 18:0:0
+[addtrip]
+191 Hwy27 R
+0
+1080.000
+
+  Dep.: 18:34:30
+[addtrip]
+191B S-B
+0
+1114.500
+
+  Dep.: 19:10:0
+[addtrip]
+191 Hwy27 R
+0
+1150.000
+
+  Dep.: 19:44:30
+[addtrip]
+191B S-B
+0
+1184.500
+
+  Dep.: 20:20:0
+[addtrip]
+191 Hwy27 R
+0
+1220.000
+
+  Dep.: 20:54:30
+[addtrip]
+191B S-B
+0
+1254.500
+
+  Dep.: 21:30:0
+[addtrip]
+191 Hwy27 R
+1
+1290.000
+
+  Dep.: 21:54:0
+[addtrip]
+191B S-B
+1
+1314.000
+
+  Dep.: 22:20:0
+[addtrip]
+191 Hwy27 R
+1
+1340.000
+
+  Dep.: 22:44:0
+[addtrip]
+191B S-B
+1
+1364.000
+
+  Dep.: 23:10:0
+[addtrip]
+191 Hwy27 R
+1
+1390.000
+
+  Dep.: 23:34:0
+[addtrip]
+191B S-B
+1
+1414.000
+
+  Dep.: 24:0:0
+[addtrip]
+191 Hwy27 R
+1
+1440.000
+
+  Dep.: 24:24:0
+[addtrip]
+191B S-B
+1
+1464.000
+
+  Dep.: 24:50:0
+[addtrip]
+191 Hwy27 R
+1
+1490.000
+
+  Dep.: 25:14:0
+[addtrip]
+GarageRun
+0
+1514.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Sat/Sun
+Finch Garage
+992
+
+------------------------------------
+
+  Dep.: 6:17:0
+[addtrip]
+Finch-Bessarion
+0
+377.000
+
+  Dep.: 6:30:0
+[addtrip]
+191 Hwy27 R
+0
+390.000
+
+  Dep.: 7:4:30
+[addtrip]
+191B S-B
+0
+424.500
+
+  Dep.: 7:40:0
+[addtrip]
+191 Hwy27 R
+0
+460.000
+
+  Dep.: 8:14:30
+[addtrip]
+191B S-B
+0
+494.500
+
+  Dep.: 8:50:0
+[addtrip]
+191 Hwy27 R
+0
+530.000
+
+  Dep.: 9:24:30
+[addtrip]
+191B S-B
+0
+564.500
+
+  Dep.: 10:0:0
+[addtrip]
+191 Hwy27 R
+0
+600.000
+
+  Dep.: 10:34:30
+[addtrip]
+191B S-B
+0
+634.500
+
+  Dep.: 11:10:0
+[addtrip]
+191 Hwy27 R
+0
+670.000
+
+  Dep.: 11:44:30
+[addtrip]
+191B S-B
+0
+704.500
+
+  Dep.: 12:20:0
+[addtrip]
+191 Hwy27 R
+0
+740.000
+
+  Dep.: 12:54:30
+[addtrip]
+191B S-B
+0
+774.500
+
+  Dep.: 13:30:0
+[addtrip]
+191 Hwy27 R
+0
+810.000
+
+  Dep.: 14:4:30
+[addtrip]
+191B S-B
+0
+844.500
+
+  Dep.: 14:40:0
+[addtrip]
+191 Hwy27 R
+0
+880.000
+
+  Dep.: 15:14:30
+[addtrip]
+191B S-B
+0
+914.500
+
+  Dep.: 15:50:0
+[addtrip]
+191 Hwy27 R
+0
+950.000
+
+  Dep.: 16:24:30
+[addtrip]
+191B S-B
+0
+984.500
+
+  Dep.: 17:0:0
+[addtrip]
+191 Hwy27 R
+0
+1020.000
+
+  Dep.: 17:34:30
+[addtrip]
+191B S-B
+0
+1054.500
+
+  Dep.: 18:10:0
+[addtrip]
+191 Hwy27 R
+0
+1090.000
+
+  Dep.: 18:44:30
+[addtrip]
+191B S-B
+0
+1124.500
+
+  Dep.: 19:20:0
+[addtrip]
+191 Hwy27 R
+0
+1160.000
+
+  Dep.: 19:54:30
+[addtrip]
+191B S-B
+0
+1194.500
+
+  Dep.: 20:30:0
+[addtrip]
+191 Hwy27 R
+0
+1230.000
+
+  Dep.: 21:4:30
+[addtrip]
+191B S-B
+0
+1264.500
+
+  Dep.: 21:40:0
+[addtrip]
+191 Hwy27 R
+1
+1300.000
+
+  Dep.: 22:4:0
+[addtrip]
+191B S-B
+1
+1324.000
+
+  Dep.: 22:30:0
+[addtrip]
+191 Hwy27 R
+1
+1350.000
+
+  Dep.: 22:54:0
+[addtrip]
+191B S-B
+1
+1374.000
+
+  Dep.: 23:20:0
+[addtrip]
+191 Hwy27 R
+1
+1400.000
+
+  Dep.: 23:44:0
+[addtrip]
+191B S-B
+1
+1424.000
+
+  Dep.: 24:10:0
+[addtrip]
+191 Hwy27 R
+1
+1450.000
+
+  Dep.: 24:34:0
+[addtrip]
+191B S-B
+1
+1474.000
+
+  Dep.: 25:0:0
+[addtrip]
+191 Hwy27 R
+1
+1500.000
+
+  Dep.: 25:24:0
+[addtrip]
+191B S-B
+1
+1524.000
+
+  Dep.: 25:47:0
+[addtrip]
+191 Hwy27 R
+0
+1547.000
+
+  Dep.: 26:13:0
+[addtrip]
+GarageRun
+0
+1573.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Sat/Sun
+Finch Garage
+992
+
+------------------------------------
+
+  Dep.: 6:27:0
+[addtrip]
+Finch-Bessarion
+0
+387.000
+
+  Dep.: 6:40:0
+[addtrip]
+191 Hwy27 R
+0
+400.000
+
+  Dep.: 7:14:30
+[addtrip]
+191B S-B
+0
+434.500
+
+  Dep.: 7:50:0
+[addtrip]
+191 Hwy27 R
+0
+470.000
+
+  Dep.: 8:24:30
+[addtrip]
+191B S-B
+0
+504.500
+
+  Dep.: 9:0:0
+[addtrip]
+191 Hwy27 R
+0
+540.000
+
+  Dep.: 9:34:30
+[addtrip]
+191B S-B
+0
+574.500
+
+  Dep.: 10:10:0
+[addtrip]
+191 Hwy27 R
+0
+610.000
+
+  Dep.: 10:44:30
+[addtrip]
+191B S-B
+0
+644.500
+
+  Dep.: 11:20:0
+[addtrip]
+191 Hwy27 R
+0
+680.000
+
+  Dep.: 11:54:30
+[addtrip]
+191B S-B
+0
+714.500
+
+  Dep.: 12:30:0
+[addtrip]
+191 Hwy27 R
+0
+750.000
+
+  Dep.: 13:4:30
+[addtrip]
+191B S-B
+0
+784.500
+
+  Dep.: 13:40:0
+[addtrip]
+191 Hwy27 R
+0
+820.000
+
+  Dep.: 14:14:30
+[addtrip]
+191B S-B
+0
+854.500
+
+  Dep.: 14:50:0
+[addtrip]
+191 Hwy27 R
+0
+890.000
+
+  Dep.: 15:24:30
+[addtrip]
+191B S-B
+0
+924.500
+
+  Dep.: 16:0:0
+[addtrip]
+191 Hwy27 R
+0
+960.000
+
+  Dep.: 16:34:30
+[addtrip]
+191B S-B
+0
+994.500
+
+  Dep.: 17:10:0
+[addtrip]
+191 Hwy27 R
+0
+1030.000
+
+  Dep.: 17:44:30
+[addtrip]
+191B S-B
+0
+1064.500
+
+  Dep.: 18:20:0
+[addtrip]
+191 Hwy27 R
+0
+1100.000
+
+  Dep.: 18:54:30
+[addtrip]
+191B S-B
+0
+1134.500
+
+  Dep.: 19:30:0
+[addtrip]
+191 Hwy27 R
+0
+1170.000
+
+  Dep.: 20:4:30
+[addtrip]
+191B S-B
+0
+1204.500
+
+  Dep.: 20:40:0
+[addtrip]
+191 Hwy27 R
+0
+1240.000
+
+  Dep.: 21:14:30
+[addtrip]
+191B S-B
+0
+1274.500
+
+  Dep.: 21:50:0
+[addtrip]
+191 Hwy27 R
+1
+1310.000
+
+  Dep.: 22:14:0
+[addtrip]
+191B S-B
+1
+1334.000
+
+  Dep.: 22:40:0
+[addtrip]
+191 Hwy27 R
+1
+1360.000
+
+  Dep.: 23:4:0
+[addtrip]
+191B S-B
+1
+1384.000
+
+  Dep.: 23:30:0
+[addtrip]
+191 Hwy27 R
+1
+1410.000
+
+  Dep.: 23:54:0
+[addtrip]
+191B S-B
+1
+1434.000
+
+  Dep.: 24:20:0
+[addtrip]
+191 Hwy27 R
+1
+1460.000
+
+  Dep.: 24:44:0
+[addtrip]
+191B S-B
+1
+1484.000
+
+  Dep.: 25:10:0
+[addtrip]
+191 Hwy27 R
+1
+1510.000
+
+  Dep.: 25:34:0
+[addtrip]
+GarageRun
+0
+1534.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Sat/Sun
+Finch Garage
+992
+
+------------------------------------
+
+  Dep.: 6:37:0
+[addtrip]
+Finch-Bessarion
+0
+397.000
+
+  Dep.: 6:50:0
+[addtrip]
+191 Hwy27 R
+0
+410.000
+
+  Dep.: 7:24:30
+[addtrip]
+191B S-B
+0
+444.500
+
+  Dep.: 8:0:0
+[addtrip]
+191 Hwy27 R
+0
+480.000
+
+  Dep.: 8:34:30
+[addtrip]
+191B S-B
+0
+514.500
+
+  Dep.: 9:10:0
+[addtrip]
+191 Hwy27 R
+0
+550.000
+
+  Dep.: 9:44:30
+[addtrip]
+191B S-B
+0
+584.500
+
+  Dep.: 10:20:0
+[addtrip]
+191 Hwy27 R
+0
+620.000
+
+  Dep.: 10:54:30
+[addtrip]
+191B S-B
+0
+654.500
+
+  Dep.: 11:30:0
+[addtrip]
+191 Hwy27 R
+0
+690.000
+
+  Dep.: 12:4:30
+[addtrip]
+191B S-B
+0
+724.500
+
+  Dep.: 12:40:0
+[addtrip]
+191 Hwy27 R
+0
+760.000
+
+  Dep.: 13:14:30
+[addtrip]
+191B S-B
+0
+794.500
+
+  Dep.: 13:50:0
+[addtrip]
+191 Hwy27 R
+0
+830.000
+
+  Dep.: 14:24:30
+[addtrip]
+191B S-B
+0
+864.500
+
+  Dep.: 15:0:0
+[addtrip]
+191 Hwy27 R
+0
+900.000
+
+  Dep.: 15:34:30
+[addtrip]
+191B S-B
+0
+934.500
+
+  Dep.: 16:10:0
+[addtrip]
+191 Hwy27 R
+0
+970.000
+
+  Dep.: 16:44:30
+[addtrip]
+191B S-B
+0
+1004.500
+
+  Dep.: 17:20:0
+[addtrip]
+191 Hwy27 R
+0
+1040.000
+
+  Dep.: 17:54:30
+[addtrip]
+191B S-B
+0
+1074.500
+
+  Dep.: 18:30:0
+[addtrip]
+191 Hwy27 R
+0
+1110.000
+
+  Dep.: 19:4:30
+[addtrip]
+191B S-B
+0
+1144.500
+
+  Dep.: 19:40:0
+[addtrip]
+191 Hwy27 R
+0
+1180.000
+
+  Dep.: 20:14:30
+[addtrip]
+191B S-B
+0
+1214.500
+
+  Dep.: 20:50:0
+[addtrip]
+191 Hwy27 R
+0
+1250.000
+
+  Dep.: 21:24:30
+[addtrip]
+191B S-B
+0
+1284.500
+
+  Dep.: 22:0:0
+[addtrip]
+191 Hwy27 R
+1
+1320.000
+
+  Dep.: 22:24:0
+[addtrip]
+191B S-B
+1
+1344.000
+
+  Dep.: 22:50:0
+[addtrip]
+191 Hwy27 R
+1
+1370.000
+
+  Dep.: 23:14:0
+[addtrip]
+191B S-B
+1
+1394.000
+
+  Dep.: 23:40:0
+[addtrip]
+191 Hwy27 R
+1
+1420.000
+
+  Dep.: 24:4:0
+[addtrip]
+191B S-B
+1
+1444.000
+
+  Dep.: 24:30:0
+[addtrip]
+191 Hwy27 R
+1
+1470.000
+
+  Dep.: 24:54:0
+[addtrip]
+191B S-B
+1
+1494.000
+
+  Dep.: 25:20:0
+[addtrip]
+191 Hwy27 R
+1
+1520.000
+
+  Dep.: 25:44:0
+[addtrip]
+191B S-B
+1
+1544.000
+
+  Dep.: 26:7:0
+[addtrip]
+191 Hwy27 R
+0
+1567.000
+
+  Dep.: 26:33:0
+[addtrip]
+GarageRun
+0
+1593.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Sat/Sun
+Finch Garage
+992
+
+------------------------------------
+
+  Dep.: 6:47:0
+[addtrip]
+Finch-Bessarion
+0
+407.000
+
+  Dep.: 7:0:0
+[addtrip]
+191 Hwy27 R
+0
+420.000
+
+  Dep.: 7:34:30
+[addtrip]
+191B S-B
+0
+454.500
+
+  Dep.: 8:10:0
+[addtrip]
+191 Hwy27 R
+0
+490.000
+
+  Dep.: 8:44:30
+[addtrip]
+191B S-B
+0
+524.500
+
+  Dep.: 9:20:0
+[addtrip]
+191 Hwy27 R
+0
+560.000
+
+  Dep.: 9:54:30
+[addtrip]
+191B S-B
+0
+594.500
+
+  Dep.: 10:30:0
+[addtrip]
+191 Hwy27 R
+0
+630.000
+
+  Dep.: 11:4:30
+[addtrip]
+191B S-B
+0
+664.500
+
+  Dep.: 11:40:0
+[addtrip]
+191 Hwy27 R
+0
+700.000
+
+  Dep.: 12:14:30
+[addtrip]
+191B S-B
+0
+734.500
+
+  Dep.: 12:50:0
+[addtrip]
+191 Hwy27 R
+0
+770.000
+
+  Dep.: 13:24:30
+[addtrip]
+191B S-B
+0
+804.500
+
+  Dep.: 14:0:0
+[addtrip]
+191 Hwy27 R
+0
+840.000
+
+  Dep.: 14:34:30
+[addtrip]
+191B S-B
+0
+874.500
+
+  Dep.: 15:10:0
+[addtrip]
+191 Hwy27 R
+0
+910.000
+
+  Dep.: 15:44:30
+[addtrip]
+191B S-B
+0
+944.500
+
+  Dep.: 16:20:0
+[addtrip]
+191 Hwy27 R
+0
+980.000
+
+  Dep.: 16:54:30
+[addtrip]
+191B S-B
+0
+1014.500
+
+  Dep.: 17:30:0
+[addtrip]
+191 Hwy27 R
+0
+1050.000
+
+  Dep.: 18:4:30
+[addtrip]
+191B S-B
+0
+1084.500
+
+  Dep.: 18:40:0
+[addtrip]
+191 Hwy27 R
+0
+1120.000
+
+  Dep.: 19:14:30
+[addtrip]
+191B S-B
+0
+1154.500
+
+  Dep.: 19:50:0
+[addtrip]
+191 Hwy27 R
+0
+1190.000
+
+  Dep.: 20:24:30
+[addtrip]
+191B S-B
+0
+1224.500
+
+  Dep.: 21:0:0
+[addtrip]
+191 Hwy27 R
+0
+1260.000
+
+  Dep.: 21:34:30
+[addtrip]
+191B S-B
+0
+1294.500
+
+  Dep.: 22:10:0
+[addtrip]
+191 Hwy27 R
+1
+1330.000
+
+  Dep.: 22:34:0
+[addtrip]
+191B S-B
+1
+1354.000
+
+  Dep.: 23:0:0
+[addtrip]
+191 Hwy27 R
+1
+1380.000
+
+  Dep.: 23:24:0
+[addtrip]
+191B S-B
+1
+1404.000
+
+  Dep.: 23:50:0
+[addtrip]
+191 Hwy27 R
+1
+1430.000
+
+  Dep.: 24:14:0
+[addtrip]
+191B S-B
+1
+1454.000
+
+  Dep.: 24:40:0
+[addtrip]
+191 Hwy27 R
+1
+1480.000
+
+  Dep.: 25:4:0
+[addtrip]
+191B S-B
+1
+1504.000
+
+  Dep.: 25:30:0
+[addtrip]
+191 Hwy27 R
+1
+1530.000
+
+  Dep.: 25:54:0
+[addtrip]
+GarageRun
+0
+1554.000
+

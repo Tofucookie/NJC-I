@@ -1,0 +1,55 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+420 Hospital Link
+420
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+2662
+
+[station_typ2]
+17660
+
+[station_typ2]
+17666
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+6.000
+
+[profile_otherstopping]
+0
+1
+[profile_man_arr_time]
+1
+5.000
+[profile_man_dep_time]
+1
+5.000
+[profile_otherstopping]
+1
+1
+[profile_man_arr_time]
+2
+6.000
+[profile_man_dep_time]
+2
+6.000
+[profile_otherstopping]
+2
+4

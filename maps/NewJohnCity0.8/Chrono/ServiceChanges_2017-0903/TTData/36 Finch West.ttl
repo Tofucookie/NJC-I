@@ -1,0 +1,890 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+2
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:27:0
+[addtrip]
+36 Garage Rippleton
+0
+267.000
+
+  Dep.: 4:56:0
+[addtrip]
+36B Yonge
+0
+296.000
+
+  Dep.: 5:30:0
+[addtrip]
+36B Rippleton
+0
+330.000
+
+  Dep.: 6:2:0
+[addtrip]
+36B Yonge
+0
+362.000
+
+  Dep.: 6:36:0
+[addtrip]
+36B Rippleton
+0
+396.000
+
+  Dep.: 7:8:0
+[addtrip]
+36B Yonge
+0
+428.000
+
+  Dep.: 7:42:0
+[addtrip]
+36B Rippleton
+0
+462.000
+
+  Dep.: 8:14:0
+[addtrip]
+36B Yonge
+0
+494.000
+
+  Dep.: 8:48:0
+[addtrip]
+36B Rippleton
+0
+528.000
+
+  Dep.: 9:20:0
+[addtrip]
+36B Yonge
+0
+560.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 1:43:0
+[addtrip]
+F-Q Loop
+0
+103.000
+
+  Dep.: 1:50:0
+[addtrip]
+336 Finch West (Temporary)
+0
+110.000
+
+  Dep.: 2:19:0
+[addtrip]
+336 Quail
+0
+139.000
+
+  Dep.: 2:50:0
+[addtrip]
+336 Finch West (Temporary)
+0
+170.000
+
+  Dep.: 3:19:0
+[addtrip]
+336 Quail
+0
+199.000
+
+  Dep.: 3:50:0
+[addtrip]
+336 Finch West (Temporary)
+0
+230.000
+
+  Dep.: 4:19:0
+[addtrip]
+336 Quail
+0
+259.000
+
+  Dep.: 4:45:0
+[addtrip]
+336 Finch West (Temporary)
+0
+285.000
+
+  Dep.: 5:13:0
+[addtrip]
+36D Yonge
+0
+313.000
+
+  Dep.: 5:52:0
+[addtrip]
+36D Finch West
+0
+352.000
+
+  Dep.: 6:44:0
+[addtrip]
+36D Yonge
+0
+404.000
+
+  Dep.: 7:20:0
+[addtrip]
+36D Finch West
+0
+440.000
+
+  Dep.: 8:12:0
+[addtrip]
+36D Yonge
+0
+492.000
+
+  Dep.: 8:48:0
+[addtrip]
+36 E-F
+0
+528.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 2:13:0
+[addtrip]
+F-Q Loop
+0
+133.000
+
+  Dep.: 2:20:0
+[addtrip]
+336 Finch West (Temporary)
+0
+140.000
+
+  Dep.: 2:49:0
+[addtrip]
+336 Quail
+0
+169.000
+
+  Dep.: 3:20:0
+[addtrip]
+336 Finch West (Temporary)
+0
+200.000
+
+  Dep.: 3:49:0
+[addtrip]
+336 Quail
+0
+229.000
+
+  Dep.: 4:20:0
+[addtrip]
+336 Finch West (Temporary)
+0
+260.000
+
+  Dep.: 4:47:0
+[addtrip]
+336 Yonge
+0
+287.000
+
+  Dep.: 5:10:0
+[addtrip]
+36D Finch West
+1
+310.000
+
+  Dep.: 6:0:0
+[addtrip]
+36D Yonge
+0
+360.000
+
+  Dep.: 6:36:0
+[addtrip]
+36D Finch West
+0
+396.000
+
+  Dep.: 7:28:0
+[addtrip]
+36D Yonge
+0
+448.000
+
+  Dep.: 8:4:0
+[addtrip]
+36D Finch West
+0
+484.000
+
+  Dep.: 8:56:0
+[addtrip]
+36D Yonge
+0
+536.000
+
+  Dep.: 9:32:0
+[addtrip]
+36 E-F
+0
+572.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:3:0
+[addtrip]
+36D From Garage
+1
+303.000
+
+  Dep.: 5:38:0
+[addtrip]
+36D Yonge
+0
+338.000
+
+  Dep.: 6:14:0
+[addtrip]
+36D Finch West
+0
+374.000
+
+  Dep.: 7:6:0
+[addtrip]
+36D Yonge
+0
+426.000
+
+  Dep.: 7:42:0
+[addtrip]
+36D Finch West
+0
+462.000
+
+  Dep.: 8:34:0
+[addtrip]
+36D Yonge
+0
+514.000
+
+  Dep.: 9:10:0
+[addtrip]
+36D Finch West
+0
+550.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:30:0
+[addtrip]
+36D From Garage
+1
+270.000
+
+  Dep.: 5:0:0
+[addtrip]
+36D Yonge
+1
+300.000
+
+  Dep.: 5:32:0
+[addtrip]
+36D Finch West
+1
+332.000
+
+  Dep.: 6:22:0
+[addtrip]
+36D Yonge
+0
+382.000
+
+  Dep.: 6:58:0
+[addtrip]
+36D Finch West
+0
+418.000
+
+  Dep.: 7:50:0
+[addtrip]
+36D Yonge
+0
+470.000
+
+  Dep.: 8:26:0
+[addtrip]
+36D Finch West
+0
+506.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:40:0
+[addtrip]
+36 Garage Rippleton
+0
+280.000
+
+  Dep.: 5:8:0
+[addtrip]
+36B Yonge
+0
+308.000
+
+  Dep.: 5:42:0
+[addtrip]
+36B Rippleton
+0
+342.000
+
+  Dep.: 6:14:0
+[addtrip]
+36B Yonge
+0
+374.000
+
+  Dep.: 6:48:0
+[addtrip]
+36B Rippleton
+0
+408.000
+
+  Dep.: 7:20:0
+[addtrip]
+36B Yonge
+0
+440.000
+
+  Dep.: 7:54:0
+[addtrip]
+36B Rippleton
+0
+474.000
+
+  Dep.: 8:26:0
+[addtrip]
+36B Yonge
+0
+506.000
+
+  Dep.: 22:0:0
+[addtrip]
+36B Rippleton
+1
+1320.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:52:0
+[addtrip]
+36 Garage Rippleton
+0
+292.000
+
+  Dep.: 5:20:0
+[addtrip]
+36B Yonge
+0
+320.000
+
+  Dep.: 5:54:0
+[addtrip]
+36B Rippleton
+0
+354.000
+
+  Dep.: 6:26:0
+[addtrip]
+36B Yonge
+0
+386.000
+
+  Dep.: 7:0:0
+[addtrip]
+36B Rippleton
+0
+420.000
+
+  Dep.: 7:32:0
+[addtrip]
+36B Yonge
+0
+452.000
+
+  Dep.: 8:6:0
+[addtrip]
+36B Rippleton
+0
+486.000
+
+------------------------------------
+
+[newtour]
+Run 8 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:4:0
+[addtrip]
+36 Garage Rippleton
+0
+304.000
+
+  Dep.: 5:32:0
+[addtrip]
+36B Yonge
+0
+332.000
+
+  Dep.: 6:6:0
+[addtrip]
+36B Rippleton
+0
+366.000
+
+  Dep.: 6:38:0
+[addtrip]
+36B Yonge
+0
+398.000
+
+  Dep.: 7:12:0
+[addtrip]
+36B Rippleton
+0
+432.000
+
+  Dep.: 7:44:0
+[addtrip]
+36B Yonge
+0
+464.000
+
+  Dep.: 8:18:0
+[addtrip]
+36B Rippleton
+0
+498.000
+
+------------------------------------
+
+[newtour]
+Run 9 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:16:0
+[addtrip]
+36 Garage Rippleton
+0
+316.000
+
+  Dep.: 5:44:0
+[addtrip]
+36B Yonge
+0
+344.000
+
+  Dep.: 6:18:0
+[addtrip]
+36B Rippleton
+0
+378.000
+
+  Dep.: 6:50:0
+[addtrip]
+36B Yonge
+0
+410.000
+
+  Dep.: 7:24:0
+[addtrip]
+36B Rippleton
+0
+444.000
+
+  Dep.: 7:56:0
+[addtrip]
+36B Yonge
+0
+476.000
+
+  Dep.: 8:30:0
+[addtrip]
+36B Rippleton
+0
+510.000
+
+------------------------------------
+
+[newtour]
+Run 10 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:22:0
+[addtrip]
+36 Garage Rippleton
+0
+322.000
+
+  Dep.: 5:50:0
+[addtrip]
+36B Yonge
+0
+350.000
+
+  Dep.: 6:24:0
+[addtrip]
+36B Rippleton
+0
+384.000
+
+  Dep.: 6:56:0
+[addtrip]
+36B Yonge
+0
+416.000
+
+  Dep.: 7:30:0
+[addtrip]
+36B Rippleton
+0
+450.000
+
+  Dep.: 8:2:0
+[addtrip]
+36B Yonge
+0
+482.000
+
+  Dep.: 8:36:0
+[addtrip]
+36B Rippleton
+0
+516.000
+
+------------------------------------
+
+[newtour]
+Run 11 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:28:0
+[addtrip]
+36 Garage Rippleton
+0
+328.000
+
+  Dep.: 5:56:0
+[addtrip]
+36B Yonge
+0
+356.000
+
+  Dep.: 6:30:0
+[addtrip]
+36B Rippleton
+0
+390.000
+
+  Dep.: 7:2:0
+[addtrip]
+36B Yonge
+0
+422.000
+
+  Dep.: 7:36:0
+[addtrip]
+36B Rippleton
+0
+456.000
+
+  Dep.: 8:8:0
+[addtrip]
+36B Yonge
+0
+488.000
+
+  Dep.: 8:42:0
+[addtrip]
+36B Rippleton
+0
+522.000
+
+------------------------------------
+
+[newtour]
+Run 12 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:42:0
+[addtrip]
+36 Garage Rippleton
+0
+342.000
+
+  Dep.: 6:8:0
+[addtrip]
+36B Yonge
+0
+368.000
+
+  Dep.: 6:42:0
+[addtrip]
+36B Rippleton
+0
+402.000
+
+  Dep.: 7:14:0
+[addtrip]
+36B Yonge
+0
+434.000
+
+  Dep.: 7:48:0
+[addtrip]
+36B Rippleton
+0
+468.000
+
+  Dep.: 8:20:0
+[addtrip]
+36B Yonge
+0
+500.000
+
+  Dep.: 8:54:0
+[addtrip]
+36B Rippleton
+0
+534.000
+
+------------------------------------
+
+[newtour]
+Run 13 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:54:0
+[addtrip]
+36 Garage Rippleton
+0
+354.000
+
+  Dep.: 6:20:0
+[addtrip]
+36B Yonge
+0
+380.000
+
+  Dep.: 6:54:0
+[addtrip]
+36B Rippleton
+0
+414.000
+
+  Dep.: 7:26:0
+[addtrip]
+36B Yonge
+0
+446.000
+
+  Dep.: 8:0:0
+[addtrip]
+36B Rippleton
+0
+480.000
+
+  Dep.: 8:32:0
+[addtrip]
+36B Yonge
+0
+512.000
+
+  Dep.: 9:6:0
+[addtrip]
+36B Rippleton
+0
+546.000
+
+------------------------------------
+
+[newtour]
+Run 14 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:6:0
+[addtrip]
+36 Garage Rippleton
+0
+366.000
+
+  Dep.: 6:32:0
+[addtrip]
+36B Yonge
+0
+392.000
+
+  Dep.: 7:6:0
+[addtrip]
+36B Rippleton
+0
+426.000
+
+  Dep.: 7:38:0
+[addtrip]
+36B Yonge
+0
+458.000
+
+  Dep.: 8:12:0
+[addtrip]
+36B Rippleton
+0
+492.000
+
+  Dep.: 8:44:0
+[addtrip]
+36B Yonge
+0
+524.000
+
+  Dep.: 9:18:0
+[addtrip]
+36B Rippleton
+0
+558.000
+
+------------------------------------
+
+[newtour]
+Run 15 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:18:0
+[addtrip]
+36 Garage Rippleton
+0
+378.000
+
+  Dep.: 6:44:0
+[addtrip]
+36B Yonge
+0
+404.000
+
+  Dep.: 7:18:0
+[addtrip]
+36B Rippleton
+0
+438.000
+
+  Dep.: 7:50:0
+[addtrip]
+36B Yonge
+0
+470.000
+
+  Dep.: 8:24:0
+[addtrip]
+36B Rippleton
+0
+504.000
+
+  Dep.: 8:56:0
+[addtrip]
+36B Yonge
+0
+536.000
+
+  Dep.: 9:30:0
+[addtrip]
+36B Rippleton
+0
+570.000
+

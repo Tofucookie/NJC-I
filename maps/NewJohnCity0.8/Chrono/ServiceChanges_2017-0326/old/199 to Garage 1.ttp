@@ -1,0 +1,37 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 05/10/2018
+
+[trip]
+
+NIS EXPRESS
+
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+25328
+
+[station_typ2]
+1819
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+4.000
+
+[profile_otherstopping]
+0
+1
+[profile_otherstopping]
+1
+1

@@ -1,0 +1,3779 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:17:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+317.000
+
+  Dep.: 5:30:0
+[addtrip]
+88 S-B AM
+1
+330.000
+
+  Dep.: 5:44:0
+[addtrip]
+88 B-S AM
+0
+344.000
+
+  Dep.: 6:2:0
+[addtrip]
+88 S-B AM
+1
+362.000
+
+  Dep.: 6:14:0
+[addtrip]
+88 B-S AM
+0
+374.000
+
+  Dep.: 6:32:0
+[addtrip]
+88 S-B AM
+1
+392.000
+
+  Dep.: 6:44:0
+[addtrip]
+88 B-S AM
+0
+404.000
+
+  Dep.: 7:2:0
+[addtrip]
+88 S-B AM
+1
+422.000
+
+  Dep.: 7:14:0
+[addtrip]
+88 B-S AM
+0
+434.000
+
+  Dep.: 7:30:0
+[addtrip]
+88 S-B AM
+1
+450.000
+
+  Dep.: 7:42:0
+[addtrip]
+88 B-S AM
+0
+462.000
+
+  Dep.: 7:58:0
+[addtrip]
+88 S-B AM
+1
+478.000
+
+  Dep.: 8:10:0
+[addtrip]
+88 B-S AM
+0
+490.000
+
+  Dep.: 8:26:0
+[addtrip]
+88 S-B AM
+1
+506.000
+
+  Dep.: 8:38:0
+[addtrip]
+88 B-S AM
+0
+518.000
+
+  Dep.: 8:54:0
+[addtrip]
+88 S-B AM
+1
+534.000
+
+  Dep.: 9:6:0
+[addtrip]
+88 B-S AM
+0
+546.000
+
+  Dep.: 9:22:0
+[addtrip]
+88 S-B AM
+1
+562.000
+
+  Dep.: 9:37:0
+[addtrip]
+88 B-S AM
+0
+577.000
+
+  Dep.: 9:54:0
+[addtrip]
+88 S-B AM
+1
+594.000
+
+  Dep.: 10:9:0
+[addtrip]
+88 B-S AM
+0
+609.000
+
+  Dep.: 10:26:0
+[addtrip]
+88 S-B AM
+1
+626.000
+
+  Dep.: 10:41:0
+[addtrip]
+88 B-S AM
+0
+641.000
+
+  Dep.: 10:58:0
+[addtrip]
+88 S-B AM
+1
+658.000
+
+  Dep.: 11:13:0
+[addtrip]
+88 B-S AM
+0
+673.000
+
+  Dep.: 11:30:0
+[addtrip]
+88 S-B AM
+1
+690.000
+
+  Dep.: 11:45:0
+[addtrip]
+88 B-S AM
+0
+705.000
+
+  Dep.: 12:2:0
+[addtrip]
+88A Brandonville - AM
+1
+722.000
+
+  Dep.: 12:20:30
+[addtrip]
+88A Brandonville R - AM
+0
+740.500
+
+  Dep.: 12:40:0
+[addtrip]
+88A Brandonville - AM
+1
+760.000
+
+  Dep.: 12:57:30
+[addtrip]
+88A Brandonville R - AM
+0
+777.500
+
+  Dep.: 13:16:0
+[addtrip]
+88A Brandonville - AM
+1
+796.000
+
+  Dep.: 13:34:30
+[addtrip]
+88A Brandonville R - AM
+0
+814.500
+
+  Dep.: 13:53:0
+[addtrip]
+88A Brandonville - AM
+1
+833.000
+
+  Dep.: 14:11:30
+[addtrip]
+88A Brandonville R - AM
+0
+851.500
+
+  Dep.: 14:30:0
+[addtrip]
+88A Brandonville - AM
+1
+870.000
+
+  Dep.: 14:48:30
+[addtrip]
+88A Brandonville R - AM
+0
+888.500
+
+  Dep.: 15:7:0
+[addtrip]
+88A Brandonville - AM
+1
+907.000
+
+  Dep.: 15:24:0
+[addtrip]
+88A Brandonville R - AM
+0
+924.000
+
+  Dep.: 15:40:0
+[addtrip]
+88A Brandonville - AM
+1
+940.000
+
+  Dep.: 15:56:0
+[addtrip]
+88A Brandonville R - AM
+0
+956.000
+
+  Dep.: 16:12:0
+[addtrip]
+88A Brandonville - AM
+1
+972.000
+
+  Dep.: 16:28:0
+[addtrip]
+88A Brandonville R - AM
+0
+988.000
+
+  Dep.: 16:44:0
+[addtrip]
+88A Brandonville - AM
+1
+1004.000
+
+  Dep.: 17:0:0
+[addtrip]
+88A Brandonville R - AM
+0
+1020.000
+
+  Dep.: 17:16:0
+[addtrip]
+88A Brandonville - AM
+1
+1036.000
+
+  Dep.: 17:32:0
+[addtrip]
+88A Brandonville R - AM
+0
+1052.000
+
+  Dep.: 17:48:0
+[addtrip]
+88A Brandonville - AM
+1
+1068.000
+
+  Dep.: 18:4:0
+[addtrip]
+88A Brandonville R - AM
+0
+1084.000
+
+  Dep.: 18:20:0
+[addtrip]
+88A Brandonville - AM
+1
+1100.000
+
+  Dep.: 18:36:0
+[addtrip]
+88A Brandonville R - AM
+0
+1116.000
+
+  Dep.: 18:52:0
+[addtrip]
+88A Brandonville - AM
+1
+1132.000
+
+  Dep.: 19:11:0
+[addtrip]
+88A Brandonville R - AM
+0
+1151.000
+
+  Dep.: 19:28:30
+[addtrip]
+88A Brandonville - AM
+1
+1168.500
+
+  Dep.: 19:45:30
+[addtrip]
+88A Brandonville R - AM
+0
+1185.500
+
+  Dep.: 20:6:30
+[addtrip]
+88A Brandonville - AM
+1
+1206.500
+
+  Dep.: 20:23:30
+[addtrip]
+88A Brandonville R - AM
+0
+1223.500
+
+  Dep.: 20:44:30
+[addtrip]
+88A Brandonville - AM
+1
+1244.500
+
+  Dep.: 21:1:30
+[addtrip]
+88A Brandonville R - AM
+0
+1261.500
+
+  Dep.: 21:22:30
+[addtrip]
+88A Brandonville - AM
+1
+1282.500
+
+  Dep.: 21:39:30
+[addtrip]
+88A Brandonville R - AM
+0
+1299.500
+
+  Dep.: 21:55:0
+[addtrip]
+88A Brandonville - AM
+1
+1315.000
+
+  Dep.: 22:14:30
+[addtrip]
+88A Brandonville R - AM
+0
+1334.500
+
+  Dep.: 22:26:30
+[addtrip]
+88 Brandonville R - Garage
+0
+1346.500
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:3:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+363.000
+
+  Dep.: 6:17:0
+[addtrip]
+88 S-B AM
+1
+377.000
+
+  Dep.: 6:29:0
+[addtrip]
+88 B-S AM
+0
+389.000
+
+  Dep.: 6:47:0
+[addtrip]
+88 S-B AM
+1
+407.000
+
+  Dep.: 6:59:0
+[addtrip]
+88 B-S AM
+0
+419.000
+
+  Dep.: 7:16:0
+[addtrip]
+88 S-B AM
+1
+436.000
+
+  Dep.: 7:28:0
+[addtrip]
+88 B-S AM
+0
+448.000
+
+  Dep.: 7:44:0
+[addtrip]
+88 S-B AM
+1
+464.000
+
+  Dep.: 7:56:0
+[addtrip]
+88 B-S AM
+0
+476.000
+
+  Dep.: 8:12:0
+[addtrip]
+88 S-B AM
+1
+492.000
+
+  Dep.: 8:24:0
+[addtrip]
+88 B-S AM
+0
+504.000
+
+  Dep.: 8:40:0
+[addtrip]
+88 S-B AM
+1
+520.000
+
+  Dep.: 8:52:0
+[addtrip]
+88 B-S AM
+0
+532.000
+
+  Dep.: 9:8:0
+[addtrip]
+88 S-B AM
+1
+548.000
+
+  Dep.: 9:21:0
+[addtrip]
+88 B-S AM
+0
+561.000
+
+  Dep.: 9:38:0
+[addtrip]
+88 S-B AM
+1
+578.000
+
+  Dep.: 9:53:0
+[addtrip]
+88 B-S AM
+0
+593.000
+
+  Dep.: 10:10:0
+[addtrip]
+88 S-B AM
+1
+610.000
+
+  Dep.: 10:25:0
+[addtrip]
+88 B-S AM
+0
+625.000
+
+  Dep.: 10:42:0
+[addtrip]
+88 S-B AM
+1
+642.000
+
+  Dep.: 10:57:0
+[addtrip]
+88 B-S AM
+0
+657.000
+
+  Dep.: 11:14:0
+[addtrip]
+88 S-B AM
+1
+674.000
+
+  Dep.: 11:29:0
+[addtrip]
+88 B-S AM
+0
+689.000
+
+  Dep.: 11:46:0
+[addtrip]
+88 S-B AM
+1
+706.000
+
+  Dep.: 11:58:0
+[addtrip]
+88 B-S AM
+0
+718.000
+
+  Dep.: 12:21:0
+[addtrip]
+88A Brandonville - AM
+1
+741.000
+
+  Dep.: 12:38:30
+[addtrip]
+88A Brandonville R - AM
+0
+758.500
+
+  Dep.: 12:58:0
+[addtrip]
+88A Brandonville - AM
+1
+778.000
+
+  Dep.: 13:15:30
+[addtrip]
+88A Brandonville R - AM
+0
+795.500
+
+  Dep.: 13:35:0
+[addtrip]
+88A Brandonville - AM
+1
+815.000
+
+  Dep.: 13:52:30
+[addtrip]
+88A Brandonville R - AM
+0
+832.500
+
+  Dep.: 14:12:0
+[addtrip]
+88A Brandonville - AM
+1
+852.000
+
+  Dep.: 14:29:30
+[addtrip]
+88A Brandonville R - AM
+0
+869.500
+
+  Dep.: 14:49:0
+[addtrip]
+88A Brandonville - AM
+1
+889.000
+
+  Dep.: 15:6:30
+[addtrip]
+88A Brandonville R - AM
+0
+906.500
+
+  Dep.: 15:24:0
+[addtrip]
+88A Brandonville - AM
+1
+924.000
+
+  Dep.: 15:40:0
+[addtrip]
+88A Brandonville R - AM
+0
+940.000
+
+  Dep.: 15:56:0
+[addtrip]
+88A Brandonville - AM
+1
+956.000
+
+  Dep.: 16:12:0
+[addtrip]
+88A Brandonville R - AM
+0
+972.000
+
+  Dep.: 16:28:0
+[addtrip]
+88A Brandonville - AM
+1
+988.000
+
+  Dep.: 16:44:0
+[addtrip]
+88A Brandonville R - AM
+0
+1004.000
+
+  Dep.: 17:0:0
+[addtrip]
+88A Brandonville - AM
+1
+1020.000
+
+  Dep.: 17:16:0
+[addtrip]
+88A Brandonville R - AM
+0
+1036.000
+
+  Dep.: 17:32:0
+[addtrip]
+88A Brandonville - AM
+1
+1052.000
+
+  Dep.: 17:48:0
+[addtrip]
+88A Brandonville R - AM
+0
+1068.000
+
+  Dep.: 18:4:0
+[addtrip]
+88A Brandonville - AM
+1
+1084.000
+
+  Dep.: 18:20:0
+[addtrip]
+88A Brandonville R - AM
+0
+1100.000
+
+  Dep.: 18:36:0
+[addtrip]
+88A Brandonville - AM
+1
+1116.000
+
+  Dep.: 18:52:0
+[addtrip]
+88A Brandonville R - AM
+0
+1132.000
+
+  Dep.: 19:9:30
+[addtrip]
+88A Brandonville - AM
+1
+1149.500
+
+  Dep.: 19:26:30
+[addtrip]
+88A Brandonville R - AM
+0
+1166.500
+
+  Dep.: 19:47:30
+[addtrip]
+88A Brandonville - AM
+1
+1187.500
+
+  Dep.: 20:4:30
+[addtrip]
+88A Brandonville R - AM
+0
+1204.500
+
+  Dep.: 20:25:30
+[addtrip]
+88A Brandonville - AM
+1
+1225.500
+
+  Dep.: 20:42:30
+[addtrip]
+88A Brandonville R - AM
+0
+1242.500
+
+  Dep.: 21:3:30
+[addtrip]
+88A Brandonville - AM
+1
+1263.500
+
+  Dep.: 21:20:30
+[addtrip]
+88A Brandonville R - AM
+0
+1280.500
+
+  Dep.: 21:43:30
+[addtrip]
+88A Brandonville - AM
+1
+1303.500
+
+  Dep.: 22:2:0
+[addtrip]
+88A Brandonville R - AM
+0
+1322.000
+
+  Dep.: 22:25:0
+[addtrip]
+88A Brandonville - AM
+1
+1345.000
+
+  Dep.: 22:40:0
+[addtrip]
+88A Brandonville R - AM
+0
+1360.000
+
+  Dep.: 22:55:0
+[addtrip]
+88A Brandonville - AM
+1
+1375.000
+
+  Dep.: 23:10:0
+[addtrip]
+88A Brandonville R - AM
+0
+1390.000
+
+  Dep.: 23:25:0
+[addtrip]
+88A Brandonville - AM
+1
+1405.000
+
+  Dep.: 23:40:0
+[addtrip]
+88A Brandonville R - AM
+0
+1420.000
+
+  Dep.: 23:50:0
+[addtrip]
+88 Brandonville R - Garage
+0
+1430.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 6:57:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+417.000
+
+  Dep.: 7:9:0
+[addtrip]
+88 S-B AM
+1
+429.000
+
+  Dep.: 7:21:0
+[addtrip]
+88 B-S AM
+0
+441.000
+
+  Dep.: 7:37:0
+[addtrip]
+88 S-B AM
+1
+457.000
+
+  Dep.: 7:49:0
+[addtrip]
+88 B-S AM
+0
+469.000
+
+  Dep.: 8:5:0
+[addtrip]
+88 S-B AM
+1
+485.000
+
+  Dep.: 8:17:0
+[addtrip]
+88 B-S AM
+0
+497.000
+
+  Dep.: 8:33:0
+[addtrip]
+88 S-B AM
+1
+513.000
+
+  Dep.: 8:45:0
+[addtrip]
+88 B-S AM
+0
+525.000
+
+  Dep.: 9:1:0
+[addtrip]
+88 S-B AM
+1
+541.000
+
+  Dep.: 9:13:0
+[addtrip]
+88 B-S AM
+0
+553.000
+
+  Dep.: 9:30:0
+[addtrip]
+88 S-B AM
+1
+570.000
+
+  Dep.: 9:45:0
+[addtrip]
+88 B-S AM
+0
+585.000
+
+  Dep.: 10:2:0
+[addtrip]
+88 S-B AM
+1
+602.000
+
+  Dep.: 10:17:0
+[addtrip]
+88 B-S AM
+0
+617.000
+
+  Dep.: 10:34:0
+[addtrip]
+88 S-B AM
+1
+634.000
+
+  Dep.: 10:49:0
+[addtrip]
+88 B-S AM
+0
+649.000
+
+  Dep.: 11:6:0
+[addtrip]
+88 S-B AM
+1
+666.000
+
+  Dep.: 11:21:0
+[addtrip]
+88 B-S AM
+0
+681.000
+
+  Dep.: 11:38:0
+[addtrip]
+88 S-B AM
+1
+698.000
+
+  Dep.: 11:52:30
+[addtrip]
+88 B-S AM
+0
+712.500
+
+  Dep.: 12:12:0
+[addtrip]
+88A Brandonville - AM
+1
+732.000
+
+  Dep.: 12:29:30
+[addtrip]
+88A Brandonville R - AM
+0
+749.500
+
+  Dep.: 12:49:0
+[addtrip]
+88A Brandonville - AM
+1
+769.000
+
+  Dep.: 13:6:30
+[addtrip]
+88A Brandonville R - AM
+0
+786.500
+
+  Dep.: 13:26:0
+[addtrip]
+88A Brandonville - AM
+1
+806.000
+
+  Dep.: 13:43:30
+[addtrip]
+88A Brandonville R - AM
+0
+823.500
+
+  Dep.: 14:3:0
+[addtrip]
+88A Brandonville - AM
+1
+843.000
+
+  Dep.: 14:20:30
+[addtrip]
+88A Brandonville R - AM
+0
+860.500
+
+  Dep.: 14:40:0
+[addtrip]
+88A Brandonville - AM
+1
+880.000
+
+  Dep.: 14:57:30
+[addtrip]
+88A Brandonville R - AM
+0
+897.500
+
+  Dep.: 15:16:0
+[addtrip]
+88A Brandonville - AM
+1
+916.000
+
+  Dep.: 15:32:0
+[addtrip]
+88A Brandonville R - AM
+0
+932.000
+
+  Dep.: 15:48:0
+[addtrip]
+88A Brandonville - AM
+1
+948.000
+
+  Dep.: 16:4:0
+[addtrip]
+88A Brandonville R - AM
+0
+964.000
+
+  Dep.: 16:20:0
+[addtrip]
+88A Brandonville - AM
+1
+980.000
+
+  Dep.: 16:36:0
+[addtrip]
+88A Brandonville R - AM
+0
+996.000
+
+  Dep.: 16:52:0
+[addtrip]
+88A Brandonville - AM
+1
+1012.000
+
+  Dep.: 17:8:0
+[addtrip]
+88A Brandonville R - AM
+0
+1028.000
+
+  Dep.: 17:24:0
+[addtrip]
+88A Brandonville - AM
+1
+1044.000
+
+  Dep.: 17:40:0
+[addtrip]
+88A Brandonville R - AM
+0
+1060.000
+
+  Dep.: 17:56:0
+[addtrip]
+88A Brandonville - AM
+1
+1076.000
+
+  Dep.: 18:12:0
+[addtrip]
+88A Brandonville R - AM
+0
+1092.000
+
+  Dep.: 18:28:0
+[addtrip]
+88A Brandonville - AM
+1
+1108.000
+
+  Dep.: 18:44:0
+[addtrip]
+88A Brandonville R - AM
+0
+1124.000
+
+  Dep.: 19:0:0
+[addtrip]
+88A Brandonville - AM
+1
+1140.000
+
+  Dep.: 19:17:30
+[addtrip]
+88A Brandonville R - AM
+0
+1157.500
+
+  Dep.: 19:38:0
+[addtrip]
+88A Brandonville - AM
+1
+1178.000
+
+  Dep.: 19:55:30
+[addtrip]
+88A Brandonville R - AM
+0
+1195.500
+
+  Dep.: 20:16:0
+[addtrip]
+88A Brandonville - AM
+1
+1216.000
+
+  Dep.: 20:33:30
+[addtrip]
+88A Brandonville R - AM
+0
+1233.500
+
+  Dep.: 20:54:0
+[addtrip]
+88A Brandonville - AM
+1
+1254.000
+
+  Dep.: 21:11:30
+[addtrip]
+88A Brandonville R - AM
+0
+1271.500
+
+  Dep.: 21:32:0
+[addtrip]
+88A Brandonville - AM
+1
+1292.000
+
+  Dep.: 21:50:0
+[addtrip]
+88A Brandonville R - AM
+0
+1310.000
+
+  Dep.: 22:10:0
+[addtrip]
+88A Brandonville - AM
+1
+1330.000
+
+  Dep.: 22:25:0
+[addtrip]
+88A Brandonville R - AM
+0
+1345.000
+
+  Dep.: 22:40:0
+[addtrip]
+88A Brandonville - AM
+1
+1360.000
+
+  Dep.: 22:55:0
+[addtrip]
+88A Brandonville R - AM
+0
+1375.000
+
+  Dep.: 23:10:0
+[addtrip]
+88A Brandonville - AM
+1
+1390.000
+
+  Dep.: 23:25:0
+[addtrip]
+88A Brandonville R - AM
+0
+1405.000
+
+  Dep.: 23:40:0
+[addtrip]
+88A Brandonville - AM
+2
+1420.000
+
+  Dep.: 23:51:0
+[addtrip]
+88A Brandonville R - AM
+1
+1431.000
+
+  Dep.: 24:0:0
+[addtrip]
+88A Brandonville - AM
+2
+1440.000
+
+  Dep.: 24:11:0
+[addtrip]
+88A Brandonville R - AM
+1
+1451.000
+
+  Dep.: 24:20:0
+[addtrip]
+88A Brandonville - AM
+2
+1460.000
+
+  Dep.: 24:31:0
+[addtrip]
+88A Brandonville R - AM
+1
+1471.000
+
+  Dep.: 24:40:0
+[addtrip]
+88A Brandonville - AM
+2
+1480.000
+
+  Dep.: 24:51:0
+[addtrip]
+88A Brandonville R - AM
+1
+1491.000
+
+  Dep.: 25:0:0
+[addtrip]
+88A Brandonville - AM
+2
+1500.000
+
+  Dep.: 25:11:0
+[addtrip]
+88A Brandonville R - AM
+1
+1511.000
+
+  Dep.: 25:20:0
+[addtrip]
+88A Brandonville - AM
+2
+1520.000
+
+  Dep.: 25:33:0
+[addtrip]
+88A Brandonville R - AM
+1
+1533.000
+
+  Dep.: 25:40:0
+[addtrip]
+88A Brandonville - AM
+2
+1540.000
+
+  Dep.: 25:53:0
+[addtrip]
+88A Brandonville R - AM
+1
+1553.000
+
+  Dep.: 26:0:0
+[addtrip]
+388 S-D (first)
+0
+1560.000
+
+  Dep.: 26:30:0
+[addtrip]
+388 D-S
+0
+1590.000
+
+  Dep.: 27:0:0
+[addtrip]
+388 S-D
+0
+1620.000
+
+  Dep.: 27:30:0
+[addtrip]
+388 D-S
+0
+1650.000
+
+  Dep.: 28:0:0
+[addtrip]
+388 S-D
+0
+1680.000
+
+  Dep.: 28:30:0
+[addtrip]
+388 D-S
+0
+1710.000
+
+  Dep.: 29:0:0
+[addtrip]
+388S S-O
+0
+1740.000
+
+  Dep.: 29:19:0
+[addtrip]
+388 (O-F)
+0
+1759.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 7:12:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+432.000
+
+  Dep.: 7:23:0
+[addtrip]
+88 S-B AM
+1
+443.000
+
+  Dep.: 7:35:0
+[addtrip]
+88 B-S AM
+0
+455.000
+
+  Dep.: 7:51:0
+[addtrip]
+88 S-B AM
+1
+471.000
+
+  Dep.: 8:3:0
+[addtrip]
+88 B-S AM
+0
+483.000
+
+  Dep.: 8:19:0
+[addtrip]
+88 S-B AM
+1
+499.000
+
+  Dep.: 8:31:0
+[addtrip]
+88 B-S AM
+0
+511.000
+
+  Dep.: 8:47:0
+[addtrip]
+88 S-B AM
+1
+527.000
+
+  Dep.: 8:59:0
+[addtrip]
+88 B-S AM
+0
+539.000
+
+  Dep.: 9:15:0
+[addtrip]
+88 S-B AM
+1
+555.000
+
+  Dep.: 9:29:0
+[addtrip]
+88 B-S AM
+0
+569.000
+
+  Dep.: 9:46:0
+[addtrip]
+88 S-B AM
+1
+586.000
+
+  Dep.: 10:1:0
+[addtrip]
+88 B-S AM
+0
+601.000
+
+  Dep.: 10:18:0
+[addtrip]
+88 S-B AM
+1
+618.000
+
+  Dep.: 10:33:0
+[addtrip]
+88 B-S AM
+0
+633.000
+
+  Dep.: 10:50:0
+[addtrip]
+88 S-B AM
+1
+650.000
+
+  Dep.: 11:5:0
+[addtrip]
+88 B-S AM
+0
+665.000
+
+  Dep.: 11:22:0
+[addtrip]
+88 S-B AM
+1
+682.000
+
+  Dep.: 11:37:0
+[addtrip]
+88 B-S AM
+0
+697.000
+
+  Dep.: 11:54:0
+[addtrip]
+88A Brandonville - AM
+1
+714.000
+
+  Dep.: 12:11:0
+[addtrip]
+88A Brandonville R - AM
+0
+731.000
+
+  Dep.: 12:30:0
+[addtrip]
+88A Brandonville - AM
+1
+750.000
+
+  Dep.: 12:48:30
+[addtrip]
+88A Brandonville R - AM
+0
+768.500
+
+  Dep.: 13:7:0
+[addtrip]
+88A Brandonville - AM
+1
+787.000
+
+  Dep.: 13:25:30
+[addtrip]
+88A Brandonville R - AM
+0
+805.500
+
+  Dep.: 13:44:0
+[addtrip]
+88A Brandonville - AM
+1
+824.000
+
+  Dep.: 14:2:30
+[addtrip]
+88A Brandonville R - AM
+0
+842.500
+
+  Dep.: 14:21:0
+[addtrip]
+88A Brandonville - AM
+1
+861.000
+
+  Dep.: 14:39:30
+[addtrip]
+88A Brandonville R - AM
+0
+879.500
+
+  Dep.: 14:58:0
+[addtrip]
+88A Brandonville - AM
+1
+898.000
+
+  Dep.: 15:16:30
+[addtrip]
+88A Brandonville R - AM
+0
+916.500
+
+  Dep.: 15:32:0
+[addtrip]
+88A Brandonville - AM
+1
+932.000
+
+  Dep.: 15:48:0
+[addtrip]
+88A Brandonville R - AM
+0
+948.000
+
+  Dep.: 16:4:0
+[addtrip]
+88A Brandonville - AM
+1
+964.000
+
+  Dep.: 16:20:0
+[addtrip]
+88A Brandonville R - AM
+0
+980.000
+
+  Dep.: 16:36:0
+[addtrip]
+88A Brandonville - AM
+1
+996.000
+
+  Dep.: 16:52:0
+[addtrip]
+88A Brandonville R - AM
+0
+1012.000
+
+  Dep.: 17:8:0
+[addtrip]
+88A Brandonville - AM
+1
+1028.000
+
+  Dep.: 17:24:0
+[addtrip]
+88A Brandonville R - AM
+0
+1044.000
+
+  Dep.: 17:40:0
+[addtrip]
+88A Brandonville - AM
+1
+1060.000
+
+  Dep.: 17:56:0
+[addtrip]
+88A Brandonville R - AM
+0
+1076.000
+
+  Dep.: 18:12:0
+[addtrip]
+88A Brandonville - AM
+1
+1092.000
+
+  Dep.: 18:28:0
+[addtrip]
+88A Brandonville R - AM
+0
+1108.000
+
+  Dep.: 18:44:0
+[addtrip]
+88A Brandonville - AM
+1
+1124.000
+
+  Dep.: 19:1:30
+[addtrip]
+88A Brandonville R - AM
+0
+1141.500
+
+  Dep.: 19:19:0
+[addtrip]
+88A Brandonville - AM
+1
+1159.000
+
+  Dep.: 19:36:0
+[addtrip]
+88A Brandonville R - AM
+0
+1176.000
+
+  Dep.: 19:57:0
+[addtrip]
+88A Brandonville - AM
+1
+1197.000
+
+  Dep.: 20:14:0
+[addtrip]
+88A Brandonville R - AM
+0
+1214.000
+
+  Dep.: 20:35:0
+[addtrip]
+88A Brandonville - AM
+1
+1235.000
+
+  Dep.: 20:52:0
+[addtrip]
+88A Brandonville R - AM
+0
+1252.000
+
+  Dep.: 21:13:0
+[addtrip]
+88A Brandonville - AM
+1
+1273.000
+
+  Dep.: 21:30:0
+[addtrip]
+88A Brandonville R - AM
+0
+1290.000
+
+  Dep.: 21:42:0
+[addtrip]
+88 Brandonville R - Garage
+0
+1302.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 5:46:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+346.000
+
+  Dep.: 5:57:0
+[addtrip]
+88 S-B AM
+1
+357.000
+
+  Dep.: 6:10:0
+[addtrip]
+88 B-S AM
+0
+370.000
+
+  Dep.: 6:27:0
+[addtrip]
+88 S-B AM
+1
+387.000
+
+  Dep.: 6:40:0
+[addtrip]
+88 B-S AM
+0
+400.000
+
+  Dep.: 6:57:0
+[addtrip]
+88 S-B AM
+1
+417.000
+
+  Dep.: 7:10:0
+[addtrip]
+88 B-S AM
+0
+430.000
+
+  Dep.: 7:29:0
+[addtrip]
+88 S-B AM
+1
+449.000
+
+  Dep.: 7:41:0
+[addtrip]
+88 B-S AM
+0
+461.000
+
+  Dep.: 8:1:0
+[addtrip]
+88 S-B AM
+1
+481.000
+
+  Dep.: 8:13:0
+[addtrip]
+88 B-S AM
+0
+493.000
+
+  Dep.: 8:33:0
+[addtrip]
+88 S-B AM
+1
+513.000
+
+  Dep.: 8:45:0
+[addtrip]
+88 B-S AM
+0
+525.000
+
+  Dep.: 9:5:0
+[addtrip]
+88 S-B AM
+1
+545.000
+
+  Dep.: 9:17:0
+[addtrip]
+88 B-S AM
+0
+557.000
+
+  Dep.: 9:37:0
+[addtrip]
+88 S-B AM
+1
+577.000
+
+  Dep.: 9:49:0
+[addtrip]
+88 B-S AM
+0
+589.000
+
+  Dep.: 10:9:0
+[addtrip]
+88 S-B AM
+1
+609.000
+
+  Dep.: 10:21:0
+[addtrip]
+88 B-S AM
+0
+621.000
+
+  Dep.: 10:41:0
+[addtrip]
+88 S-B AM
+1
+641.000
+
+  Dep.: 10:53:0
+[addtrip]
+88 B-S AM
+0
+653.000
+
+  Dep.: 11:11:0
+[addtrip]
+88 S-B AM
+1
+671.000
+
+  Dep.: 11:23:0
+[addtrip]
+88 B-S AM
+0
+683.000
+
+  Dep.: 11:41:0
+[addtrip]
+88 S-B AM
+1
+701.000
+
+  Dep.: 11:53:0
+[addtrip]
+88 B-S AM
+0
+713.000
+
+  Dep.: 12:11:0
+[addtrip]
+88A Brandonville - AM
+1
+731.000
+
+  Dep.: 12:27:0
+[addtrip]
+88A Brandonville R - AM
+0
+747.000
+
+  Dep.: 12:41:0
+[addtrip]
+88A Brandonville - AM
+1
+761.000
+
+  Dep.: 12:57:0
+[addtrip]
+88A Brandonville R - AM
+0
+777.000
+
+  Dep.: 13:11:0
+[addtrip]
+88A Brandonville - AM
+1
+791.000
+
+  Dep.: 13:27:0
+[addtrip]
+88A Brandonville R - AM
+0
+807.000
+
+  Dep.: 13:41:0
+[addtrip]
+88A Brandonville - AM
+1
+821.000
+
+  Dep.: 13:57:0
+[addtrip]
+88A Brandonville R - AM
+0
+837.000
+
+  Dep.: 14:11:0
+[addtrip]
+88A Brandonville - AM
+1
+851.000
+
+  Dep.: 14:27:0
+[addtrip]
+88A Brandonville R - AM
+0
+867.000
+
+  Dep.: 14:41:0
+[addtrip]
+88A Brandonville - AM
+1
+881.000
+
+  Dep.: 14:57:0
+[addtrip]
+88A Brandonville R - AM
+0
+897.000
+
+  Dep.: 15:11:0
+[addtrip]
+88A Brandonville - AM
+1
+911.000
+
+  Dep.: 15:27:0
+[addtrip]
+88A Brandonville R - AM
+0
+927.000
+
+  Dep.: 15:41:0
+[addtrip]
+88A Brandonville - AM
+1
+941.000
+
+  Dep.: 15:57:0
+[addtrip]
+88A Brandonville R - AM
+0
+957.000
+
+  Dep.: 16:11:0
+[addtrip]
+88A Brandonville - AM
+1
+971.000
+
+  Dep.: 16:27:0
+[addtrip]
+88A Brandonville R - AM
+0
+987.000
+
+  Dep.: 16:41:0
+[addtrip]
+88A Brandonville - AM
+1
+1001.000
+
+  Dep.: 16:57:0
+[addtrip]
+88A Brandonville R - AM
+0
+1017.000
+
+  Dep.: 17:13:0
+[addtrip]
+88A Brandonville - AM
+1
+1033.000
+
+  Dep.: 17:29:0
+[addtrip]
+88A Brandonville R - AM
+0
+1049.000
+
+  Dep.: 17:46:0
+[addtrip]
+88A Brandonville - AM
+1
+1066.000
+
+  Dep.: 18:2:0
+[addtrip]
+88A Brandonville R - AM
+0
+1082.000
+
+  Dep.: 18:19:0
+[addtrip]
+88A Brandonville - AM
+1
+1099.000
+
+  Dep.: 18:35:0
+[addtrip]
+88A Brandonville R - AM
+0
+1115.000
+
+  Dep.: 18:52:0
+[addtrip]
+88A Brandonville - AM
+1
+1132.000
+
+  Dep.: 19:8:0
+[addtrip]
+88A Brandonville R - AM
+0
+1148.000
+
+  Dep.: 19:25:0
+[addtrip]
+88A Brandonville - AM
+1
+1165.000
+
+  Dep.: 19:41:0
+[addtrip]
+88A Brandonville R - AM
+0
+1181.000
+
+  Dep.: 19:58:0
+[addtrip]
+88A Brandonville - AM
+1
+1198.000
+
+  Dep.: 20:14:0
+[addtrip]
+88A Brandonville R - AM
+0
+1214.000
+
+  Dep.: 20:31:0
+[addtrip]
+88A Brandonville - AM
+1
+1231.000
+
+  Dep.: 20:47:0
+[addtrip]
+88A Brandonville R - AM
+0
+1247.000
+
+  Dep.: 21:4:0
+[addtrip]
+88A Brandonville - AM
+1
+1264.000
+
+  Dep.: 21:20:0
+[addtrip]
+88A Brandonville R - AM
+0
+1280.000
+
+  Dep.: 21:37:0
+[addtrip]
+88A Brandonville - AM
+1
+1297.000
+
+  Dep.: 21:53:0
+[addtrip]
+88A Brandonville R - AM
+0
+1313.000
+
+  Dep.: 22:9:0
+[addtrip]
+88A Brandonville - AM
+1
+1329.000
+
+  Dep.: 22:24:0
+[addtrip]
+88A Brandonville R - AM
+0
+1344.000
+
+  Dep.: 22:49:0
+[addtrip]
+88A Brandonville - AM
+1
+1369.000
+
+  Dep.: 23:4:0
+[addtrip]
+88A Brandonville R - AM
+0
+1384.000
+
+  Dep.: 23:29:0
+[addtrip]
+88A Brandonville - AM
+1
+1409.000
+
+  Dep.: 23:44:0
+[addtrip]
+88A Brandonville R - AM
+0
+1424.000
+
+  Dep.: 24:9:0
+[addtrip]
+88A Brandonville - AM
+2
+1449.000
+
+  Dep.: 24:29:0
+[addtrip]
+88A Brandonville R - AM
+1
+1469.000
+
+  Dep.: 24:39:0
+[addtrip]
+88A Brandonville - AM
+2
+1479.000
+
+  Dep.: 24:58:0
+[addtrip]
+88A Brandonville R - AM
+1
+1498.000
+
+  Dep.: 25:9:0
+[addtrip]
+88D Brandonville
+0
+1509.000
+
+  Dep.: 25:22:0
+[addtrip]
+88D Brandonville - R
+0
+1522.000
+
+  Dep.: 25:35:0
+[addtrip]
+88D Brandonville
+0
+1535.000
+
+  Dep.: 25:48:0
+[addtrip]
+88D Brandonville - R
+0
+1548.000
+
+  Dep.: 26:0:0
+[addtrip]
+388 S-D (first)
+0
+1560.000
+
+  Dep.: 26:30:0
+[addtrip]
+388 D-S
+0
+1590.000
+
+  Dep.: 27:0:0
+[addtrip]
+388 S-D
+0
+1620.000
+
+  Dep.: 27:30:0
+[addtrip]
+388 D-S
+0
+1650.000
+
+  Dep.: 28:0:0
+[addtrip]
+388 S-D
+0
+1680.000
+
+  Dep.: 28:30:0
+[addtrip]
+388 D-S
+0
+1710.000
+
+  Dep.: 29:0:0
+[addtrip]
+388 S-D
+0
+1740.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 7:1:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+421.000
+
+  Dep.: 7:13:0
+[addtrip]
+88 S-B AM
+1
+433.000
+
+  Dep.: 7:26:0
+[addtrip]
+88 B-S AM
+0
+446.000
+
+  Dep.: 7:45:0
+[addtrip]
+88 S-B AM
+1
+465.000
+
+  Dep.: 7:57:0
+[addtrip]
+88 B-S AM
+0
+477.000
+
+  Dep.: 8:17:0
+[addtrip]
+88 S-B AM
+1
+497.000
+
+  Dep.: 8:29:0
+[addtrip]
+88 B-S AM
+0
+509.000
+
+  Dep.: 8:49:0
+[addtrip]
+88 S-B AM
+1
+529.000
+
+  Dep.: 9:1:0
+[addtrip]
+88 B-S AM
+0
+541.000
+
+  Dep.: 9:21:0
+[addtrip]
+88 S-B AM
+1
+561.000
+
+  Dep.: 9:33:0
+[addtrip]
+88 B-S AM
+0
+573.000
+
+  Dep.: 9:53:0
+[addtrip]
+88 S-B AM
+1
+593.000
+
+  Dep.: 10:5:0
+[addtrip]
+88 B-S AM
+0
+605.000
+
+  Dep.: 10:25:0
+[addtrip]
+88 S-B AM
+1
+625.000
+
+  Dep.: 10:38:0
+[addtrip]
+88 B-S AM
+0
+638.000
+
+  Dep.: 11:1:0
+[addtrip]
+88 S-B AM
+1
+661.000
+
+  Dep.: 11:13:0
+[addtrip]
+88 B-S AM
+0
+673.000
+
+  Dep.: 11:31:0
+[addtrip]
+88 S-B AM
+1
+691.000
+
+  Dep.: 11:43:0
+[addtrip]
+88 B-S AM
+0
+703.000
+
+  Dep.: 12:1:0
+[addtrip]
+88A Brandonville - AM
+1
+721.000
+
+  Dep.: 12:17:0
+[addtrip]
+88A Brandonville R - AM
+0
+737.000
+
+  Dep.: 12:31:0
+[addtrip]
+88A Brandonville - AM
+1
+751.000
+
+  Dep.: 12:47:0
+[addtrip]
+88A Brandonville R - AM
+0
+767.000
+
+  Dep.: 13:1:0
+[addtrip]
+88A Brandonville - AM
+1
+781.000
+
+  Dep.: 13:17:0
+[addtrip]
+88A Brandonville R - AM
+0
+797.000
+
+  Dep.: 13:31:0
+[addtrip]
+88A Brandonville - AM
+1
+811.000
+
+  Dep.: 13:47:0
+[addtrip]
+88A Brandonville R - AM
+0
+827.000
+
+  Dep.: 14:1:0
+[addtrip]
+88A Brandonville - AM
+1
+841.000
+
+  Dep.: 14:17:0
+[addtrip]
+88A Brandonville R - AM
+0
+857.000
+
+  Dep.: 14:31:0
+[addtrip]
+88A Brandonville - AM
+1
+871.000
+
+  Dep.: 14:47:0
+[addtrip]
+88A Brandonville R - AM
+0
+887.000
+
+  Dep.: 15:1:0
+[addtrip]
+88A Brandonville - AM
+1
+901.000
+
+  Dep.: 15:17:0
+[addtrip]
+88A Brandonville R - AM
+0
+917.000
+
+  Dep.: 15:31:0
+[addtrip]
+88A Brandonville - AM
+1
+931.000
+
+  Dep.: 15:47:0
+[addtrip]
+88A Brandonville R - AM
+0
+947.000
+
+  Dep.: 16:1:0
+[addtrip]
+88A Brandonville - AM
+1
+961.000
+
+  Dep.: 16:17:0
+[addtrip]
+88A Brandonville R - AM
+0
+977.000
+
+  Dep.: 16:31:0
+[addtrip]
+88A Brandonville - AM
+1
+991.000
+
+  Dep.: 16:47:0
+[addtrip]
+88A Brandonville R - AM
+0
+1007.000
+
+  Dep.: 17:2:0
+[addtrip]
+88A Brandonville - AM
+1
+1022.000
+
+  Dep.: 17:18:0
+[addtrip]
+88A Brandonville R - AM
+0
+1038.000
+
+  Dep.: 17:35:0
+[addtrip]
+88A Brandonville - AM
+1
+1055.000
+
+  Dep.: 17:51:0
+[addtrip]
+88A Brandonville R - AM
+0
+1071.000
+
+  Dep.: 18:8:0
+[addtrip]
+88A Brandonville - AM
+1
+1088.000
+
+  Dep.: 18:24:0
+[addtrip]
+88A Brandonville R - AM
+0
+1104.000
+
+  Dep.: 18:41:0
+[addtrip]
+88A Brandonville - AM
+1
+1121.000
+
+  Dep.: 18:57:0
+[addtrip]
+88A Brandonville R - AM
+0
+1137.000
+
+  Dep.: 19:14:0
+[addtrip]
+88A Brandonville - AM
+1
+1154.000
+
+  Dep.: 19:30:0
+[addtrip]
+88A Brandonville R - AM
+0
+1170.000
+
+  Dep.: 19:47:0
+[addtrip]
+88A Brandonville - AM
+1
+1187.000
+
+  Dep.: 20:3:0
+[addtrip]
+88A Brandonville R - AM
+0
+1203.000
+
+  Dep.: 20:20:0
+[addtrip]
+88A Brandonville - AM
+1
+1220.000
+
+  Dep.: 20:36:0
+[addtrip]
+88A Brandonville R - AM
+0
+1236.000
+
+  Dep.: 20:53:0
+[addtrip]
+88A Brandonville - AM
+1
+1253.000
+
+  Dep.: 21:9:0
+[addtrip]
+88A Brandonville R - AM
+0
+1269.000
+
+  Dep.: 21:26:0
+[addtrip]
+88A Brandonville - AM
+1
+1286.000
+
+  Dep.: 21:42:0
+[addtrip]
+88A Brandonville R - AM
+0
+1302.000
+
+  Dep.: 21:59:0
+[addtrip]
+88A Brandonville - AM
+1
+1319.000
+
+  Dep.: 22:15:0
+[addtrip]
+88A Brandonville R - AM
+0
+1335.000
+
+  Dep.: 22:29:0
+[addtrip]
+88A Brandonville - AM
+1
+1349.000
+
+  Dep.: 22:44:0
+[addtrip]
+88A Brandonville R - AM
+0
+1364.000
+
+  Dep.: 23:9:0
+[addtrip]
+88A Brandonville - AM
+1
+1389.000
+
+  Dep.: 23:24:0
+[addtrip]
+88A Brandonville R - AM
+0
+1404.000
+
+  Dep.: 23:49:0
+[addtrip]
+88A Brandonville - AM
+2
+1429.000
+
+  Dep.: 24:4:0
+[addtrip]
+88A Brandonville R - AM
+1
+1444.000
+
+  Dep.: 24:17:0
+[addtrip]
+88 Brandonville R - Garage
+0
+1457.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Finch Garage
+800
+
+------------------------------------
+
+  Dep.: 10:37:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+637.000
+
+  Dep.: 10:51:0
+[addtrip]
+88 S-B AM
+1
+651.000
+
+  Dep.: 11:3:0
+[addtrip]
+88 B-S AM
+0
+663.000
+
+  Dep.: 11:21:0
+[addtrip]
+88 S-B AM
+1
+681.000
+
+  Dep.: 11:33:0
+[addtrip]
+88 B-S AM
+0
+693.000
+
+  Dep.: 11:48:0
+[addtrip]
+88 S-B AM
+1
+708.000
+
+  Dep.: 11:59:0
+[addtrip]
+88 B-S AM
+0
+719.000
+
+  Dep.: 12:21:0
+[addtrip]
+88A Brandonville - AM
+1
+741.000
+
+  Dep.: 12:37:0
+[addtrip]
+88A Brandonville R - AM
+0
+757.000
+
+  Dep.: 12:51:0
+[addtrip]
+88A Brandonville - AM
+1
+771.000
+
+  Dep.: 13:7:0
+[addtrip]
+88A Brandonville R - AM
+0
+787.000
+
+  Dep.: 13:21:0
+[addtrip]
+88A Brandonville - AM
+1
+801.000
+
+  Dep.: 13:37:0
+[addtrip]
+88A Brandonville R - AM
+0
+817.000
+
+  Dep.: 13:51:0
+[addtrip]
+88A Brandonville - AM
+1
+831.000
+
+  Dep.: 14:7:0
+[addtrip]
+88A Brandonville R - AM
+0
+847.000
+
+  Dep.: 14:21:0
+[addtrip]
+88A Brandonville - AM
+1
+861.000
+
+  Dep.: 14:37:0
+[addtrip]
+88A Brandonville R - AM
+0
+877.000
+
+  Dep.: 14:51:0
+[addtrip]
+88A Brandonville - AM
+1
+891.000
+
+  Dep.: 15:7:0
+[addtrip]
+88A Brandonville R - AM
+0
+907.000
+
+  Dep.: 15:21:0
+[addtrip]
+88A Brandonville - AM
+1
+921.000
+
+  Dep.: 15:37:0
+[addtrip]
+88A Brandonville R - AM
+0
+937.000
+
+  Dep.: 15:51:0
+[addtrip]
+88A Brandonville - AM
+1
+951.000
+
+  Dep.: 16:7:0
+[addtrip]
+88A Brandonville R - AM
+0
+967.000
+
+  Dep.: 16:21:0
+[addtrip]
+88A Brandonville - AM
+1
+981.000
+
+  Dep.: 16:37:0
+[addtrip]
+88A Brandonville R - AM
+0
+997.000
+
+  Dep.: 16:51:0
+[addtrip]
+88A Brandonville - AM
+1
+1011.000
+
+  Dep.: 17:7:0
+[addtrip]
+88A Brandonville R - AM
+0
+1027.000
+
+  Dep.: 17:24:0
+[addtrip]
+88A Brandonville - AM
+1
+1044.000
+
+  Dep.: 17:40:0
+[addtrip]
+88A Brandonville R - AM
+0
+1060.000
+
+  Dep.: 17:57:0
+[addtrip]
+88A Brandonville - AM
+1
+1077.000
+
+  Dep.: 18:13:0
+[addtrip]
+88A Brandonville R - AM
+0
+1093.000
+
+  Dep.: 18:30:0
+[addtrip]
+88A Brandonville - AM
+1
+1110.000
+
+  Dep.: 18:46:0
+[addtrip]
+88A Brandonville R - AM
+0
+1126.000
+
+  Dep.: 19:3:0
+[addtrip]
+88A Brandonville - AM
+1
+1143.000
+
+  Dep.: 19:19:0
+[addtrip]
+88A Brandonville R - AM
+0
+1159.000
+
+  Dep.: 19:36:0
+[addtrip]
+88A Brandonville - AM
+1
+1176.000
+
+  Dep.: 19:52:0
+[addtrip]
+88A Brandonville R - AM
+0
+1192.000
+
+  Dep.: 20:9:0
+[addtrip]
+88A Brandonville - AM
+1
+1209.000
+
+  Dep.: 20:25:0
+[addtrip]
+88A Brandonville R - AM
+0
+1225.000
+
+  Dep.: 20:42:0
+[addtrip]
+88A Brandonville - AM
+1
+1242.000
+
+  Dep.: 20:58:0
+[addtrip]
+88A Brandonville R - AM
+0
+1258.000
+
+  Dep.: 21:15:0
+[addtrip]
+88A Brandonville - AM
+1
+1275.000
+
+  Dep.: 21:31:0
+[addtrip]
+88A Brandonville R - AM
+0
+1291.000
+
+  Dep.: 21:48:0
+[addtrip]
+88A Brandonville - AM
+1
+1308.000
+
+  Dep.: 22:4:0
+[addtrip]
+88A Brandonville R - AM
+0
+1324.000
+
+  Dep.: 22:17:0
+[addtrip]
+88 Brandonville R - Garage
+0
+1337.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 7:36:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+456.000
+
+  Dep.: 7:48:0
+[addtrip]
+88 S-B AM
+1
+468.000
+
+  Dep.: 8:0:0
+[addtrip]
+88 B-S AM
+0
+480.000
+
+  Dep.: 8:18:0
+[addtrip]
+88 S-B AM
+1
+498.000
+
+  Dep.: 8:30:0
+[addtrip]
+88 B-S AM
+0
+510.000
+
+  Dep.: 8:48:0
+[addtrip]
+88 S-B AM
+1
+528.000
+
+  Dep.: 9:0:0
+[addtrip]
+88 B-S AM
+0
+540.000
+
+  Dep.: 9:18:0
+[addtrip]
+88 S-B AM
+1
+558.000
+
+  Dep.: 9:30:0
+[addtrip]
+88 B-S AM
+0
+570.000
+
+  Dep.: 9:54:0
+[addtrip]
+88 S-B AM
+1
+594.000
+
+  Dep.: 10:6:0
+[addtrip]
+88 B-S AM
+0
+606.000
+
+  Dep.: 10:30:0
+[addtrip]
+88 S-B AM
+1
+630.000
+
+  Dep.: 10:42:0
+[addtrip]
+88 B-S AM
+0
+642.000
+
+  Dep.: 11:6:0
+[addtrip]
+88 S-B AM
+1
+666.000
+
+  Dep.: 11:18:0
+[addtrip]
+88 B-S AM
+0
+678.000
+
+  Dep.: 11:42:0
+[addtrip]
+88 S-B AM
+1
+702.000
+
+  Dep.: 11:54:0
+[addtrip]
+88 B-S AM
+0
+714.000
+
+  Dep.: 12:12:30
+[addtrip]
+88A Brandonville - AM
+1
+732.500
+
+  Dep.: 12:27:30
+[addtrip]
+88A Brandonville R - AM
+0
+747.500
+
+  Dep.: 12:50:0
+[addtrip]
+88A Brandonville - AM
+1
+770.000
+
+  Dep.: 13:5:0
+[addtrip]
+88A Brandonville R - AM
+0
+785.000
+
+  Dep.: 13:27:30
+[addtrip]
+88A Brandonville - AM
+1
+807.500
+
+  Dep.: 13:42:30
+[addtrip]
+88A Brandonville R - AM
+0
+822.500
+
+  Dep.: 14:5:0
+[addtrip]
+88A Brandonville - AM
+1
+845.000
+
+  Dep.: 14:20:0
+[addtrip]
+88A Brandonville R - AM
+0
+860.000
+
+  Dep.: 14:42:30
+[addtrip]
+88A Brandonville - AM
+1
+882.500
+
+  Dep.: 14:57:30
+[addtrip]
+88A Brandonville R - AM
+0
+897.500
+
+  Dep.: 15:20:0
+[addtrip]
+88A Brandonville - AM
+1
+920.000
+
+  Dep.: 15:35:0
+[addtrip]
+88A Brandonville R - AM
+0
+935.000
+
+  Dep.: 15:57:30
+[addtrip]
+88A Brandonville - AM
+1
+957.500
+
+  Dep.: 16:12:30
+[addtrip]
+88A Brandonville R - AM
+0
+972.500
+
+  Dep.: 16:35:0
+[addtrip]
+88A Brandonville - AM
+1
+995.000
+
+  Dep.: 16:50:0
+[addtrip]
+88A Brandonville R - AM
+0
+1010.000
+
+  Dep.: 17:12:30
+[addtrip]
+88A Brandonville - AM
+1
+1032.500
+
+  Dep.: 17:27:30
+[addtrip]
+88A Brandonville R - AM
+0
+1047.500
+
+  Dep.: 17:50:0
+[addtrip]
+88A Brandonville - AM
+1
+1070.000
+
+  Dep.: 18:5:0
+[addtrip]
+88A Brandonville R - AM
+0
+1085.000
+
+  Dep.: 18:27:30
+[addtrip]
+88A Brandonville - AM
+1
+1107.500
+
+  Dep.: 18:42:30
+[addtrip]
+88A Brandonville R - AM
+0
+1122.500
+
+  Dep.: 19:5:0
+[addtrip]
+88A Brandonville - AM
+1
+1145.000
+
+  Dep.: 19:20:0
+[addtrip]
+88A Brandonville R - AM
+0
+1160.000
+
+  Dep.: 19:45:0
+[addtrip]
+88A Brandonville - AM
+1
+1185.000
+
+  Dep.: 20:0:0
+[addtrip]
+88A Brandonville R - AM
+0
+1200.000
+
+  Dep.: 20:15:0
+[addtrip]
+88D Brandonville
+0
+1215.000
+
+  Dep.: 20:27:0
+[addtrip]
+88D Brandonville - R
+0
+1227.000
+
+  Dep.: 20:45:0
+[addtrip]
+88D Brandonville
+0
+1245.000
+
+  Dep.: 20:57:0
+[addtrip]
+88D Brandonville - R
+0
+1257.000
+
+  Dep.: 21:22:0
+[addtrip]
+88D Brandonville
+0
+1282.000
+
+  Dep.: 21:34:0
+[addtrip]
+88D Brandonville - R
+0
+1294.000
+
+  Dep.: 21:52:0
+[addtrip]
+88D Brandonville
+0
+1312.000
+
+  Dep.: 22:4:0
+[addtrip]
+88D Brandonville - R
+0
+1324.000
+
+  Dep.: 22:22:0
+[addtrip]
+88D Brandonville
+0
+1342.000
+
+  Dep.: 22:34:0
+[addtrip]
+88D Brandonville - R
+0
+1354.000
+
+  Dep.: 23:0:0
+[addtrip]
+88D Brandonville
+0
+1380.000
+
+  Dep.: 23:15:0
+[addtrip]
+88D Brandonville - R
+0
+1395.000
+
+  Dep.: 23:30:0
+[addtrip]
+88D Brandonville
+0
+1410.000
+
+  Dep.: 23:45:0
+[addtrip]
+88D Brandonville - R
+0
+1425.000
+
+  Dep.: 24:0:0
+[addtrip]
+88D Brandonville
+0
+1440.000
+
+  Dep.: 24:15:0
+[addtrip]
+88D Brandonville - R
+0
+1455.000
+
+  Dep.: 24:30:0
+[addtrip]
+88D Brandonville
+0
+1470.000
+
+  Dep.: 24:45:0
+[addtrip]
+88D Brandonville - R
+0
+1485.000
+
+  Dep.: 25:0:0
+[addtrip]
+88D Brandonville
+0
+1500.000
+
+  Dep.: 25:15:0
+[addtrip]
+88D Brandonville - R
+0
+1515.000
+
+  Dep.: 25:30:0
+[addtrip]
+88D Brandonville
+0
+1530.000
+
+  Dep.: 25:45:0
+[addtrip]
+88D Brandonville - R
+0
+1545.000
+
+  Dep.: 26:0:0
+[addtrip]
+388 S-D (first)
+0
+1560.000
+
+  Dep.: 26:30:0
+[addtrip]
+388 D-S
+0
+1590.000
+
+  Dep.: 27:0:0
+[addtrip]
+388 S-D
+0
+1620.000
+
+  Dep.: 27:30:0
+[addtrip]
+388 D-S
+0
+1650.000
+
+  Dep.: 28:0:0
+[addtrip]
+388 S-D
+0
+1680.000
+
+  Dep.: 28:30:0
+[addtrip]
+388 D-S
+0
+1710.000
+
+  Dep.: 29:0:0
+[addtrip]
+388 S-D
+0
+1740.000
+
+  Dep.: 29:30:0
+[addtrip]
+388 D-S
+0
+1770.000
+
+  Dep.: 30:0:0
+[addtrip]
+388 S-D
+0
+1800.000
+
+  Dep.: 30:30:0
+[addtrip]
+388 D-S
+0
+1830.000
+
+  Dep.: 31:0:0
+[addtrip]
+388 S-D
+0
+1860.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 9:25:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+565.000
+
+  Dep.: 9:36:0
+[addtrip]
+88 S-B AM
+1
+576.000
+
+  Dep.: 9:48:0
+[addtrip]
+88 B-S AM
+0
+588.000
+
+  Dep.: 10:12:0
+[addtrip]
+88 S-B AM
+1
+612.000
+
+  Dep.: 10:24:0
+[addtrip]
+88 B-S AM
+0
+624.000
+
+  Dep.: 10:48:0
+[addtrip]
+88 S-B AM
+1
+648.000
+
+  Dep.: 11:0:0
+[addtrip]
+88 B-S AM
+0
+660.000
+
+  Dep.: 11:24:0
+[addtrip]
+88 S-B AM
+1
+684.000
+
+  Dep.: 11:36:0
+[addtrip]
+88 B-S AM
+0
+696.000
+
+  Dep.: 12:0:0
+[addtrip]
+88A Brandonville - AM
+1
+720.000
+
+  Dep.: 12:15:0
+[addtrip]
+88A Brandonville R - AM
+0
+735.000
+
+  Dep.: 12:37:30
+[addtrip]
+88A Brandonville - AM
+1
+757.500
+
+  Dep.: 12:52:30
+[addtrip]
+88A Brandonville R - AM
+0
+772.500
+
+  Dep.: 13:15:0
+[addtrip]
+88A Brandonville - AM
+1
+795.000
+
+  Dep.: 13:30:0
+[addtrip]
+88A Brandonville R - AM
+0
+810.000
+
+  Dep.: 13:52:30
+[addtrip]
+88A Brandonville - AM
+1
+832.500
+
+  Dep.: 14:7:30
+[addtrip]
+88A Brandonville R - AM
+0
+847.500
+
+  Dep.: 14:30:0
+[addtrip]
+88A Brandonville - AM
+1
+870.000
+
+  Dep.: 14:45:0
+[addtrip]
+88A Brandonville R - AM
+0
+885.000
+
+  Dep.: 15:7:30
+[addtrip]
+88A Brandonville - AM
+1
+907.500
+
+  Dep.: 15:22:30
+[addtrip]
+88A Brandonville R - AM
+0
+922.500
+
+  Dep.: 15:45:0
+[addtrip]
+88A Brandonville - AM
+1
+945.000
+
+  Dep.: 16:0:0
+[addtrip]
+88A Brandonville R - AM
+0
+960.000
+
+  Dep.: 16:22:30
+[addtrip]
+88A Brandonville - AM
+1
+982.500
+
+  Dep.: 16:37:30
+[addtrip]
+88A Brandonville R - AM
+0
+997.500
+
+  Dep.: 17:0:0
+[addtrip]
+88A Brandonville - AM
+1
+1020.000
+
+  Dep.: 17:15:0
+[addtrip]
+88A Brandonville R - AM
+0
+1035.000
+
+  Dep.: 17:37:30
+[addtrip]
+88A Brandonville - AM
+1
+1057.500
+
+  Dep.: 17:52:30
+[addtrip]
+88A Brandonville R - AM
+0
+1072.500
+
+  Dep.: 18:15:0
+[addtrip]
+88A Brandonville - AM
+1
+1095.000
+
+  Dep.: 18:30:0
+[addtrip]
+88A Brandonville R - AM
+0
+1110.000
+
+  Dep.: 18:52:30
+[addtrip]
+88A Brandonville - AM
+1
+1132.500
+
+  Dep.: 19:7:30
+[addtrip]
+88A Brandonville R - AM
+0
+1147.500
+
+  Dep.: 19:30:0
+[addtrip]
+88A Brandonville - AM
+1
+1170.000
+
+  Dep.: 19:45:0
+[addtrip]
+88A Brandonville R - AM
+0
+1185.000
+
+  Dep.: 20:0:0
+[addtrip]
+88D Brandonville
+0
+1200.000
+
+  Dep.: 20:12:0
+[addtrip]
+88D Brandonville - R
+0
+1212.000
+
+  Dep.: 20:30:0
+[addtrip]
+88D Brandonville
+0
+1230.000
+
+  Dep.: 20:42:0
+[addtrip]
+88D Brandonville - R
+0
+1242.000
+
+  Dep.: 21:2:0
+[addtrip]
+88D Brandonville
+0
+1262.000
+
+  Dep.: 21:14:0
+[addtrip]
+88D Brandonville - R
+0
+1274.000
+
+  Dep.: 21:32:0
+[addtrip]
+88D Brandonville
+0
+1292.000
+
+  Dep.: 21:44:0
+[addtrip]
+88D Brandonville - R
+0
+1304.000
+
+  Dep.: 22:2:0
+[addtrip]
+88D Brandonville
+0
+1322.000
+
+  Dep.: 22:14:0
+[addtrip]
+88D Brandonville - R
+0
+1334.000
+
+  Dep.: 22:32:0
+[addtrip]
+88D Brandonville
+0
+1352.000
+
+  Dep.: 22:44:0
+[addtrip]
+88D Brandonville - R
+0
+1364.000
+
+  Dep.: 22:56:30
+[addtrip]
+88 Brandonville R - Garage
+0
+1376.500
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Finch Garage
+960
+
+------------------------------------
+
+  Dep.: 12:10:0
+[addtrip]
+88 Brandonville - Garage Start
+0
+730.000
+
+  Dep.: 12:25:0
+[addtrip]
+88A Brandonville - AM
+1
+745.000
+
+  Dep.: 12:40:0
+[addtrip]
+88A Brandonville R - AM
+0
+760.000
+
+  Dep.: 13:2:30
+[addtrip]
+88A Brandonville - AM
+1
+782.500
+
+  Dep.: 13:17:30
+[addtrip]
+88A Brandonville R - AM
+0
+797.500
+
+  Dep.: 13:40:0
+[addtrip]
+88A Brandonville - AM
+1
+820.000
+
+  Dep.: 13:55:0
+[addtrip]
+88A Brandonville R - AM
+0
+835.000
+
+  Dep.: 14:17:30
+[addtrip]
+88A Brandonville - AM
+1
+857.500
+
+  Dep.: 14:32:30
+[addtrip]
+88A Brandonville R - AM
+0
+872.500
+
+  Dep.: 14:55:0
+[addtrip]
+88A Brandonville - AM
+1
+895.000
+
+  Dep.: 15:10:0
+[addtrip]
+88A Brandonville R - AM
+0
+910.000
+
+  Dep.: 15:32:30
+[addtrip]
+88A Brandonville - AM
+1
+932.500
+
+  Dep.: 15:47:30
+[addtrip]
+88A Brandonville R - AM
+0
+947.500
+
+  Dep.: 16:10:0
+[addtrip]
+88A Brandonville - AM
+1
+970.000
+
+  Dep.: 16:25:0
+[addtrip]
+88A Brandonville R - AM
+0
+985.000
+
+  Dep.: 16:47:30
+[addtrip]
+88A Brandonville - AM
+1
+1007.500
+
+  Dep.: 17:2:30
+[addtrip]
+88A Brandonville R - AM
+0
+1022.500
+
+  Dep.: 17:25:0
+[addtrip]
+88A Brandonville - AM
+1
+1045.000
+
+  Dep.: 17:40:0
+[addtrip]
+88A Brandonville R - AM
+0
+1060.000
+
+  Dep.: 18:2:30
+[addtrip]
+88A Brandonville - AM
+1
+1082.500
+
+  Dep.: 18:17:30
+[addtrip]
+88A Brandonville R - AM
+0
+1097.500
+
+  Dep.: 18:40:0
+[addtrip]
+88A Brandonville - AM
+1
+1120.000
+
+  Dep.: 18:55:0
+[addtrip]
+88A Brandonville R - AM
+0
+1135.000
+
+  Dep.: 19:17:30
+[addtrip]
+88A Brandonville - AM
+1
+1157.500
+
+  Dep.: 19:32:30
+[addtrip]
+88A Brandonville R - AM
+0
+1172.500
+
+  Dep.: 19:45:30
+[addtrip]
+88 Brandonville R - Garage
+0
+1185.500
+

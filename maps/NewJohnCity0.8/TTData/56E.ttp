@@ -1,0 +1,55 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+56X South Brandonville - Sheppard Stn
+56X
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+17603
+
+[station_typ2]
+27344
+
+[station_typ2]
+17150
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+9.000
+
+[profile_man_arr_time]
+0
+0.100
+[profile_man_dep_time]
+0
+0.200
+[profile_otherstopping]
+0
+4
+[profile_man_arr_time]
+1
+8.000
+[profile_man_dep_time]
+1
+8.000
+[profile_man_arr_time]
+2
+9.000
+[profile_man_dep_time]
+2
+9.000

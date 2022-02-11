@@ -1,0 +1,61 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[trip]
+
+199 Rocket - Yonge Street
+199
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+28956
+
+[station_typ2]
+29315
+
+[station_typ2]
+28910
+
+[station_typ2]
+28912
+
+[station_typ2]
+25332
+
+[station_typ2]
+25395
+
+[station_typ2]
+25396
+
+[station_typ2]
+29333
+
+[station_typ2]
+25328
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+standard
+11.000
+
+[profile_otherstopping]
+0
+4
+[profile_man_arr_time]
+5
+6.000
+[profile_otherstopping]
+8
+1

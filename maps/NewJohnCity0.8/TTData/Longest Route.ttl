@@ -1,0 +1,116 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+4
+------------------------------------
+
+[newtour]
+Run 1
+Finch Garage
+31
+
+------------------------------------
+
+  Dep.: 6:0:0
+[addtrip]
+LongestRoute
+0
+360.000
+
+  Dep.: 8:0:0
+[addtrip]
+LongestRoute
+0
+480.000
+
+------------------------------------
+
+[newtour]
+320/388 Run 1
+Finch Garage
+255
+
+------------------------------------
+
+  Dep.: 2:25:0
+[addtrip]
+388_test B-D
+1
+145.000
+
+  Dep.: 3:15:0
+[addtrip]
+388_test D-Steeles
+0
+195.000
+
+------------------------------------
+
+[newtour]
+320/388 Run 2
+Finch Garage
+255
+
+------------------------------------
+
+  Dep.: 2:45:0
+[addtrip]
+388_test D-Steeles
+0
+165.000
+
+  Dep.: 3:55:0
+[addtrip]
+388_test B-D
+1
+235.000
+
+------------------------------------
+
+[newtour]
+320/388 Run 3
+Finch Garage
+255
+
+------------------------------------
+
+  Dep.: 2:55:0
+[addtrip]
+388_test B-D
+1
+175.000
+
+  Dep.: 3:45:0
+[addtrip]
+388_test D-Steeles
+0
+225.000
+
+------------------------------------
+
+[newtour]
+320/388 Run 4
+Finch Garage
+255
+
+------------------------------------
+
+  Dep.: 2:22:0
+[addtrip]
+388_test D-Steeles
+0
+142.000
+
+  Dep.: 3:25:0
+[addtrip]
+388_test B-D
+1
+205.000
+

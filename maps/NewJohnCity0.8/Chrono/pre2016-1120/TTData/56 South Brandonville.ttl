@@ -1,0 +1,3164 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[userallowed]
+
+[priority]
+3
+------------------------------------
+
+[newtour]
+Run 1 - Sunday
+Finch Garage
+832
+
+------------------------------------
+
+  Dep.: 8:20:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+500.000
+
+  Dep.: 8:25:0
+[addtrip]
+56D To Sheppard Stn
+0
+505.000
+
+  Dep.: 8:30:0
+[addtrip]
+AM 56B To Eglinton
+0
+510.000
+
+  Dep.: 9:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+AM 56B To Eglinton
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+AM 56B To Eglinton
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+AM 56B To Eglinton
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+720.000
+
+  Dep.: 12:20:0
+[addtrip]
+AM 56B To Eglinton
+0
+740.000
+
+  Dep.: 12:40:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+760.000
+
+  Dep.: 13:0:0
+[addtrip]
+AM 56B To Eglinton
+0
+780.000
+
+  Dep.: 13:20:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+800.000
+
+  Dep.: 13:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+820.000
+
+  Dep.: 14:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+840.000
+
+  Dep.: 14:20:0
+[addtrip]
+AM 56B To Eglinton
+0
+860.000
+
+  Dep.: 14:45:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+885.000
+
+  Dep.: 15:10:0
+[addtrip]
+56D To Welland
+0
+910.000
+
+  Dep.: 15:15:0
+[addtrip]
+Leaside-Finch Version 1
+0
+915.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Sunday
+Finch Garage
+832
+
+------------------------------------
+
+  Dep.: 14:50:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+890.000
+
+  Dep.: 14:55:0
+[addtrip]
+56D To Sheppard Stn
+0
+895.000
+
+  Dep.: 15:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+900.000
+
+  Dep.: 15:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+920.000
+
+  Dep.: 15:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+940.000
+
+  Dep.: 16:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+960.000
+
+  Dep.: 16:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+980.000
+
+  Dep.: 16:40:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1000.000
+
+  Dep.: 17:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+1020.000
+
+  Dep.: 17:25:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1045.000
+
+  Dep.: 17:50:0
+[addtrip]
+PM 56B To Eglinton
+0
+1070.000
+
+  Dep.: 18:15:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1095.000
+
+  Dep.: 18:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+1120.000
+
+  Dep.: 19:5:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1145.000
+
+  Dep.: 19:30:0
+[addtrip]
+PM 56B To Eglinton
+0
+1170.000
+
+  Dep.: 19:55:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1195.000
+
+  Dep.: 20:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1250.000
+
+  Dep.: 21:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+1280.000
+
+  Dep.: 21:40:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1300.000
+
+  Dep.: 22:0:0
+[addtrip]
+56D To Welland
+0
+1320.000
+
+  Dep.: 22:5:0
+[addtrip]
+Leaside-Finch 320S
+0
+1325.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Sunday
+Finch Garage
+832
+
+------------------------------------
+
+  Dep.: 8:50:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+530.000
+
+  Dep.: 8:55:0
+[addtrip]
+56D To Sheppard Stn
+0
+535.000
+
+  Dep.: 9:0:0
+[addtrip]
+AM 56B To Eglinton
+0
+540.000
+
+  Dep.: 9:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+570.000
+
+  Dep.: 10:0:0
+[addtrip]
+AM 56B To Eglinton
+0
+600.000
+
+  Dep.: 10:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+630.000
+
+  Dep.: 11:0:0
+[addtrip]
+AM 56B To Eglinton
+0
+660.000
+
+  Dep.: 11:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+690.000
+
+  Dep.: 12:0:0
+[addtrip]
+AM 56B To Eglinton
+0
+720.000
+
+  Dep.: 12:20:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+740.000
+
+  Dep.: 12:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+760.000
+
+  Dep.: 13:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+780.000
+
+  Dep.: 13:20:0
+[addtrip]
+AM 56B To Eglinton
+0
+800.000
+
+  Dep.: 13:40:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+820.000
+
+  Dep.: 14:0:0
+[addtrip]
+AM 56B To Eglinton
+0
+840.000
+
+  Dep.: 14:20:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+860.000
+
+  Dep.: 14:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+880.000
+
+  Dep.: 15:5:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+905.000
+
+  Dep.: 15:25:0
+[addtrip]
+PM 56B To Eglinton
+0
+925.000
+
+  Dep.: 15:45:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+945.000
+
+  Dep.: 16:10:0
+[addtrip]
+56D To Welland
+0
+970.000
+
+  Dep.: 16:15:0
+[addtrip]
+Leaside-Finch V2
+0
+975.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Sunday
+Finch Garage
+832
+
+------------------------------------
+
+  Dep.: 15:50:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+950.000
+
+  Dep.: 15:55:0
+[addtrip]
+56D To Sheppard Stn
+0
+955.000
+
+  Dep.: 16:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+960.000
+
+  Dep.: 16:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+980.000
+
+  Dep.: 16:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+1000.000
+
+  Dep.: 17:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1020.000
+
+  Dep.: 17:25:0
+[addtrip]
+PM 56B To Eglinton
+0
+1045.000
+
+  Dep.: 17:50:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1070.000
+
+  Dep.: 18:15:0
+[addtrip]
+PM 56B To Eglinton
+0
+1095.000
+
+  Dep.: 18:40:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1120.000
+
+  Dep.: 19:5:0
+[addtrip]
+PM 56B To Eglinton
+0
+1145.000
+
+  Dep.: 19:30:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1170.000
+
+  Dep.: 19:55:0
+[addtrip]
+PM 56B To Eglinton
+0
+1195.000
+
+  Dep.: 20:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1220.000
+
+  Dep.: 20:50:0
+[addtrip]
+PM 56B To Eglinton
+0
+1250.000
+
+  Dep.: 21:15:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1275.000
+
+  Dep.: 21:40:0
+[addtrip]
+56D To Welland
+0
+1300.000
+
+  Dep.: 21:45:0
+[addtrip]
+Leaside-Finch V2
+0
+1305.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 6:18:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+378.000
+
+  Dep.: 6:24:0
+[addtrip]
+56D To Sheppard Stn
+0
+384.000
+
+  Dep.: 6:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+390.000
+
+  Dep.: 7:30:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+450.000
+
+  Dep.: 8:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+510.000
+
+  Dep.: 9:30:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+570.000
+
+  Dep.: 10:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+630.000
+
+  Dep.: 11:20:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+680.000
+
+  Dep.: 12:15:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+735.000
+
+  Dep.: 13:10:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+790.000
+
+  Dep.: 13:54:45
+[addtrip]
+56 South Brandonville - To Garage
+0
+834.750
+
+------------------------------------
+
+[newtour]
+Run 2 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 13:49:45
+[addtrip]
+56 South Brandonville - From Garage
+0
+829.750
+
+  Dep.: 13:54:45
+[addtrip]
+56D To Sheppard Stn
+0
+834.750
+
+  Dep.: 14:0:0
+[addtrip]
+AM 56C To Jarrett
+0
+840.000
+
+  Dep.: 14:50:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+890.000
+
+  Dep.: 15:45:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+945.000
+
+  Dep.: 16:40:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+1000.000
+
+  Dep.: 17:30:0
+[addtrip]
+PM 56C To Jarrett
+0
+1050.000
+
+  Dep.: 18:20:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1100.000
+
+  Dep.: 19:15:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1155.000
+
+  Dep.: 20:10:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1210.000
+
+  Dep.: 20:54:45
+[addtrip]
+56D To Welland
+0
+1254.750
+
+  Dep.: 20:59:45
+[addtrip]
+Leaside-Finch V2
+0
+1259.750
+
+------------------------------------
+
+[newtour]
+Run 3 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 6:48:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+408.000
+
+  Dep.: 6:53:0
+[addtrip]
+56D To Sheppard Stn
+0
+413.000
+
+  Dep.: 7:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+420.000
+
+  Dep.: 8:0:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+480.000
+
+  Dep.: 9:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+540.000
+
+  Dep.: 10:0:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+600.000
+
+  Dep.: 11:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+660.000
+
+  Dep.: 12:0:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+720.000
+
+  Dep.: 12:45:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+765.000
+
+  Dep.: 13:40:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+820.000
+
+  Dep.: 14:24:45
+[addtrip]
+56 South Brandonville - To Garage
+0
+864.750
+
+------------------------------------
+
+[newtour]
+Run 4 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 14:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+870.000
+
+  Dep.: 15:20:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+920.000
+
+  Dep.: 16:15:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+975.000
+
+  Dep.: 17:15:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1035.000
+
+  Dep.: 18:0:0
+[addtrip]
+PM 56C To Jarrett
+0
+1080.000
+
+  Dep.: 18:50:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1130.000
+
+  Dep.: 19:45:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1185.000
+
+  Dep.: 20:40:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1240.000
+
+  Dep.: 21:24:45
+[addtrip]
+56D To Welland
+0
+1284.750
+
+  Dep.: 21:29:45
+[addtrip]
+Leaside-Finch V2
+0
+1289.750
+
+------------------------------------
+
+[newtour]
+Run 5 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 7:18:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+438.000
+
+  Dep.: 7:24:0
+[addtrip]
+56D To Sheppard Stn
+0
+444.000
+
+  Dep.: 7:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+450.000
+
+  Dep.: 8:30:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+510.000
+
+  Dep.: 9:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+570.000
+
+  Dep.: 10:30:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+630.000
+
+  Dep.: 11:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+690.000
+
+  Dep.: 12:20:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+740.000
+
+  Dep.: 13:15:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+795.000
+
+  Dep.: 14:10:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+850.000
+
+  Dep.: 14:54:45
+[addtrip]
+56 South Brandonville - To Garage
+0
+894.750
+
+------------------------------------
+
+[newtour]
+Run 6 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 15:0:0
+[addtrip]
+PM 56C To Jarrett
+0
+900.000
+
+  Dep.: 15:50:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+950.000
+
+  Dep.: 16:45:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1005.000
+
+  Dep.: 17:45:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1065.000
+
+  Dep.: 18:30:0
+[addtrip]
+PM 56C To Jarrett
+0
+1110.000
+
+  Dep.: 19:20:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1160.000
+
+  Dep.: 20:15:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1215.000
+
+  Dep.: 21:10:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1270.000
+
+  Dep.: 21:54:45
+[addtrip]
+56D To Welland
+0
+1314.750
+
+  Dep.: 21:59:45
+[addtrip]
+Leaside-Finch V2
+0
+1319.750
+
+------------------------------------
+
+[newtour]
+Run 7 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 7:48:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+468.000
+
+  Dep.: 7:54:0
+[addtrip]
+56D To Sheppard Stn
+0
+474.000
+
+  Dep.: 8:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+480.000
+
+  Dep.: 9:0:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+540.000
+
+  Dep.: 10:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+600.000
+
+  Dep.: 11:0:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+660.000
+
+  Dep.: 11:45:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+705.000
+
+  Dep.: 12:45:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+765.000
+
+  Dep.: 13:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+810.000
+
+  Dep.: 14:20:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+860.000
+
+  Dep.: 15:15:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+915.000
+
+  Dep.: 16:15:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+975.000
+
+  Dep.: 17:0:0
+[addtrip]
+PM 56C To Jarrett
+0
+1020.000
+
+  Dep.: 17:50:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1070.000
+
+  Dep.: 18:45:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1125.000
+
+  Dep.: 19:41:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1181.000
+
+  Dep.: 20:25:45
+[addtrip]
+56 South Brandonville - To Garage
+0
+1225.750
+
+------------------------------------
+
+[newtour]
+Run 8 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 20:20:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+1220.000
+
+  Dep.: 20:25:0
+[addtrip]
+56D To Sheppard Stn
+0
+1225.000
+
+  Dep.: 20:30:0
+[addtrip]
+PM 56B To Eglinton
+0
+1230.000
+
+  Dep.: 20:50:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1250.000
+
+  Dep.: 21:30:0
+[addtrip]
+PM 56B To Eglinton
+0
+1290.000
+
+  Dep.: 21:50:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1310.000
+
+  Dep.: 22:30:0
+[addtrip]
+PM 56B To Eglinton
+0
+1350.000
+
+  Dep.: 22:50:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1370.000
+
+  Dep.: 23:30:0
+[addtrip]
+PM 56B To Eglinton
+0
+1410.000
+
+  Dep.: 23:50:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1430.000
+
+  Dep.: 24:30:0
+[addtrip]
+PM 56B To Eglinton
+0
+1470.000
+
+  Dep.: 24:50:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1490.000
+
+  Dep.: 25:15:0
+[addtrip]
+PM 56B To Eglinton
+0
+1515.000
+
+  Dep.: 25:35:0
+[addtrip]
+88D Brandonville - R
+0
+1535.000
+
+  Dep.: 25:47:0
+[addtrip]
+88 Brandonville R - Garage
+0
+1547.000
+
+------------------------------------
+
+[newtour]
+Run 9 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 12:20:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+740.000
+
+  Dep.: 12:25:0
+[addtrip]
+56D To Sheppard Stn
+0
+745.000
+
+  Dep.: 12:30:0
+[addtrip]
+AM 56C To Jarrett
+0
+750.000
+
+  Dep.: 13:20:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+800.000
+
+  Dep.: 14:15:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+855.000
+
+  Dep.: 15:15:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+915.000
+
+  Dep.: 16:0:0
+[addtrip]
+PM 56C To Jarrett
+0
+960.000
+
+  Dep.: 16:50:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1010.000
+
+  Dep.: 17:45:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1065.000
+
+  Dep.: 18:45:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1125.000
+
+  Dep.: 19:30:0
+[addtrip]
+PM 56C To Jarrett
+0
+1170.000
+
+  Dep.: 20:17:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+1217.750
+
+  Dep.: 21:10:0
+[addtrip]
+56D To Welland
+0
+1270.000
+
+  Dep.: 21:15:0
+[addtrip]
+Leaside-Finch 320S
+0
+1275.000
+
+------------------------------------
+
+[newtour]
+Run 10 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 12:50:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+770.000
+
+  Dep.: 12:55:0
+[addtrip]
+56D To Sheppard Stn
+0
+775.000
+
+  Dep.: 13:0:0
+[addtrip]
+AM 56C To Jarrett
+0
+780.000
+
+  Dep.: 13:50:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+830.000
+
+  Dep.: 14:45:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+885.000
+
+  Dep.: 15:45:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+945.000
+
+  Dep.: 16:30:0
+[addtrip]
+PM 56C To Jarrett
+0
+990.000
+
+  Dep.: 17:20:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1040.000
+
+  Dep.: 18:15:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1095.000
+
+  Dep.: 19:15:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1155.000
+
+  Dep.: 20:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+1200.000
+
+  Dep.: 20:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1220.000
+
+  Dep.: 21:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+1260.000
+
+  Dep.: 21:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1280.000
+
+  Dep.: 22:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+1320.000
+
+  Dep.: 22:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1340.000
+
+  Dep.: 23:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+1380.000
+
+  Dep.: 23:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1400.000
+
+  Dep.: 24:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+1440.000
+
+  Dep.: 24:20:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1460.000
+
+  Dep.: 25:0:0
+[addtrip]
+PM 56B To Eglinton
+0
+1500.000
+
+  Dep.: 25:20:0
+[addtrip]
+88D Brandonville - R
+0
+1520.000
+
+  Dep.: 25:32:0
+[addtrip]
+88 Brandonville R - Garage
+0
+1532.000
+
+------------------------------------
+
+[newtour]
+Run 11 - Saturday
+Finch Garage
+928
+
+------------------------------------
+
+  Dep.: 13:35:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+815.000
+
+  Dep.: 13:40:0
+[addtrip]
+56D To Sheppard Stn
+0
+820.000
+
+  Dep.: 13:45:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+825.000
+
+  Dep.: 14:45:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+885.000
+
+  Dep.: 15:30:45
+[addtrip]
+PM 56C To Jarrett
+0
+930.750
+
+  Dep.: 16:20:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+980.000
+
+  Dep.: 17:15:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+1035.000
+
+  Dep.: 18:15:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1095.000
+
+  Dep.: 19:0:45
+[addtrip]
+PM 56C To Jarrett
+0
+1140.750
+
+  Dep.: 19:50:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1190.000
+
+  Dep.: 20:40:0
+[addtrip]
+56D To Welland
+0
+1240.000
+
+  Dep.: 20:45:0
+[addtrip]
+Leaside-Finch 320S
+0
+1245.000
+
+------------------------------------
+
+[newtour]
+Run 1 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:30:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+270.000
+
+  Dep.: 4:35:0
+[addtrip]
+56D To Sheppard Stn
+0
+275.000
+
+  Dep.: 4:45:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+285.000
+
+  Dep.: 5:40:12
+[addtrip]
+AM 56A To Sheppard Stn
+0
+340.200
+
+  Dep.: 6:25:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+385.000
+
+  Dep.: 7:20:12
+[addtrip]
+AM 56A To Sheppard Stn
+0
+440.200
+
+  Dep.: 8:10:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+490.000
+
+  Dep.: 9:20:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+560.000
+
+  Dep.: 10:10:0
+[addtrip]
+AM 56B To Eglinton
+0
+610.000
+
+  Dep.: 10:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+630.000
+
+  Dep.: 10:50:0
+[addtrip]
+AM 56C To Jarrett
+0
+650.000
+
+  Dep.: 11:38:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+698.750
+
+  Dep.: 12:30:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+750.000
+
+  Dep.: 13:25:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+805.000
+
+  Dep.: 14:10:0
+[addtrip]
+AM 56B To Eglinton
+0
+850.000
+
+  Dep.: 14:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+870.000
+
+------------------------------------
+
+[newtour]
+Run 2 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 14:50:0
+[addtrip]
+PM 56C To Jarrett
+0
+890.000
+
+  Dep.: 15:38:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+938.750
+
+  Dep.: 16:30:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+990.000
+
+  Dep.: 17:25:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1045.000
+
+  Dep.: 18:10:0
+[addtrip]
+PM 56B To Eglinton
+0
+1090.000
+
+  Dep.: 18:30:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1110.000
+
+  Dep.: 18:50:0
+[addtrip]
+PM 56C To Jarrett
+0
+1130.000
+
+  Dep.: 19:38:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1178.750
+
+  Dep.: 20:30:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1230.000
+
+  Dep.: 21:25:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1285.000
+
+  Dep.: 22:10:0
+[addtrip]
+56 South Brandonville - To Garage
+0
+1330.000
+
+------------------------------------
+
+[newtour]
+Run 3 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:40:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+280.000
+
+  Dep.: 4:46:0
+[addtrip]
+56D To Sheppard Stn
+0
+286.000
+
+  Dep.: 4:57:30
+[addtrip]
+AM 56C To Jarrett
+0
+297.500
+
+  Dep.: 5:46:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+346.250
+
+  Dep.: 6:37:30
+[addtrip]
+AM 56C To Jarrett
+0
+397.500
+
+  Dep.: 7:26:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+446.250
+
+  Dep.: 8:17:30
+[addtrip]
+AM 56C To Jarrett
+0
+497.500
+
+  Dep.: 9:5:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+545.250
+
+  Dep.: 10:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+600.000
+
+  Dep.: 10:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+655.000
+
+  Dep.: 11:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+700.000
+
+  Dep.: 12:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+720.000
+
+  Dep.: 12:20:0
+[addtrip]
+AM 56C To Jarrett
+0
+740.000
+
+  Dep.: 13:8:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+788.750
+
+  Dep.: 14:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+840.000
+
+  Dep.: 14:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+895.000
+
+  Dep.: 15:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+940.000
+
+  Dep.: 16:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+960.000
+
+------------------------------------
+
+[newtour]
+Run 4 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 16:20:0
+[addtrip]
+PM 56C To Jarrett
+0
+980.000
+
+  Dep.: 17:8:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1028.750
+
+  Dep.: 18:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1080.000
+
+  Dep.: 18:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1135.000
+
+  Dep.: 19:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+1180.000
+
+  Dep.: 20:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1200.000
+
+  Dep.: 20:20:0
+[addtrip]
+PM 56C To Jarrett
+0
+1220.000
+
+  Dep.: 21:8:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1268.750
+
+  Dep.: 21:58:45
+[addtrip]
+56D To Welland
+0
+1318.750
+
+  Dep.: 22:10:0
+[addtrip]
+56D To Sheppard Stn
+0
+1330.000
+
+  Dep.: 22:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+1340.000
+
+  Dep.: 22:40:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1360.000
+
+  Dep.: 23:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1380.000
+
+  Dep.: 23:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1435.000
+
+  Dep.: 24:40:0
+[addtrip]
+PM 56C To Jarrett
+0
+1480.000
+
+  Dep.: 25:28:0
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1528.000
+
+  Dep.: 26:18:0
+[addtrip]
+56D To Welland
+0
+1578.000
+
+  Dep.: 26:23:0
+[addtrip]
+Leaside-Finch 320S
+0
+1583.000
+
+------------------------------------
+
+[newtour]
+Run 5 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 4:50:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+290.000
+
+  Dep.: 4:57:0
+[addtrip]
+56D To Sheppard Stn
+0
+297.000
+
+  Dep.: 5:10:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+310.000
+
+  Dep.: 6:5:12
+[addtrip]
+AM 56A To Sheppard Stn
+0
+365.200
+
+  Dep.: 6:50:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+410.000
+
+  Dep.: 7:45:12
+[addtrip]
+AM 56A To Sheppard Stn
+0
+465.200
+
+  Dep.: 8:30:0
+[addtrip]
+AM 56S - From Sheppard
+0
+510.000
+
+  Dep.: 8:43:0
+[addtrip]
+AM 56S To Sheppard Stn
+0
+523.000
+
+  Dep.: 8:58:0
+[addtrip]
+AM 56S - From Sheppard
+0
+538.000
+
+  Dep.: 9:15:0
+[addtrip]
+AM 56S To Sheppard Stn
+0
+555.000
+
+  Dep.: 9:30:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+570.000
+
+  Dep.: 10:25:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+625.000
+
+  Dep.: 11:10:0
+[addtrip]
+AM 56B To Eglinton
+0
+670.000
+
+  Dep.: 11:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+690.000
+
+  Dep.: 11:50:0
+[addtrip]
+AM 56C To Jarrett
+0
+710.000
+
+  Dep.: 12:38:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+758.750
+
+  Dep.: 13:30:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+810.000
+
+  Dep.: 14:25:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+865.000
+
+------------------------------------
+
+[newtour]
+Run 6 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 15:10:0
+[addtrip]
+88S - From Sheppard
+0
+910.000
+
+  Dep.: 15:30:0
+[addtrip]
+PM 56S To Sheppard Stn
+0
+930.000
+
+  Dep.: 15:50:0
+[addtrip]
+PM 56C To Jarrett
+0
+950.000
+
+  Dep.: 16:38:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+998.750
+
+  Dep.: 17:30:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1050.000
+
+  Dep.: 18:25:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1105.000
+
+  Dep.: 19:10:0
+[addtrip]
+PM 56B To Eglinton
+0
+1150.000
+
+  Dep.: 19:30:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1170.000
+
+  Dep.: 19:50:0
+[addtrip]
+PM 56C To Jarrett
+0
+1190.000
+
+  Dep.: 20:38:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1238.750
+
+  Dep.: 21:30:0
+[addtrip]
+56 South Brandonville - To Garage
+0
+1290.000
+
+------------------------------------
+
+[newtour]
+Run 7 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:0:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+300.000
+
+  Dep.: 5:8:0
+[addtrip]
+56D To Sheppard Stn
+0
+308.000
+
+  Dep.: 5:22:30
+[addtrip]
+AM 56C To Jarrett
+0
+322.500
+
+  Dep.: 6:11:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+371.250
+
+  Dep.: 7:2:30
+[addtrip]
+AM 56C To Jarrett
+0
+422.500
+
+  Dep.: 7:51:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+471.250
+
+  Dep.: 8:50:0
+[addtrip]
+AM 56C To Jarrett
+0
+530.000
+
+  Dep.: 9:38:0
+[addtrip]
+AM 56C To Sheppard Stn
+0
+578.000
+
+  Dep.: 10:30:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+630.000
+
+  Dep.: 11:25:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+685.000
+
+  Dep.: 12:10:0
+[addtrip]
+AM 56B To Eglinton
+0
+730.000
+
+  Dep.: 12:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+750.000
+
+  Dep.: 12:50:0
+[addtrip]
+AM 56C To Jarrett
+0
+770.000
+
+  Dep.: 13:38:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+818.750
+
+------------------------------------
+
+[newtour]
+Run 8 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 14:30:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+870.000
+
+  Dep.: 15:25:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+925.000
+
+  Dep.: 16:10:0
+[addtrip]
+PM 56B To Eglinton
+0
+970.000
+
+  Dep.: 16:30:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+990.000
+
+  Dep.: 16:50:0
+[addtrip]
+PM 56C To Jarrett
+0
+1010.000
+
+  Dep.: 17:38:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1058.750
+
+  Dep.: 18:30:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1110.000
+
+  Dep.: 19:25:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1165.000
+
+  Dep.: 20:10:0
+[addtrip]
+PM 56B To Eglinton
+0
+1210.000
+
+  Dep.: 20:30:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1230.000
+
+  Dep.: 20:50:0
+[addtrip]
+PM 56C To Jarrett
+0
+1250.000
+
+  Dep.: 21:38:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1298.750
+
+------------------------------------
+
+[newtour]
+Run 9 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:10:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+310.000
+
+  Dep.: 5:20:0
+[addtrip]
+56D To Sheppard Stn
+0
+320.000
+
+  Dep.: 5:35:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+335.000
+
+  Dep.: 6:30:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+390.000
+
+  Dep.: 7:15:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+435.000
+
+  Dep.: 8:10:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+490.000
+
+  Dep.: 8:56:15
+[addtrip]
+AM 56G To Oriole GO Stn
+0
+536.250
+
+  Dep.: 9:18:45
+[addtrip]
+AM 56G To Sheppard Stn
+0
+558.750
+
+  Dep.: 9:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+580.000
+
+  Dep.: 10:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+600.000
+
+  Dep.: 10:20:0
+[addtrip]
+AM 56C To Jarrett
+0
+620.000
+
+  Dep.: 11:8:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+668.750
+
+  Dep.: 12:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+720.000
+
+  Dep.: 12:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+775.000
+
+  Dep.: 13:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+820.000
+
+  Dep.: 14:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+840.000
+
+  Dep.: 14:20:0
+[addtrip]
+AM 56C To Jarrett
+0
+860.000
+
+  Dep.: 15:8:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+908.750
+
+------------------------------------
+
+[newtour]
+Run 10 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 16:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+960.000
+
+  Dep.: 16:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1015.000
+
+  Dep.: 17:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+1060.000
+
+  Dep.: 18:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1080.000
+
+  Dep.: 18:20:0
+[addtrip]
+PM 56C To Jarrett
+0
+1100.000
+
+  Dep.: 19:8:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1148.750
+
+  Dep.: 20:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1200.000
+
+  Dep.: 20:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1255.000
+
+  Dep.: 21:40:0
+[addtrip]
+PM 56C To Jarrett
+0
+1300.000
+
+  Dep.: 22:27:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+1347.750
+
+  Dep.: 23:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+1400.000
+
+  Dep.: 23:40:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1420.000
+
+  Dep.: 24:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1440.000
+
+  Dep.: 24:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+1495.000
+
+  Dep.: 25:40:0
+[addtrip]
+56D To Welland
+0
+1540.000
+
+  Dep.: 25:45:0
+[addtrip]
+Leaside-Finch V2
+0
+1545.000
+
+------------------------------------
+
+[newtour]
+Run 11 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:25:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+325.000
+
+  Dep.: 5:32:30
+[addtrip]
+56D To Sheppard Stn
+0
+332.500
+
+  Dep.: 5:47:30
+[addtrip]
+AM 56C To Jarrett
+0
+347.500
+
+  Dep.: 6:36:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+396.250
+
+  Dep.: 7:27:30
+[addtrip]
+AM 56C To Jarrett
+0
+447.500
+
+  Dep.: 8:16:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+496.250
+
+  Dep.: 9:10:0
+[addtrip]
+AM 56B To Eglinton
+0
+550.000
+
+  Dep.: 9:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+570.000
+
+  Dep.: 9:50:0
+[addtrip]
+AM 56C To Jarrett
+0
+590.000
+
+  Dep.: 10:38:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+638.750
+
+  Dep.: 11:30:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+690.000
+
+  Dep.: 12:25:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+745.000
+
+  Dep.: 13:10:0
+[addtrip]
+AM 56B To Eglinton
+0
+790.000
+
+  Dep.: 13:30:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+810.000
+
+------------------------------------
+
+[newtour]
+Run 12 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 13:50:0
+[addtrip]
+AM 56C To Jarrett
+0
+830.000
+
+  Dep.: 14:38:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+878.750
+
+  Dep.: 15:30:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+930.000
+
+  Dep.: 16:25:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+985.000
+
+  Dep.: 17:10:0
+[addtrip]
+PM 56B To Eglinton
+0
+1030.000
+
+  Dep.: 17:30:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1050.000
+
+  Dep.: 17:50:0
+[addtrip]
+PM 56C To Jarrett
+0
+1070.000
+
+  Dep.: 18:38:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1118.750
+
+  Dep.: 19:30:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1170.000
+
+  Dep.: 20:25:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1225.000
+
+  Dep.: 21:10:0
+[addtrip]
+56D To Welland
+0
+1270.000
+
+  Dep.: 21:15:0
+[addtrip]
+56D To Sheppard Stn
+0
+1275.000
+
+------------------------------------
+
+[newtour]
+Run 13 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:35:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+335.000
+
+  Dep.: 5:45:0
+[addtrip]
+56D To Sheppard Stn
+0
+345.000
+
+  Dep.: 6:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+360.000
+
+  Dep.: 6:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+415.000
+
+  Dep.: 7:40:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+460.000
+
+  Dep.: 8:35:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+515.000
+
+  Dep.: 9:20:0
+[addtrip]
+AM 56C To Jarrett
+0
+560.000
+
+  Dep.: 10:8:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+608.750
+
+  Dep.: 11:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+660.000
+
+  Dep.: 11:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+715.000
+
+  Dep.: 12:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+760.000
+
+  Dep.: 13:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+780.000
+
+  Dep.: 13:20:0
+[addtrip]
+AM 56C To Jarrett
+0
+800.000
+
+  Dep.: 14:8:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+848.750
+
+  Dep.: 15:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+900.000
+
+  Dep.: 15:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+955.000
+
+------------------------------------
+
+[newtour]
+Run 14 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 16:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+1000.000
+
+  Dep.: 17:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1020.000
+
+  Dep.: 17:20:0
+[addtrip]
+PM 56C To Jarrett
+0
+1040.000
+
+  Dep.: 18:8:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1088.750
+
+  Dep.: 19:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1140.000
+
+  Dep.: 19:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1195.000
+
+  Dep.: 20:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+1240.000
+
+  Dep.: 21:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1260.000
+
+  Dep.: 21:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+1280.000
+
+  Dep.: 21:40:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1300.000
+
+  Dep.: 22:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1320.000
+
+  Dep.: 22:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+1375.000
+
+  Dep.: 23:40:0
+[addtrip]
+PM 56C To Jarrett
+0
+1420.000
+
+  Dep.: 24:27:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+1467.750
+
+  Dep.: 25:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+1520.000
+
+  Dep.: 25:40:0
+[addtrip]
+88D Brandonville - R
+0
+1540.000
+
+  Dep.: 25:52:0
+[addtrip]
+88 Brandonville R - Garage
+0
+1552.000
+
+------------------------------------
+
+[newtour]
+Run 15 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 5:55:0
+[addtrip]
+56 South Brandonville - From Garage
+0
+355.000
+
+  Dep.: 6:1:0
+[addtrip]
+56D To Sheppard Stn
+0
+361.000
+
+  Dep.: 6:12:30
+[addtrip]
+AM 56C To Jarrett
+0
+372.500
+
+  Dep.: 7:1:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+421.250
+
+  Dep.: 7:57:30
+[addtrip]
+AM 56C To Jarrett
+0
+477.500
+
+  Dep.: 8:46:15
+[addtrip]
+AM 56C To Sheppard Stn
+0
+526.250
+
+  Dep.: 9:36:15
+[addtrip]
+56D To Welland
+0
+576.250
+
+  Dep.: 9:50:0
+[addtrip]
+56D To Sheppard Stn
+0
+590.000
+
+  Dep.: 9:55:0
+[addtrip]
+56D To Welland
+0
+595.000
+
+  Dep.: 10:10:0
+[addtrip]
+56D To Sheppard Stn
+0
+610.000
+
+  Dep.: 10:15:0
+[addtrip]
+56D To Welland
+0
+615.000
+
+  Dep.: 10:20:0
+[addtrip]
+56D To Sheppard Stn
+0
+620.000
+
+  Dep.: 10:25:0
+[addtrip]
+56D To Welland
+0
+625.000
+
+  Dep.: 10:32:30
+[addtrip]
+56D To Sheppard Stn
+0
+632.500
+
+  Dep.: 10:40:0
+[addtrip]
+AM 56B To Eglinton
+0
+640.000
+
+  Dep.: 11:0:0
+[addtrip]
+AM 56B To Sheppard Stn
+0
+660.000
+
+  Dep.: 11:20:0
+[addtrip]
+AM 56C To Jarrett
+0
+680.000
+
+  Dep.: 12:8:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+728.750
+
+  Dep.: 13:0:0
+[addtrip]
+AM 56A To Beaverbrook
+0
+780.000
+
+  Dep.: 13:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+835.000
+
+------------------------------------
+
+[newtour]
+Run 16 - Weekday
+Finch Garage
+799
+
+------------------------------------
+
+  Dep.: 14:40:0
+[addtrip]
+88S - From Sheppard
+0
+880.000
+
+  Dep.: 15:5:0
+[addtrip]
+PM 56S To Sheppard Stn
+0
+905.000
+
+  Dep.: 15:20:0
+[addtrip]
+PM 56C To Jarrett
+0
+920.000
+
+  Dep.: 16:8:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+968.750
+
+  Dep.: 17:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1020.000
+
+  Dep.: 17:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1075.000
+
+  Dep.: 18:40:0
+[addtrip]
+PM 56B To Eglinton
+0
+1120.000
+
+  Dep.: 19:0:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1140.000
+
+  Dep.: 19:20:0
+[addtrip]
+PM 56C To Jarrett
+0
+1160.000
+
+  Dep.: 20:8:45
+[addtrip]
+PM 56C To Sheppard Stn
+0
+1208.750
+
+  Dep.: 21:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1260.000
+
+  Dep.: 21:55:0
+[addtrip]
+PM 56A To Sheppard Stn
+0
+1315.000
+
+  Dep.: 22:40:0
+[addtrip]
+PM 56C To Jarrett
+0
+1360.000
+
+  Dep.: 23:27:45
+[addtrip]
+AM 56C To Sheppard Stn
+0
+1407.750
+
+  Dep.: 24:20:0
+[addtrip]
+PM 56B To Eglinton
+0
+1460.000
+
+  Dep.: 24:40:0
+[addtrip]
+PM 56B To Sheppard Stn
+0
+1480.000
+
+  Dep.: 25:0:0
+[addtrip]
+PM 56A To Beaverbrook
+0
+1500.000
+
+  Dep.: 25:55:0
+[addtrip]
+AM 56A To Sheppard Stn
+0
+1555.000
+
+  Dep.: 26:40:0
+[addtrip]
+56D To Welland
+0
+1600.000
+
+  Dep.: 26:45:0
+[addtrip]
+56D To Sheppard Stn
+0
+1605.000
+

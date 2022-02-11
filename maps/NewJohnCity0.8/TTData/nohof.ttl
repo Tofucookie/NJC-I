@@ -1,0 +1,24 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 11/24/2018
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+88D_loop
+Normal
+255
+
+------------------------------------
+
+  Dep.: 0:0:0
+[addtrip]
+nohof_88D_loop
+0
+0.000
+
