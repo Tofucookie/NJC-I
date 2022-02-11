@@ -237,7 +237,7 @@ stringcount_busstop
 	0	388S Brandonville - Oakwood	BRANDONVILLE	BRANDONVILLE	BLUE NIGHT	SHORT TURN	TO OAKWOOD	388S	388S-OAKWOOD	388S
 	0	420 Hospital Link	HOSPITAL	HOSPITAL LINK		HUMBER/NORTH YORK		420	420
 [end]													
-							
+
 [addbusstop_list]	
 1 & 3 Concorde Place	1&3CONCORDE	1 & 3 Concorde Place	
 1 Thorncliffe Park Drive	1 THORNCLIFFE	1 Thorncliffe	Park Drive
@@ -4964,20 +4964,4 @@ The Bridle Path YRT	BRIDLE PATH	#3628 at The Bridle Path
 Yonge YRT	YONGE	#3629 at Yonge
 
 	INVALID	Invalid Stop!
-[end]													
-													
-													
-													
-													
-	[infosystem_trip]												
-	{routecode} (z.B. '540001', integer)												
-	{routestring} (ggf. für IBIS-Gerät oder vieleicht später auch zum Setzen)												
-	{terminuscode}												
-	{line string} (z.B. '54 ')												
-													
-	[infosystem_busstop]												
-	{string0: IBIS-Name}												
-	{string1: LCD 1. Zeile links}												
-	{string2: LCD 1. Zeile rechts}												
-	{string3: LCD 2. Zeile links}												
-	{string4: LCD 2. Zeile rechts}					
+[end]
